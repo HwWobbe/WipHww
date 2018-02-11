@@ -5,5 +5,5 @@
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ...
 * ... for the moment, DynaList is an effective initial staging agea for myContent.
 * This repo's wiki is being used to collect notes without triggering Commits.
-* does ... induce italics? 
+* does ... induce italics? ... (and terminate them?)
 * test the use of html.UL codes.
