@@ -7,4 +7,4 @@
 * This repo's wiki is being used to collect notes without triggering Commits.
 * does .. induce italics? .. (and terminate them?)
 * test the use of html.UL codes.
-* ChnageLog files are a good idea.  e.g. https://github.com/nodejs/node/tree/master/doc/changelogs
+* ChangeLog files are a good idea.  e.g. https://github.com/nodejs/node/tree/master/doc/changelogs
