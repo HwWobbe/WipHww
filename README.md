@@ -1,6 +1,8 @@
 # WipHww
 
 * Unicode series may be of sufficient interest to at least warrant linking to them.
+* this seems to be bset done using an outliner
+* TransClusion is then useful in that it reduces maintenance efforts to a single change that works across all workflow paths
 * This repo could become an effective template.
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
 * .. for the moment, DynaList is an effective initial staging agea for myContent.
