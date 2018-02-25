@@ -3,7 +3,7 @@
 * Announced imminent Dropbox changes require attention.
 * The integation of my Cloud resurces is progressing as my WorkCycles are now emerging
 * Unicode series may be of sufficient interest to at least warrant linking to them.
-* this seems to be bset done using an outliner
+* this seems to be best done using an outliner (so provide a linbk to one on this topic)
 * TransClusion is then useful in that it reduces maintenance efforts to a single change that works across all workflow paths
 * This repo could become an effective template.
 * the GitHub wikis provide better formatting.
