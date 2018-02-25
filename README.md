@@ -1,6 +1,7 @@
 # WipHww
 
 * Announced imminent Dropbox changes require attention.
+* The integation of my Cloud resurces is progressing as my WorkCycles are now emerging
 * Unicode series may be of sufficient interest to at least warrant linking to them.
 * this seems to be bset done using an outliner
 * TransClusion is then useful in that it reduces maintenance efforts to a single change that works across all workflow paths
