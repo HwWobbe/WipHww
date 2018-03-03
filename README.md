@@ -1,7 +1,7 @@
 # WipHww
 
 * Announced imminent Dropbox changes require attention.
-* The integation of my Cloud resurces is progressing as my WorkCycles are now emerging
+* The integation of my Cloud resources is progressing as my WorkCycles are now emerging
 * Unicode series may be of sufficient interest to at least warrant linking to them.
 * this seems to be best done using an outliner (so provide a linbk to one on this topic)
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
