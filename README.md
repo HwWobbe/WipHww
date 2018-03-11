@@ -2,7 +2,7 @@
 
 * Financial Statement production
 * Announced imminent Dropbox changes require attention.
-* considering local schedule versus pbWorks
+* testing local schedule via Milestones versus pbWorks
 * The integation of my Cloud resources is progressing as my WorkCycles are now emerging
 * Unicode symbols may be of sufficient interest to at least warrant linking to them.
 * this seems to be best done using an outliner (so provide a linbk to one on this topic)
