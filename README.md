@@ -2,6 +2,7 @@
 
 * Financial Statement production
 * Announced imminent Dropbox changes require attention.
+* extending Search in my various repos as a productivity improvement initiative
 * testing local schedule via Milestones versus pbWorks
 * The integation of my Cloud resources is progressing as my WorkCycles are now emerging
 * Unicode symbols may be of sufficient interest to at least warrant linking to them.
