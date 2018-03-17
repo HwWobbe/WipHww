@@ -14,5 +14,6 @@
 * .. for the moment, DynaList is an effective initial staging agea for myContent.
 * This repo's wiki is being used to collect notes without triggering Commits.
 * does .. induce italics? .. (and terminate them?)
+* stopped Watching NodeJs for now, to reduce monitoring Time
 * test the use of html.UL codes.
 * ChangeLog files are a good idea.  e.g. https://github.com/nodejs/node/tree/master/doc/changelogs
