@@ -5,6 +5,7 @@
 * Announced Dropbox changes require attention.
 * extending Search in my various repos as a productivity improvement initiative
 * testing local schedule via Milestones versus pbWorks
+* review sandstorm per https://github.com/Jermolene/TiddlyWiki5/issues/2487
 * The integation of my Cloud resources is progressing as my WorkCycles are now emerging
 * Unicode symbols may be of sufficient interest to at least warrant linking to them.
 * this seems to be best done using an outliner (so provide a link to one on this topic)
