@@ -1,7 +1,7 @@
 # WipHww
 
-* Financial Statement production
-* Announced imminent Dropbox changes require attention.
+* Financial Statement production ( including SRED component )
+* Announced Dropbox changes require attention.
 * extending Search in my various repos as a productivity improvement initiative
 * testing local schedule via Milestones versus pbWorks
 * The integation of my Cloud resources is progressing as my WorkCycles are now emerging
