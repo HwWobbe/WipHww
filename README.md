@@ -3,6 +3,7 @@
 * expand use of https://github.com/OokTech/TW5-MultiUser
 * Unicode symbols may be of sufficient interest to at least warrant linking to them.  
 * These are being published as part of a Dynalist file.
+* continue editing repos to indicate their relative importance a month progresses.
 * Announced Dropbox changes require attention.
 * comments = http://lordratte.info/code/tiddlydrive/2018/04/02/TiddlyDrive-Changes.html
 * this seems to be best done using an outliner (so provide a link to one on this topic)
