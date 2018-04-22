@@ -1,6 +1,5 @@
 # WipHww
 
-* Financial Statement production ( including SRED component )
 * expand use of https://github.com/OokTech/TW5-MultiUser
 * Announced Dropbox changes require attention.
 * comments = http://lordratte.info/code/tiddlydrive/2018/04/02/TiddlyDrive-Changes.html
