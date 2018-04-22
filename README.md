@@ -1,9 +1,10 @@
 # WipHww
 
 * expand use of https://github.com/OokTech/TW5-MultiUser
+* Unicode symbols may be of sufficient interest to at least warrant linking to them.  
+* These are being published as part of a Dynalist file.
 * Announced Dropbox changes require attention.
 * comments = http://lordratte.info/code/tiddlydrive/2018/04/02/TiddlyDrive-Changes.html
-* Unicode symbols may be of sufficient interest to at least warrant linking to them.
 * this seems to be best done using an outliner (so provide a link to one on this topic)
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
 * TransClusion is then useful in that it reduces maintenance efforts to a single change that works across all workflow paths
