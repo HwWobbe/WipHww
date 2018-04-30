@@ -1,7 +1,7 @@
 # WipHww
 
 * expand use of https://github.com/OokTech/TW5-MultiUser
-* These are being published as part of a Dynalist file (add the URL)
+* Unicode symbols are being published as part of a Dynalist file (add the URL)
 * continue editing repos weekly to indicate their relative importance a month progresses.
 * Make more use of PRs and reduce the number of Commits.
 * Announced Dropbox changes require attention.
