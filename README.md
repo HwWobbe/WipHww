@@ -22,4 +22,4 @@
 * stopped Watching NodeJs for now, to reduce monitoring Time
 * test the use of html.UL codes.
 * ChangeLog files are a good idea.  e.g. https://github.com/nodejs/node/tree/master/doc/changelogs
-* resume Photography
+* resume Photography, merging Blogs for TalesH
