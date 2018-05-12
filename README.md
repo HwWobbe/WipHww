@@ -2,9 +2,9 @@
 
 * expanding use of https://github.com/OokTech/TW5-MultiUser
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
+* Make more use of PRs and reduce the number of Commits.
 * continue editing repos weekly to indicate their relative importance a month progresses.
 * TiddlyServer has been upgraded to 5.1.16 by Arlen.
-* Make more use of PRs and reduce the number of Commits.
 * Dropbox changes require attention.
 * comments = http://lordratte.info/code/tiddlydrive/2018/04/02/TiddlyDrive-Changes.html
 * this seems to be best done using an outliner (so provide a link to one on this topic)
