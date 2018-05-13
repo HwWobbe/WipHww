@@ -1,6 +1,6 @@
 # WipHww
 
-* expanding use of https://github.com/OokTech/TW5-MultiUser
+* implementing V1.0.0 of https://github.com/OokTech/TW5-MultiUser
 * craft a Dynalist to simplify re-sequencing of this list with dragAndDrop capabilities
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
 * Make more use of PRs and reduce the number of Commits.
