@@ -2,7 +2,7 @@
 
 * implementing V1.0.0 of https://github.com/OokTech/TW5-MultiUser in my DropBox
 * crafting a Dynalist to simplify re-sequencing of this list with dragAndDrop capabilities
-* considering the relative value of Dynalist and Diigo to me
+* considering the relative value of Dynalist & Diigo & KeepH to me
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
 * Make more use of PRs and reduce the number of Commits.
 * continue editing repos weekly to indicate their relative importance a month progresses.
