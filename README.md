@@ -5,7 +5,6 @@
 * considering the relative value of Dynalist & Diigo & KeepH to me
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
 * Make more use of PRs and reduce the number of Commits.
-* Edit repos weekly to indicate their relative importance a month's progresses.
 * TiddlyServer has been upgraded to 5.1.17 by Arlen.
 * Dropbox changes require attention.
 * comments = http://lordratte.info/code/tiddlydrive/2018/04/02/TiddlyDrive-Changes.html
