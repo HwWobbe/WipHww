@@ -6,7 +6,6 @@
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
 * Make more use of PRs and reduce the number of Commits.
 * TiddlyServer has been upgraded to 5.1.17 by Arlen.
-* Dropbox changes require attention.
 * comments = http://lordratte.info/code/tiddlydrive/2018/04/02/TiddlyDrive-Changes.html
 * this seems to be best done using an outliner (so provide a link to one on this topic)
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
@@ -24,3 +23,5 @@
 * test the use of html.UL codes.
 * ChangeLog files are a good idea.  e.g. https://github.com/nodejs/node/tree/master/doc/changelogs
 * resume Photography, merging Blogs for TalesH
+* Dropbox changes require attention.
+
