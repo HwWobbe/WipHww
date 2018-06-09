@@ -3,12 +3,12 @@
 * implementing V1.0.0 of https://github.com/OokTech/TW5-MultiUser in my DropBox
 * crafting a Dynalist to simplify re-sequencing of this list with dragAndDrop capabilities
 * considering the relative value of Dynalist & Diigo & KeepH to me
+* this seems to be best done using an outliner (so provide a link to one on this topic)
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
 * Make more use of PRs and reduce the number of Commits.
 * TiddlyServer has been upgraded to 5.1.17 by Arlen.
 * comments = http://lordratte.info/code/tiddlydrive/2018/04/02/TiddlyDrive-Changes.html
-* this seems to be best done using an outliner (so provide a link to one on this topic)
 * TransClusion is then useful in that it reduces maintenance efforts to a single change that works across all workflow paths
 * extending Search in my various repos as a productivity improvement initiative
 * testing local schedule via Milestones versus pbWorks
