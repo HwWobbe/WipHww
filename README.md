@@ -1,7 +1,6 @@
 # WipHww
 
 * implementing V1.0.0 of https://github.com/OokTech/TW5-MultiUser in my DropBox
-* crafting a Dynalist to simplify re-sequencing of this list with dragAndDrop capabilities
 * considering the relative value of Dynalist & Diigo & KeepH to me
 * this seems to be best done using an outliner (so provide a link to one on this topic)
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
