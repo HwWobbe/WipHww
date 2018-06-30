@@ -2,7 +2,6 @@
 
 * testing V1.0.0 of https://github.com/OokTech/TW5-MultiUser in my DropBox
 * considering the relative value of Dynalist & Diigo & KeepH to me
-* this seems to be best done using an outliner (so provide a link to one on this topic)
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
 * Make more use of PRs and reduce the number of Commits.
