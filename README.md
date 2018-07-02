@@ -1,6 +1,7 @@
 # WipHww
 
 * slowly re-designing folder structures for https://github.com/OokTech/TW5-MultiUser in my DropBox
+* consider Azure for staged hosting needs
 * resolve the existing PR
 * considering the relative value of Dynalist & Diigo & KeepH to me
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
