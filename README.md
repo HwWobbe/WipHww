@@ -1,6 +1,6 @@
 # WipHww
 
-* re-designing folder structures for https://github.com/OokTech/TW5-MultiUser in my DropBox
+* slowly re-designing folder structures for https://github.com/OokTech/TW5-MultiUser in my DropBox
 * considering the relative value of Dynalist & Diigo & KeepH to me
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
