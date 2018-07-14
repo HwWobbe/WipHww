@@ -1,7 +1,7 @@
 # WipHww
 
-* slowly re-designing folder structures for https://github.com/OokTech/TW5-MultiUser in my DropBox
 * evaluating the new curbsideReports (including a lot of set-up work)
+* designing folder structures for https://github.com/OokTech/TW5-MultiUser
 * consider Azure for staged hosting needs
 * resolve the existing PR
 * considering the relative value of Dynalist & Diigo & KeepH to me
