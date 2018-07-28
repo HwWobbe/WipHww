@@ -2,7 +2,7 @@
 
 * evaluating the new curbsideReports (including a lot of set-up work)
 * designing folder structures for https://github.com/OokTech/TW5-MultiUser
-* consider Azure for staged hosting needs
+* considering Azure for staged hosting needs
 * considering the relative value of Dynalist & Diigo & KeepH to me
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
