@@ -1,6 +1,6 @@
 # WipHww
 
-* repo list discrepancy?
+* repo list discrepancy seems hard to identify
 * evaluating the new curbsideReports (including a lot of set-up work)
 * extending my folder structures for https://github.com/OokTech/TW5-MultiUser
 * considering Azure for staged hosting needs
