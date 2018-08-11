@@ -5,6 +5,9 @@
 * extending my folder structures for https://github.com/OokTech/TW5-MultiUser
 * considering Azure for staged hosting needs
 * making more use of GitHub wikis to reduce the need to scroll
+
+<hr>
+
 * considering the relative value of Dynalist & Diigo & KeepH to me
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
