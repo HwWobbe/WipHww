@@ -10,6 +10,9 @@
 <hr>
 
 * considering Azure for staged hosting needs
+
+<hr>
+
 * making more use of GitHub wikis to reduce the need to scroll
 
 <hr>
