@@ -1,10 +1,14 @@
 # WipHww
 
 * evaluating the new curbsideReports (including a lot of set-up work)
+
 <hr>
+
 * implementing "bob".V1.0.3
 * extending my folder structures for https://github.com/OokTech/TW5-MultiUser
+
 <hr>
+
 * considering Azure for staged hosting needs
 * making more use of GitHub wikis to reduce the need to scroll
 
