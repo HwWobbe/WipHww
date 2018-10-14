@@ -1,6 +1,7 @@
 # WipHww
 
 * evaluating the new curbsideReports (including a lot of set-up work)
+* defining effective dradNdrop practices
 
 <hr>
 
