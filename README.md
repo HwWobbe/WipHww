@@ -1,6 +1,6 @@
 # WipHww
 
-* evaluating the new curbsideReports (including a lot of set-up work)
+* evaluating the new curbsideReports (including a lot of set-up work).  Cinsider when to link to the version with ElS.
 * defining effective dragNdrop practices
 * monitoring Tw% development
 * https://github.com/Jermolene/TiddlyWiki5/pulse
