@@ -3,7 +3,7 @@
 * evaluating the new curbsideReports (including a lot of set-up work).  Consider when to link to the version with ElS.
 * considering https://github.com/actions (especially for Azure)
 * defining effective dragNdrop practices
-* monitoring Tw% development
+* monitoring Tw5 developments
 * https://github.com/Jermolene/TiddlyWiki5/pulse
 
 <hr>
