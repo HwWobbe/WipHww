@@ -1,7 +1,7 @@
 # WipHww
 
 * evaluating the new curbsideReports (including a lot of set-up work).  Consider when to link to the version with ElS.
-* considering https://github.com/actions (especially for Azure)
+* consider https://github.com/actions (especially for Azure, even if there are fees)
 * defining effective dragNdrop practices
 * monitoring Tw5 developments
 * https://github.com/Jermolene/TiddlyWiki5/pulse
