@@ -1,5 +1,6 @@
 # WipHww
 
+* assess the extent to which WayH will fit into MaarfaPad
 * evaluating the new curbsideReports (including a lot of set-up work).  Consider when to link to the version with ElS.
 * consider https://github.com/actions (especially for Azure, even if there are fees)
 * defining effective dragNdrop practices
