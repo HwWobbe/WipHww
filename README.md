@@ -2,7 +2,6 @@
 
 * consider scheduling MicroTasks via RnA
 * investigate "deployment"(s)
-* evaluating the new curbsideReports (including a lot of set-up work).  Consider when to link to the version with ElS.
 * assess the extent to which WayH will fit into MaarfaPad
 * consider https://github.com/actions (especially for Azure, even if there are fees)
 * defining effective dragNdrop practices
