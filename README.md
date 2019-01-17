@@ -7,6 +7,7 @@
 * defining effective dragNdrop practices
 * monitoring Tw5 developments
 * https://github.com/Jermolene/TiddlyWiki5/pulse
+* review https://github.com/twcloud/tw5-dropbox
 
 <hr>
 
