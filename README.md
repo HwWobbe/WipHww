@@ -49,5 +49,5 @@
 * test the use of html.UL codes.
 * ChangeLog files are a good idea.  e.g. https://github.com/nodejs/node/tree/master/doc/changelogs
 * resume Photography, merging Blogs for TalesH
-* Dropbox changes require attention.
+* Dropbox ownership changes may require attention.  Relative value of Git & GitHub ?
 
