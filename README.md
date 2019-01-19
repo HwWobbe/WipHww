@@ -1,5 +1,6 @@
 # WipHww
 
+* review npm
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
 * investigate "deployment"(s)
 * assess the extent to which WayH will fit into MaarfaPad
