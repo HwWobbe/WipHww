@@ -54,4 +54,4 @@
 * Dropbox ownership changes may require attention.  Relative value of Git & GitHub ?
 
 ## done
-* 2019.01.20: StackEdit is synching work from SamTabH!
+* 2019.01.20: StackEdit is synching Gist work from SamTabH!
