@@ -1,6 +1,6 @@
 # WipHww
 
-* GistHw testing( Sync ... )
+* GistHw testing( Sync ... ) starting with a careful re-istallation of the deskTop version
 * review npm
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
 * investigate "deployment"(s)
