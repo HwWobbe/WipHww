@@ -1,8 +1,5 @@
 # WipHww
 
-* Next task: apply SamTabH StackEdit inputs to a repoFile.
-* GistHw testing( Sync ... ) starting with a careful re-istallation of the deskTop version
-* review npm
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
 * investigate "deployment"(s)
 * assess the extent to which WayH will fit into MaarfaPad
@@ -32,6 +29,10 @@
 <hr>
 
 ## queued
+* Next task: apply SamTabH StackEdit inputs to a repoFile.
+* GistHw testing( Sync ... ) starting with a careful re-istallation of the deskTop version
+* review npm
+
 * line staging happens at https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB since ..
 * Unicode symbols are being published as part of a Dynalist file (add the URL)
 * .. https://unicode-table.com/en/blocks/mathematical-alphanumeric-symbols/
