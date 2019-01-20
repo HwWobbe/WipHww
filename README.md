@@ -1,5 +1,6 @@
 # WipHww
 
+* GistHw testing( Sync ... )
 * review npm
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
 * investigate "deployment"(s)
