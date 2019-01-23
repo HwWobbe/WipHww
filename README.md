@@ -2,8 +2,8 @@
 
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
 * investigate "deployment"(s)
-* assess the extent to which WayH will fit into MaarfaPad
 * consider https://github.com/actions (especially for Azure, even if there are fees)
+* assess the extent to which WayH will fit into MaarfaPad
 * defining effective dragNdrop practices
 * monitoring Tw5 developments
 * https://github.com/Jermolene/TiddlyWiki5/pulse
