@@ -1,5 +1,7 @@
 # WipHww
 
+* investigate and repair TW5 saveFails at Dfx.
+* integrate Azure and S3 into my workFlow
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
 * investigate "deployment"(s)
 * consider https://github.com/actions (especially for Azure, even if there are fees)
