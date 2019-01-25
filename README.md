@@ -1,5 +1,6 @@
 # WipHww
 
+* Re-test the S3 environment
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
 * integrate Azure and S3 into my workFlow
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
