@@ -2,7 +2,7 @@
 
 * link to AdManCa & DataFix & ...
 * evaluate the newest CurbSide version
-* Re-test the S3 environment after finding the eMail
+* Re-test the S3 environment after finding the eMail with the link
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
 * integrate Azure and S3 into my workFlow
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
