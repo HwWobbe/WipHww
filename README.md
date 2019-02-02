@@ -1,5 +1,6 @@
 # WipHww
 
+* try placing a TW file, at least in one of UpDog, the AWS bucket, Azure
 * link to AdManCa & DataFix & ...
 * evaluate the newest CurbSide version
 * Re-test the S3 environment after finding the eMail with the link
