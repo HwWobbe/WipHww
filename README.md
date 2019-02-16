@@ -20,12 +20,6 @@
 
 <hr>
 
-## "bob"
-* implementing "bob".V1.0.6
-* extending my folder structures for https://github.com/OokTech/TW5-MultiUser
-
-<hr>
-
 ## hosting
 * considering Azure for staged hosting needs
 
