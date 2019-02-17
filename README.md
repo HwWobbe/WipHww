@@ -1,6 +1,7 @@
 # WipHww
 
 * see 7.8
+* https://help.github.com/articles/defining-the-mergeability-of-pull-requests/
 * link to AdManCa & DataFix & ...
 * evaluate the newest CurbSide version
 * Re-test the S3 environment after finding the eMail with the link
