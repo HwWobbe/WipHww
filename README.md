@@ -1,10 +1,6 @@
 # WipHww
 
-* expand Issue use
-* Review other TW repos to determine if they contain multiple TW files.
-* https://github.com/Jermolene/TiddlyWiki5
-* a folder structure might avoid such a restriction
-* try placing a TW file, at least in one of UpDog, the AWS bucket, Azure
+* see 7.8
 * link to AdManCa & DataFix & ...
 * evaluate the newest CurbSide version
 * Re-test the S3 environment after finding the eMail with the link
