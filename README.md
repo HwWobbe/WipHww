@@ -1,5 +1,6 @@
 # WipHww
 
+* expand Issue use
 * Review other TW repos to determine if they contain multiple TW files.
 * a folder structure might avoid such a restriction
 * try placing a TW file, at least in one of UpDog, the AWS bucket, Azure
