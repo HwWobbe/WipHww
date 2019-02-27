@@ -5,6 +5,7 @@
 * TW PR hints
 * add the Wkh link to git commands
 * link to AdManCa & DataFix & ...
+* AdManCa is now live
 * evaluate the newest CurbSide version
 * Re-test the S3 environment after finding the eMail with the link
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
