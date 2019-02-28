@@ -1,6 +1,8 @@
 # newFolder
 
-StackEdit edits are not propagated to the GitHub repo.
+This may finally be working.
+
+StackEdit edits are not propagated to the GitHub repo.  
 
 This file now seems to exist in one of my repos.
 
@@ -21,5 +23,5 @@ I do not fully understand where these files are originating and how they can be 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzQ5Mzg3Ml19
+eyJoaXN0b3J5IjpbLTE1OTM2OTAwMDQsMTU3MzQ5Mzg3Ml19
 -->
