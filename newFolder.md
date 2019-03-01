@@ -1,4 +1,4 @@
-# newFolder - newFile
+# newFolder/newFile
 
 ### Lede
 * This is finally working, from the StackEdit workspace.  This is now confirmed.
@@ -16,6 +16,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDMzODcxOCwtMjc2NjMyOTUsLTIwNj
+eyJoaXN0b3J5IjpbLTM0MTkzMjk2NiwtMjc2NjMyOTUsLTIwNj
 gxMTUxMzUsLTE1OTM2OTAwMDQsMTU3MzQ5Mzg3Ml19
 -->
