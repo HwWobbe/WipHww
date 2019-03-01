@@ -1,10 +1,8 @@
 # newFolder
 
-This may finally be working, from the StackEdit workspace.  It does, however, need to be tested in a bi-directional sync, which is now happening.
+This is finally working, from the StackEdit workspace.  This is now confirmed.
 
-StackEdit edits are not propagated to the GitHub repo.  
-
-This file now seems to exist in one of my repos.
+This file now exists in one of my repos.
 
 It seems I can edit this newFolder file, which is likely stored in my GoogleDrive.
 
@@ -23,6 +21,6 @@ I do not fully understand where these files are originating and how they can be 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEwMzcyODksLTE1OTM2OTAwMDQsMT
-U3MzQ5Mzg3Ml19
+eyJoaXN0b3J5IjpbMTEwNzY5NzIwNCwtMTU5MzY5MDAwNCwxNT
+czNDkzODcyXX0=
 -->
