@@ -1,6 +1,6 @@
 # newFolder
 
-This may finally be working, from the StackEdit workspace.  It does, however, need to be tested in a bi-directional sync.
+This may finally be working, from the StackEdit workspace.  It does, however, need to be tested in a bi-directional sync, which is now happening.
 
 StackEdit edits are not propagated to the GitHub repo.  
 
