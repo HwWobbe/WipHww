@@ -5,7 +5,6 @@
 * This folder may be accessible from the link to it in the public "Main workspace".
 * The Hints suggest that this file exists in a StackEdit workspace and in my GoogleDrive.
 
-
 ## Welcome to StackEdit
 
 ## Background
@@ -19,6 +18,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxODEwODQ4LC0yNzY2MzI5NSwtMjA2OD
+eyJoaXN0b3J5IjpbMzQxMTU3MzI2LC0yNzY2MzI5NSwtMjA2OD
 ExNTEzNSwtMTU5MzY5MDAwNCwxNTczNDkzODcyXX0=
 -->
