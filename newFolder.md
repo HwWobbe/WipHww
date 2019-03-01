@@ -1,6 +1,6 @@
 # newFolder
 
-This may finally be working.
+This may finally be workin, from the StackEdit workspace.
 
 StackEdit edits are not propagated to the GitHub repo.  
 
@@ -23,5 +23,6 @@ I do not fully understand where these files are originating and how they can be 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM2OTAwMDQsMTU3MzQ5Mzg3Ml19
+eyJoaXN0b3J5IjpbLTY2MjE3ODI0NSwtMTU5MzY5MDAwNCwxNT
+czNDkzODcyXX0=
 -->
