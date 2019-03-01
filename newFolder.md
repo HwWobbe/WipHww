@@ -1,10 +1,9 @@
 # newFolder
 
-This is finally working, from the StackEdit workspace.  This is now confirmed.
-
-This folder may be accessible from the link to it in the public "Main workspace".
-
-The Hints suggest that this file exists in a StackEdit workspace and in my GoogleDrive.
+### Lede
+* This is finally working, from the StackEdit workspace.  This is now confirmed.
+* This folder may be accessible from the link to it in the public "Main workspace".
+* The Hints suggest that this file exists in a StackEdit workspace and in my GoogleDrive.
 
 
 ## Welcome to StackEdit
@@ -20,6 +19,6 @@ The Hints suggest that this file exists in a StackEdit workspace and in my Googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjYzMjk1LC0yMDY4MTE1MTM1LC0xNT
-kzNjkwMDA0LDE1NzM0OTM4NzJdfQ==
+eyJoaXN0b3J5IjpbNDUxODEwODQ4LC0yNzY2MzI5NSwtMjA2OD
+ExNTEzNSwtMTU5MzY5MDAwNCwxNTczNDkzODcyXX0=
 -->
