@@ -1,11 +1,9 @@
-# newFolder
+# newFolder - newFile
 
 ### Lede
 * This is finally working, from the StackEdit workspace.  This is now confirmed.
 * This folder may be accessible from the link to it in the public "Main workspace".
 * The Hints suggest that this file exists in a StackEdit workspace and in my GoogleDrive.
-
-## Welcome to StackEdit
 
 ## Background
 
@@ -18,6 +16,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMTU3MzI2LC0yNzY2MzI5NSwtMjA2OD
-ExNTEzNSwtMTU5MzY5MDAwNCwxNTczNDkzODcyXX0=
+eyJoaXN0b3J5IjpbMTUxNDMzODcxOCwtMjc2NjMyOTUsLTIwNj
+gxMTUxMzUsLTE1OTM2OTAwMDQsMTU3MzQ5Mzg3Ml19
 -->
