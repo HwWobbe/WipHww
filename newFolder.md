@@ -10,7 +10,7 @@
 * This file now exists in one of my repos.
 * It seems I can edit this newFolder file, which is likely also stored in my GoogleDrive.
 * This folder exists within my GoogleDrive.  It exists within a StackEdit workspace that was created by StackEdit.
-* My attempt to place it in the existing Google Workspace likely failed due to Permissions.  Re-test this.
+* My attempt to place it in the existing Google Workspace likely failed due to Permissions.  Re-test shows this now works.
 
 # ^
 
