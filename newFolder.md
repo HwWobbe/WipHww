@@ -1,7 +1,7 @@
 # newFolder/newFile
 
 ### Lede
-* This is finally working, from the StackEdit workspace.  This is now confirmed.
+* This is now finally confirmed to working, from the StackEdit workspace.
 * This folder may be accessible from the link to it in the public "Main workspace".
 * The Hints suggest that this file exists in a StackEdit workspace and in my GoogleDrive.
 
