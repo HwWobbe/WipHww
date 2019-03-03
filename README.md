@@ -4,9 +4,8 @@
 * https://help.github.com/articles/defining-the-mergeability-of-pull-requests/
 * link to AdManCa (now live) & DataFix & ...
 * evaluate the newest CurbSide version
-* Re-test the S3 environment after finding the eMail with the link
+* Re-test the S3 environment after finding the eMail with the link & integrate Azure and S3 into my workFlow
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
-* integrate Azure and S3 into my workFlow
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
 * investigate "deployment"(s)
 * consider https://github.com/actions (especially for Azure, even if there are fees)
