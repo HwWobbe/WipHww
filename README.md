@@ -2,8 +2,7 @@
 
 * see 7.8
 * https://help.github.com/articles/defining-the-mergeability-of-pull-requests/
-* link to AdManCa & DataFix & ...
-* AdManCa is now live ... add a link
+* link to AdManCa (now live) & DataFix & ...
 * evaluate the newest CurbSide version
 * Re-test the S3 environment after finding the eMail with the link
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
