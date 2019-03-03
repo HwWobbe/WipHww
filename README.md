@@ -3,7 +3,6 @@
 * see 7.8
 * https://help.github.com/articles/defining-the-mergeability-of-pull-requests/
 * TW PR hints
-* add the Wkh link to git commands
 * link to AdManCa & DataFix & ...
 * AdManCa is now live
 * evaluate the newest CurbSide version
