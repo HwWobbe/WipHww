@@ -15,6 +15,10 @@
 
 <hr>
 
+
+
+<hr>
+
 ## hosting
 * considering Azure for staged hosting needs
 
