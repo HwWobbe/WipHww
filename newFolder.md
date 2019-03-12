@@ -2,6 +2,7 @@
 
 ### Lede
 The files in the containing folder do not appear to be in alphabetical order, perhaps since the names are caseSensitive/
+* ...
 * This file's sync is now finally confirmed to working, from the StackEdit workspace.
 * This folder may be accessible from the link to it in the public "Main workspace".
 * The Hints suggest that this file exists in a StackEdit workspace AND in my GoogleDrive.
@@ -17,7 +18,7 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzNDYzNDE2LDQzOTMyNjYwMCwtMzQxOT
-MyOTY2LC0yNzY2MzI5NSwtMjA2ODExNTEzNSwtMTU5MzY5MDAw
-NCwxNTczNDkzODcyXX0=
+eyJoaXN0b3J5IjpbNjUxMzQ2OTkwLDk0MzQ2MzQxNiw0MzkzMj
+Y2MDAsLTM0MTkzMjk2NiwtMjc2NjMyOTUsLTIwNjgxMTUxMzUs
+LTE1OTM2OTAwMDQsMTU3MzQ5Mzg3Ml19
 -->
