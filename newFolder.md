@@ -1,7 +1,7 @@
 # newFolder/newFile
 
 ### Lede
-The files in the containing folder do not appear to be in alphabetical order, perhaps since the names are caseSensitive/
+The files in the containing folder do not appear to be in alphabetical order, perhaps since the names are caseSensitive.
 * This file exists in the StackEdit workspace.
 * * This file's sync is now finally confirmed to synching bi-directionally, with the StackEdit workspace.
 * This folder may be accessible from the link to it in the public "StackEdit" workspace.
@@ -21,7 +21,8 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTMzMjk5NSw2NTEzNDY5OTAsOTQzND
-YzNDE2LDQzOTMyNjYwMCwtMzQxOTMyOTY2LC0yNzY2MzI5NSwt
-MjA2ODExNTEzNSwtMTU5MzY5MDAwNCwxNTczNDkzODcyXX0=
+eyJoaXN0b3J5IjpbMjU0NzYwMzgwLC01OTEzMzI5OTUsNjUxMz
+Q2OTkwLDk0MzQ2MzQxNiw0MzkzMjY2MDAsLTM0MTkzMjk2Niwt
+Mjc2NjMyOTUsLTIwNjgxMTUxMzUsLTE1OTM2OTAwMDQsMTU3Mz
+Q5Mzg3Ml19
 -->
