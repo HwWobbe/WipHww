@@ -8,18 +8,20 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 * The Hints show that this file exists in a StackEdit workspace AND in my GoogleDrive.
 * ...
 
+# Findings
+
 ## Background
 
-* It seems I can edit this newFolder file, which is likely also stored in my GoogleDrive.
+* I can edit this newFolder file, which is likely also stored in my GoogleDrive.
 * This folder exists within my GoogleDrive.  It exists within a StackEdit workspace that was created by StackEdit.
 * My attempt to place it in the existing Google Workspace likely failed due to Permissions.  Re-test shows this now works in StackEdit.io.
-* confirm Google.
+* confirm Google.access
 
 # ^
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAyODIzMSw2NTEzNDY5OTAsOTQzND
-YzNDE2LDQzOTMyNjYwMCwtMzQxOTMyOTY2LC0yNzY2MzI5NSwt
-MjA2ODExNTEzNSwtMTU5MzY5MDAwNCwxNTczNDkzODcyXX0=
+eyJoaXN0b3J5IjpbLTExODAzNTE1NDAsNjUxMzQ2OTkwLDk0Mz
+Q2MzQxNiw0MzkzMjY2MDAsLTM0MTkzMjk2NiwtMjc2NjMyOTUs
+LTIwNjgxMTUxMzUsLTE1OTM2OTAwMDQsMTU3MzQ5Mzg3Ml19
 -->
