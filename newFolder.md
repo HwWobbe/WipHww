@@ -2,7 +2,7 @@
 
 ### Lede
 The files in the containing folder do not appear to be in alphabetical order, perhaps since the names are caseSensitive.
-* This file exists in the StackEdit workspace.
+* This file exists in the StackEdit workspace & the ... workspace
 * * This file's sync is now finally confirmed to synching bi-directionally, with the StackEdit workspace.
 * This folder may be accessible from the link to it in the public "StackEdit" workspace.
 * The Hints show that this file exists in a StackEdit workspace AND in my GoogleDrive.
@@ -21,8 +21,8 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NzYwMzgwLC01OTEzMzI5OTUsNjUxMz
-Q2OTkwLDk0MzQ2MzQxNiw0MzkzMjY2MDAsLTM0MTkzMjk2Niwt
-Mjc2NjMyOTUsLTIwNjgxMTUxMzUsLTE1OTM2OTAwMDQsMTU3Mz
-Q5Mzg3Ml19
+eyJoaXN0b3J5IjpbLTExNjYxMTgwNDAsMjU0NzYwMzgwLC01OT
+EzMzI5OTUsNjUxMzQ2OTkwLDk0MzQ2MzQxNiw0MzkzMjY2MDAs
+LTM0MTkzMjk2NiwtMjc2NjMyOTUsLTIwNjgxMTUxMzUsLTE1OT
+M2OTAwMDQsMTU3MzQ5Mzg3Ml19
 -->
