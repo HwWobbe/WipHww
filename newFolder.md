@@ -18,13 +18,18 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 * confirm Google access
 * The Hints show that this file exists in a StackEdit workspace AND in my GoogleDrive.
 
+# Conclusions
+
+...
+
+
 # ^
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzMzIwNDQ2LDE0NzU5MTEzNTYsNjcwMz
-E2Njk4LC0xMDE4OTY3NDI2LC0xMTY2MTE4MDQwLDI1NDc2MDM4
-MCwtNTkxMzMyOTk1LDY1MTM0Njk5MCw5NDM0NjM0MTYsNDM5Mz
-I2NjAwLC0zNDE5MzI5NjYsLTI3NjYzMjk1LC0yMDY4MTE1MTM1
-LC0xNTkzNjkwMDA0LDE1NzM0OTM4NzJdfQ==
+eyJoaXN0b3J5IjpbMTQ0Njc2MzkxMSw3NDMzMjA0NDYsMTQ3NT
+kxMTM1Niw2NzAzMTY2OTgsLTEwMTg5Njc0MjYsLTExNjYxMTgw
+NDAsMjU0NzYwMzgwLC01OTEzMzI5OTUsNjUxMzQ2OTkwLDk0Mz
+Q2MzQxNiw0MzkzMjY2MDAsLTM0MTkzMjk2NiwtMjc2NjMyOTUs
+LTIwNjgxMTUxMzUsLTE1OTM2OTAwMDQsMTU3MzQ5Mzg3Ml19
 -->
