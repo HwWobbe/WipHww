@@ -7,6 +7,7 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 * This folder may be accessible from the link to it in the public "StackEdit" workspace.
 * The Hints show that this file exists in a StackEdit workspace AND in my GoogleDrive.
 * 2019.03.18: WipHww/newFolder.md
+* * what happened to .../newFile ?
 
 # Findings
 
@@ -21,7 +22,7 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTY4NTc1NCw2NzAzMTY2OTgsLTEwMT
+eyJoaXN0b3J5IjpbMTQ3NTkxMTM1Niw2NzAzMTY2OTgsLTEwMT
 g5Njc0MjYsLTExNjYxMTgwNDAsMjU0NzYwMzgwLC01OTEzMzI5
 OTUsNjUxMzQ2OTkwLDk0MzQ2MzQxNiw0MzkzMjY2MDAsLTM0MT
 kzMjk2NiwtMjc2NjMyOTUsLTIwNjgxMTUxMzUsLTE1OTM2OTAw
