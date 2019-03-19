@@ -6,7 +6,7 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 * * This file's sync is now finally confirmed to synching bi-directionally, with the StackEdit workspace.
 * This folder may be accessible from the link to it in the public "StackEdit" workspace.
 * The Hints show that this file exists in a StackEdit workspace AND in my GoogleDrive.
-* 2019.03.18: Wip... 
+* 2019.03.18: WipHww/newFolder.md
 
 # Findings
 
@@ -21,9 +21,9 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMzE2Njk4LC0xMDE4OTY3NDI2LC0xMT
-Y2MTE4MDQwLDI1NDc2MDM4MCwtNTkxMzMyOTk1LDY1MTM0Njk5
-MCw5NDM0NjM0MTYsNDM5MzI2NjAwLC0zNDE5MzI5NjYsLTI3Nj
-YzMjk1LC0yMDY4MTE1MTM1LC0xNTkzNjkwMDA0LDE1NzM0OTM4
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTYwOTY4NTc1NCw2NzAzMTY2OTgsLTEwMT
+g5Njc0MjYsLTExNjYxMTgwNDAsMjU0NzYwMzgwLC01OTEzMzI5
+OTUsNjUxMzQ2OTkwLDk0MzQ2MzQxNiw0MzkzMjY2MDAsLTM0MT
+kzMjk2NiwtMjc2NjMyOTUsLTIwNjgxMTUxMzUsLTE1OTM2OTAw
+MDQsMTU3MzQ5Mzg3Ml19
 -->
