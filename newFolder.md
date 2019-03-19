@@ -2,7 +2,7 @@
 
 ### Lede
 The files in the containing folder do not appear to be in alphabetical order, perhaps since the names are caseSensitive.
-* This file exists in the StackEdit workspace & the ... workspace
+* This file exists in the StackEdit workspace & the Google workspace
 * * This file's sync is now finally confirmed to synching bi-directionally, with the StackEdit workspace.
 * This folder may be accessible from the link to it in the public "StackEdit" workspace.
 * 2019.03.18: WipHww/newFolder.md
@@ -27,7 +27,7 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Njc2MzkxMSw3NDMzMjA0NDYsMTQ3NT
+eyJoaXN0b3J5IjpbMTc2ODgwODU0OCw3NDMzMjA0NDYsMTQ3NT
 kxMTM1Niw2NzAzMTY2OTgsLTEwMTg5Njc0MjYsLTExNjYxMTgw
 NDAsMjU0NzYwMzgwLC01OTEzMzI5OTUsNjUxMzQ2OTkwLDk0Mz
 Q2MzQxNiw0MzkzMjY2MDAsLTM0MTkzMjk2NiwtMjc2NjMyOTUs
