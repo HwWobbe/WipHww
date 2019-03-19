@@ -6,8 +6,8 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 * * This file's sync is now finally confirmed to synching bi-directionally, with the StackEdit workspace.
 * This folder may be accessible from the link to it in the public "StackEdit" workspace.
 * 2019.03.18: WipHww/newFolder.md
-* * what happened to .../newFile ?
-* * 
+* * newFolder/newFile became the fileName.
+* * * 
 
 # Findings
 
@@ -28,7 +28,7 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY2MDQ2LDc0MzMyMDQ0NiwxNDc1OT
+eyJoaXN0b3J5IjpbNjUwNzM3NzUwLDc0MzMyMDQ0NiwxNDc1OT
 ExMzU2LDY3MDMxNjY5OCwtMTAxODk2NzQyNiwtMTE2NjExODA0
 MCwyNTQ3NjAzODAsLTU5MTMzMjk5NSw2NTEzNDY5OTAsOTQzND
 YzNDE2LDQzOTMyNjYwMCwtMzQxOTMyOTY2LC0yNzY2MzI5NSwt
