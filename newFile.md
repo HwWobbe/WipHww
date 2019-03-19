@@ -1,4 +1,4 @@
-# newFolder/newFile
+# newFile
 
 ### Lede
 The files in the containing folder do not appear to be in alphabetical order, perhaps since the names are caseSensitive.
