@@ -7,7 +7,6 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 * This folder may be accessible from the link to it in the public "StackEdit" workspace.
 * 2019.03.18: WipHww/newFolder.md
 * * newFolder/newFile became the fileName.
-* * * 
 
 # Findings
 
@@ -28,9 +27,10 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNzM3NzUwLDc0MzMyMDQ0NiwxNDc1OT
-ExMzU2LDY3MDMxNjY5OCwtMTAxODk2NzQyNiwtMTE2NjExODA0
-MCwyNTQ3NjAzODAsLTU5MTMzMjk5NSw2NTEzNDY5OTAsOTQzND
-YzNDE2LDQzOTMyNjYwMCwtMzQxOTMyOTY2LC0yNzY2MzI5NSwt
-MjA2ODExNTEzNSwtMTU5MzY5MDAwNCwxNTczNDkzODcyXX0=
+eyJoaXN0b3J5IjpbLTExNjgyMDU3OTAsNzQzMzIwNDQ2LDE0Nz
+U5MTEzNTYsNjcwMzE2Njk4LC0xMDE4OTY3NDI2LC0xMTY2MTE4
+MDQwLDI1NDc2MDM4MCwtNTkxMzMyOTk1LDY1MTM0Njk5MCw5ND
+M0NjM0MTYsNDM5MzI2NjAwLC0zNDE5MzI5NjYsLTI3NjYzMjk1
+LC0yMDY4MTE1MTM1LC0xNTkzNjkwMDA0LDE1NzM0OTM4NzJdfQ
+==
 -->
