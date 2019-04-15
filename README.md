@@ -17,7 +17,7 @@
 
 # Do: ...
 * Test this page's use for hosting a TW5 file.
-* add links to staging Wikis.
+* add links to staging Wikis, to the most reliable of the StackEdit files
 * https://github.com/Jermolene/TiddlyWiki5 try a fork of this, eventually.
 * ...
 
