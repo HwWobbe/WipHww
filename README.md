@@ -2,6 +2,7 @@
 
 * see 7.7, > ...
 * https://help.github.com/articles/defining-the-mergeability-of-pull-requests/
+* make more use of StackEdit to ensure copies exist
 * link to AdManCa (now live) & DataFix & ...
 * evaluate the newest CurbSide version
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
