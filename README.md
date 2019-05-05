@@ -29,6 +29,7 @@ This page is my core/common Introduction, referenced from most other sites I use
 <br> .. Comments, other InterestsHww, chats & Topics & opinions @ <a href="https://twitter.com/HansWobbe">twitter</a>
 <br> .. DynaList (perhaps not public, yet)
 <br> .. Tools( ..., Diigo, ... )
+<br> .. Bitly ...
 
 ^
 
