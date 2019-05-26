@@ -2,7 +2,7 @@
 
 <hr>
 
-This test shows I can transfer Gist MicroContent into a repo without concern for Markzdown compatibility.
+This test shows I can transfer Gist MicroContent into a repo without concern for Markdown compatibility.
 
 
 # GitHub.Gist, StackEdit sync.
