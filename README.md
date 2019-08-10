@@ -1,5 +1,7 @@
 # WipHww
 
+* 2019.08.08: review Tw5.1.20 capabilities.
+* * ...
 * 7.7. > https://github.com/HwWobbe/WipHww/blob/master/7.7%20WIP.md
 * start renumbering report sections as ...(m(ajor).mi(nor).(p)atch
 * * this may need to be distinuoshed from the timePast convention of using "." versus "-" or "_" ( Tn... future )
