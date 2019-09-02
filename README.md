@@ -1,5 +1,6 @@
 # WipHww
 
+* 2019.09.02: StackEdit review suggests two ...WiP files.
 * 2019.08.31: upgrade postponed pending release of 5.1.21
 * 2019.08.08: review Tw5.1.20 capabilities.
 * * it should be possible to download from a repo.
