@@ -1,6 +1,7 @@
 # WipHww
 
 * 2019.09.:
+* * test the use of the Next firefox page as an initial choice menu
 * * .05.: integrate this repo into emerging workflows more effectively.
 * 2019.09.04: post for wkh re elsContainer.
 * 2019.09.02: 
