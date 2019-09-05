@@ -1,5 +1,7 @@
 # WipHww
 
+* 2019.09.:
+* * .05.: integrate this repo into emerging workflows more effectively.
 * 2019.09.04: post for wkh re elsContainer.
 * 2019.09.02: 
 * * StackEdit review suggests two ...WiP files.
