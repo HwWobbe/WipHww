@@ -1,6 +1,8 @@
 # WipHww
 
 * 2019.09.:
+* * expand Curbside demos
+* * * spawn a separate set of notes
 * * I am getting "Failed" reports from the workflow management system
 * * test the use of the Next firefox page as an initial choice menu
 * * * debug
