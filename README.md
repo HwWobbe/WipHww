@@ -1,11 +1,5 @@
 # WipHww
 
-* ...
-* 2019.08.31: upgrade postponed pending release of 5.1.21
-* 2019.08.08: review Tw5.1.20 capabilities.
-* * it should be possible to download from a repo.
-* * there is some Server support ( that may work well with ... Poly )
-* * ...
 * 7.7. > https://github.com/HwWobbe/WipHww/blob/master/7.7%20WIP.md
 * start renumbering report sections as ...(m(ajor).mi(nor).(p)atch
 * * this may need to be distinuoshed from the timePast convention of using "." versus "-" or "_" ( Tn... future )
