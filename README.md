@@ -1,6 +1,7 @@
 # WipHww
 
-* comment via DiigoH to enhance linkages = better tagging, ..
+* comment via DiigoH to enhance linkages = better tagging, ...
+
 * investigate:
 * * https://github.com/probot/probot
 * * linlk to IttyBitty
