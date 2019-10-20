@@ -1,5 +1,6 @@
 # WipHww
 
+* Currently distracted by re-building my main TW files around the WikiTables plugin.
 * comment via DiigoH to enhance linkages = better tagging, ...
 
 * investigate:
