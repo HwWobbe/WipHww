@@ -1,6 +1,7 @@
 # WipHww
 
-* Currently distracted by re-building my main TW files around the WikiTables plugin.
+* Currently distracted by re-building my main TW files around the TiddlyTables plugin.
+* * merging CurbSide & TiddlyTables
 * comment via DiigoH to enhance linkages = better tagging, ...
 
 * investigate:
