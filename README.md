@@ -8,7 +8,7 @@
 
 * investigate:
 * * https://github.com/probot/probot
-* * linlk to IttyBitty
+* * link to IttyBitty
 * 7.7. > https://github.com/HwWobbe/WipHww/blob/master/7.7%20WIP.md
 * start renumbering report sections as ... m(ajor).(m)i(nor).(p)atch
 * * this may need to be distinuoshed from the timePast convention of using "." versus "-" or "_" ( Tn... future )
