@@ -1,5 +1,6 @@
 # WipHww
 
+* https://twitter.com/HansWobbe/status/1190962960488898560
 * Currently distracted by re-building my main TW files around the TiddlyTables plugin.
 * * merging CurbSide & TiddlyTables
 * comment via DiigoH to enhance linkages = better tagging, ...
