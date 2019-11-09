@@ -3,7 +3,8 @@
 * https://twitter.com/HansWobbe/status/1190962960488898560
 * considering https://github.com/xmaysonnave/tiddlywiki-ipfs
 * Currently distracted by re-building my main TW files around the TiddlyTables plugin.
-* * * testng my methods of posting JSON fies containing TiddlyWiki content.
+* * * testng my methods of posting JSON fies containing TiddlyWiki content
+* * * * hopefully a simple extension of JSON exports to produce files to upload
 * * merging CurbSide & TiddlyTables
 * make more use of IttyBitty
 * comment via DiigoH to enhance linkages = better tagging, ...
