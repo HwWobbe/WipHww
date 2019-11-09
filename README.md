@@ -1,6 +1,7 @@
 # WipHww
 
 * https://twitter.com/HansWobbe/status/1190962960488898560
+* considering https://github.com/xmaysonnave/tiddlywiki-ipfs
 * Currently distracted by re-building my main TW files around the TiddlyTables plugin.
 * * merging CurbSide & TiddlyTables
 * make more use of IttyBitty
