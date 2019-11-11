@@ -1,6 +1,7 @@
 # WipHww
 
 * https://twitter.com/HansWobbe/status/1190962960488898560
+* try uploading a bundle of Tid(s)
 * considering https://github.com/xmaysonnave/tiddlywiki-ipfs
 * Currently distracted by re-building my main TW files around the TiddlyTables plugin.
 * * * testng my methods of posting JSON fies containing TiddlyWiki content
