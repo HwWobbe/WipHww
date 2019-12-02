@@ -1,7 +1,6 @@
 # WipHww
 
 * https://twitter.com/HansWobbe/status/1190962960488898560
-* * ...
 * try uploading a bundle of Tid(s)
 * considering https://github.com/xmaysonnave/tiddlywiki-ipfs
 * https://help.github.com/en/github/managing-packages-with-github-packages/about-github-packages#supported-clients-and-formats
