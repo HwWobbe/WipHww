@@ -2,6 +2,7 @@
 
 * test
 * * https://github.com/Arlen22/TW5-storage-plugin
+* * enhanced use of PbWorks Tasks
 * https://twitter.com/HansWobbe/status/1190962960488898560
 * try uploading a bundle of Tid(s)
 * considering https://github.com/xmaysonnave/tiddlywiki-ipfs
