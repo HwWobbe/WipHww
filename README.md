@@ -5,7 +5,7 @@
 * * enhanced use of PbWorks Tasks
 * https://twitter.com/HansWobbe/status/1190962960488898560
 * try uploading a bundle of Tid(s)
-* * should be easy with the export in 
+* * should be easy with the export in advancedSearch
 * considering https://github.com/xmaysonnave/tiddlywiki-ipfs
 * https://help.github.com/en/github/managing-packages-with-github-packages/about-github-packages#supported-clients-and-formats
 * Currently distracted by re-building my main TW files around the TiddlyTables plugin.
