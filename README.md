@@ -1,5 +1,6 @@
 # WipHww
 
+* the recent webDAV developments seem promising
 * https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
 * * review this
 * cull this list
