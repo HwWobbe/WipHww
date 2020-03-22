@@ -1,5 +1,7 @@
 # WipHww
 
+* 2020.03: reacting to Corona-19 by reviewing all prior protocols
+
 * the recent webDAV developments seem promising
 * https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
 * * review this
