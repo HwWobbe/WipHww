@@ -1,6 +1,8 @@
 # WipHww
 
-* 2020.03: reacting to Corona-19 by reviewing all prior protocols
+* 2020.03: 
+* * reacting to Corona-19 by reviewing all prior protocols
+* * gitHubHint: https://groups.google.com/d/msg/tiddlywikidev/KinO8EIm6Qw/h3dHAqXWAwAJ
 
 * the recent webDAV developments seem promising
 * https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
