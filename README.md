@@ -5,6 +5,7 @@
 * * * considering Time and Effort (re) allocations
 * * gitHubHint: https://groups.google.com/d/msg/tiddlywikidev/KinO8EIm6Qw/h3dHAqXWAwAJ
 
+* considering https://github.com/Zettlr/Zettlr
 * the recent webDAV developments seem promising
 * https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
 * * review this
