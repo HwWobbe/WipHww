@@ -5,7 +5,7 @@
 * * * different styles of collaboration are definitely needed
 * * * https://www.zettlr.com/ considerations
 * * * considering Time and Effort (re) allocations
-* * * * on-going
+* * * * 2020.04: on-going
 * * gitHubHint: https://groups.google.com/d/msg/tiddlywikidev/KinO8EIm6Qw/h3dHAqXWAwAJ
 
 * considering https://github.com/Zettlr/Zettlr
