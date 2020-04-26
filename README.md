@@ -1,7 +1,7 @@
 # WipHww
 
 * 2020.04:
-* * dealing with the extended CoVid19 lockdown
+* * dealing with extended CoVid19 lockdown Business issues
 
 * 2020.03: 
 * * reacting to Corona-19 by reviewing all prior protocols
