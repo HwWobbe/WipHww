@@ -1,5 +1,8 @@
 # WipHww
 
+* 2020.04:
+* * dealing with the extended CoVid19 lockdown
+
 * 2020.03: 
 * * reacting to Corona-19 by reviewing all prior protocols
 * * * different styles of collaboration are definitely needed
