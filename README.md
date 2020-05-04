@@ -1,5 +1,7 @@
 # WipHww
 
+# 2020.05
+* * https://github.com/akhater/akhater.github.io/tree/master/drift
 * 2020.04:
 * * dealing with extended CoVid19 lockdown Business issues
 
