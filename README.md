@@ -80,16 +80,16 @@ This page is my core/common Introduction, referenced from most other sites I use
 
 <hr>
 
-* investigate:
-* * https://github.com/probot/probot
-* * link to IttyBitty
-
 ## hosting
 * considering Azure for staged hosting needs
 
 <hr>
 
 ## Tqu T(ime) t(his) q(uarter)
+* investigate:
+* * https://github.com/probot/probot
+* * link to IttyBitty
+
 
 ## tools
 * considering the relative value of Dynalist & Diigo & KeepH to me
