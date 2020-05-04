@@ -3,6 +3,8 @@
 * 2020.05
 * * https://github.com/akhater/akhater.github.io/tree/master/drift
 * * Re-organize some of this page
+* investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
+* * First: do a USB install with the new capabilities
 * 2020.04:
 * * dealing with extended CoVid19 lockdown Business issues
 
@@ -48,7 +50,6 @@
 * make more use of StackEdit to ensure copies exist
 * link to AdManCa (now live) & DataFix & ...
 * evaluate the newest CurbSide version
-* investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
 * consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
 * investigate "deployment"(s)
 * consider https://github.com/actions (especially for Azure, even if there are fees)
