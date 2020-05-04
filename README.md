@@ -85,7 +85,7 @@ This page is my core/common Introduction, referenced from most other sites I use
 
 <hr>
 
-## Tqu T(ime) t(his) q(uarter)
+## Tqu = T(ime) (this) qu(arter)
 * investigate:
 * * https://github.com/probot/probot
 * * link to IttyBitty
