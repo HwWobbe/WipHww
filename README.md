@@ -1,11 +1,11 @@
 # WipHww
 
-* 2020.05
+## 2020.05
 * * https://github.com/akhater/akhater.github.io/tree/master/drift
 * * Re-organize some of this page
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
 * * First: do a USB install with the new capabilities
-## 2020.05.07:
+### 2020.05.07:
 * GH posting for Wkh
 
 * 2020.04:
