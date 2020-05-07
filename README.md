@@ -8,7 +8,7 @@
 ### 2020.05.07:
 * GH posting for Wkh
 
-* 2020.04:
+# 2020.04. (and before):
 * * dealing with extended CoVid19 lockdown Business issues
 
 * 2020.03: 
