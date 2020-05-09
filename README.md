@@ -1,5 +1,5 @@
 # WipHww
-* ...
+* consider extending use of ...fast.
 
 # 2020.5
 
