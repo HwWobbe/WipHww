@@ -1,5 +1,5 @@
 # WipHww
-* consider extending use of ...fast.io
+* consider extending the use of ...fast.io
 
 # 2020.5
 
