@@ -9,8 +9,8 @@ This month ...
 
 
 ## 2020.05.0
-* * https://github.com/akhater/akhater.github.io/tree/master/drift
-* * Re-organize some of this page
+* https://github.com/akhater/akhater.github.io/tree/master/drift
+* Re-organize some of this page
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
 * * First: do a USB install with the new capabilities
 ### 2020.05.07:
