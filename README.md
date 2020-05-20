@@ -1,4 +1,5 @@
 # WipHww
+* mardown considerations seem to be in vogue, once again
 * consider extending the use of ...fast.io
 
 # 2020.5
