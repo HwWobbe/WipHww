@@ -2,7 +2,7 @@
 * recent GitHub developments have me pondering mores uses of this technology.
 * markdown considerations seem to be in vogue, once again
 * * https://groups.google.com/d/msg/tiddlywiki/mwpvxScXdRE/RlL4605iAwAJ
-* consider extending the use of ...fast.io
+* considering extended use of ...fast.io
 
 # 2020.5
 
