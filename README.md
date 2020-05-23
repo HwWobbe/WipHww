@@ -1,5 +1,5 @@
 # WipHww
-* recent GitHub developments have be pondering mores uses of this technology.
+* recent GitHub developments have e pondering mores uses of this technology.
 * markdown considerations seem to be in vogue, once again
 * * https://groups.google.com/d/msg/tiddlywiki/mwpvxScXdRE/RlL4605iAwAJ
 * consider extending the use of ...fast.io
@@ -8,6 +8,7 @@
 
 This month ...
 
+* profile update to enhance focus.
 * https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions
 * reconsider the use of the GitHib.wiki(s)
 
