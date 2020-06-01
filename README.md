@@ -9,7 +9,7 @@
 # 2020.5
 
 This month ...
-
+* https://groups.google.com/forum/m/?utm_medium=email&utm_source=footer#!topic/tiddlywiki/C1XtBA4U4Ms
 * profile update to enhance focus.
 * https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions
 * reconsider the use of the GitHib.wiki(s)
