@@ -1,5 +1,6 @@
 # WipHww
 * recent GitHub developments have me pondering mores uses of this technology, specifically ...
+* * interim wiki hosting
 * * ...
 * markdown considerations seem to be in vogue, once again
 * * https://groups.google.com/d/msg/tiddlywiki/mwpvxScXdRE/RlL4605iAwAJ
