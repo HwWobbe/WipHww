@@ -2,6 +2,7 @@
 * recent GitHub developments have me pondering mores uses of this technology, specifically ...
 * * interim wiki hosting
 * * * confirm public 
+* post.covid planning 
 * markdown considerations seem to be in vogue, once again
 * * https://groups.google.com/d/msg/tiddlywiki/mwpvxScXdRE/RlL4605iAwAJ
 * consider, as a Saver https://github.com/sendwheel/tw-receiver
