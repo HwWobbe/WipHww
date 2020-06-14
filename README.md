@@ -1,5 +1,5 @@
 # WipHww
-* recent GitHub developments  mores uses of this technology, specifically ...
+* recent GitHub developments add more uses of this technology, specifically ...
 * * interim wiki hosting
 * * * confirm public 
 * post.covid planning 
