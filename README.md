@@ -1,4 +1,5 @@
 # WipHww
+* integration of 3rd party MicroContent is proceding very slowly
 * recent GitHub developments add more uses of this technology, specifically ...
 * * interim wiki hosting
 * * * confirm public 
