@@ -11,8 +11,12 @@
 * consider, as a Saver https://github.com/sendwheel/tw-receiver
 * considering extended use of ...fast.io
 
-# 2020.06:
+# 2020.07:
+* New "Hi-water" issues are distracting.
 
+# 2020.06:
+* "Post CoVid19" report & (Voting) "Modernization" report contributions
+* ...
 
 # 2020.05:
 
