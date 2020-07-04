@@ -1,6 +1,7 @@
 # WipHww
 * Curbside UI review(s) may lead to a "co-existance" style
 * * indepenent concurrent browsers that share a sync capability may influence this.
+* * this may require careful co-ordination
 * integration of 3rd party MicroContent is proceding very slowly
 * recent GitHub developments add more uses of this technology, specifically ...
 * * interim wiki hosting
