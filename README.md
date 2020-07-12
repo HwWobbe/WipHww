@@ -1,4 +1,7 @@
 # WipHww
+* Curbside is sufficiently effective and attractive to warrant generalization
+* * Specifically: Expand its Address scope from RealEstate to Voting and Banking
+* * ...
 * Curbside UI review(s) may lead to a "co-existance" style
 * * indepenent concurrent browsers that share a sync capability may influence this.
 * * this may require careful co-ordination
