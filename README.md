@@ -17,7 +17,7 @@
 
 # 2020.07:
 * New "Hi-water" issues are distracting.
-
+* * "New-Home" (from 2020-06-22) issues are deferred until 2020-08-
 # 2020.06:
 * "Post CoVid19" report & (Voting) "Modernization" report contributions
 * ...
