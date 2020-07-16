@@ -16,11 +16,16 @@
 * considering extended use of ...fast.io
 
 # 2020.07:
+* Post-CoVid19 Elections (in Canada) are quite active.
 * New "Hi-water" issues are distracting.
 * * "New-Home" (from 2020-06-22) issues are deferred until 2020-08-
+
 # 2020.06:
 * "Post CoVid19" report & (Voting) "Modernization" report contributions
 * ...
+
+# 2020.06:
+* (Elector list) Modernization propsals have gained enough traction to support more development
 
 # 2020.05:
 
