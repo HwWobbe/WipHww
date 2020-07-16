@@ -14,6 +14,7 @@
 * * https://groups.google.com/d/msg/tiddlywiki/mwpvxScXdRE/RlL4605iAwAJ
 * consider, as a Saver https://github.com/sendwheel/tw-receiver
 * considering extended use of ...fast.io
+* Planning for ( the Product Initiavies Laboratory re-introduction ) "skunkworks" projects has started.
 
 # 2020.07:
 * Post-CoVid19 Elections (in Canada) are quite active.
