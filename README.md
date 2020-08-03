@@ -1,4 +1,5 @@
 # WipHww
+* Timer code is a great contribution by Eric S.
 * Curbside is sufficiently effective and attractive to warrant generalization
 * * Specifically: Expand its Address scope from RealEstate to Voting and Banking
 * * ...
