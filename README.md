@@ -1,10 +1,11 @@
 # WipHww
 * Timer code is a great contribution by Eric S.
+* * ...
 * Curbside is sufficiently effective and attractive to warrant generalization
 * * Specifically: Expand its Address scope from RealEstate to Voting and Banking
 * * ...
 * Curbside UI review(s) may lead to a "co-existance" style
-* * indepenent concurrent browsers that share a sync capability may influence this.
+* * independent concurrent browsers that share a sync capability may influence this.
 * * this may require careful co-ordination
 * integration of 3rd party MicroContent is proceding very slowly
 * recent GitHub developments add more uses of this technology, specifically ...
