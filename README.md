@@ -1,6 +1,6 @@
 # WipHww
 * Timer code is a great contribution by Eric S.
-* * ...
+* * 2020.09.05: recent updates should be installed
 * Curbside is sufficiently effective and attractive to warrant generalization
 * * Specifically: Expand its Address scope from RealEstate to Voting and Banking
 * * ...
