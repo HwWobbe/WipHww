@@ -1,4 +1,5 @@
 # WipHww
+* 2020.09.08: device access issues need resolution
 * 2020.09.07: testing more SymbolsH instances in Microsoft's Tasks.
 * * this code is distinct in that it seems delivered from Wanderlist
 * Timer code is a great contribution by Eric S.
