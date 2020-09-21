@@ -1,4 +1,5 @@
 # WipHww
+* 2020.09.21: watching: https://github.com/simonw/til
 * 2020.09.19: intefacing a new 'CurbSide' version to the AdManCa apps library
 * 2020.09.08: device access issues need resolution
 * * specific issues need checking
