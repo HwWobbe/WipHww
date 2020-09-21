@@ -14,15 +14,17 @@
 * * independent concurrent browsers that share a sync capability may influence this.
 * * this may require careful co-ordination
 * integration of 3rd party MicroContent is proceding very slowly
+* consider, as a Saver https://github.com/sendwheel/tw-receiver
+* considering extended use of ...fast.io
+* Planning for ( the Product Initiavies Laboratory re-introduction ) "skunkworks" projects has started.
+
+# 2020.08:
 * recent GitHub developments add more uses of this technology, specifically ...
 * * interim wiki hosting
 * * * confirm public 
 * post.covid planning 
 * markdown considerations seem to be in vogue, once again
 * * https://groups.google.com/d/msg/tiddlywiki/mwpvxScXdRE/RlL4605iAwAJ
-* consider, as a Saver https://github.com/sendwheel/tw-receiver
-* considering extended use of ...fast.io
-* Planning for ( the Product Initiavies Laboratory re-introduction ) "skunkworks" projects has started.
 
 # 2020.07:
 * Post-CoVid19 Elections (in Canada) are quite active.
