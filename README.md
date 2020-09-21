@@ -35,7 +35,7 @@
 * "Post CoVid19" report & (Voting) "Modernization" report contributions
 * ...
 
-# 2020.06:
+# 2020.06.??:
 * (Elector list) Modernization propsals have gained enough traction to support more development
 
 # 2020.05:
