@@ -1,4 +1,5 @@
 # WipHww
+* 2020.09.25: review Syncs
 * 2020.09.21:p.m.: considering LiveAt... 
 * * a CurbSide edition designed to "certify" residential addresses.
 * * * EligibilityTo... rules
