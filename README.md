@@ -1,5 +1,6 @@
 # WipHww
-* 2020.09.27: CurbSide an Timer updates
+* 2020.09.27: CurbSide and Timer updates
+* * fetch a new version
 * 2020.09.26: investigate https://github.com/itsamenathan/tiddlysaver-python
 * 2020.09.25: review Syncs ; review Actions
 * 2020.09.21:p.m.: considering LiveAt... 
