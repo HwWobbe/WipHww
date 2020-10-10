@@ -2,6 +2,7 @@
 
 # 2020.10:
 * plan workloads up to 2020.11.30 
+* * linking into neoCities
 
 # 2020.09:
 * 2020.09.27: CurbSide and Timer updates
