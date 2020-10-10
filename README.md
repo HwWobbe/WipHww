@@ -1,7 +1,7 @@
 # WipHww
 
 # 2020.10:
-* plan workloads
+* plan workloads up to 2020.11.30 
 
 # 2020.09:
 * 2020.09.27: CurbSide and Timer updates
