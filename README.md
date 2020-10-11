@@ -3,7 +3,7 @@
 # 2020.10:
 * plan workloads up to 2020.11.30 
 * * reviewing GitHub Desktop
-* * linking into neoCities
+* * linking into neoCities ; upload of ...Empty... is failing
 
 # 2020.09:
 * 2020.09.27: CurbSide and Timer updates
