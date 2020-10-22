@@ -5,6 +5,7 @@
 * * reviewing GitHub Desktop
 * * linking into neoCities ; upload of ...Empty... is failing
 * remove Content into an appropriate Wiki like ...
+* review https://github.com/spencermountain/compromise#topics
 
 # 2020.09:
 * 2020.09.27: CurbSide and Timer updates
