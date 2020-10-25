@@ -1,6 +1,7 @@
 # WipHww
 
 # 2020.10:
+* planning to join another project
 * testing upload(s) and shared downloads
 * plan workloads up to 2020.11.30 
 * * reviewing GitHub Desktop
