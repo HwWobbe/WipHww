@@ -1,7 +1,7 @@
 # WipHww
 
 # 2020.10:
-* planning to join another project
+* planning to join another project as part of resolving current Tw File access issues
 * testing upload(s) and shared downloads
 * plan workloads up to 2020.11.30 
 * * reviewing GitHub Desktop
