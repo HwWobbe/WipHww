@@ -2,6 +2,7 @@
 
 # 2020.11:
 * ...
+* archive some of these Notes
 
 # 2020.10:
 * planning to join another project as part of resolving current Tw File access issues
