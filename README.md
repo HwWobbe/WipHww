@@ -4,12 +4,14 @@
 * ...
 * archive some of these Notes
 
-# 2020.10:
-* planning to join another project as part of resolving current Tw File access issues
-* testing upload(s) and shared downloads
+## 2020.10 residuals:
 * plan workloads up to 2020.11.30 
 * * reviewing GitHub Desktop
 * * linking into neoCities ; upload of ...Empty... is failing
+
+# 2020.10:
+* planning to join another project as part of resolving current Tw File access issues
+* testing upload(s) and shared downloads
 * remove Content into an appropriate Wiki like ...
 * review https://github.com/spencermountain/compromise#topics
 
