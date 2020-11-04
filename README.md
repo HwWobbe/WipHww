@@ -9,6 +9,8 @@
 * * reviewing GitHub Desktop
 * * linking into neoCities ; upload of ...Empty... is failing
 
+<hr>
+
 # 2020.10:
 * planning to join another project as part of resolving current Tw File access issues
 * testing upload(s) and shared downloads
