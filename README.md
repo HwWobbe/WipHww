@@ -1,5 +1,8 @@
 # WipHww
 
+# 2020.11:
+* ...
+
 # 2020.10:
 * planning to join another project as part of resolving current Tw File access issues
 * testing upload(s) and shared downloads
