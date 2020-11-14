@@ -2,6 +2,7 @@
 
 # 2020.11:
 * ...
+* starting to deploy multiCloud
 * archive some of these Notes
 
 ## 2020.10 residuals:
