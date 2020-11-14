@@ -1,7 +1,7 @@
 # WipHww
 
 # 2020.11:
-* ...
+* continuing to deploy DropPages
 * starting to deploy multiCloud
 * archive some of these Notes
 
