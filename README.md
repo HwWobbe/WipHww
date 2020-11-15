@@ -1,6 +1,7 @@
 # WipHww
 
 # 2020.11:
+* Saver attempt seems to have blocked my TwFive file Saves
 * continuing to deploy DropPages
 * starting to deploy multiCloud
 * archive some of these Notes
