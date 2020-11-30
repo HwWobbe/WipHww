@@ -1,7 +1,7 @@
 # WipHww
 
 # 2020.11:
-* Switch to Chrome as a temporary solution to the Saver(s) issue
+* Switching to Chrome as a temporary solution to the Saver(s) issue
 * * Saver attempt seems to have blocked my TwFive file Saves
 * continuing to deploy DropPages
 * starting to deploy multiCloud
