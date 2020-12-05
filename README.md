@@ -1,7 +1,7 @@
 # WipHww
 
 # 2020.11:
-* try using DiigoH as acenral site switch
+* try using DiigoH as a central site switch
 * Switching to Chrome as a temporary solution to the Saver(s) issue
 * * Saver attempt seems to have blocked my TwFive file Saves
 * continuing to deploy DropPages
