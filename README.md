@@ -1,5 +1,8 @@
 # WipHww
 
+# 2020.12:
+* I'm hoping that the Xmas-NewYear holiday will give me some clean-up time.
+
 # 2020.11:
 * try using DiigoH as a central site switch
 * Switching to Chrome as a temporary solution to the Saver(s) issue
