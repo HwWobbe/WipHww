@@ -1,6 +1,7 @@
 # WipHww
 
 # 2020.12:
+* Pausing to assess the emerging Editions of Tw5 that are the result of the 5.1.23 release
 * I'm hoping that the Xmas-NewYear holiday will give me some clean-up time.
 
 # 2020.11:
