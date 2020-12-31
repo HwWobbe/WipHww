@@ -2,7 +2,9 @@
 
 # 2020.12:
 * Pausing to assess the emerging Editions of Tw5 that are the result of the 5.1.23 release
-* I'm hoping that the Xmas-NewYear holiday will give me some clean-up time.
+* I'm thinking that the Xmas-NewYear holiday gives me some clean-up time.
+** http://pettilmobile.com/tw/
+* 2020.12-31: 2020's final update
 
 # 2020.11:
 * try using DiigoH as a central site switch
