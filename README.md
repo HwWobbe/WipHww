@@ -1,6 +1,7 @@
 # WipHww
 
 # 2021.01:
+* 2021.01.23: minot Prohect refinements
 * 2021.01.17: ...
 * * https://andjar.github.io/TiddlyMenu/index.html
 
