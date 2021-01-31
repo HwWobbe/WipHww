@@ -1,7 +1,9 @@
 # WipHww
 
 # 2021.01:
-* 2021.01.23: minot Prohect refinements
+* 2021.01.31: In 2021.03: consider https://katex.org/users.html
+** What aspects could be woven into our R&D?
+* 2021.01.23: minor Project refinements
 * 2021.01.17: ...
 * * https://andjar.github.io/TiddlyMenu/index.html
 
