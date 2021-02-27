@@ -3,6 +3,8 @@
 
 # 2021.02:
 * TT seems to be trending into more use of Comments
+* 2021.02.27: DropPages seems functional, but needs more tests.
+
 # 2021.01:
 * 2021.01.31: In 2021.03: consider https://katex.org/users.html
 ** What aspects could be woven into our R&D?
