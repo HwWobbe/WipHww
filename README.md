@@ -1,5 +1,6 @@
 # WipHww
-* perhaps the new TiddlySpot replacement ... ?
+* The new TiddlyHost addresses many of the TW sharing needs.
+** the new TiddlySpot replacement.
 
 # 2021.02:
 * TT seems to be trending into more use of Comments
