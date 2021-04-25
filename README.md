@@ -1,8 +1,9 @@
 # 2021.04:
 ## 2021-04-03: WipHww
 * The new TiddlyHost (the TiddlySpot replacement) addresses many of the TW sharing needs.
-* * combined with a bit oof tagging and an Export to the standard downloads folder, this wprks quite well.
-* https://github.com/rsc/tiddly
+## 2021-04-25: combined with a bit of tagging and ...
+* ... an Export to the standard downloads folder, this wprks quite well.
+## https://github.com/rsc/tiddly
 
 # 2021.02:
 * TT seems to be trending into more use of Comments
