@@ -1,6 +1,8 @@
 # 2021.04:
 ## 2021-04-03: WipHww
 * The new TiddlyHost (the TiddlySpot replacement) addresses many of the TW sharing needs.
+* * -04-05: I am finding that TiddlyHost is stable enough to be a reliable Sharing platform (finally!).
+
 ## 2021-04-25: combined with a bit of tagging and ...
 * ... an Export to the standard downloads folder, this wprks quite well.
 ## https://github.com/rsc/tiddly
