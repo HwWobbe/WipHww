@@ -7,7 +7,7 @@
 * * -04-05: I am finding that TiddlyHost is stable enough to be a reliable Sharing platform (finally!).
 
 ## 2021-04-25: combined with a bit of tagging and ...
-* ... an Export to the standard downloads folder, this wprks quite well.
+* ... an Export to the standard downloads folder, this works quite well.
 ## https://github.com/rsc/tiddly
 
 # 2021.02:
