@@ -1,7 +1,6 @@
 # 2021.05:
 * appreciating: https://odinjorna.github.io/zacht-theme/
-## Zettlekasten:
-* appreciating an implementation 
+* Zettlekasten: Appreciating an implementation.
 # 2021.04:
 ## 2021-04-03: WipHww
 * The new TiddlyHost (the TiddlySpot replacement) addresses many of the TW sharing needs.
