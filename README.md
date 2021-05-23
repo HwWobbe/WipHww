@@ -1,6 +1,7 @@
 # 2021.05:
 * appreciating: https://odinjorna.github.io/zacht-theme/
 * Zettlekasten: Appreciating an implementation.
+* * Delighted that this Diigo concept is now appearing as openSource
 # 2021.04:
 ## 2021-04-03: WipHww
 * The new TiddlyHost (the TiddlySpot replacement) addresses many of the TW sharing needs.
