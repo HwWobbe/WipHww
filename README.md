@@ -1,5 +1,9 @@
 # 2021.05:
-* appreciating: https://odinjorna.github.io/zacht-theme/
+
+* new Curbside demo
+* another gMaps test
+* * https://www.google.ca/maps/contrib/101791866457772307836/place/ChIJKRgIarGZzIARejKgo17Iib8/@29.7183815,-102.9376722,3z/data=!4m6!1m5!8m4!1e1!2s101791866457772307836!3m1!1e1
+* * appreciating: https://odinjorna.github.io/zacht-theme/
 * Zettlekasten: Appreciating an implementation.
 * * Delighted that this Diigo concept is now appearing as openSource
 # 2021.04:
