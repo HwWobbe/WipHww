@@ -1,5 +1,6 @@
 # 2021.06:
 * refactoring Folders by Name
+* reviewing https://github.com/wikilabs/plugins/issues
 
 # 2021.05:
 
