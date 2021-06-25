@@ -1,4 +1,5 @@
 # 2021.06:
+* evaluating Annotate
 * refactoring Folders by Name
 * reviewing https://github.com/wikilabs/plugins/issues
 
