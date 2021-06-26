@@ -1,6 +1,6 @@
 # 2021.06:
 * evaluating Annotate & GroupsIo
-* * engaging in some WebWeaving
+* engaging in some WebWeaving
 * refactoring Folders by Name
 * reviewing https://github.com/wikilabs/plugins/issues
 
