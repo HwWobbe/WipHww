@@ -1,5 +1,5 @@
 # 2021.06:
-* evaluating Annotate
+* evaluating Annotate & GroupsIo
 * refactoring Folders by Name
 * reviewing https://github.com/wikilabs/plugins/issues
 
