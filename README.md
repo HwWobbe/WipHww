@@ -1,7 +1,7 @@
 # 2021.06:
 * evaluating Annotate & GroupsIo
 * engaging in some WebWeaving
-* * thinking an image.avatar should repose here.
+* * Thinking an image.avatar should repose here at GitHub for ease of use.
 * refactoring Folders by Name
 * reviewing https://github.com/wikilabs/plugins/issues
 
