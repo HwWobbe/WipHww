@@ -1,5 +1,5 @@
 # 2021.06:
-* evaluating Annotate & GroupsIo
+* evaluating Hypothesis, Annotate & GroupsIo
 * engaging in some WebWeaving
 * * Thinking an image.avatar should repose here at GitHub for ease of use.
 * refactoring Folders by Name
