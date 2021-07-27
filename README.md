@@ -2,6 +2,7 @@
 * OneDrive is likely to emerge as a corporate Collaboration tool.
 * * This will be particularly true for intercompany teams sharing instances of TiddlyWiki files.
 * evaluating Hypothesis, Annotate & GroupsIo
+* * * Hypothesis is interesting enough that an integration test warranted.
 * engaging in some WebWeaving
 * * Thinking an image.avatar should repose here at GitHub for ease of use.
 * refactoring Folders by Name
