@@ -1,6 +1,7 @@
 # 2021.08:
 * https://github.com/HwWobbe/TW-Todolist implies that forked repositories are different.
 * * Edits are not reported in the same way.
+* * * does that mean it's possible to fork a repo likes the Tones one?
 * No 2021-07 GitHub activities.
 
 # 2021.06:
