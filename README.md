@@ -1,6 +1,6 @@
 # 2021.08:
 * https://github.com/HwWobbe/TW-Todolist implies that forked repositories are different.
-* * * Edits are not reported in the same way.
+* * Edits are not reported in the same way.
 * No 2021-07 GitHub activities.
 
 # 2021.06:
