@@ -1,3 +1,7 @@
+# 2021.08:
+* ...
+* No 2021-07 GitHub activities.
+
 # 2021.06:
 * OneDrive is likely to emerge as a corporate Collaboration tool.
 * * This will be particularly true for intercompany teams sharing instances of TiddlyWiki files.
