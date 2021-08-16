@@ -1,5 +1,6 @@
 # 2021.08:
 * Token changes may need to be incorporated.
+* My Automated actions need attention.
 * https://github.com/HwWobbe/TW-Todolist implies that forked repositories are different.
 * * Edits are not reported in the same way.
 * * * Does that mean it's possible to fork a repo likes the Tones one, to get a working TW instance?
