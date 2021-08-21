@@ -2,6 +2,7 @@
 * Token changes may need to be incorporated.
 * Melding several emerging technologies, striving to improve my workFlow(s)
 * My Automated actions need attention.
+* * Does this result from the switch away from "master"?
 * Newer streamlining capabilities need to be incorporated.
 * https://github.com/HwWobbe/TW-Todolist implies that forked repositories are different.
 * * Edits are not reported in the same way.
