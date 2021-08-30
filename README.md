@@ -141,7 +141,7 @@ This month ...
 * * First: do a USB install with the new capabilities
 
 # 2020.04. (and before):
-* * dealing with extended CoVid19 lockdown Business issues
+* dealing with extended CoVid19 lockdown Business issues
 
 * 2020.03: 
 * * reacting to Corona-19 by reviewing all prior protocols
