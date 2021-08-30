@@ -140,59 +140,6 @@ This month ...
 * investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
 * * First: do a USB install with the new capabilities
 
-# 2020.04. (and before):
-* dealing with extended CoVid19 lockdown Business issues
-
-* 2020.03: 
-* * reacting to Corona-19 by reviewing all prior protocols
-* * * different styles of collaboration are definitely needed
-* * * https://www.zettlr.com/ considerations
-* * * considering Time and Effort (re) allocations
-* * * * 2020.04: on-going
-* * gitHubHint: https://groups.google.com/d/msg/tiddlywikidev/KinO8EIm6Qw/h3dHAqXWAwAJ
-
-* considering https://github.com/Zettlr/Zettlr
-* the recent webDAV developments seem promising
-* https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
-* * review this
-* cull this list
-* * restructure (via PushDown) ?
-* * retain in a wiki ?
-* test
-* * https://github.com/Arlen22/TW5-storage-plugin
-* * enhanced use of PbWorks Tasks
-* * * add a link ( from the daily email )
-* https://twitter.com/HansWobbe/status/1190962960488898560
-* try uploading a bundle of Tid(s)
-* * should be easy with the export in advancedSearch
-* * may be easier with a gistPage
-* considering https://github.com/xmaysonnave/tiddlywiki-ipfs
-* https://help.github.com/en/github/managing-packages-with-github-packages/about-github-packages#supported-clients-and-formats
-* Currently distracted by re-building my main TW files around the TiddlyTables plugin.
-* * * testng my methods of posting JSON fies containing TiddlyWiki content
-* * * * hopefully a simple extension of JSON exports to produce files to upload
-* * merging CurbSide & TiddlyTables
-* make more use of IttyBitty
-* comment via DiigoH to enhance linkages = better tagging, ...
-
-* investigate:
-* * https://github.com/probot/probot
-* * link to IttyBitty
-* 7.7. > https://github.com/HwWobbe/WipHww/blob/master/7.7%20WIP.md
-* start renumbering report sections as ... m(ajor).(m)i(nor).(p)atch
-* * this may need to be distinuoshed from the timePast convention of using "." versus "-" or "_" ( Tn... future )
-* https://help.github.com/articles/defining-the-mergeability-of-pull-requests/
-* make more use of StackEdit to ensure copies exist
-* link to AdManCa (now live) & DataFix & ...
-* evaluate the newest CurbSide version
-* consider scheduling MicroTasks via RnA, especially as work expands into Open Source technologies that can scale well
-* investigate "deployment"(s)
-* consider https://github.com/actions (especially for Azure, even if there are fees)
-* https://github.com/Jermolene/TiddlyWiki5/pulse
-* review https://github.com/twcloud/tw5-dropbox
-* https://github.com/HwWobbe/hello-world ( confirm Not pinned )
-* review https://github.com/HwWobbe/TW5.github.io
-
 <hr>
 
 # Do: ...
