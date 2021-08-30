@@ -1,5 +1,5 @@
 # 2021.09:
-* ...
+* Removing content from this file.
 
 # 2021.08:
 * Melding several emerging technologies, striving to improve my workFlow(s)
