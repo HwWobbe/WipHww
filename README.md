@@ -1,7 +1,10 @@
+# 2021.09:
+* ...
+
 # 2021.08:
-* Token changes may need to be incorporated.
 * Melding several emerging technologies, striving to improve my workFlow(s)
 * * trying to learn the recent TW changes as quickly as possible
+* Token changes may need to be incorporated.
 * My Automated actions need attention.
 * * Does this result from the switch away from "master"?
 * Newer streamlining capabilities need to be incorporated.
