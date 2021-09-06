@@ -1,5 +1,9 @@
 # 2021.09:
 * Removing content from this file.
+* a new workflow is emerging from using DoDo and Tasks for eMail.
+* * limitation are being tested; currently at the level of indexing almost 10,000 emails
+* * * results are impresive in ways that need to be documented, prior to further experimentation
+* * consider " PWAs (progressive web apps) "
 
 # 2021.08:
 * Melding several emerging technologies, striving to improve my workFlow(s)
