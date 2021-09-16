@@ -1,5 +1,5 @@
 # 2021.09:
-* Removing content from this file.
+* Removing content from this file. ( e.g. https://github.com/HwWobbe/WipHww/wiki/WIP )
 * a new workflow is emerging from using ToDo and Tasks for eMail.
 * * limitation are being tested; currently at the level of indexing almost 10,000 emails
 * * * results are impresive in ways that need to be documented, prior to further experimentation
@@ -85,31 +85,8 @@
 * review https://github.com/spencermountain/compromise#topics
 
 # 2020.09:
-* 2020.09.27: CurbSide and Timer updates
-* * fetch a new version
-* 2020.09.26: investigate https://github.com/itsamenathan/tiddlysaver-python
-* 2020.09.25: review Syncs ; review Actions
-* 2020.09.21:p.m.: considering LiveAt... 
-* * a CurbSide edition designed to "certify" residential addresses.
-* * * EligibilityTo... rules
-* 2020.09.21: watching: https://github.com/simonw/til
-* 2020.09.19: intefacing a new 'CurbSide' version to the AdManCa apps library
-* 2020.09.08: device access issues need resolution
-* * specific issues need checking
-* 2020.09.07: testing more SymbolsH instances in Microsoft's Tasks.
-* * this code is distinct in that it seems delivered from Wanderlist
-* Timer code is a great contribution by Eric S.
-* * 2020.09.05: recent updates should be installed
-* Curbside is sufficiently effective and attractive to warrant generalization
-* * Specifically: Expand its Address scope from RealEstate to Voting and Banking
-* * Particularly: Reporting capabilities can be isolated 
-* Curbside UI review(s) may lead to a "co-existance" style
-* * independent concurrent browsers that share a sync capability may influence this.
-* * this may require careful co-ordination
-* integration of 3rd party MicroContent is proceding very slowly
-* consider, as a Saver https://github.com/sendwheel/tw-receiver
-* considering extended use of ...fast.io
-* Planning for ( the Product Initiavies Laboratory re-introduction ) "skunkworks" projects has started.
+* moved to ...
+
 
 # 2020.08:
 * recent GitHub developments add more uses of this technology, specifically ...
