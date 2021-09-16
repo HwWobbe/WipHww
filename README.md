@@ -8,16 +8,6 @@
 * * consider " PWAs (progressive web apps) "
 
 # 2021.08:
-* Melding several emerging technologies, striving to improve my workFlow(s)
-* * trying to learn the recent TW changes as quickly as possible
-* Token changes may need to be incorporated.
-* My Automated actions need attention.
-* * Does this result from the switch away from "master"?
-* Newer streamlining capabilities need to be incorporated.
-* https://github.com/HwWobbe/TW-Todolist implies that forked repositories are different.
-* * Edits are not reported in the same way.
-* * * Does that mean it's possible to fork a repo likes the Tones one, to get a working TW instance?
-* No 2021-07 GitHub activities.
 
 # 2021.06:
 * OneDrive is likely to emerge as a corporate Collaboration tool.
@@ -85,8 +75,7 @@
 * review https://github.com/spencermountain/compromise#topics
 
 # 2020.09:
-* moved to ...
-
+* moved to https://github.com/HwWobbe/WipHww/wiki/WIP 
 
 # 2020.08:
 * recent GitHub developments add more uses of this technology, specifically ...
