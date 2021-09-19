@@ -7,8 +7,6 @@
 * * * this is yielding improved TW/GitHub set-up procedures that should be tested
 * * consider " PWAs (progressive web apps) "
 
-# 2021.08:
-
 # 2021.06:
 * OneDrive is likely to emerge as a corporate Collaboration tool.
 * * This will be particularly true for intercompany teams sharing instances of TiddlyWiki files.
