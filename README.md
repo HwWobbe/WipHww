@@ -1,7 +1,7 @@
 # 2021.09:
 * Removing content from this file. ( e.g. https://github.com/HwWobbe/WipHww/wiki/WIP )
 * a new workflow is emerging from using ToDo and Tasks for eMail.
-* * limitation are being tested; currently at the level of indexing almost 10,000 emails
+* * limitations are being tested; currently at the level of indexing almost 10,000 emails
 * * * results are impresive in ways that need to be documented, prior to further experimentation
 * * Talk / Discourse evaluation is underway within TiddlyWiki contexts
 * * * this is yielding improved TW/GitHub set-up procedures that should be tested
