@@ -1,3 +1,6 @@
+# 2021.10:
+* ...
+
 # 2021.09:
 * Removing content from this file. ( e.g. https://github.com/HwWobbe/WipHww/wiki/WIP )
 * a new workflow is emerging from using ToDo and Tasks for eMail.
