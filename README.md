@@ -1,6 +1,6 @@
 # 2021.10:
 ## 2021.10.03: Release 5.2.0 of TiddlyWiki!
-* ...
+* https://github.com/Jermolene/tiddlywiki-on-fission
 
 # 2021.09:
 * Removing content from this file. ( e.g. https://github.com/HwWobbe/WipHww/wiki/WIP )
