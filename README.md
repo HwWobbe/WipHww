@@ -2,6 +2,7 @@
 ## 2021.10.??: -03: Release 5.2.0 of TiddlyWiki!
 * .03: https://github.com/Jermolene/tiddlywiki-on-fission
 * .18: boot-strapping https://hw5-2-0.tiddlyhost.com/
+* * the use of this file will likely quiesce this WipHww repo
 
 # 2021.09:
 * Removing content from this file. ( e.g. https://github.com/HwWobbe/WipHww/wiki/WIP )
