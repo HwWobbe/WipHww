@@ -1,3 +1,6 @@
+# 2021.12:
+* upgraded to TiddlyWiki 5.2.1
+
 # 2021.10:
 ## 2021.10.??: -03: Release 5.2.0 of TiddlyWiki!
 * .03: https://github.com/Jermolene/tiddlywiki-on-fission
