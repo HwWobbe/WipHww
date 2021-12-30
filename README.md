@@ -1,5 +1,8 @@
 # 2021.12:
+* resuming active development of the Curbside.UX
 * upgraded to TiddlyWiki 5.2.1
+* exploring https://talk.tiddlywiki.org/t/echarts-bringing-amazing-visualization-tools-to-tiddlywiki/1944/2
+* * ... 
 
 # 2021.10:
 ## 2021.10.??: -03: Release 5.2.0 of TiddlyWiki!
