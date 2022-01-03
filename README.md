@@ -1,4 +1,5 @@
 # 2021.12:
+* re-visiting TiddlyDesktop under 5.2.1 in anticipation of increased Moblie device access
 * resuming active development of the Curbside.UX
 * upgraded to TiddlyWiki 5.2.1
 * exploring https://talk.tiddlywiki.org/t/echarts-bringing-amazing-visualization-tools-to-tiddlywiki/1944/2
