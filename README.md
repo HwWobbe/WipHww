@@ -1,5 +1,6 @@
 # 2022.02:
-* 2022-02-12: Finally felt I had to try to set up a KnowledgePage.  In the process I discovered that a couple of "businesses" are selling some of my photopgraphs without any rights to do so what-so-ever.  Now to decide on "Next steps".  Sigh.
+* * 2022-02-12: 
+* * * Finally felt I had to try to set up a KnowledgePage.  In the process I discovered that a couple of "businesses" are selling some of my photopgraphs without any rights to do so what-so-ever.  Now to decide on "Next steps".  Sigh.
 * time to review GitHub savers under TW5.2.1
 * obviously, I did not get to this in 2022.01.  Sigh.
 
