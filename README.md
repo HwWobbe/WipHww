@@ -1,4 +1,5 @@
 # 2022.02:
+* long-term ( 2030s ) Business Development activities
 * * Investor presentations preparations
 * * 2022-02-12: 
 * * * Finally felt I had to try to set up a KnowledgePage.  In the process I discovered that a couple of "businesses" are selling some of my photopgraphs without any rights to do so what-so-ever.  Now to decide on "Next steps".  Sigh.
