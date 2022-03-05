@@ -1,5 +1,8 @@
 # 2022.03:
 * enhancing pull requests
+* knowledgePage setup is onGoing
+* stalled: time to review GitHub savers under TW5.2.1
+
 # 2022.02:
 * long-term ( 2030s ) Business Development activities
 * * Investor presentations preparations
