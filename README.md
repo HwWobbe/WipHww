@@ -1,6 +1,6 @@
 # 2022.03:
 * 2022-03-10: noticing a MarkupFail in the wikis (that may be my error)
-* * checking.
+* * checking...
 * enhancing pull requests
 * * https://github.com/kookma/TW5-GitHub-Saver
 * knowledgePage setup is onGoing
