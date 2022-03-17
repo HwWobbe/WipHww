@@ -1,5 +1,6 @@
 # 2022.03:
 * 2022-03-13: pausing for a curbside update
+* ** PowerSearch is looking better and better.
 * 2022-03-10: noticing a MarkupFail in the wikis (that may be my error)
 * * checking...
 * enhancing pull requests
