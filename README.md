@@ -1,4 +1,5 @@
 # 2022.03:
+* switching Goals Task Management to Project
 * 2022-03-24: distracted by TiddlyMap
 * 2022-03-2?: encountering a persistent bug that is taking time to hunt down
 * 2022-03-13: pausing for a curbside update
