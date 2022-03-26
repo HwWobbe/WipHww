@@ -1,6 +1,6 @@
 # 2022.03:
 * 2022-03-25: switching Goals Task Management to Project
-* * daily GitHub updates are scheduled for several reason.
+* * daily GitHub updates are scheduled for several reasons, including pulseDemo.
 * 2022-03-24: distracted by TiddlyMap
 * 2022-03-2?: encountering a persistent bug that is taking time to hunt down
 * 2022-03-13: pausing for a curbside update
