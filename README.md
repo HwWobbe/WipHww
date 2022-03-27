@@ -1,4 +1,6 @@
 # 2022.03:
+* 2022-03-27: a brief digression into material supporting AddressManagementCanada
+* * https://nepomuk.semanticdesktop.org/Project+Summary.html
 * 2022-03-26: Considering the new 'Projects' capability
 * 2022-03-25: switching Goals Task Management to Project
 * * daily GitHub updates are scheduled for several reasons, including pulseDemo.
