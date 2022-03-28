@@ -1,4 +1,5 @@
 # 2022.03:
+* automated workFlow needs a fix.  Maybe next week?
 * 2022-03-27: a brief digression into material supporting DIG.CA & AddressManagementCanada
 * * https://nepomuk.semanticdesktop.org/Project+Summary.html
 * 2022-03-26: Considering the new 'Projects' capability
