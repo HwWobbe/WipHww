@@ -1,5 +1,5 @@
 # 2022.03:
-* ...
+* 2022-03-30: March wrap-up activities
 * automated workFlow needs a fix.  Maybe next week?
 * * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
 * 2022-03-27: a brief digression into material supporting DIG.CA & AddressManagementCanada
