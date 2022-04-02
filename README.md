@@ -10,6 +10,7 @@
 * consider reviving the stackEdit sync.
 ## 2022-04.Tn:
 * ...
+* knowledgePage setup is onGoing
 ## 2022.04.Tp: :2022-03:
 * 2022-03-30: March wrap-up activities
 * 2022-03-27: a brief digression into material supporting DIG.CA & AddressManagementCanada
@@ -24,7 +25,6 @@
 * * checking...
 * enhancing pull requests
 * * https://github.com/kookma/TW5-GitHub-Saver
-* knowledgePage setup is onGoing
 * stalled: time to review GitHub savers under TW5.2.1
 
 # 2022.02:
