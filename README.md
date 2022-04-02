@@ -3,6 +3,7 @@
 * automated workFlow needs a fix.  From -03-30: Maybe next week?
 * * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
 * * * * refactor this ReadMe
+* refactor this page
 * * consider reviving the stackEdit sync.
 
 # 2022.03:
