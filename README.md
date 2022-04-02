@@ -1,5 +1,5 @@
 # 2022.04:
-* 2022-04-02: started a TestProject
+* 2022-04-02: started TestProject(s) for DIG & ME
 * automated workFlow needs a fix.  From -03-30: Maybe next week?
 * * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
 * refactor this ReadMe page
