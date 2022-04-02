@@ -10,7 +10,7 @@
 * 2022-03-27: a brief digression into material supporting DIG.CA & AddressManagementCanada
 * * https://nepomuk.semanticdesktop.org/Project+Summary.html
 * 2022-03-26: Considering the new 'Projects' capability
-* 2022-03-25: switching Goals Task Management to Project
+* 2022-03-25: switching Goals Task Management to Microsoft Project
 * * daily GitHub updates are scheduled for several reasons, including pulseDemo.
 * 2022-03-24: distracted by TiddlyMap
 * 2022-03-2?: encountering a persistent bug that is taking time to hunt down
