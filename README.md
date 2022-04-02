@@ -1,11 +1,12 @@
 # 2022.04:
 * ...
+* automated workFlow needs a fix.  From -03-30: Maybe next week?
+* * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
+* * * * refactor this ReadMe
 * * consider reviving the stackEdit sync.
 
 # 2022.03:
 * 2022-03-30: March wrap-up activities
-* automated workFlow needs a fix.  Maybe next week?
-* * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
 * 2022-03-27: a brief digression into material supporting DIG.CA & AddressManagementCanada
 * * https://nepomuk.semanticdesktop.org/Project+Summary.html
 * 2022-03-26: Considering the new 'Projects' capability
