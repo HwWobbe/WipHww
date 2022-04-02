@@ -35,6 +35,7 @@
 * * time to review GitHub savers under TW5.2.1
 * * * obviously, I did not get to this in 2022.01.  Sigh.
 
+<hr>
 
 # 2021.12:
 * re-visiting TiddlyDesktop under 5.2.1 in anticipation of increased Moblie device access
