@@ -1,5 +1,7 @@
 # 2022.04:
 * ...
+* * consider reviving the stackEdit sync.
+
 # 2022.03:
 * 2022-03-30: March wrap-up activities
 * automated workFlow needs a fix.  Maybe next week?
