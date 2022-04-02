@@ -8,7 +8,7 @@
 * * * * TiddlyHost ...
 * * * * daily GitHub updates are scheduled for several reasons, including pulseDemo. :2022-03-25
 * consider reviving the stackEdit sync.
-## 2022.03.Tp:
+## 2022.04.Tp: :2022-03:
 * 2022-03-30: March wrap-up activities
 * 2022-03-27: a brief digression into material supporting DIG.CA & AddressManagementCanada
 * * https://nepomuk.semanticdesktop.org/Project+Summary.html
