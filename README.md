@@ -2,7 +2,7 @@
 * 2022-04-02: started a TestProject
 * automated workFlow needs a fix.  From -03-30: Maybe next week?
 * * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
-* * refactor this ReadMe page
+* refactor this ReadMe page
 * consider reviving the stackEdit sync.
 
 # 2022.03:
