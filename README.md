@@ -1,5 +1,6 @@
 # 2022.04:
-* efficient communication with less technical caollaborators is promoting the use of RemNote and Notion.
+* confirm ExportImport is now easier via 'modified'
+* efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
 * * these are remarkably similar ( to the poiny that they appear to be based on the same underlying software )
 * 2022-04-02: started TestProject(s) for DIG & ME
 * automated workFlow needs a fix.  From -03-30: Maybe next week?
