@@ -1,6 +1,8 @@
 # 2022.03:
 * 2022-03-30: March wrap-up activities
 * * HwWobbe/main
+* * * should Master be dropped?
+* * * * what might be lost in "behind" commits?
 * * * note: HW... as an "associate" option
 * automated workFlow needs a fix.  Maybe next week?
 * * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
