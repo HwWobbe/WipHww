@@ -1,4 +1,5 @@
 # 2022.04:
+* review the other repos
 * /? stuck in 'master' /?
 * confirm ExportImport is now easier via 'modified' & create its toggle
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
