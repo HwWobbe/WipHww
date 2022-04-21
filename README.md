@@ -1,7 +1,7 @@
 # 2022.03:
 * 2022-04-18: a reconcilliation of MMain and Master is needed
 * * is it possible to alter the "default"?
-* * * * it shoiuld be
+* * * it should be
 * 2022-03-30: March wrap-up activities
 * * HwWobbe/main
 * * * should Master be dropped?
