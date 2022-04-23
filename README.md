@@ -1,5 +1,7 @@
 # 2022.04:
 * review the other repos
+* * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
+* * * within GitHub, the Activity summary is a good summary of recent choices of Time allocation(s).
 * /? stuck in 'master' /?
 * confirm ExportImport is now easier via 'modified' & create its toggle
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
