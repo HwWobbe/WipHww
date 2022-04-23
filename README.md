@@ -1,5 +1,3 @@
-# 2022-05:
-* ...
 # 2022.04:
 * review the other repos
 * * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
