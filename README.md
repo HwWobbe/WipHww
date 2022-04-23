@@ -2,6 +2,7 @@
 * review the other repos
 * * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
 * * * within GitHub, "Contribution activity" is a good summary of recent choices of Time allocation(s).
+* DiigoH + ... repos need to be incorporated
 * /? stuck in 'master' /?
 * * Try to resolve this via PullRequests, if only for a deeper understand ing of this tool.
 * confirm ExportImport is now easier via 'modified' & create its toggle
