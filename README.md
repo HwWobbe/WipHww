@@ -3,6 +3,7 @@
 * * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
 * * * within GitHub, the Activity summary is a good summary of recent choices of Time allocation(s).
 * /? stuck in 'master' /?
+* * Try to resolve this via PullRequests, if only for a deeper understand ing of this tool.
 * confirm ExportImport is now easier via 'modified' & create its toggle
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
 * * these are remarkably similar ( to the poiny that they appear to be based on the same underlying software )
