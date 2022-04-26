@@ -1,4 +1,4 @@
-# 2022.04:
+# 2022.05:
 * PRs are becomming urgent enough to warrant inclusion in the Project plan(s)
 # 2022.04:
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
