@@ -1,4 +1,5 @@
 # 2022.05:
+* ensure updates are aimed at the right repo before the commit
 * PRs are becomming urgent enough to warrant inclusion in the Project plan(s)
 # 2022.04:
 * the accidental update to another Fork underlines the need to extend my PR capabilities
