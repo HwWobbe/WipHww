@@ -1,9 +1,10 @@
 # 2022.05:
 * PRs are becomming urgent enough to warrant inclusion in the Project plan(s)
 # 2022.04:
+* the accidental update to another Fork underlines the need to extend my PR capabilities
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
 * * these are remarkably similar ( to the poiny that they appear to be based on the same underlying software )
-* * 2022-04-21: noticed a more complicated filder structure than was intended
+* * 2022-04-21: noticed a more complicated filter structure than was intended
 * 2022-04-08: Spawned Main from Master. ( oops: this now inhibits Rename )
 * 2022-04-02: started TestProject(s) for DIG & ME
 * automated workFlow needs a fix.  From -03-30: Maybe next week?
