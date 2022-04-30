@@ -1,6 +1,7 @@
 # 2022.05:
 * the default is still master, so PRs will probably still be needed
 * * test this 
+* * * consider a waning in Master
 * ensure updates are aimed at the right repo before the commit
 * PRs are becomming urgent enough to warrant inclusion in the Project plan(s)
 # 2022.04:
