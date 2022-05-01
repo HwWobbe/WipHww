@@ -1,5 +1,6 @@
 # 2022.05:
 * the default is still master, so PRs will probably still be needed
+* * -05-01: success in merging a patch back to master/main
 * * test this 
 * * consider a warning in Master
 * * * perhaps simply ... not -05-
