@@ -1,6 +1,6 @@
 # 2022-05:
 * 2022-05-04: created 'main1'
-* * consider how to best integrate this
+* * consider how to best integrate this (main , main1 , master , ... )
 # 2022.04:
 * review the other repos
 * * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
