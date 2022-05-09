@@ -1,4 +1,6 @@
 # 2022.05:
+* this is likely the context that can be used as a "library" for contributed PRs
+* * it will be interesting to see ghow effective self-pull(s)n be
 * the default is still master, so PRs will probably still be needed
 * * -05-01: success in merging a patch back to master/main
 * * test this 
