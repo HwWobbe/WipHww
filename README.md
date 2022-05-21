@@ -1,5 +1,5 @@
 # 2022.05:
-* confirm pulse
+* confirm pulse on -05-21.
 * this is likely the context that can be used as a "library" for contributed PRs
 * * it will be interesting to see how effective self-pull(s)n be
 * the default is still master, so PRs will probably still be needed
