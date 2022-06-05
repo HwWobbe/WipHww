@@ -1,18 +1,7 @@
-# 2022-05:
-* 2022-05-04: created 'main1'
-* * consider how to best integrate this (main , main1 , master , ... )
-* * schedule a review of https://github.com/OokTech/TW5-BobEXE/releases/tag/1.7.3b1
-# 2022.04:
-* review the other repos
-* * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
-* * * within GitHub, "Contribution activity" is a good summary of recent choices of Time allocation(s).
-* * * * do not forget to use Trends to anticipate what's next and prepare for it
-* DiigoH + ... repos need to be incorporated
-* /? stuck in 'master' /?
-* * Try to resolve this via PullRequests, if only for a deeper understand ing of this tool.
-* confirm ExportImport is now easier via 'modified' & create its toggle
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
 * * these are remarkably similar ( to the poiny that they appear to be based on the same underlying software )
+* * 2022-04-21: noticed a more complicated filter structure than was intended
+* 2022-04-08: Spawned Main from Master. ( oops: this now inhibits Rename )
 * 2022-04-02: started TestProject(s) for DIG & ME
 * automated workFlow needs a fix.  From -03-30: Maybe next week?
 * * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
