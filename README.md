@@ -1,3 +1,6 @@
+# 2022-06:
+* refining Password practices (again)
+
 # 2022-05:
 * 2022-05-04: created 'main1'
 * * consider how to best integrate this (main , main1 , master , ... )
