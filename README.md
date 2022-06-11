@@ -1,3 +1,19 @@
+# 2022-06:
+* refining Password practices (again)
+
+# 2022.05:
+* confirm pulse on -05-21.
+* this is likely the context that can be used as a "library" for contributed PRs
+* * it will be interesting to see how effective self-pull(s)n be
+* the default is still master, so PRs will probably still be needed
+* * -05-01: success in merging a patch back to master/main
+* * test this 
+* * consider a warning in Master
+* * * perhaps simply ... not -05-
+* ensure updates are aimed at the right repo before the commit
+* PRs are becomming urgent enough to warrant inclusion in the Project plan(s)
+# 2022.04:
+* the accidental update to another Fork underlines the need to extend my PR capabilities
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
 * * these are remarkably similar ( to the poiny that they appear to be based on the same underlying software )
 * * 2022-04-21: noticed a more complicated filter structure than was intended
