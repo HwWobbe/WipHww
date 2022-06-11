@@ -1,5 +1,5 @@
 # 2022-06:
-* ...
+* refining Password practices (again)
 
 # 2022.05:
 * confirm pulse on -05-21.
