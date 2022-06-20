@@ -1,5 +1,6 @@
 # 2022-06:
 * considering the scope of the needed documentation
+* * there are efficiencies in linking various Author and Reader environments.
 * refining Password practices (again)
 * https://github.com/nextapps-de/spotlight
 
