@@ -1,4 +1,5 @@
 # 2022-06:
+* considering the scope of the needed documentation
 * refining Password practices (again)
 * https://github.com/nextapps-de/spotlight
 
