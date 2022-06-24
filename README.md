@@ -1,4 +1,5 @@
 # 2022-06:
+* confirm that the change to 'main' persists
 * refining Password practices (again)
 
 # 2022.05:
