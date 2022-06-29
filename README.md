@@ -1,7 +1,10 @@
 # 2022-06:
+* this file is still trapped in 'main2' branch
+* * this type of error has been fixed previously with PRs
 * considering the scope of the needed documentation
 * * there are efficiencies in linking various Author and Reader environments.
 * * * discuss this with other participants, looking for at least a partial concensus to collaborate
+* incorporating "reMarkAble" for broader media use in communicating with Collaborators.
 * refining Password practices (again)
 * https://github.com/nextapps-de/spotlight
 
