@@ -1,3 +1,6 @@
+# 2022-07:
+* ...
+
 # 2022-06:
 * confirm that the change to 'main' persist
 * * perhaps they do not
