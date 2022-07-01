@@ -1,5 +1,5 @@
 # 2022-07:
-* ...
+* ensure this is the default branch, by using PRs to update it from others that are then deleted
 
 # 2022-06:
 * confirm that the change to 'main' persist
