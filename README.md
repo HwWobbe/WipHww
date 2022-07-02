@@ -3,6 +3,7 @@
 * * it seems to revert
 * * * find the sticky setting that causes this
 * ensure updates are aimed at the right repo before the commit
+* knowledgePage setup is onGoing
 
 # 2022-06:
 * this file is still trapped in 'main2' branch
