@@ -5,13 +5,9 @@
 * ensure updates are aimed at the right repo before the commit
 
 # 2022-06:
-* confirm that the change to 'main' persist
-* * perhaps they do not
-* refining Password practices (again)
-
-# 2022-06:
 * this file is still trapped in 'main2' branch
 * * this type of error has been fixed previously with PRs
+* refining Password practices (again)
 * considering the scope of the needed documentation
 * * there are efficiencies in linking various Author and Reader environments.
 * * * discuss this with other participants, looking for at least a partial concensus to collaborate
