@@ -1,7 +1,22 @@
+# 2022-06:
+* this file is still trapped in 'main2' branch
+* * this type of error has been fixed previously with PRs
+* considering the scope of the needed documentation
+* * there are efficiencies in linking various Author and Reader environments.
+* * * discuss this with other participants, looking for at least a partial concensus to collaborate
+* incorporating "reMarkAble" for broader media use in communicating with Collaborators.
+* refining Password practices (again)
+* https://github.com/nextapps-de/spotlight
+
+# 2022-05:
+* 2022-05-04: created 'main1'
+* * consider how to best integrate this (main , main1 , master , ... )
+* * schedule a review of https://github.com/OokTech/TW5-BobEXE/releases/tag/1.7.3b1
 # 2022.04:
 * review the other repos
 * * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
 * * * within GitHub, "Contribution activity" is a good summary of recent choices of Time allocation(s).
+* * * * do not forget to use Trends to anticipate what's next and prepare for it
 * DiigoH + ... repos need to be incorporated
 * Mario re PRs + ... : https://www.youtube.com/watch?v=TZVbrjpH0vg
 * /? stuck in 'master' /?
