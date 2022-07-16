@@ -18,6 +18,7 @@
 * * * within GitHub, "Contribution activity" is a good summary of recent choices of Time allocation(s).
 * * * * do not forget to use Trends to anticipate what's next and prepare for it
 * DiigoH + ... repos need to be incorporated
+* Mario re PRs + ... : https://www.youtube.com/watch?v=TZVbrjpH0vg
 * /? stuck in 'master' /?
 * * Try to resolve this via PullRequests, if only for a deeper understand ing of this tool.
 * confirm ExportImport is now easier via 'modified' & create its toggle
@@ -32,10 +33,7 @@
 * * * * TiddlyHost ...
 * * * * daily GitHub updates are scheduled for several reasons, including pulseDemo. :2022-03-25
 * consider reviving the stackEdit sync.
-## 2022-04.Tn:
-* ( ... ):other tasks
-* prepare -05-
-* knowledgePage setup is onGoing
+
 ## 2022.04.Tp: :2022-03:
 * 2022-03-30: March wrap-up activities
 * 2022-03-27: a brief digression into material supporting DIG.CA & AddressManagementCanada
