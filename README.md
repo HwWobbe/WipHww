@@ -1,5 +1,6 @@
 # 2022-07:
-* manually sync MAIT into MAIN2
+* distracted by having to review discourse for an image application 
+* manually sync MAIN into MAIN2
 * * delete MAIN
 * * * rename MAIN2 to MAIN
 * ensure this is the default branch, by using PRs to update it from others that are then deleted
