@@ -1,5 +1,6 @@
 # 2022-07:
 * distracted by having to review discourse for an image application 
+* * https://github.com/tiddly-gittly/TidGi-Desktop
 * manually sync MAIN into MAIN2
 * * delete MAIN
 * * * rename MAIN2 to MAIN
