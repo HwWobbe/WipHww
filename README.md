@@ -2,6 +2,7 @@
 * distracted by having to review discourse for an image application 
 * * https://github.com/tiddly-gittly/TidGi-Desktop
 * manually sync MAIN into MAIN2
+* * cautious manual progress:
 * * delete MAIN
 * * * rename MAIN2 to MAIN
 * ensure this is the default branch, by using PRs to update it from others that are then deleted
