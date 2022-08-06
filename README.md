@@ -1,3 +1,6 @@
+#2022-08:
+* ...
+
 # 2022-07:
 * distracted by having to review discourse for an image application 
 * * https://github.com/tiddly-gittly/TidGi-Desktop
