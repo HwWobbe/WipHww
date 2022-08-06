@@ -1,6 +1,23 @@
+# 2022-08:
+* 2022-08-06:yrying a bit on conflictResolution
+
+# 2022-07:
+* distracted by having to review discourse for an image application 
+* * https://github.com/tiddly-gittly/TidGi-Desktop
+* manually sync MAIN into MAIN2
+* * cautious manual progress:
+* * delete MAIN
+* * * rename MAIN2 to MAIN
+* ensure this is the default branch, by using PRs to update it from others that are then deleted
+* * it seems to revert
+* * * find the sticky setting that causes this
+* ensure updates are aimed at the right repo before the commit
+* knowledgePage setup is onGoing
+
 # 2022-06:
 * this file is still trapped in 'main2' branch
 * * this type of error has been fixed previously with PRs
+* refining Password practices (again)
 * considering the scope of the needed documentation
 * * there are efficiencies in linking various Author and Reader environments.
 * * * discuss this with other participants, looking for at least a partial concensus to collaborate
@@ -9,10 +26,21 @@
 * https://github.com/nextapps-de/spotlight
 
 # 2022-05:
+* confirm pulse on -05-21.
+* PRs are becomming urgent enough to warrant inclusion in the Project plan(s)
+* this is likely the context that can be used as a "library" for contributed PRs
+* * it will be interesting to see how effective self-pull(s)n be
 * 2022-05-04: created 'main1'
 * * consider how to best integrate this (main , main1 , master , ... )
 * * schedule a review of https://github.com/OokTech/TW5-BobEXE/releases/tag/1.7.3b1
+* the default is still master, so PRs will probably still be needed
+* -05-01: success in merging a patch back to master/main
+* * test this 
+* * consider a warning in Master
+* * * perhaps simply ... not -05-
+
 # 2022.04:
+* the accidental update to another Fork underlines the need to extend my PR capabilities
 * review the other repos
 * * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
 * * * within GitHub, "Contribution activity" is a good summary of recent choices of Time allocation(s).
@@ -24,6 +52,8 @@
 * confirm ExportImport is now easier via 'modified' & create its toggle
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
 * * these are remarkably similar ( to the poiny that they appear to be based on the same underlying software )
+* * 2022-04-21: noticed a more complicated filter structure than was intended
+* 2022-04-08: Spawned Main from Master. ( oops: this now inhibits Rename )
 * 2022-04-02: started TestProject(s) for DIG & ME
 * automated workFlow needs a fix.  From -03-30: Maybe next week?
 * * ensure the current bug is not as simple as the (deprecated) use of MASTER vs. MAIN
