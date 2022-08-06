@@ -1,5 +1,5 @@
 # 2022-08:
-* 2022-08-06: ...
+* 2022-08-06:yrying a bit on conflictResolution
 
 # 2022-07:
 * distracted by having to review discourse for an image application 
@@ -41,6 +41,15 @@
 
 # 2022.04:
 * the accidental update to another Fork underlines the need to extend my PR capabilities
+* review the other repos
+* * remember that a choice of Activities effectively defines "Who I now am" by "What I now do".
+* * * within GitHub, "Contribution activity" is a good summary of recent choices of Time allocation(s).
+* * * * do not forget to use Trends to anticipate what's next and prepare for it
+* DiigoH + ... repos need to be incorporated
+* Mario re PRs + ... : https://www.youtube.com/watch?v=TZVbrjpH0vg
+* /? stuck in 'master' /?
+* * Try to resolve this via PullRequests, if only for a deeper understand ing of this tool.
+* confirm ExportImport is now easier via 'modified' & create its toggle
 * efficient communication with less technical collaborators is promoting the use of RemNote and Notion.
 * * these are remarkably similar ( to the poiny that they appear to be based on the same underlying software )
 * * 2022-04-21: noticed a more complicated filter structure than was intended
@@ -54,10 +63,7 @@
 * * * * TiddlyHost ...
 * * * * daily GitHub updates are scheduled for several reasons, including pulseDemo. :2022-03-25
 * consider reviving the stackEdit sync.
-## 2022-04.Tn:
-* ( ... ):other tasks
-* prepare -05-
-* knowledgePage setup is onGoing
+
 ## 2022.04.Tp: :2022-03:
 * 2022-03-30: March wrap-up activities
 * 2022-03-27: a brief digression into material supporting DIG.CA & AddressManagementCanada
