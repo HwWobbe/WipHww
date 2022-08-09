@@ -1,5 +1,6 @@
 # 2022-08:
-* 2022-08-06:yrying a bit on conflictResolution
+* -08-09: confirm an adequate understanding of PRs by trying some Documentation updates in the TW Community.
+* -08-06: Trying a bit of conflictResolution
 
 # 2022-07:
 * distracted by having to review discourse for an image application 
