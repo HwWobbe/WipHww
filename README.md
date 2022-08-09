@@ -2,6 +2,7 @@
 * -08-09: confirm an adequate understanding of PRs by trying some Documentation updates in the TW Community.
 * -08-06: Trying a bit of conflictResolution
 * * confirm all Repos are not without a MASTER.
+* * * Is so, THEN procede to interfacing via the deskTop version(s)
 
 # 2022-07:
 * distracted by having to review discourse for an image application 
