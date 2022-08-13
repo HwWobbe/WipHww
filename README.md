@@ -1,6 +1,6 @@
 # 2022-08:
 * contracting considerations for initial AdManCa development
-** communications workLoad
+* * communications workLoad
 * -08-09: confirm an adequate understanding of PRs by trying some Documentation updates in the TW Community.
 * -08-06: Trying a bit of conflictResolution
 * * confirm all Repos are not without a MASTER.
