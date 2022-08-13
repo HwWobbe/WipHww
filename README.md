@@ -207,21 +207,6 @@
 ## 2020.06.??:
 * (Elector list) Modernization propsals have gained enough traction to support more development
 
-# 2020.05:
-
-This month ...
-* https://groups.google.com/forum/m/?utm_medium=email&utm_source=footer#!topic/tiddlywiki/C1XtBA4U4Ms
-* profile update to enhance focus.
-* https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions
-* reconsider the use of the GitHib.wiki(s)
-
-
-## 2020.05.0
-* https://github.com/akhater/akhater.github.io/tree/master/drift
-* Re-organize some of this page
-* investigate and repair TW5 saveFails at Dfx. Confirmed these are local to SysH and may be SysD Azure interactions.
-* * First: do a USB install with the new capabilities
-
 <hr>
 
 # Do: ...
