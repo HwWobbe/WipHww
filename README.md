@@ -7,6 +7,9 @@
 * * confirm all Repos are not without a MASTER.
 * * * If so, THEN procede to interfacing via the deskTop version(s)
 
+# condider:
+* https://github.com/google/zx
+
 # 2022-07:
 * distracted by having to review Discourse for an image application 
 * * https://github.com/tiddly-gittly/TidGi-Desktop
