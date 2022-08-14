@@ -8,7 +8,7 @@
 * * * If so, THEN procede to interfacing via the deskTop version(s)
 
 # 2022-07:
-* distracted by having to review discourse for an image application 
+* distracted by having to review Discourse for an image application 
 * * https://github.com/tiddly-gittly/TidGi-Desktop
 * manually sync MAIN into MAIN2
 * * cautious manual progress:
