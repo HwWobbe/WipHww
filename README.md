@@ -1,5 +1,7 @@
 # 2022-08:
 * -08-15: Knowing that we can scale up very rapidly, we are now reducing the scope of the initial prototypes and pilots to be as small and focused as possible.
+* use an alternate Username site as a source of a small test PR
+
 * -08-13: contracting considerations for initial AdManCa development
 * * communications workLoad
 * * * testing
