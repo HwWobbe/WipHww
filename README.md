@@ -1,6 +1,6 @@
 # 2022-08:
 * -08-20: it is becoming obvious that shared, dynamic Task lists are increasingly important as these activities scale up.
-# -08-16: floating the BaByTw idea ...
+## -08-16: floating the BaByTw idea ...
 * ... as a trial balloon with a few Advisors 
 * -08-15: Knowing that we can scale up very rapidly, we are now reducing the scope of the initial prototypes and pilots to be as small and focused as possible.
 * use an alternate Username site as a source of a small test PR
