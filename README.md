@@ -1,4 +1,5 @@
 # 2022-08:
+* -08-21: ( tried linking via Hypothesis )FAIL - for now.
 * -08-20: it is becoming obvious that shared, dynamic Task lists are increasingly important as these activities scale up.
 * * reviewing Notion ; Hypothesis ; GitHub ; ...
 * * * GitHub PRs would be a particular boon
