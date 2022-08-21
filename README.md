@@ -1,6 +1,7 @@
 # 2022-08:
 * -08-20: it is becoming obvious that shared, dynamic Task lists are increasingly important as these activities scale up.
 * * reviewing Notion ; Hypothesis ; GitHub ; ...
+* * * GitHub PRs would be a particular boon
 ## -08-16: floating the BaByTw idea ...
 * ... as a trial balloon with a few Advisors 
 * -08-15: Knowing that we can scale up very rapidly, we are now reducing the scope of the initial prototypes and pilots to be as small and focused as possible.
