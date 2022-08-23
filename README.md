@@ -2,6 +2,7 @@
 * -08-21: ( tried linking via Hypothesis )FAIL - for now.
 * -08-20: it is becoming obvious that shared, dynamic Task lists are increasingly important as these activities scale up.
 * * reviewing Notion ; Hypothesis ; GitHub ; ...
+* * * Notion is apparently a popular toll for this type of collaboration
 * * * GitHub PRs would be a particular boon
 ## -08-16: floating the BaByTw idea ...
 * ... as a trial balloon with a few Advisors 
