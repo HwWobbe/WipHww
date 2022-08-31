@@ -1,4 +1,5 @@
 # 2022-08:
+* -0831: considering: https://github.com/Jermolene/TiddlyWiki5/issues/6499
 * -08-21: ( tried linking via Hypothesis )FAIL - for now.
 * * -08-27: 
 * * * noted @simon's use of gitHub/wiki pages for additional documentation.  Assume this is at least goodPractice
