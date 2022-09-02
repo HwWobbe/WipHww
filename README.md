@@ -1,4 +1,5 @@
 # 2022-09:
+*
 * Awaiting Eric's response to my proposal to extend Sponsorships.
 
 # 2022-08:
