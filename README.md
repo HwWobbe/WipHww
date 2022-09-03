@@ -2,6 +2,7 @@
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
 * investigate Gist(s) further
+* * * confirm they are (by nature) public
 * followup needed
 * * Awaiting Eric's response to my proposal to extend Sponsorships.
 
