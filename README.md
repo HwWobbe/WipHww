@@ -1,6 +1,7 @@
 # 2022-09:
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
+* investigate Gist(s) further
 * followup needed
 * * Awaiting Eric's response to my proposal to extend Sponsorships.
 
