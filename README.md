@@ -1,6 +1,8 @@
 # 2022-09:
+* Investigate DiigoH <> gMail
+* * ...
 * followup needed
-* Awaiting Eric's response to my proposal to extend Sponsorships.
+* * Awaiting Eric's response to my proposal to extend Sponsorships.
 
 # 2022-08:
 * -08-31: considering: https://github.com/Jermolene/TiddlyWiki5/issues/6499
