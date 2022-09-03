@@ -1,6 +1,7 @@
 # 2022-09:
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
+* does Revert perform a decrement?
 * Continue to learn GIT
 * investigate Gist(s) further
 * * * confirm they are (by nature) public
