@@ -4,7 +4,7 @@
 * * * looks quite promising for my useCases
 * investigate Gist(s) further
 * * * confirm they are (by nature) public, and that they are just simply HTML
-* * * * that mihjt be part of the hosting puzzle
+* * * * that might be part of the hosting puzzle.  ( Check this against some of the GitHub hosted TW files
 * followup needed
 * * Awaiting Eric's response to my proposal to extend Sponsorships.
 * https://github.com/hk21702
