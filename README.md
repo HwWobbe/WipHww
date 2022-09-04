@@ -8,6 +8,8 @@
 * followup needed
 * * Awaiting Eric's response to my proposal to extend Sponsorships.
 * https://github.com/hk21702
+* start designing the cascade-migration methodologies
+* * ideally these will be sub-contracted (so the decumentaion will need to be better.
 
 ## emerging Topics summary
 * ...
