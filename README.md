@@ -10,6 +10,7 @@
 * https://github.com/hk21702
 * start designing the cascade-migration methodologies
 * * ideally these will be sub-contracted (so the decumentaion will need to be better.
+* * * should this arfchitecture be discussed with the Community?
 
 ## emerging Topics summary
 * ...
