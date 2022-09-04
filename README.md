@@ -7,6 +7,7 @@
 * * * confirm they are (by nature) public
 * followup needed
 * * Awaiting Eric's response to my proposal to extend Sponsorships.
+* https://github.com/hk21702
 
 # 2022-08:
 * -08-31: considering: https://github.com/Jermolene/TiddlyWiki5/issues/6499
