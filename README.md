@@ -1,8 +1,6 @@
 # 2022-09:
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
-* does Revert perform a decrement?
-* Continue to learn GIT
 * investigate Gist(s) further
 * * * confirm they are (by nature) public
 * followup needed
@@ -11,6 +9,8 @@
 
 ## emerging Topics summary
 * ...
+* does Revert perform a decrement?
+* Continue to learn GIT
 
 # 2022-08:
 * -08-31: considering: https://github.com/Jermolene/TiddlyWiki5/issues/6499
