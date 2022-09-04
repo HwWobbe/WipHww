@@ -1,1 +1,1 @@
-Testing a separate text file
+Testing a separate text file should be straight-forward,
