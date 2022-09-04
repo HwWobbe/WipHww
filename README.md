@@ -1,6 +1,7 @@
 # 2022-09:
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
+* * * looks quite promising for my useCases
 * investigate Gist(s) further
 * * * confirm they are (by nature) public
 * followup needed
