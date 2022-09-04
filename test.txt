@@ -1,3 +1,3 @@
 Testing a separate text file should be straight-forward,
 
-* try making a copy that can ge pasted into a ThH file.
+* try making a copy that can ge pasted into a ThH file
