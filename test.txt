@@ -1,5 +1,6 @@
 Testing a separate text file should be straight-forward,
 
 * try making a copy that can be posted into a TwH file
+* * the needed control appears at ...
 
 evenings may be an opportunity to make Learned notes about GitHub.
