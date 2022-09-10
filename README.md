@@ -2,6 +2,7 @@
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
 * * * looks quite promising for my useCases
+* https://github.com/qbit/widdler
 * Link to Mario's recent best Practices response
 * * find the pertinent Tid
 * investigate Gist(s) further
