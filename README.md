@@ -2,7 +2,7 @@
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
 * * * looks quite promising for my useCases
-* Link to Mario's recnt best Practices response
+* Link to Mario's recent best Practices response
 * * find the pertinent Tid
 * investigate Gist(s) further
 * * * confirm they are (by nature) public, and that they are just simply HTML
