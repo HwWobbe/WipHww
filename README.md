@@ -1,4 +1,6 @@
 # 2022-09:
+* Gists have changed enough to warrant investigation before use.
+* * ...
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
 * * * looks quite promising for my useCases
