@@ -1,7 +1,7 @@
 # 2022-09:
 * likely off-net from -09-16 until -09-20 inclusive, due to travel
 * Gists have changed enough to warrant investigation before use.
-* * ...
+* * Also review stackEdit
 * Investigate DiigoH <> gMail
 * * https://diigo.com/0puuey
 * * * looks quite promising for my useCases
