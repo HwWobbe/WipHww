@@ -1,7 +1,7 @@
 # 2022-09:
 * ...-21: Reviewing and revising Gists.
 * examining REPL(s)
-* * * link: ...
+* * link: ...
 * likely off-net from -09-16 until -09-20 inclusive, due to travel
 * Gists have changed enough to warrant investigation before use.
 * * Also review stackEdit
