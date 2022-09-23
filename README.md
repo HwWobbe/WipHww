@@ -1,4 +1,5 @@
 # 2022-09:
+* ...-23: StackEdit sync digression
 * ...-21: Reviewing and revising Gists.
 * examining REPL(s)
 * * link: ...
