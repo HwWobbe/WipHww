@@ -1,6 +1,7 @@
 # 2022-09:
 * ...-23: StackEdit sync digression
 * * -25: the objective is a signifiacnt expansion of our distributed Server farms ( mindful of DAO principles )
+* * * review CJ's portals (aw well as my own)
 * ...-21: Reviewing and revising Gists.
 * examining REPL(s)
 * * link: ...
