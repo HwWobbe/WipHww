@@ -1,3 +1,6 @@
+# 2022-10:
+* ...
+
 # 2022-09:
 * ...-23: StackEdit sync digression
 * * -25: the objective is a signifiacnt expansion of our distributed Server farms ( mindful of DAO principles )
