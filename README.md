@@ -1,6 +1,6 @@
 # 2022-10:
 * review plans & select priorities
-* * the logic for this may nbeed to be implemented as a TwHost file
+* * the logic for this may need to be implemented as a TwHost file
 * archive -09- entries
 * Fork DataFix-com
 
