@@ -1,6 +1,7 @@
 # 2022-10:
 * review plans & select priorities
 * * the logic for this may need to be implemented as a TwHost file
+* * * review various foilder structure recommendations
 * archive -09- entries
 * Fork DataFix-com
 
