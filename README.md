@@ -1,7 +1,8 @@
 # 2022-10:
 * review plans & select priorities
 * * the logic for this may need to be implemented as a TwHost file
-* * * review various foilder structure recommendations
+* * * review various folder structure recommendations
+* * * re-view workFlows starting from various entry points
 * archive -09- entries
 * Fork DataFix-com
 
