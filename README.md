@@ -1,5 +1,5 @@
 # 2022-10:
-* review plans & select priorities
+* review plans & select priorities * * these must be driven by the business needs.
 * * the logic for this may need to be implemented as a TwHost file
 * * * review various folder structure recommendations
 * * * re-view workFlows starting from various entry points
