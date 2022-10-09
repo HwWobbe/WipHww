@@ -11,6 +11,7 @@
 * set a budget for an expansion of this activity
 
 ## maitenance
+* refine GIST / Repository interfaces
 * archive -09- entries
 * Fork DataFix-com
 
