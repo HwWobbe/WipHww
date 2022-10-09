@@ -6,6 +6,11 @@
 * * the logic for this may need to be implemented as a TwHost file
 * * * review various folder structure recommendations
 * * * re-view workFlows starting from various entry points
+
+!! sponsorships
+* set a budget for an expansion of this activity
+
+## maitenance
 * archive -09- entries
 * Fork DataFix-com
 
