@@ -3,7 +3,7 @@
 * * #1 -25 cycle completion
 * * * * LessonsLearned
 * * considering projects / growrg & taxPlanning 
-* * these must be driven by the business needs
+* * * these must be ranked by the business development needs
 * * the logic for this may need to be implemented as a TwHost file
 * * * review various folder structure recommendations
 * * * re-view workFlows starting from various entry points
