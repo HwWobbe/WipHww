@@ -2,6 +2,7 @@
 * review plans & select priorities 
 * * #1 -25 cycle completion
 * * * * LessonsLearned
+* * considering projects / growrg & taxPlanning 
 * * these must be driven by the business needs
 * * the logic for this may need to be implemented as a TwHost file
 * * * review various folder structure recommendations
