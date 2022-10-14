@@ -9,7 +9,7 @@
 * * * re-view workFlows starting from various entry points
 
 !! sponsorships
-* set a budget for an expansion of this activity
+* calculate the budget for an expansion of this activity
 
 ## maitenance
 * refine GIST / Repository interfaces
