@@ -1,3 +1,6 @@
+# 2022-11:
+* Annual Report(s) preparation
+
 # 2022-10:
 * review plans & select priorities 
 * * #1 2022-10-25: "4 year cycle" completion
