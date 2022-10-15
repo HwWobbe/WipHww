@@ -3,8 +3,8 @@
 
 # 2022-10:
 * review plans & select priorities 
-* * #1 2022-10-25: "4 year cycle" completion
-* * * * LessonsLearned
+* *  2022-10-25: "4 year cycle" completion
+* * * LessonsLearned
 * * considering projects / growing & taxPlanning 
 * * * these must be ranked by the business development needs
 * * the logic for this may need to be implemented as a TwHost file
