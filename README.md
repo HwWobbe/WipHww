@@ -14,6 +14,8 @@
 
 !! sponsorships
 * calculate the budget for an expansion of this activity
+* * Integrste this with other "fractional" service arrangements
+* * * Discuss with CJ the addition of JR to the ES team
 
 ## maintenance
 * refine GIST / Repository interfaces
