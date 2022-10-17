@@ -15,7 +15,7 @@
 !! sponsorships
 * calculate the budget for an expansion of this activity
 
-## maitenance
+## maintenance
 * refine GIST / Repository interfaces
 * archive -09- entries
 * Fork DataFix-com
