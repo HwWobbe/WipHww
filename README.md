@@ -1,5 +1,6 @@
 # 2022-11:
 * Annual Report(s) preparation
+* locatorPlugin review to optimize panWiki use prioor to a major re-design of NodeJs use.
 
 # 2022-10:
 * review plans & select priorities 
