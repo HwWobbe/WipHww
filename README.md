@@ -1,9 +1,9 @@
 # 2022-11:
 * Annual Report(s) preparation
-* Bob.ExE review
-* locatorPlugin review to optimize panWiki use prior to a major re-design of NodeJs use.
 
 # 2022-10:
+* Bob.ExE review
+* * locatorPlugin review to optimize panWiki use prior to a major re-design of NodeJs use.
 * review plans & select priorities 
 * *  2022-10-25: "4 year cycle" completion
 * * * LessonsLearned
@@ -20,6 +20,7 @@
 
 ## maintenance
 * refine GIST / Repository interfaces
+* consider GitLab self-hosted
 * archive -09- entries
 * Fork DataFix-com
 
