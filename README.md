@@ -1,5 +1,7 @@
 # 2022-11:
 * Annual Report(s) preparation
+* AWS servers operationally month end
+* ...
 
 # 2022-10:
 * Bob.ExE review
