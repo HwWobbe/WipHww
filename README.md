@@ -6,7 +6,7 @@
 # 2022-10:
 * Bob.ExE review
 * * locatorPlugin review to optimize panWiki use prior to a major re-design of NodeJs use.
-* * line to the BobExe repo.
+* * link to the BobExe repo.
 * review plans & select priorities 
 * *  2022-10-25: "4 year cycle" completion
 * * * LessonsLearned
