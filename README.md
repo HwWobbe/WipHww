@@ -1,5 +1,7 @@
 # 2022-11:
 * Annual Report(s) preparation
+* * focus on selected pages for specific Audiences
+* * * generalizedAdmin business model
 * AWS servers operationally month end
 * ...
 
