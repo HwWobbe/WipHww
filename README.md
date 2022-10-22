@@ -3,8 +3,8 @@
 * * focus on selected pages for specific Audiences
 * * * attractive shared infrastructure
 * * * * Customers' & Developers'
-* * * generalizedAdmin business model
 * AWS servers operationally month end
+* shared generalizedAdmin business model
 * ...
 
 # 2022-10:
