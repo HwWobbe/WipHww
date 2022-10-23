@@ -3,7 +3,8 @@
 * * focus on selected pages for specific Audiences
 * * * attractive shared infrastructure
 * * * * Customers' & Developers'
-* AWS servers operationally month end
+* transitioning towards NodeJs as a primary platform
+* AWS servers basically operational by the end of 2022-11
 * shared generalizedAdmin business model
 * ...
 
