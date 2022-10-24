@@ -5,8 +5,8 @@
 * * * * Customers' & Developers'
 * * * * LessonsRecalled (Checklists from the past) 
 * * * * * are also important (in proportion to the conseqneces of being Forgotten)
-* transitioning towards NodeJs as a primary platform
 * AWS servers basically operational by the end of 2022-11
+* transitioning towards NodeJs as a primary platform
 * shared generalizedAdmin business model
 * ...
 
