@@ -3,7 +3,8 @@
 * * focus on selected ( LessonsLearned ) pages for specific Audiences
 * * * attractive shared infrastructure
 * * * * Customers' & Developers'
-* * * * LessonsRecalled (Checklists from the past) are also important (in proportion to the conseqneces of being Forgotten)
+* * * * LessonsRecalled (Checklists from the past) 
+* * * * * are also important (in proportion to the conseqneces of being Forgotten)
 * transitioning towards NodeJs as a primary platform
 * AWS servers basically operational by the end of 2022-11
 * shared generalizedAdmin business model
