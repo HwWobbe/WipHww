@@ -1,6 +1,6 @@
 # 2022-11:
 * Annual Report(s) preparation
-* * focus on selected pages for specific Audiences
+* * focus on selected ( LessonsLearned ) pages for specific Audiences
 * * * attractive shared infrastructure
 * * * * Customers' & Developers'
 * transitioning towards NodeJs as a primary platform
