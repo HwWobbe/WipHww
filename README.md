@@ -7,6 +7,7 @@
 * * * * * ... are also important (in proportion to the conseqneces of being Forgotten)
 * AWS servers basically operational by the end of 2022-11
 * transitioning towards NodeJs as a primary platform
+* * * BobH is a useful stepping_stone
 * shared generalizedAdmin business model
 * ...
 
