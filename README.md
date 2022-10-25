@@ -8,6 +8,7 @@
 * AWS servers basically operational by the end of 2022-11
 * transitioning towards NodeJs as a primary platform
 * * * BobH is a useful stepping_stone
+* * * * this is being tested at TiddlyHost
 * shared generalizedAdmin business model
 * ...
 
