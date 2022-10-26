@@ -7,7 +7,7 @@
 * * * * * ... are also important (in proportion to the conseqneces of being Forgotten)
 * AWS servers (backEnd) basically operational by the end of 2022-11
 * Tw frontEnd is assumed
-** transitioning towards NodeJs as a primary platform
+* * transitioning towards NodeJs as a primary platform
 * * * BobH is a useful stepping_stone
 * * * * this is being tested at TiddlyHost
 * shared generalizedAdmin business model
