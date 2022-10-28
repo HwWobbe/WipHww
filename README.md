@@ -4,7 +4,7 @@
 * * * attractive shared infrastructure
 * * * * Customers' & Developers'
 * * * * LessonsRecalled (Checklists from the past) ...
-* * * * * ... are also important (in proportion to the conseqneces of being Forgotten)
+* * * * * ... are also important (in proportion to the consequences of being Forgotten)
 * AWS servers (backEnd) basically operational 
 * * by the end of 2022-11
 * Tw frontEnd is assumed
