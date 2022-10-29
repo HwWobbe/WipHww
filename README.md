@@ -8,10 +8,10 @@
 * AWS servers (backEnd) basically operational 
 * * in 2022-11
 * * * sub-Build procedures initiated
-* Tw frontEnd is assumed
-* * transitioning towards NodeJs as a primary platform
-* * * BobH is a useful stepping_stone
-* * * * this is being tested at TiddlyHost
+* * Tw frontEnd is assumed
+* * * transitioning towards NodeJs as a primary platform
+* * * * BobH is a useful stepping_stone
+* * * * * this is being tested at TiddlyHost
 * shared generalizedAdmin business model
 * ...
 * 2026-w40 is the next Business cycle Peak.
