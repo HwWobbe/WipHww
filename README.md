@@ -2,7 +2,7 @@
 * Annual Report(s) preparation
 * * focus on selected ( LessonsLearned ) pages for specific Audiences
 * * * attractive shared infrastructure
-* * * * Customers' & Developers'
+* * * * Customers' & Operations' & Developers'
 * * * * LessonsRecalled (Checklists from the past) ...
 * * * * * ... are also important (in proportion to the consequences of being Forgotten)
 * AWS servers (backEnd) basically operational 
