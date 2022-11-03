@@ -20,6 +20,7 @@
 * ...
 * 2026-w40 is the next Business cycle Peak.
 * * use the weekSymbols
+* rudimentary Comments invitation
 * Archive the following material: 
 
 # 2022-10:
