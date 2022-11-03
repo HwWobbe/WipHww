@@ -19,7 +19,7 @@
 * shared generalizedAdmin business model
 * ...
 * 2026-w40 is the next Business cycle Peak.
-** use the weekSymbols
+* * use the weekSymbols
 
 # 2022-10:
 * Bob.ExE review
