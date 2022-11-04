@@ -20,6 +20,9 @@
 * ...
 * 2026-w40 is the next Business cycle Peak.
 * * use the weekSymbols
+* Integrity is parmount
+* * Identity trust is critical
+* * * a Seed attack seems to have been thwarted
 * rudimentary Comments invitation
 * Archive the following material: 
 
