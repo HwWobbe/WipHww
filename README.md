@@ -24,6 +24,7 @@
 * * Identity trust is critical
 * * * a Seed attack seems to have been thwarted
 * rudimentary Comments invitation
+* review https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
 * Archive the following material: 
 
 # 2022-10:
