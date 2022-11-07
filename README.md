@@ -4,13 +4,6 @@
 
 <hr>
 
-* Annual Report(s) preparation
-* * focus on selected ( LessonsLearned ) pages for specific Audiences
-* * * attractive shared infrastructure
-* * * * Customers' & Operations' & Developers'
-* * * * LessonsRecalled (Checklists from the past) ...
-* * * * * ... are also important (in proportion to the consequences of being Forgotten)
-* * be taught PDF content mixAndMatch methods
 * AWS servers (backEnd) basically operational 
 * * in 2022-11
 * * * sub-Build procedures to be initiated
@@ -29,6 +22,14 @@
 * * * a Seed attack seems to have been thwarted
 * rudimentary Comments invitation
 * review https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
+
+##  Annual Report(s) preparation
+* focus on selected ( LessonsLearned ) pages for specific Audiences
+* * attractive shared infrastructure
+* * * Customers' & Operations' & Developers'
+* * * LessonsRecalled (Checklists from the past) ...
+* * * * ... are also important (in proportion to the consequences of being Forgotten)
+* be taught PDF content mixAndMatch methods
 
 ## MySql in WASM
 * to support TiddlyWiki
