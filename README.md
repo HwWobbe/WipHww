@@ -1,6 +1,9 @@
 # 2022-11:
 * quickLinks:
 * * https://github.com/HwWobbe/WipHww/blob/main/0.0%20Lede.md#-00-coverslede
+
+<hr>
+
 * Annual Report(s) preparation
 * * focus on selected ( LessonsLearned ) pages for specific Audiences
 * * * attractive shared infrastructure
