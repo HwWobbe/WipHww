@@ -1,6 +1,5 @@
 # 2022-11:
 * quickLinks:
-* * https://github.com/HwWobbe/WipHww/blob/main/README.md#mysql-in-wasm
 * * https://github.com/HwWobbe/WipHww/blob/main/0.0%20Lede.md#-00-coverslede
 * Annual Report(s) preparation
 * * focus on selected ( LessonsLearned ) pages for specific Audiences
