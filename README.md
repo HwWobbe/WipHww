@@ -26,7 +26,7 @@
 * * * a Seed attack seems to have been thwarted
 * rudimentary Comments invitation
 * review https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
-* Archive the following material: 
+* Archive the following material (not really needed if linkToSub-title): 
 
 ## MySql in WASM
 * to support TiddlyWiki
