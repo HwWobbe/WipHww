@@ -27,7 +27,7 @@
 * Archive the following material: 
 
 ## MySql in WASM
-* ...
+* to support TiddlyWiki
 
 # 2022-10:
 * Bob.ExE review
