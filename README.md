@@ -15,8 +15,6 @@
 * * * transitioning towards NodeJs as a primary platform
 * * * * BobH is a useful stepping_stone
 * * * * * this is being tested at TiddlyHost
-* MySql in WASM
-* * ...
 * shared generalizedAdmin business model
 * ...
 * 2026-w40 is the next Business cycle Peak.
