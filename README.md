@@ -7,8 +7,6 @@
 * Integrity is parmount
 * * Identity trust is critical
 * * * a Seed attack seems to have been thwarted
-* rudimentary Comments invitation
-* review https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
 
 ##  Annual Report(s) preparation
 * focus on selected ( LessonsLearned ) pages for specific Audiences
@@ -38,7 +36,11 @@
 ## 2026 Plans preparation
 * 2026-w40 is the next Business cycle Peak.
 * * use the weekSymbols
-* 
+
+## Maintain & enhance
+* rudimentary Comments invitation
+* review https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
+
 <hr>
 
 * Archive the following material (not really needed if linkToSub-title): 
