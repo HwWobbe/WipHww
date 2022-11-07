@@ -1,4 +1,6 @@
 # 2022-11:
+* quickLinks:
+* * https://github.com/HwWobbe/WipHww/blob/main/README.md#mysql-in-wasm
 * Annual Report(s) preparation
 * * focus on selected ( LessonsLearned ) pages for specific Audiences
 * * * attractive shared infrastructure
