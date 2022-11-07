@@ -28,6 +28,9 @@
 * review https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
 * Archive the following material: 
 
+## MySql in WASM
+* ...
+
 # 2022-10:
 * Bob.ExE review
 * * locatorPlugin review to optimize panWiki use prior to a major re-design of NodeJs use.
