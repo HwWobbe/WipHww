@@ -4,15 +4,6 @@
 
 <hr>
 
-* AWS servers (backEnd) basically operational 
-* * in 2022-11
-* * * sub-Build procedures to be initiated
-* * * * consider the implications within xememex
-* * * * * TiddlyWiki at Scale!
-* * Tw frontEnd is assumed
-* * * transitioning towards NodeJs as a primary platform
-* * * * BobH is a useful stepping_stone
-* * * * * this is being tested at TiddlyHost
 * shared generalizedAdmin business model
 * ...
 * 2026-w40 is the next Business cycle Peak.
@@ -30,6 +21,16 @@
 * * * LessonsRecalled (Checklists from the past) ...
 * * * * ... are also important (in proportion to the consequences of being Forgotten)
 * be taught PDF content mixAndMatch methods
+
+## AWS servers (backEnd) basically operational 
+* in 2022-11
+* * sub-Build procedures to be initiated
+* * * consider the implications within xememex
+* * * * TiddlyWiki at Scale!
+* Tw frontEnd is assumed
+* * transitioning towards NodeJs as a primary platform
+* * * BobH is a useful stepping_stone
+* * * * this is being tested at TiddlyHost
 
 ## MySql in WASM
 * to support TiddlyWiki
