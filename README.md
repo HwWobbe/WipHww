@@ -85,10 +85,11 @@
 
 # 2022-08:
 * -08-31: considering: https://github.com/Jermolene/TiddlyWiki5/issues/6499
+* -08-27: 
+* * noted @simon's use of gitHub/wiki pages for additional documentation.  Assume this is at least goodPractice
+* * static tw.html at GitHub ( / @Tony ) may work
 * -08-21: ( tried linking via Hypothesis )FAIL - for now.
-* * -08-27: 
-* * * noted @simon's use of gitHub/wiki pages for additional documentation.  Assume this is at least goodPractice
-* * * static tw.html at GitHub ( / @Tony ) may work
+* * Create a PR for one of these files that I can then pull into the DIG repo.
 * -08-20: it is becoming obvious that shared, dynamic Task lists are increasingly important as these activities scale up.
 * * reviewing Notion ; Hypothesis ; GitHub ; ...
 * * * Notion is apparently a popular toll for this type of collaboration
