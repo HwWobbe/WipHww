@@ -1,8 +1,98 @@
+# 2022-11:
+* Annual Report(s) preparation
+* * focus on selected ( LessonsLearned ) pages for specific Audiences
+* * * attractive shared infrastructure
+* * * * Customers' & Operations' & Developers'
+* * * * LessonsRecalled (Checklists from the past) ...
+* * * * * ... are also important (in proportion to the consequences of being Forgotten)
+* * be taught PDF content mixAndMatch methods
+* AWS servers (backEnd) basically operational 
+* * in 2022-11
+* * * sub-Build procedures to be initiated
+* * * * consider the implications within xememex
+* * * * * TiddlyWiki at Scale!
+* * Tw frontEnd is assumed
+* * * transitioning towards NodeJs as a primary platform
+* * * * BobH is a useful stepping_stone
+* * * * * this is being tested at TiddlyHost
+* MySql in WASM
+* * ...
+* shared generalizedAdmin business model
+* ...
+* 2026-w40 is the next Business cycle Peak.
+* * use the weekSymbols
+* Integrity is parmount
+* * Identity trust is critical
+* * * a Seed attack seems to have been thwarted
+* rudimentary Comments invitation
+* review https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
+* Archive the following material: 
+
+# 2022-10:
+* Bob.ExE review
+* * locatorPlugin review to optimize panWiki use prior to a major re-design of NodeJs use.
+* * link to the BobExe repo.
+* review plans & select priorities 
+* *  2022-10-25: "4 year cycle" completion
+* * * LessonsLearned
+* * considering projects / growing & taxPlanning 
+* * * these must be ranked by the business development needs
+* * the logic for this may need to be implemented as a TwHost file
+* * * review various folder structure recommendations
+* * * re-view workFlows starting from various entry points
+
+!! sponsorships
+* calculate the budget for an expansion of this activity
+* * Integrste this with other "fractional" service arrangements
+* * * Discuss with CJ the addition of JR to the ES team
+
+## maintenance
+* refine GIST / Repository interfaces
+* consider GitLab self-hosted
+* archive -09- entries
+* Fork DataFix-com
+
+# 2022-09:
+* ...-23: StackEdit sync digression
+* * -25: the objective is a signifiacnt expansion of our distributed Server farms ( mindful of DAO principles )
+* * * review CJ's portals (aw well as my own)
+* ...-21: Reviewing and revising Gists.
+* examining REPL(s)
+* * link: ...
+* likely off-net from -09-16 until -09-20 inclusive, due to travel
+* Gists have changed enough to warrant investigation before use.
+* * Also review stackEdit
+* Investigate DiigoH <> gMail
+* * https://diigo.com/0puuey
+* * * looks quite promising for my useCases
+* https://github.com/qbit/widdler
+* Link to Mario's recent best Practices response
+* * find the pertinent Tid
+* investigate Gist(s) further
+* * * confirm they are (by nature) public, and that they are just simply HTML
+* * * * that might be part of the hosting puzzle.  ( Check this against some of the GitHub hosted TW files
+* followup needed
+* * Awaiting Eric's response to my proposal to extend Sponsorships.
+* https://github.com/hk21702
+* start designing the cascade-migration methodologies
+* * ideally these will be sub-contracted (so the decumentaion will need to be better.
+* * * should this arfchitecture be discussed with the Community?
+
+## emerging Topics summary
+* ...
+* does Revert perform a decrement?
+* Continue to learn GIT
+
 # 2022-08:
+* -08-31: considering: https://github.com/Jermolene/TiddlyWiki5/issues/6499
+* -08-27: 
+* * noted @simon's use of gitHub/wiki pages for additional documentation.  Assume this is at least goodPractice
+* * static tw.html at GitHub ( / @Tony ) may work
 * -08-21: ( tried linking via Hypothesis )FAIL - for now.
 * * Create a PR for one of these files that I can then pull into the DIG repo.
 * -08-20: it is becoming obvious that shared, dynamic Task lists are increasingly important as these activities scale up.
 * * reviewing Notion ; Hypothesis ; GitHub ; ...
+* * * Notion is apparently a popular toll for this type of collaboration
 * * * GitHub PRs would be a particular boon
 ## -08-16: floating the BaByTw idea ...
 * ... as a trial balloon with a few Advisors 
