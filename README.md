@@ -4,7 +4,6 @@
 
 <hr>
 
-* * use the weekSymbols
 * Integrity is parmount
 * * Identity trust is critical
 * * * a Seed attack seems to have been thwarted
@@ -38,7 +37,8 @@
 
 ## 2026 Plans preparation
 * 2026-w40 is the next Business cycle Peak.
-
+* * use the weekSymbols
+* 
 <hr>
 
 * Archive the following material (not really needed if linkToSub-title): 
