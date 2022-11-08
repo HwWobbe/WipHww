@@ -30,8 +30,9 @@
 * to support TiddlyWiki
 
 * https://github.com/HwWobbe/WipHww/commit/0c9d00b34d4f9ea616893396af0919b18d9acd95
+* considering parallel development of three+ ideas to identify "low-hanging fruit".
 
-## https://github.com/Data-Integrity-Group
+### https://github.com/Data-Integrity-Group
 
 ## shared generalizedAdmin business model
 
