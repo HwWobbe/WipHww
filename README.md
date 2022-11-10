@@ -44,6 +44,7 @@
 ## 2026 Plans preparation
 * 2026-w40 is the next Business cycle Peak.
 * * use the weekSymbols
+* * * structure workflows to support and encourage MicroContent ( MetaSymbols ) migrations
 
 ## Maintain & enhance
 * rudimentary Comments invitation
