@@ -19,7 +19,7 @@
 
 ## AWS servers (backEnd) basically operational 
 * in 2022-11
-* * sub-Build procedures to be initiated
+* * sub-Build procedures to be initiated (as a Project?)
 * * * consider the implications within xememex
 * * * * TiddlyWiki at Scale!
 * Tw frontEnd is assumed
