@@ -6,7 +6,7 @@
 
 * Integrity is parmount
 * * Identity trust is critical
-* * * a Seed attack seems to have been thwarted
+* * * a Seed attack seems to have been detected
 
 ##  Annual Report(s) preparation
 * focus on selected ( LessonsLearned ) pages for specific Audiences
