@@ -6,7 +6,8 @@
 
 * Integrity is parmount
 * * Identity trust is critical
-* * * a Seed attack seems to have been detected
+* * * a harmless Seed attack seems to have been detected
+* * * * proactive refinements may be needed
 
 ##  Annual Report(s) preparation
 * focus on selected ( LessonsLearned ) pages for specific Audiences
