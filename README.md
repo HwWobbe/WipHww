@@ -12,6 +12,7 @@
 * * Identity trust is critical
 * * * a harmless Seed attack seems to have been detected
 * * * * proactive refinements may be needed
+* * * * discuss this with Authorities
 
 ##  Annual Report(s) preparation
 * focus on selected ( LessonsLearned ) pages for specific Audiences
