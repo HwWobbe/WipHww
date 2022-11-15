@@ -5,6 +5,7 @@
 * discuss nextSteps:
 * * extending DefDate uses
 * * Subject notification (including Occupant)
+* * * confirm this is low-hanging-fruit
 
 <hr>
 
