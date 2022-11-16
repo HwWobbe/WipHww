@@ -7,6 +7,8 @@
 * * Subject notification (including Occupant)
 * * * confirm this is low-hanging-fruit
 * * * * revew the generally accepted libraries (see email)
+* start moving more material into Folders
+** https://github.com/Data-Integrity-Group/main/blob/main/README.md
 
 <hr>
 
