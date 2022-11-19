@@ -34,6 +34,7 @@
 * * * consider the implications within xememex
 * * * * TiddlyWiki at Scale!
 * Tw frontEnd is assumed
+* Evernote appears to now be much less useful to me.
 * * transitioning towards NodeJs as a primary platform
 * * * BobH is a useful stepping_stone
 * * * * this is being tested at TiddlyHost
