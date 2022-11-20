@@ -4,7 +4,7 @@
 * * https://github.com/HwWobbe/WipHww/blob/main/7.9.7%20Tasks.md
 * discuss nextSteps:
 * * extending DefDate uses
-* * Subject notification (including Occupant)
+* * Subject notification (including ExpressConsent with a NotificationOfUses by/for Occupant)
 * * * confirm this is low-hanging-fruit
 * * * * revew the generally accepted libraries (see email)
 * * * start designing this particulatly for a TreeFort API
