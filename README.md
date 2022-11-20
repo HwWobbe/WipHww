@@ -28,7 +28,8 @@
 * * * * ... are also important (in proportion to the consequences of being Forgotten)
 * * * outline the ProjectFunding request
 * be taught PDF content mixAndMatch methods
-
+* * start by re-testing RemarkableH capabilities
+* * * review FunctionalProgramming
 ## AWS servers (backEnd) basically operational 
 * in 2022-11
 * * sub-Build procedures to be initiated (as a Project?)
