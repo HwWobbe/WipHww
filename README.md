@@ -10,7 +10,7 @@
 * * Subject notification (including ExpressConsent with a NotificationOfUses by/for Occupant)
 * * * confirm this is low-hanging-fruit
 * * * * revew the generally accepted libraries (see email)
-* * * start designing this particulatly for a TreeFort API
+* * * start designing this particulatly for a TfApi ( CamelCase )
 * start moving more material into Folders
 * * https://github.com/Data-Integrity-Group/main/blob/main/README.md
 * * * break out the older content
