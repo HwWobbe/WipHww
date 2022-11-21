@@ -4,6 +4,9 @@
 * * https://github.com/HwWobbe/WipHww/blob/main/7.9.7%20Tasks.md
 * discuss nextSteps:
 * * extending DefDate uses
+* * * TfPrototype(s) should be possible
+* * * * A scaled-up Aggregation Business model will provided the needed funding
+* * * * * Consider the possible Rates of Progress
 * * Subject notification (including ExpressConsent with a NotificationOfUses by/for Occupant)
 * * * confirm this is low-hanging-fruit
 * * * * revew the generally accepted libraries (see email)
