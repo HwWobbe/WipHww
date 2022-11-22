@@ -19,7 +19,7 @@
 
 <hr>
 
-* Election Integrity is parmount (lest Trumpty Dumpty wins)
+* Election Integrity is parmount (lest TrumptyDumpty wins)
 * * Identity trust is critical
 * * * a harmless Seed attack seems to have been detected
 * * * * proactive refinements may be needed
