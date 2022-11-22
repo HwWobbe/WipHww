@@ -4,7 +4,8 @@
 * * https://github.com/HwWobbe/WipHww/blob/main/7.9.7%20Tasks.md
 * TtT: Geo...
 * discuss nextSteps:
-* * extending DefDate uses
+* * TtT: TurfJs & GeoJson
+* * extending DefDate AdMan.Ca uses
 * * * TfPrototype(s) should be possible
 * * * * A scaled-up Aggregation Business model will provided the needed funding
 * * * * * Consider the possible Rates of Progress
