@@ -15,6 +15,7 @@
 * * * start designing this particulatly for a TfApi ( CamelCase )
 * start moving more material into Folders
 * * https://github.com/Data-Integrity-Group/main/blob/main/README.md
+* * * confirm this is being done effectively
 * * * break out the older content
 
 <hr>
