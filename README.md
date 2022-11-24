@@ -55,6 +55,7 @@
 <hr>
 
 * considering parallel development of three+ ideas to identify "low-hanging fruit".
+* build interfaces among the diverse active repo(s)
 
 <hr>
 
