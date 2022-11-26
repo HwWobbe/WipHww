@@ -13,11 +13,11 @@
 * * * confirm this is low-hanging-fruit
 * * * * revew the generally accepted libraries (see email)
 * * * start designing this particulatly for a TfApi ( CamelCase )
-* start moving more material into Folders
+* move more material into Folders
 * * https://github.com/Data-Integrity-Group/main/blob/main/README.md
 * * * confirm this is being done effectively
 * * * break out the older content
-* increased use of folders is essential to reduce scrolling
+* * increased use of folders is essential to reduce scrolling
 
 <hr>
 
