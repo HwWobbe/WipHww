@@ -2,7 +2,8 @@
 * quickLinks:
 * * https://github.com/HwWobbe/WipHww/blob/main/0.0%20Lede.md#-00-coverslede
 * * https://github.com/HwWobbe/WipHww/blob/main/7.9.7%20Tasks.md
-* * link to LzH.public (perhaps for AnJ)
+* * link to LzH.public 
+* * * perhaps for AnJ too
 * TtT: Geo...
 * discuss nextSteps:
 * * TtT: TurfJs & GeoJson
