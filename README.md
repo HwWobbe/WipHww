@@ -1,3 +1,5 @@
+# 2022-12:
+
 # 2022-11:
 * quickLinks:
 * * https://github.com/HwWobbe/WipHww/blob/main/0.0%20Lede.md#-00-coverslede
