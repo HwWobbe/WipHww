@@ -9,6 +9,9 @@
 * TtT: Geo...
 * discuss nextSteps:
 * * TtT: TurfJs & GeoJson
+* * * Assume TidNames will be PlusCodes
+* * * * respect the "continumm" cosiderations that are more generic.
+* * * * * consider the uncertainties
 * * extending DefDate AdMan.Ca uses
 * * * TfPrototype(s) should be possible
 * * * * A scaled-up Aggregation Business model will provided the needed funding
