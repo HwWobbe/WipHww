@@ -1,4 +1,5 @@
 # 2022-12:
+* enhancing: ⮣ThH TiddlyHost
 
 # 2022-11:
 * quickLinks:
