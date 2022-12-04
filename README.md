@@ -1,5 +1,5 @@
 # 2022-12:
-* enhancing: ⮣ThH TiddlyHost
+* testing and enhancing: ⮣ThH2TiddlyHost for ContentMigration into various Pub.lished environments.
 
 # 2022-11:
 * quickLinks:
