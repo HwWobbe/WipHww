@@ -2,6 +2,9 @@
 * testing and enhancing: ⮣ThH2TiddlyHost for ContentMigration into various Pub.lished environments.
 * Fi: @PB has a link directly to a specific gNotes item.
 * * proceduralize this to improve MicroContent jumps
+* reZh: consider https://github.com/btrower/tut
+* * considering the ...Zh syllable as a distinct suffix
+
 # 2022-11:
 * quickLinks:
 * * https://github.com/HwWobbe/WipHww/blob/main/0.0%20Lede.md#-00-coverslede
