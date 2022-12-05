@@ -6,6 +6,7 @@
 * * https://angular.io/start
 * * * https://github.com/btrower/tut
 * * considering the ...Zh syllable as a distinct suffix
+* preliminary thoughts re: FilterAlgebra
 
 <hr>
 
