@@ -1,7 +1,7 @@
 # 2022-12:
 * testing and enhancing: ⮣ThH2TiddlyHost for ContentMigration into various Pub.lished environments.
 * * Focus more on NodeJs editions.
-* * * consider the fundamental Geo. 
+* * * consider the fundamental Geo. primitives.
 * Fi: @PB has a link directly to a specific gNotes item.
 * * proceduralize this to improve MicroContent jumps
 * reZh: considering:
