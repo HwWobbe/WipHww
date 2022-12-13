@@ -1,5 +1,5 @@
 # 2022-12:
-* review geoPrimitives work
+* review * enhance the geoDemos work
 * testing and enhancing: ⮣ThH2TiddlyHost for ContentMigration into various Pub.lished environments.
 * * Focus more on NodeJs editions.
 * * * consider the fundamental Geo. primitives.
