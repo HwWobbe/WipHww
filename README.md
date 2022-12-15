@@ -1,5 +1,7 @@
 # 2022-12:
 * review & enhance plans for the geoSpatial Demos work.
+* * focus on the TreeFort needs
+* * * pick a small test areathat has a high incidence of Fraud
 * testing and enhancing: ⮣ThH2TiddlyHost for ContentMigration into various Pub.lished environments.
 * * Focus more on NodeJs editions.
 * * * consider the fundamental Geo. primitives.
