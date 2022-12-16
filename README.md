@@ -4,7 +4,7 @@
 * * * pick a small test areathat has a high incidence of Fraud
 * testing and enhancing: ⮣ThH2TiddlyHost for ContentMigration into various Pub.lished environments.
 * * Focus more on NodeJs editions.
-* * * consider the fundamental Geo. primitives.
+* * * consider the fundamental geoSpatial primitives that will be needed in the demos
 * plan an initial hybrid workflow.
 * Fi: @PB has a link directly to a specific gNotes item.
 * * proceduralize this to improve MicroContent jumps
