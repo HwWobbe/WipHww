@@ -1,3 +1,9 @@
+# 2023-01:
+* review the Fundamental design assumptions for 2023
+* * ...
+## 2023 Challenges:
+...
+
 # 2022-12:
 * review & enhance plans for the geoSpatial Demos work.
 * * focus on the TreeFort needs
