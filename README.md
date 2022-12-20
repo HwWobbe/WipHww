@@ -4,6 +4,9 @@
 * ...
 
 ## 2023 Challenges:
+* GeoSpatial implementation(s)
+* * * Real Estate
+* * * Albums
 * improve budgeting throughout the 2026 Events
 
 <hr>
