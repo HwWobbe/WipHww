@@ -2,7 +2,7 @@
 * review the Fundamental design assumptions for 2023
 * * ...
 ## 2023 Challenges:
-...
+* improve budgeting throughout the 2026 Events
 
 # 2022-12:
 * review & enhance plans for the geoSpatial Demos work.
