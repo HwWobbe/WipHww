@@ -1,3 +1,6 @@
+## 2023 quickLinks
+* ...
+
 # 2023-01:
 * review the Fundamental design assumptions for 2023
 * * refine Incremental Progress methodologies
