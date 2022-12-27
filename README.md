@@ -3,16 +3,15 @@
 * * refine Incremental Progress methodologies
 * https://vercel.com/new setup
 * * pick/create a repo to deploy
-* ...
-
-## 2023 Challenges:
-* GeoSpatial implementation(s)
 * * * Real Estate
 * * * * (Flikr photo) Albums
 * * * * * Drobo upgrade - confirm SATA is adequate and SSD is over-kill
 * * * * * airGap can be integrated into off-site placement 
 * * * * * with efficient transport via 4 tB chuncks
+* ...
 
+## 2023 Challenges:
+* GeoSpatial implementation(s)
 * improve budgeting throughout the 2026 Events
 
 <hr>
