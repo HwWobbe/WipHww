@@ -11,7 +11,8 @@
 * * * * (Flikr photo) Albums
 * * * * * Drobo upgrade - confirm SATA is adequate and SSD is over-kill
 * improve budgeting throughout the 2026 Events
-* * * * * airGap ??
+* * * * * airGap can be integrated into off-site placement 
+* * * * * with efficient transport via 4 tB chuncks
 
 <hr>
 
