@@ -1,6 +1,8 @@
 # 2023-01:
 * review the Fundamental design assumptions for 2023
 * * refine Incremental Progress methodologies
+* https://vercel.com/new setup
+* * pick/create a repo to deploy
 * ...
 
 ## 2023 Challenges:
