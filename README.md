@@ -1,6 +1,7 @@
 ## 2023 quickLinks
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2022-12
+* https://github.com/HwWobbe/WipHww/blob/main/README.md#202112
 
 # 2023-01:
 * review the Fundamental design assumptions for 2023
