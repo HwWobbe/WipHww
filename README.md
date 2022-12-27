@@ -4,6 +4,10 @@
 # 2023-01:
 * review the Fundamental design assumptions for 2023
 * * refine Incremental Progress methodologies
+* review & enhance plans for the geoSpatial Demos work.
+* * focus on the TreeFort needs
+* * * pick a small test area that has a high incidence of Fraud
+* * * * Ls>law ??
 * https://vercel.com/new setup
 * * pick/create a repo to deploy
 * * * Real Estate
@@ -20,10 +24,6 @@
 <hr>
 
 # 2022-12:
-* review & enhance plans for the geoSpatial Demos work.
-* * focus on the TreeFort needs
-* * * pick a small test area that has a high incidence of Fraud
-* * * * Ls>law ??
 * testing and enhancing: ⮣ThH2TiddlyHost for ContentMigration into various Pub.lished environments.
 * * Focus more on NodeJs editions.
 * * * consider the fundamental geoSpatial primitives that will be needed in the demos
