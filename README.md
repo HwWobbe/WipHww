@@ -21,7 +21,7 @@
 
 ## 2023 Challenges:
 * GeoSpatial implementation(s)
-* improve budgeting throughout the 2026 Events
+* extend budgeting throughout the 2026 Events
 
 <hr>
 
