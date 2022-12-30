@@ -4,12 +4,12 @@
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#202112
 
 # 2023-01:
-* review the Fundamental design assumptions for 2023
-* * refine Incremental Progress methodologies
 * review & enhance plans for the geoSpatial Demos work.
 * * focus on the TreeFort needs
 * * * pick a small test area that has a high incidence of Fraud
 * * * * Ls>law ??
+* review the Fundamental design assumptions for 2023
+* * refine Incremental Progress methodologies
 * https://vercel.com/new setup
 * * pick/create a repo to deploy
 * * * Real Estate
