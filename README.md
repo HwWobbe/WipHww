@@ -8,6 +8,7 @@
 * * focus on the TreeFort needs
 * * * pick a small test area that has a high incidence of Fraud
 * * * * Ls>law ??
+* ...
 * review the Fundamental design assumptions for 2023
 * * refine Incremental Progress methodologies
 * https://vercel.com/new setup
