@@ -11,7 +11,7 @@
 * ...
 * review the Fundamental design assumptions for 2023
 * * the Primary focus should be on one particular chosen repo
-* * * ...
+* * * set a secondary focus to minimize unproductive "wait-time"(s)
 * * refine the Incremental Progress methodologies
 * https://vercel.com/new setup
 * * pick/create a repo to deploy
