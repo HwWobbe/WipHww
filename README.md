@@ -10,7 +10,7 @@
 * * * * Ls>law ??
 * ...
 * review the Fundamental design assumptions for 2023
-* * refine Incremental Progress methodologies
+* * refine the Incremental Progress methodologies
 * https://vercel.com/new setup
 * * pick/create a repo to deploy
 * * * Real Estate
