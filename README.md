@@ -8,7 +8,6 @@
 * * focus on the TreeFort needs
 * * * pick a small test area that has a high incidence of Fraud
 * * * * Ls>law ??
-* ...
 * review the Fundamental design assumptions for 2023
 * * the Primary focus should be on one particular chosen repo
 * * * set a secondary focus to minimize unproductive "wait-time"(s)
