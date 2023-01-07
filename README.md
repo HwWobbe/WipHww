@@ -8,6 +8,7 @@
 * * focus on the TreeFort stated needs
 * * * propose a slow build, unless there is an obvious Needs overlap
 * * * * voice NbNs concerns at the current state of pertinent Knowledge
+* * * * distinguish Legal comfort and Underwriting Risk uses
 * * * pick a small test area that has a high incidence of Fraud
 * * * * Ls>law ??
 * offShore reply  re ...Sheets
