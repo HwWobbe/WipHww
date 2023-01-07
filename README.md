@@ -8,7 +8,7 @@
 * * focus on the TreeFort needs
 * * * pick a small test area that has a high incidence of Fraud
 * * * * Ls>law ??
-* offShore response(s)
+* offShore reply  re ...Sheets
 * review the Fundamental design assumptions for 2023
 * * changes for 2026 are essential given the trend or 2018 - 2022
 * * a primary BpH focus should be on one particular chosen repo
