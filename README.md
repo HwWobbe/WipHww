@@ -5,7 +5,9 @@
 
 # 2023-01:
 * review & enhance plans for the geoSpatial Demos work.
-* * focus on the TreeFort needs
+* * focus on the TreeFort stated needs
+* * * propose a slow build, unless there is an obvious Needs overlap
+* * * * voice NbNs concerns at the current state of pertinent Knowledge
 * * * pick a small test area that has a high incidence of Fraud
 * * * * Ls>law ??
 * offShore reply  re ...Sheets
