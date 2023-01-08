@@ -11,6 +11,8 @@
 * * * * voice NbNs concerns at the current state of pertinent Knowledge
 * * * * distinguish Legal comfort and Underwriting Risk uses
 * * * pick a small test area that has a high incidence of Fraud
+* * * * Fraud is a professional activity
+* * * * * link to the CTV news report
 * * * * Ls>law ??
 * offShore reply  re ...Sheets
 * review the Fundamental design assumptions for 2023
