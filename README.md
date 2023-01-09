@@ -5,6 +5,7 @@
 
 # 2023-01:
 * review & enhance plans for the geoSpatial Demos work.
+* * focus on FrHwo attraction that also serves EMM
 * ... GeoSpatial
 * * focus on the TreeFort stated needs
 * * * propose a slow build, unless there is an obvious Needs overlap
