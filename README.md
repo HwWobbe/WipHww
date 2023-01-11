@@ -7,6 +7,7 @@
 * review & enhance plans for the geoSpatial Demos work.
 * * focus on FrHwo attraction that also serves EMM
 * ... GeoSpatial
+* * offShore reply  re ...Sheets
 * * focus on the TreeFort stated needs
 * * * propose a slow build, unless there is an obvious Needs overlap
 * * * * voice NbNs concerns at the current state of pertinent Knowledge
@@ -15,7 +16,6 @@
 * * * * Fraud is a professional activity
 * * * * * link to the CTV news report
 * * * * Ls>law ??
-* offShore reply  re ...Sheets
 * review the Fundamental design assumptions for 2023
 * * changes for 2026 are essential given the trend or 2018 - 2022
 * * a primary BpH focus should be on one particular chosen repo
