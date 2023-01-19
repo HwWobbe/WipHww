@@ -8,6 +8,9 @@
 * * focus on FrHwo attraction that also serves EMM
 * ... GeoSpatial
 * * offShore reply  re ...Sheets
+* * * the scope of this preliminary work is purely just initial prototyping
+* * * * a second tier of Prototyping will need to be undertaken by domestic DEVs
+* * * * * ...
 * * focus on the TreeFort stated needs
 * * * propose a slow build, unless there is an obvious Needs overlap
 * * * * voice NbNs concerns at the current state of pertinent Knowledge
