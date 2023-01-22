@@ -26,6 +26,7 @@
 * * * set a secondary focus to minimize unproductive "wait-time"(s)
 * * refine the Incremental Progress methodologies
 * https://vercel.com/new setup
+* * https://vercel.com/integrations/graphjson
 * * pick/create a repo to deploy
 * * * Real Estate
 * * * * (Flikr photo) Albums
