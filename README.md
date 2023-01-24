@@ -20,6 +20,7 @@
 * * * * Fraud is a professional activity
 * * * * * link to the CTV news report
 * * * * Ls>law ??
+* * document the new "association"
 * review the Fundamental design assumptions for 2023
 * * changes for 2026 are essential given the trend or 2018 - 2022
 * * a primary BpH focus should be on one particular chosen repo
