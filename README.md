@@ -34,7 +34,7 @@
 * * * * * Drobo upgrade - confirm SATA is adequate and SSD is over-kill
 * * * * * airGap can be integrated into off-site placement 
 * * * * * with efficient transport via 4 tB chuncks
-* ...
+* tweaking TwHwUi Tw/Hw/Ui TW/hw/ui
 
 ## 2023 Challenges:
 * GeoSpatial implementation(s)
