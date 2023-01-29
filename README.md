@@ -4,7 +4,8 @@
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#202112
 
 # 2023-02:
-* ...
+* EdD efforts include enhancing the underlying Introduction(s) for specific Audiences.
+* * CRA.EdD
 
 # 2023-01:
 * review & enhance plans for the geoSpatial Demos work.
