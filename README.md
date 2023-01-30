@@ -4,6 +4,10 @@
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#202112
 
 # 2023-02:
+* excelSheets import is now a significant generic capability, 
+* * especially combined with CurbSide ExportImport capabilities, and
+* * * ...
+* * * other DefData sources
 * EdD efforts include enhancing the underlying Introduction(s) for specific Audiences.
 * * CRA.EdD
 
