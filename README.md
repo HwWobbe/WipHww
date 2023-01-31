@@ -14,7 +14,8 @@
 # 2023-01:
 * review & enhance plans for the geoSpatial Demos work.
 * * focus on FrHwo attraction that also serves EMM
-* * * strive to refine the prototype of a dataHarvesting process
+* * * refine the prototype dataHarvesting process
+* * * * dataEntry OR dataLoad edits are mandatory
 * ... GeoSpatial
 * * offShore reply  re ...Sheets
 * * * the scope of this preliminary work is purely just initial prototyping
