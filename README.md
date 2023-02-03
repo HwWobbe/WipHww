@@ -8,6 +8,7 @@
 * * especially combined with CurbSide ExportImport capabilities, and
 * * * ..., and 
 * * * * other DefData sources
+* * * optimize Input and Edit routines
 * * * review the relative use of excel & gSheets
 * EdD efforts include enhancing the underlying Introduction(s) for specific Audiences.
 * * CRA.EdD
