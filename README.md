@@ -13,6 +13,7 @@
 * EdD efforts include enhancing the underlying Introduction(s) for specific Audiences.
 * * CRA.EdD
 * * * discuss EdD continuity throughout 2026
+* NoticeToReader should be upgraded to ReviewAssignment (confirm)
 
 # 2023-01:
 * review & enhance plans for the geoSpatial Demos work.
