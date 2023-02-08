@@ -9,7 +9,7 @@
 * * * ..., and 
 * * * * other DefData sources
 * * * optimize Input and Edit routines
-* * * review the relative use of excel & gSheets
+* * * review the relative use of excel & gSheets / MrG
 * EdD efforts include enhancing the underlying Introduction(s) for specific Audiences.
 * * CRA.EdD
 * * * discuss EdD continuity throughout 2026
@@ -22,7 +22,6 @@
 * * * refine the prototype dataHarvesting process
 * * * * dataEntry OR dataLoad edits are mandatory
 * ... GeoSpatial
-* * offShore reply  re ...Sheets / MrG
 * * * the scope of this preliminary work is purely just initial prototyping
 * * * * a second tier of Prototyping will need to be undertaken by domestic DEVs
 * * * * * ...
