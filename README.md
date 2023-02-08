@@ -22,7 +22,7 @@
 * * * refine the prototype dataHarvesting process
 * * * * dataEntry OR dataLoad edits are mandatory
 * ... GeoSpatial
-* * offShore reply  re ...Sheets
+* * offShore reply  re ...Sheets / MrG
 * * * the scope of this preliminary work is purely just initial prototyping
 * * * * a second tier of Prototyping will need to be undertaken by domestic DEVs
 * * * * * ...
