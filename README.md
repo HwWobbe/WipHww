@@ -14,6 +14,7 @@
 * * CRA.EdD
 * * * discuss EdD continuity throughout 2026
 * NoticeToReader should be upgraded to ReviewAssignment (confirm)
+* * position this as "Debt is cheaper than Equity."
 * ...
 
 # 2023-01:
