@@ -15,7 +15,8 @@
 * * * discuss EdD continuity throughout 2026
 * NoticeToReader should be upgraded to ReviewAssignment (confirm)
 * * position this as "Debt is cheaper than Equity."
-* ...
+* Tools
+* * https://github.com/unicode-table/unicode-table-data
 
 # 2023-01:
 * review & enhance plans for the geoSpatial Demos work.
