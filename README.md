@@ -15,6 +15,7 @@
 * EdD efforts include enhancing the underlying Introduction(s) for specific Audiences.
 * * CRA.EdD
 * * * discuss EdD continuity throughout 2026
+* * * * Compensation updates  will enhance the value of this program.
 * NoticeToReader should be upgraded to ReviewAssignment (confirm)
 * * position this as "Debt is cheaper than Equity."
 * Tools
