@@ -4,6 +4,10 @@
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#202112
 
 # 2023-02:
+## Goal(s)
+* prototype of Movers for Targeted Revisions in M1-M9 
+* * roles: KFW.AA , JKW.Eca."Am I on the list".confirms , DPL.
+# 2023-02:
 * -02-20: 2nd round of dataLoading procedures under development.
 * * -21: results are being reviewed
 * excelSheets import is now a significant generic capability, 
