@@ -11,7 +11,8 @@
 * * * ..., and 
 * * * * other DefData sources
 * * * optimize Input and Edit routines
-* * * review the relative use of excel & gSheets / MrG
+* * * review the relative use of excel & gSheets / Sunny
+* * Jr's existing routines are mostly for Import.  Write is an additional matter that is not active.
 * EdD efforts include enhancing the underlying Introduction(s) for specific Audiences.
 * * CRA.EdD
 * * * discuss EdD continuity throughout 2026
