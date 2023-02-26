@@ -7,6 +7,9 @@
 ## Goal(s)
 * prototype of Movers for Targeted Revisions in M1-M9 
 * * roles: KFW.AA , JKW.Eca."Am I on the list".confirms , DPL.GeoJson
+### Activities:
+* ...
+
 # 2023-02:
 * -02-20: 2nd round of dataLoading procedures under development.
 * * -21: results are being reviewed
