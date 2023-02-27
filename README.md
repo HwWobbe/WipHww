@@ -6,7 +6,9 @@
 # 2023-03:
 ## Goal(s)
 * prototype of Movers for Targeted Revisions in M1-M9 
-* * roles: KFW.AA , JKW.Eca."Am I on the list".confirms , DPL.GeoJson
+* * roles: KFW.AA 
+* * JKW.Eca."Am I on the list".confirms 
+* * DPL.GeoJson
 ### Activities:
 * ...
 
