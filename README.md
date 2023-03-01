@@ -6,7 +6,7 @@
 # 2023-03:
 ## Goal(s)
 * prototype of Movers for Targeted Revisions in M1-M9 
-* * roles: KFW.AA 
+* * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
 * * JKW.Eca."Am I on the list".confirms 
 * * DPL.GeoJson
 ### Activities:
