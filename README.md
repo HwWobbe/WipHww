@@ -8,6 +8,7 @@
 * prototype of Movers for Targeted Revisions in M1-M9 
 * * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
 * * JKW.Eca."Am I on the list".confirms 
+* * * myAccount @ MPAC & ... - based on coOwner Rights
 * * DPL.GeoJson
 * TftDfN(otes): If(NotMLS) Then(use backChannel)
 
