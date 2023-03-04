@@ -9,6 +9,7 @@
 * * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
 * * JKW.Eca."Am I on the list".confirms 
 * * * myAccount @ MPAC & ... - based on coOwner Rights
+* * * * myAgent can ... ( if stalled )
 * * DPL.GeoJson
 * TftDfN(otes): If(NotMLS) Then(use backChannel)
 
