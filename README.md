@@ -12,7 +12,7 @@
 * * * * myAgent can ... ( if stalled )
 * * DPL.GeoJson
 * TftDfN(otes): If(NotMLS) Then(use backChannel)
-* * 03.08: emerging BusinessPlan discussions in conjunction with AdManCa
+* * 03.08: emerging BusinessPlan (in conjunction with AdManCa) discussions
 * * LsH re RE.Leslie
 
 ### Activities:
