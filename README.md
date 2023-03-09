@@ -16,7 +16,7 @@
 * * LsH re RE.Leslie
 
 ### Activities:
-* ...
+* Preparing to ImportExport GeoJson data into the XememexH and CurbSide environments.
 
 # 2023-02:
 * -02-20: 2nd round of dataLoading procedures under development.
