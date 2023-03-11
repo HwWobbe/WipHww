@@ -27,6 +27,7 @@
 * * DPL.GeoJson
 * Archiving ( of TpInfo ) is needed.
 * * consider MarkUp differences and ghow to resolve them efficiently
+* * * try a simple CutAndPaste
 * push to 20 edits to see when the denity indicator changes, before starting on other Repos.
 
 ### Done
