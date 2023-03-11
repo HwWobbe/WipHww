@@ -13,7 +13,8 @@
 * * DPL.GeoJson
 * TftDfN(otes): If(NotMLS) Then(use backChannel)
 * * 03.08: emerging BusinessPlan (in conjunction with AdManCa) discussions
-* * LsH re RE.Leslie
+* * * common AdMan interests need to be identified
+* LsH re RE.Leslie
 
 ### Activities:
 * Preparing to ImportExport GeoJson data into the XememexH and CurbSide environments.
