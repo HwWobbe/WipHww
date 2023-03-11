@@ -27,7 +27,7 @@
 * * DPL.GeoJson
 * Archiving ( of TpInfo ) is needed.
 * * consider MarkUp differences and ghow to resolve them efficiently
-* ...
+* push to 20 edits to see when the denity indicator changes, before starting on other Repos.
 
 ### Done
 * Prepared ImportExport GeoJson data into the XememexH and CurbSide environments.
