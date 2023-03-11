@@ -18,6 +18,12 @@
 ### Activities:
 * ...
 * focus on initial Presentations 
+* * points to be made include:
+* * * Concepts:
+* * * * LaLo - OpenSouorce
+* * * * * Dis-aggregated dataEntry 
+* * * * * ethical Subject rights (as a co-owner) via ExpressConsent
+* * * * * * IdentityManagement solutions are exploding in response to re-invigored Fraud
 * * DPL.GeoJson
 * ...
 
