@@ -17,7 +17,12 @@
 * LsH re RE.Leslie
 
 ### Activities:
-* Preparing to ImportExport GeoJson data into the XememexH and CurbSide environments.
+* ...
+* 
+### Done
+* Prepared ImportExport GeoJson data into the XememexH and CurbSide environments.
+* * these now appear as "virtual" fields
+* * * they may need to load as "real" Fields
 
 # 2023-02:
 * -02-20: 2nd round of dataLoading procedures under development.
