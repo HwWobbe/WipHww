@@ -13,7 +13,7 @@
 * * DPL.GeoJson
 * TftDfN(otes): If(NotMLS) Then(use backChannel)
 * * 03.08: emerging BusinessPlan (in conjunction with AdManCa) discussions
-* * * common AdMan interests need to be identified
+* * * 03.11: common AdMan interests need to be identified
 * LsH re RE.Leslie
 
 ### Activities:
