@@ -25,6 +25,8 @@
 * * * * * ethical Subject rights (as a co-owner) via ExpressConsent
 * * * * * * IdentityManagement solutions are exploding in response to re-invigored Fraud
 * * DPL.GeoJson
+* Archiving ( of TpInfo ) is needed.
+* * consider MarkUp differences and ghow to resolve them efficiently
 * ...
 
 ### Done
