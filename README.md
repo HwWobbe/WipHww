@@ -18,7 +18,9 @@
 
 ### Activities:
 * ...
-* 
+* focus on initial Presentations 
+* ...
+
 ### Done
 * Prepared ImportExport GeoJson data into the XememexH and CurbSide environments.
 * * these now appear as "virtual" fields
