@@ -15,6 +15,7 @@
 * * 03.08: emerging BusinessPlan (in conjunction with AdManCa) discussions
 * * * 03.11: common AdMan interests need to be identified
 * LsH re RE.Leslie
+* there is a definite Update lag.
 
 ### Activities:
 * ...
