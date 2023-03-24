@@ -10,6 +10,7 @@
 * * JKW.Eca."Am I on the list".confirms 
 * * * myAccount @ MPAC & ... - based on coOwner Rights
 * * * * myAgent can ... ( if stalled )
+* consider SSM talks
 * TftDfN(otes): If(NotMLS) Then(use backChannel)
 * * 03.08: emerging BusinessPlan (in conjunction with AdManCa) discussions
 * * * 03.11: common AdMan interests need to be identified
