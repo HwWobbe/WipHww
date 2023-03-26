@@ -14,6 +14,7 @@
 * TftDfN(otes): If(NotMLS) Then(use backChannel)
 * * 03.08: emerging BusinessPlan (in conjunction with AdManCa) discussions
 * * * 03.11: common AdMan interests need to be identified
+* OurGaols vs. MyGoals must be the basis of collaboration
 * LsH re RE.Leslie
 * there is a definite Update lag.
 
