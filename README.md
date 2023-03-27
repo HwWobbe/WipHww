@@ -19,6 +19,7 @@
 * OurGaols vs. MyGoals must be the basis of collaboration
 * LsH re RE.Leslie
 * there is a definite Update lag.
+* ...
 
 ### Activities:
 * ...
