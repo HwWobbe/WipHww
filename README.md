@@ -18,6 +18,9 @@
 * * * 03.11: common AdMan interests need to be identified
 * OurGaols vs. MyGoals must be the basis of collaboration
 * LsH re RE.Leslie
+* International Banking is becoming intolerable complicated.
+* * this is obviously a be-spoke business opportunity.
+* * * BDC or EDC ??
 * there is a definite Update lag.
 * ...
 
