@@ -38,7 +38,7 @@
 * * consider MarkUp differences and ghow to resolve them efficiently
 * * * try a simple CutAndPaste
 * push to 20 edits to see when the denity indicator changes, before starting on other Repos.
-* * this limit may be >25
+* * this limit may be >25 given the apparent difference betwee 17 & >25
 
 ### Done
 * Prepared ImportExport GeoJson data into the XememexH and CurbSide environments.
