@@ -25,8 +25,6 @@
 * International Banking is becoming intolerable complicated.
 * * this is obviously a be-spoke business opportunity.
 * * * BDC or EDC ??
-* there is a definite Update lag.
-* ...
 
 ### Activities:
 * ...
@@ -48,6 +46,8 @@
 * Prepared ImportExport GeoJson data into the XememexH and CurbSide environments.
 * * these now appear as "virtual" fields
 * * * they may need to load as "real" Fields
+* Confirmed: there can be a significant Update lag.
+* ...
 
 # 2023-02:
 * -02-20: 2nd round of dataLoading procedures under development.
