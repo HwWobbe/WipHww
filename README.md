@@ -7,7 +7,7 @@
 * review the missing M.. listings
 * .if.: EdD2022 review .then.: introduce this as a log of (offShore) assignements that needed (domestic)Testing
 * * Observations implicate the Covid effects / reduced buyer expereinced staff
-
+* * * Marches 
 # 2023-03:
 ## Goal(s)
 * prototype of Movers for Targeted Revisions in M1-M9 
