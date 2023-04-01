@@ -6,7 +6,7 @@
 # 2023-04:
 * review the missing M.. listings
 * .if.: EdD2022 review .then.: introduce this as a log of (offShore) assignements that needed (domestic)Testing
-* * Observations implicate the Covid effects
+* * Observations implicate the Covid effects / reduced buyer expereinced staff
 
 # 2023-03:
 ## Goal(s)
