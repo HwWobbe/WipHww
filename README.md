@@ -6,7 +6,7 @@
 # 2023-04:
 * review the missing M.. listings
 * .if.: EdD2022 review .then.: introduce this as a log of (offShore) assignements that needed (domestic)Testing
-* * Observations implicate the Covid effects / reduced buyer expereinced staff
+* * Observations implicate the Covid effects / reduced buyer experienced staff
 * * * April's 7 was darker than March's 29
 
 # 2023-03:
