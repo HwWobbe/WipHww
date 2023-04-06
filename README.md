@@ -9,6 +9,12 @@
 * * Observations implicate the Covid effects / reduced buyer experienced staff
 * * * April's 7 was darker than March's 29
 * push for resolution of the Save issue.
+* * Bags may allow personalization
+* * myCookies may be a viable alternative
+* Services (Admin/tech/ for types of users) are needed
+* * central Authority
+* * * 'tripartite' positioning
+* * Subject & Agents
 
 # 2023-03:
 ## Goal(s)
