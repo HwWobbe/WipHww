@@ -8,6 +8,8 @@
 * consider EmbOn2022
 * * Diigo for shared annotations to the PDF 
 * * * * start with: JkwDf (??)
+* * * * * What annotation tools would jkw prefer?
+* * * * * * Hypothesis ?
 * * link to TiddlyHost and from there to localHost versions
 * .if.: EdD2022 review .then.: introduce this as a log of (offShore) assignements that needed (domestic)Testing
 * * Observations implicate the Covid effects / reduced buyer experienced staff
