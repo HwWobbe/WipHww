@@ -9,6 +9,7 @@
 * * Diigo for shared annotations to the PDF 
 * * * * start with: JkwDf (??)
 * * * * * What annotation tools would jkw prefer?
+* * * * * * Word - with just comments?
 * * * * * * Hypothesis ?
 * * * * * * Andrea's preferences ??
 * * link to TiddlyHost and from there to localHost versions
