@@ -10,7 +10,7 @@
 * * * * start with: JkwDf (??)
 * * * * * What annotation tools would jkw prefer?
 * * * * * * -04-10: Diigo.Df already exists
-* * * * * * * re-education & tweaks underwau
+* * * * * * * re-education & tweaks underway & looking effective
 * * * * * * Word - with just comments?
 * * * * * * * effectiveness with PDF(s) ??
 * * * * * * Hypothesis ( seems defunct - verify )
