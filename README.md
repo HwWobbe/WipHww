@@ -13,7 +13,7 @@
 * * * * * * * re-education & tweaks underwau
 * * * * * * Word - with just comments?
 * * * * * * * effectiveness with PDF(s) ??
-* * * * * * Hypothesis ?
+* * * * * * Hypothesis ( seems defunct - verify )
 * * * * * * Andrea's preferences ??
 * * link to TiddlyHost and from there to localHost versions
 * .if.: EdD2022 review .then.: introduce this as a log of (offShore) assignements that needed (domestic)Testing
