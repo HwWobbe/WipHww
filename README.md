@@ -3,6 +3,14 @@
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2022-12
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#202112
 
+# 2023-05:
+## Goal(s)
+* prototype of Movers for Targeted Revisions in M1-M9 
+* * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
+* * JKW.Eca."Am I on the list".confirms 
+* * * myAccount @ MPAC & ... - based on coOwner Rights
+* * * * myAgent can ... ( if stalled )
+
 # 2023-04:
 * review the missing M.. listings
 * consider EmbOn2022
@@ -30,14 +38,8 @@
 * * Subject & Agents
 
 # 2023-03:
-## Goal(s)
-* prototype of Movers for Targeted Revisions in M1-M9 
-* * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
-* * JKW.Eca."Am I on the list".confirms 
-* * * myAccount @ MPAC & ... - based on coOwner Rights
-* * * * myAgent can ... ( if stalled )
-* * Goals development needs to become a continuousRefinement process.
-* * * EdD metrics and Milestones should be incorporated
+* Goals development needs to become a continuousRefinement process.
+* * EdD metrics and Milestones should be incorporated
 * consider SSM talks
 * TftDfN(otes): If(NotMLS) Then(use backChannel)
 * * 03.08: emerging BusinessPlan (in conjunction with AdManCa) discussions
