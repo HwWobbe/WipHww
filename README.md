@@ -14,6 +14,7 @@
 * * * * * * Word - with just comments?
 * * * * * * * effectiveness with PDF(s) ??
 * * * * * * Hypothesis ( seemed defunct - prematurely )
+* * * * * * * inform Jr
 * * * * * * Andrea's preferences - assuming project funding support
 * * link to TiddlyHost and from there to localHost versions
 * .if.: EdD2022 review .then.: introduce this as a log of (offShore) assignements that needed (domestic)Testing
