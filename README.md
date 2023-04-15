@@ -14,6 +14,7 @@
 * * * * * * Word - with just comments?
 * * * * * * * effectiveness with PDF(s) ??
 * * * * * * Hypothesis ( seemed defunct - prematurely )
+* * * * * * * test a-new
 * * * * * * * inform Jr
 * * * * * * Andrea's preferences - assuming project funding support
 * * link to TiddlyHost and from there to localHost versions
