@@ -11,6 +11,7 @@
 * * JKW.Eca."Am I on the list".confirms 
 * * * myAccount @ MPAC & ... - based on coOwner Rights
 * * * * myAgent can ... ( if stalled )
+* * Clouds are covering Sunny
 
 # 2023-04:
 * review the missing M.. listings
