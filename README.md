@@ -5,7 +5,9 @@
 * hypothesis
 
 # 2023-05:
+* Preparations
 * ...
+* Activities summary
 
 ## Goal(s)
 * demonstrations need to emphasize "ready markets"
