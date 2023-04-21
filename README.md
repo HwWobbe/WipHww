@@ -13,6 +13,7 @@
 * * * myAccount @ MPAC & ... - based on coOwner Rights
 * * * * myAgent can ... ( if stalled )
 * * Clouds are covering Sunny
+* * * ease the resulting tension(s)
 
 # 2023-04:
 * review the missing M.. listings
