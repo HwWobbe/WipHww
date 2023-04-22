@@ -16,9 +16,6 @@
 * * JKW.Eca."Am I on the list".confirms 
 * * * myAccount @ MPAC & ... - based on coOwner Rights
 * * * * myAgent can ... ( if stalled )
-* * Clouds are covering Sonny
-* * * the resulting tension(s) are easing
-* * * revisions to procedures should procede
 
 # 2023-04:
 * review the missing M.. listings
@@ -45,6 +42,9 @@
 * * central Authority
 * * * 'tripartite' positioning
 * * Subject & Agents
+ * Clouds are covering Sonny
+ * * the resulting tension(s) are easing
+ * * revisions to procedures should procede
 
 # 2023-03:
 * Goals development needs to become a continuousRefinement process.
