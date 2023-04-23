@@ -8,6 +8,7 @@
 * Preparations
 * ...
 * Activities summary
+* * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
