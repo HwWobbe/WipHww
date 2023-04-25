@@ -6,7 +6,7 @@
 
 # 2023-05:
 * Preparations
-* * UpdatesL for (refine data collection)GeoSpatial CurbSide LzH ...
+* * UpdatesL for (refine data collection)GeoSpatial ( ... )CurbSide LzH ...
 * Activities summary
 * * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
 * 'pulse' skips show the need for better activity management
