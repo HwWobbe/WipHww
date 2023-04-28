@@ -13,6 +13,7 @@
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
+* * Tax Allocation requests
 * prototype of Movers for Targeted Revisions in M1-M9 
 * * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
 * * JKW.Eca."Am I on the list".confirms 
