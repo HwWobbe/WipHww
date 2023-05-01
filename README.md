@@ -11,6 +11,7 @@
 * Activities summary
 * * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
 * 'pulse' skips show the need for better activity management
+* * at least set up another folder, for now
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
