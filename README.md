@@ -18,8 +18,9 @@
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
-* * Tax Allocation requests
-* * Mortgage Discharge amiunts
+* * Tax Allocation requests to Cities
+* * * 'ready market' considerations
+* * Mortgage Discharge amounts
 * prototype of Movers for Targeted Revisions in M1-M9 
 * * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
 * * JKW.Eca."Am I on the list".confirms 
