@@ -8,8 +8,11 @@
 * Preparations
 * * UpdatesL for (refine data collection)GeoSpatial ( ... )CurbSide LzH ...
 * * check SSM wiki use
-* Activities summary
+* Activities summary:
 * * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
+* * selected PsH methodologies to populate Editions from EsHw
+* * * tested by populating ...XmmxH/HwwPriX
+* * * ... other Editions like EsCs (to be tested)
 * 'pulse' skips show the need for better activity management
 * * at least set up another folder, for now
 
