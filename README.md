@@ -4,6 +4,9 @@
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#202112
 * hypothesis
 
+# 2023-06:
+* Preparations
+
 # 2023-05:
 * Preparations
 * * UpdatesL for (refine data collection)GeoSpatial ( ... )CurbSide LzH ...
