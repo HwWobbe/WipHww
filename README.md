@@ -20,6 +20,7 @@
 * 'pulse' skips show the need for better activity management
 * * at least set up another folder, for now
 * * * PDF archiving ?
+* * * * try saving this information as a PDF
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
