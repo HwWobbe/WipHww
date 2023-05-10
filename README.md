@@ -10,7 +10,7 @@
 
 # 2023-05:
 * Preparations
-* * UpdatesL for (refine data collection)GeoSpatial ( ... )CurbSide LzH ...
+* * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
 * * check SSM wiki use
 * Activities summary:
 * * DfxIdHub development, from a YOTI seed
