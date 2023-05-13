@@ -11,7 +11,10 @@
 # 2023-05:
 * Preparations
 * * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
-* * check SSM wiki use
+* * check SSM wiki tech use
+* * * * describe a detailed tech demo of new functions in theCore 
+* contract for Excel macro capabilities 
+* * ... 
 * Activities summary:
 * * DfxIdHub development, from a YOTI seed
 * * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
