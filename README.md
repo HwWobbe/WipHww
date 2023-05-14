@@ -14,7 +14,7 @@
 * * check SSM wiki tech use
 * * * * describe a detailed tech demo of new functions in theCore 
 * contract for Excel macro capabilities 
-* * ... 
+* * if FAIL: then key a summary table to verify costs
 * Activities summary:
 * * DfxIdHub development, from a YOTI seed
 * * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
