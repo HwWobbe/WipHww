@@ -7,6 +7,7 @@
 # 2023-06:
 * Preparations
 * * TwTn release 5.3.0
+* * TwHwArch refinement
 
 # 2023-05:
 * Preparations
