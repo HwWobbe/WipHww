@@ -8,6 +8,7 @@
 * Preparations
 * * TwTn release 5.3.0
 * * TwHwArch refinement
+* * QrSt review
 
 # 2023-05:
 * Preparations
