@@ -9,6 +9,8 @@
 * * TwTn release 5.3.0
 * * TwHwArch refinement
 * * QrSt review
+* testing scrape > excel > (macro)poocessors > (hosted)Db > API > openSource
+** XmmxH can import Excel, so parsing is also an option
 
 # 2023-05:
 * Preparations
