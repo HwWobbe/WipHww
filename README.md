@@ -5,6 +5,7 @@
 * hypothesis * Diigo
 * * does either of these accept email(ed) posts?
 * * * "...talk..." (as implemented at TW does)
+* * * review RSS or its new versions
 
 # 2023-06:
 * Preparations
