@@ -10,7 +10,7 @@
 * * TwHwArch refinement
 * * QrSt review
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
-** XmmxH can import Excel, so parsing is also an option
+* * XmmxH can import Excel, so parsing is also an option
 
 # 2023-05:
 * Preparations
