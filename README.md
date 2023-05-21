@@ -15,7 +15,7 @@
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
 * * XmmxH can import Excel, so parsing is also an option
 * expand the use of MiniTeams
-* * ...
+* * rst ; ...
 
 # 2023-05:
 * Preparations
