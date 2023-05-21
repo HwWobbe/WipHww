@@ -11,15 +11,17 @@
 * Preparations
 * * TwTn release 5.3.0
 * * TwHwArch refinement
+* * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
+* * * JrHw catc h-up
 * * QrSt review
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
 * * XmmxH can import Excel, so parsing is also an option
 * expand the use of MiniTeams
-* * rst ; ...
+* * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
 
 # 2023-05:
 * Preparations
-* * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
+* 
 * * check SSM wiki tech use
 * * * * describe a detailed tech demo of new functions in theCore 
 * contract for Excel macro capabilities 
