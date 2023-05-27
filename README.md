@@ -5,6 +5,7 @@
 * hypothesis & Diigo
 * * does either of these accept email(ed) posts?
 * * * "...talk..." (as implemented at TW does)
+* * * Evernote does
 * * * review RSS or its new versions (perticularly on Mobile devices)
 
 # 2023-06:
