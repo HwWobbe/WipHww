@@ -22,7 +22,6 @@
 
 # 2023-05:
 * Preparations
-* 
 * * check SSM wiki tech use
 * * * * describe a detailed tech demo of new functions in theCore 
 * contract for Excel macro capabilities 
