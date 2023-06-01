@@ -12,6 +12,7 @@
 * Preparations
 * * -06-26: anticipared TwTn release 5.3.0
 * * TwHwArch refinement
+* * * * this may evolve from TilesH
 * * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
 * * * JrHw catc h-up
 * * QrSt review
