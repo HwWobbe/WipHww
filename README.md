@@ -10,7 +10,7 @@
 
 # 2023-06:
 * Preparations
-* * TwTn release 5.3.0
+* * -06-26: anticipared TwTn release 5.3.0
 * * TwHwArch refinement
 * * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
 * * * JrHw catc h-up
