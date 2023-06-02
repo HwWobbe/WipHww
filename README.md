@@ -8,17 +8,23 @@
 * * * Evernote does
 * * * review RSS or its new versions (perticularly on Mobile devices)
 
+# 2023-07:
+
 # 2023-06:
-* Preparations
-* * -06-26: anticipared TwTn release 5.3.0
-* * TwHwArch refinement
-* * * consider the amoeba methods of JrHw
-* * * this may evolve from TilesH
+
+## Activities
+
+* ... (recognized, prior) preparations:
 * * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
 * * * JrHw catc h-up
 * * QrSt review
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
 * * XmmxH can import Excel, so parsing is also an option
+
+* * -06-26: anticipared TwTn release 5.3.0
+* * TwHwArch refinement
+* * * consider the amoeba methods of JrHw
+* * * this may evolve from TilesH
 * expand the use of MiniTeams
 * * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
 
