@@ -8,7 +8,7 @@
 * * * Evernote does
 * * * review RSS or its new versions (perticularly on Mobile devices)
 
-# 2023-07:
+# ㋆ 2023-07:
 
 # ㋅ 2023-06:
 * ...
