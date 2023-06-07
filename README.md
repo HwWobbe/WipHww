@@ -27,6 +27,7 @@
 * * -06-26: anticipared TwTn release 5.3.0
 * * TwHwArch refinement
 * * * consider the amoeba methods of JrHw
+* * * * WikiPedia
 * * * this may evolve from TilesH
 * expand the use of MiniTeams
 * * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
