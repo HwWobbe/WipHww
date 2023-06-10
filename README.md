@@ -23,7 +23,6 @@
 * * QrSt review
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
 * * XmmxH can import Excel, so parsing is also an option
-* * * XmmX meeting cancelled by Jr
 
 * * -06-26: anticipated TwTn release 5.3.0
 * * TwHwArch refinement
@@ -32,6 +31,9 @@
 * * * this may evolve from TilesH
 * expand the use of MiniTeams
 * * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
+
+Done:
+* 2023-06-09: XmmX meeting cancelled by Jr
 
 # 2023-05:
 * Preparations
