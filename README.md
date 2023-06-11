@@ -13,6 +13,8 @@
 * re-connect with SSM
 * consider Tw & MySql
 * review Mario's wikiLabs
+* https://github.com/iamkun/dayjs
+* * implement for the enhance relative Date processing
 
 # ㋅ 2023-06:
 * ...
