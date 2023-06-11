@@ -11,6 +11,7 @@
 
 # ㋆ 2023-07:
 * re-connect with SSM
+* consider Tw & MySql
 * review Mario's wikiLabs
 
 # ㋅ 2023-06:
