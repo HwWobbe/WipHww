@@ -11,6 +11,7 @@
 
 # ㋆ 2023-07:
 * re-connect with SSM
+* review Mario's wikiLabs
 
 # ㋅ 2023-06:
 * ...
