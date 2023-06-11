@@ -15,8 +15,6 @@
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
 * * implement for the enhance relative Date processing
-* http://www.i18nguy.com/index.html
-* * needs exploration annotations
 
 # ㋅ 2023-06:
 * ...
