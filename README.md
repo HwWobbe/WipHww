@@ -25,6 +25,7 @@
 * * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
 * * * JrHw catc h-up
 * * * * SSM GeoJson parsing/loading demo
+* * * * * consider the new capabilities Jr introduced.
 * * QrSt review
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
 * * XmmxH can import Excel, so parsing is also an option
