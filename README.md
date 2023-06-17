@@ -11,7 +11,7 @@
 
 # ㋆ 2023-07:
 * re-connect with SSM
-* consider Tw & MySql
+* consider Tw & SqlLite - as MySql
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
 * * implement for the enhance relative Date processing
