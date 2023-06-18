@@ -12,6 +12,7 @@
 # ㋆ 2023-07:
 * re-connect with SSM
 * * perhaps per GeoJson
+* * * review Excel > GeoJson tools 
 * consider Tw & SqlLite - as MySql
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
