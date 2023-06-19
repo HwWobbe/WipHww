@@ -19,7 +19,8 @@
 * * implement for the enhance relative Date processing
 
 # ㋅ 2023-06:
-* ...
+* focus on Plugin developments that support PRs
+* * refine the folder structurs that can best support this.
 
 ## Activities
 
