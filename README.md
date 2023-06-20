@@ -17,7 +17,8 @@
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
 * * implement for the enhance relative Date processing
-
+* consider the use of more GitHub files
+* 
 # ㋅ 2023-06:
 * focus on Plugin developments that support PRs
 * * refine the folder structurs that can best support this.
