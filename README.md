@@ -47,7 +47,7 @@
 Done:
 * 2023-06-09: XmmX meeting cancelled by Jr
 
-# 2023-05:
+# ㋄ 2023-05:
 * Preparations
 * * check SSM wiki tech use
 * * * * describe a detailed tech demo of new functions in theCore 
