@@ -20,7 +20,7 @@
 * consider the use of more GitHub files
 * 
 # ㋅ 2023-06:
-* focus on Plugin developments that support PRs
+* collaborate on Plugin developments that support PRs
 * * refine the folder structurs that can best support this.
 
 ## Activities
