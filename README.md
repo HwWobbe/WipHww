@@ -1,7 +1,5 @@
 ## 2023 quickLinks
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
-* https://github.com/HwWobbe/WipHww/blob/main/README.md#2022-12
-* https://github.com/HwWobbe/WipHww/blob/main/README.md#202112
 * hypothesis & Diigo
 * * does either of these accept email(ed) posts?
 * * * "...talk..." (as implemented at TW does)
