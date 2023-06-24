@@ -12,6 +12,9 @@
 * * perhaps per GeoJson
 * * * review Excel > GeoJson tools 
 * consider Tw & SqlLite - as MySql
+* * extend CascadesH to position for WASM
+  * * start learning more about WASM
+    * * try to craft a attractive EdD bailt for Dpl Jcl Kfw 
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
 * * implement for the enhance relative Date processing
@@ -20,6 +23,8 @@
 * * refine the folder structurs that can best support this.
 
 # ㋅ 2023-06:
+* Agenda for JrTnH
+* * review JrHw
 * travel to Yyz for rest of month
 
 ## Activities
