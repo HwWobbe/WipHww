@@ -5,7 +5,8 @@
 * * * "...talk..." (as implemented at TW does)
 * * * Evernote does
 * * * review RSS or its new versions (perticularly on Mobile devices)
-* ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ 
+* ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅
+* * start melding Git & Chat
 
 # ㋆ 2023-07:
 * re-connect with SSM
