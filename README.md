@@ -11,6 +11,8 @@
 # ㋆ 2023-07:
 * Agenda for JrTnH
   * review JrHw
+  * Emphasis the WASM- SQLite goldenThread as a way of linking into GeoJson-GeoSpatial data stores
+    * bridge to the Azure-SqlServer infrastructure
 * re-connect with SSM
 * * perhaps per GeoJson
 * * * review Excel > GeoJson tools 
