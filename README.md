@@ -9,6 +9,8 @@
 * * start melding Git & Chat
 
 # ㋆ 2023-07:
+* Agenda for JrTnH
+  * review JrHw
 * re-connect with SSM
 * * perhaps per GeoJson
 * * * review Excel > GeoJson tools 
@@ -24,8 +26,6 @@
 * * refine the folder structurs that can best support this.
 
 # ㋅ 2023-06:
-* Agenda for JrTnH
-* * review JrHw
 * travel to Yyz for rest of month
 
 ## Activities
