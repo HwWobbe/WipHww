@@ -208,6 +208,7 @@ Done:
 * tweaking TwHwUi Tw/Hw/Ui TW/hw/ui
 
 ## 2023 Challenges:
+* three types of TransitionManagement are needed before the end of 2026
 * GeoSpatial implementation(s)
   * A Flikr Foundation group may be a useful introduction to the TwGeospatial capabilities
 * extend budgeting throughout the 2026 Events
