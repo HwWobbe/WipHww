@@ -1,6 +1,6 @@
 ## 2023 quickLinks
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
-   * [try skipping deeper into this page](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
+   * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
      * increase the use of this prettyLink example & reduce the un-needed use of preceding * chars for indents
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
 * hypothesis & Diigo
