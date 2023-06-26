@@ -11,7 +11,7 @@
 # ㋇ 2023-08:
 * ...
 * collaborate on Plugin developments that support PRs
-  * refine the folder structurs that can best support this.
+  * refine the folder structures that can best support this.
 
 # ㋆ 2023-07:
 * Agenda for JrTnH
