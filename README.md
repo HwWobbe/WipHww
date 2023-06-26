@@ -15,6 +15,8 @@
 * ...
 * collaborate on Plugin developments that support PRs
   * refine the folder structures that can best support this.
+    * can https://tiddlytools.com/InsideTW/ be annotated
+     * perhaps as a PDF
 
 # ㋆ 2023-07:
 * Agenda for JrTnH
