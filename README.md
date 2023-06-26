@@ -28,6 +28,7 @@
 * * extend CascadesH to position for WASM
   * * start learning more about WASM
     * * try to craft a attractive EdD bailt for Dpl Jcl Kfw 
+* create another folder for the 2022 information
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
 * * implement for the enhance relative Date processing
