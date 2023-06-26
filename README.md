@@ -209,7 +209,7 @@ Done:
 
 ## 2023 Challenges:
 * GeoSpatial implementation(s)
-** A Flikr Foundation group may be a useful intorductio to the TwGeospatial capabilities
+  * A Flikr Foundation group may be a useful introduction to the TwGeospatial capabilities
 * extend budgeting throughout the 2026 Events
 
 <hr>
