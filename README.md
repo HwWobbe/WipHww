@@ -8,6 +8,8 @@
 * ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅
 * * start melding Git & Chat
 
+# ㋇ 2023-08:
+
 # ㋆ 2023-07:
 * Agenda for JrTnH
   * review JrHw
