@@ -24,11 +24,12 @@
 * https://github.com/iamkun/dayjs
 * * implement for the enhance relative Date processing
 * consider the use of more GitHub files
+* * review the ChatGpt hints
 * collaborate on Plugin developments that support PRs
 * * refine the folder structurs that can best support this.
 
 # ㋅ 2023-06:
-* travel to Yyz for rest of month
+* visiting Yyz for the rest of this month
 
 ## Activities
 
