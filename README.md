@@ -9,6 +9,9 @@
 * * start melding Git & Chat
 
 # ㋇ 2023-08:
+* ...
+* collaborate on Plugin developments that support PRs
+  * refine the folder structurs that can best support this.
 
 # ㋆ 2023-07:
 * Agenda for JrTnH
@@ -27,8 +30,6 @@
 * * implement for the enhance relative Date processing
 * consider the use of more GitHub files
 * * review the ChatGpt hints
-* collaborate on Plugin developments that support PRs
-* * refine the folder structurs that can best support this.
 
 # ㋅ 2023-06:
 * visiting Yyz for the rest of this month
