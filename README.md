@@ -21,9 +21,9 @@
 # ㋆ 2023-07:
 * Agenda for JrTnH
 * * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
-* * * JrHw catc h-up
-* * * * SSM GeoJson parsing/loading demo
-  * * * * consider the new capabilities Jr introduced.
+  * JrHw catc h-up
+    * SSM GeoJson parsing/loading demo
+  * * consider the new capabilities Jr introduced.
 * * review JrHw
   * Emphasis the WASM- SQLite goldenThread as a way of linking into GeoJson-GeoSpatial data stores
     * bridge to the Azure-SqlServer infrastructure
