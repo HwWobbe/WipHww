@@ -20,7 +20,11 @@
 
 # ㋆ 2023-07:
 * Agenda for JrTnH
-  * review JrHw
+* * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
+* * * JrHw catc h-up
+* * * * SSM GeoJson parsing/loading demo
+  * * * * consider the new capabilities Jr introduced.
+* * review JrHw
   * Emphasis the WASM- SQLite goldenThread as a way of linking into GeoJson-GeoSpatial data stores
     * bridge to the Azure-SqlServer infrastructure
 * re-connect with SSM
@@ -43,10 +47,6 @@
 ## Activities
 
 * ... (recognized, prior) preparations:
-* * UpdatesL for GeoSpatial (refine data collection) CurbSide LzH ...
-* * * JrHw catc h-up
-* * * * SSM GeoJson parsing/loading demo
-* * * * * consider the new capabilities Jr introduced.
 * * QrSt review
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
 * * XmmxH can import Excel, so parsing is also an option
