@@ -41,10 +41,7 @@
 * consider the use of more GitHub files
 * * review the ChatGpt hints
 
-# ㋅ 2023-06:
-* visiting Yyz for the rest of this month
-
-## Activities
+# ㋅ 2023-06: Activities
 
 * ... (recognized, prior) preparations:
 * * QrSt review
