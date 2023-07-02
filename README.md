@@ -52,7 +52,7 @@
 * * * this may evolve from TilesH
 * expand the use of MiniTeams
 * * off-shore & cross-culture issues will emerge
-  * review the JAZZ macro submission
+  * review the JAZZ + 1 macro submissions
 * * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
 
 Done:
