@@ -45,11 +45,10 @@
 * QrSt review
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
 * * XmmxH can import Excel, so parsing is also an option
-* -06-26: anticipated TwTn release 5.3.0
-* * TwHwArch refinement
-* * * consider the amoeba methods of JrHw
-* * * * WikiPedia
-* * * this may evolve from TilesH
+* TwHwArch refinement
+  * consider the amoeba methods of JrHw
+    * WikiPedia
+      * this may evolve from TilesH
 * expand the use of MiniTeams
 * * off-shore & cross-culture issues will emerge
   * review the JAZZ + 1 macro submissions
