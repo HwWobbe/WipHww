@@ -23,7 +23,9 @@
   * Updates for GeoSpatial (refine data collection) CurbSide LzH ...
   * JrHw catch-up
     * SSM GeoJson parsing/loading demo
-  * * consider the new capabilities Jr introduced.
+    * consider the new capabilities Jr introduced.
+    * data integration based on SQLite * GeoSpatial
+      * build out "am I on the list?" via ExpressConsent
 * * review JrHw
   * Emphasis the WASM- SQLite goldenThread as a way of linking into GeoJson-GeoSpatial data stores
     * bridge to the Azure-SqlServer infrastructure
