@@ -20,8 +20,8 @@
 
 # ㋆ 2023-07:
 * Agenda for JrTnH
-* * Updates for GeoSpatial (refine data collection) CurbSide LzH ...
-  * JrHw catc h-up
+  * Updates for GeoSpatial (refine data collection) CurbSide LzH ...
+  * JrHw catch-up
     * SSM GeoJson parsing/loading demo
   * * consider the new capabilities Jr introduced.
 * * review JrHw
