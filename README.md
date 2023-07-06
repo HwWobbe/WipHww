@@ -22,6 +22,7 @@
 * * implement for the enhance relative Date processing
 
 # ㋆ 2023-07:
+* Consider breaking our GeoJson - Section? Folder? repo?
 * Agenda for JrTnH
   * Updates for GeoSpatial (refine data collection) CurbSide LzH ...
   * JrHw catch-up
