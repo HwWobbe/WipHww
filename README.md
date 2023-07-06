@@ -17,6 +17,9 @@
   * refine the folder structures that can best support this.
     * can https://tiddlytools.com/InsideTW/ be annotated
       * perhaps as a PDF
+* review Mario's wikiLabs
+* https://github.com/iamkun/dayjs
+* * implement for the enhance relative Date processing
 
 # ㋆ 2023-07:
 * Agenda for JrTnH
@@ -37,9 +40,6 @@
   * * start learning more about WASM
     * * try to craft a attractive EdD bailt for Dpl Jcl Kfw 
 * create another folder for the 2022 information
-* review Mario's wikiLabs
-* https://github.com/iamkun/dayjs
-* * implement for the enhance relative Date processing
 * consider the use of more GitHub files
 * * review the ChatGpt hints
 
