@@ -12,7 +12,7 @@
 * * start melding Git & Chat
 
 # ㋇ 2023-08:
-* ...
+* FAIL: new Folder creation
 * collaborate on Plugin developments that support PRs
   * refine the folder structures that can best support this.
     * can https://tiddlytools.com/InsideTW/ be annotated
