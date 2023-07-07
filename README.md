@@ -13,6 +13,7 @@
 * * start melding Git & Chat
 
 # ㋇ 2023-08:
+* Minimal Test Case for a PR or just a simple Git pull of two files
 * FAIL: new Folder creation ; Pause & review before a re-try
 * collaborate on Plugin developments that support PRs
   * refine the folder structures that can best support this.
@@ -35,8 +36,8 @@
   * Emphasis the WASM- SQLite goldenThread as a way of linking into GeoJson-GeoSpatial data stores
     * bridge to the Azure-SqlServer infrastructure
 * re-connect with SSM
-* * perhaps per GeoJson
-* * * review Excel > GeoJson tools 
+  * perhaps per GeoJson
+    * review Excel > GeoJson tools 
 * consider Tw & SqlLite - as MySql
 * * extend CascadesH to position for WASM
   * * start learning more about WASM
