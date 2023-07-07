@@ -10,7 +10,6 @@
     * Evernote does
     * review RSS or its new versions (perticularly on Mobile devices)
 * ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅
-  * start melding Git & Chat
 
 # ㋇ 2023-08:
 * Minimal Test Case for a PR or just a simple Git pull of two files
@@ -23,7 +22,10 @@
 * review JrHw
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
-* * implement for the enhance relative Date processing
+* * implementation for the enhanceed relative Date processing
+* consider the use of more GitHub files
+  * review the ChatGpt hints
+  * continue melding Git & Chat
 
 # ㋆ 2023-07:
 * Consider breaking our GeoJson - Section? Folder? repo?
@@ -43,8 +45,6 @@
   * extend CascadesH to position for WASM
     * start learning more about WASM
       * try to craft a attractive EdD bailt for Dpl Jcl Kfw 
-* consider the use of more GitHub files
-  * review the ChatGpt hints
 
 # ㋅ 2023-06: Activities
 * QrSt review
