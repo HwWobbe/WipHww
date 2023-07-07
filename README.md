@@ -33,18 +33,18 @@
     * consider the new capabilities Jr introduced.
     * data integration based on SQLite * GeoSpatial
       * build out "Am I on the list?" via ExpressConsent
-* * review JrHw
-  * Emphasis the WASM- SQLite goldenThread as a way of linking into GeoJson-GeoSpatial data stores
+  * review JrHw
+  * Emphasize the WASM- SQLite goldenThread as a way of linking into GeoJson-GeoSpatial data stores
     * bridge to the Azure-SqlServer infrastructure
 * re-connect with SSM
   * perhaps per GeoJson
     * review Excel > GeoJson tools 
 * consider Tw & SqlLite - as MySql
-* * extend CascadesH to position for WASM
-  * * start learning more about WASM
-    * * try to craft a attractive EdD bailt for Dpl Jcl Kfw 
+  * extend CascadesH to position for WASM
+    * start learning more about WASM
+      * try to craft a attractive EdD bailt for Dpl Jcl Kfw 
 * consider the use of more GitHub files
-* * review the ChatGpt hints
+  * review the ChatGpt hints
 
 # ㋅ 2023-06: Activities
 * QrSt review
