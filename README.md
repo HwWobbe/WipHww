@@ -5,10 +5,10 @@
      * increase the use of this prettyLink example & reduce the un-needed use of preceding * chars for indents
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
 * hypothesis & Diigo
-* * does either of these accept email(ed) posts?
-* * * "...talk..." (as implemented at TW does)
-* * * Evernote does
-* * * review RSS or its new versions (perticularly on Mobile devices)
+  * does either of these accept email(ed) posts?
+    * "...talk..." (as implemented at TW does)
+    * Evernote does
+    * review RSS or its new versions (perticularly on Mobile devices)
 * ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅
   * start melding Git & Chat
 
