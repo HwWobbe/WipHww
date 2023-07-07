@@ -10,7 +10,7 @@
 * * * Evernote does
 * * * review RSS or its new versions (perticularly on Mobile devices)
 * ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅
-* * start melding Git & Chat
+  * start melding Git & Chat
 
 # ㋇ 2023-08:
 * Minimal Test Case for a PR or just a simple Git pull of two files
