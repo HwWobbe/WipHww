@@ -28,6 +28,7 @@
   * continue melding Git & Chat
 
 # ㋆ 2023-07:
+* demo for DplDf
 * Consider breaking our GeoJson - Section? Folder? repo?
 * Agenda for JrTnH
   * Updates for GeoSpatial (refine data collection) CurbSide LzH ...
