@@ -14,6 +14,7 @@
 
 # ㋇ 2023-08:
 * Minimal Test Case for a PR or just a simple Git pull of two files
+  * create another folder for the 2022 information
 * FAIL: new Folder creation ; Pause & review before a re-try
 * collaborate on Plugin developments that support PRs
   * refine the folder structures that can best support this.
@@ -42,7 +43,6 @@
 * * extend CascadesH to position for WASM
   * * start learning more about WASM
     * * try to craft a attractive EdD bailt for Dpl Jcl Kfw 
-* create another folder for the 2022 information
 * consider the use of more GitHub files
 * * review the ChatGpt hints
 
