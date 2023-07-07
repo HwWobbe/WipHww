@@ -20,6 +20,7 @@
   * refine the folder structures that can best support this.
     * can https://tiddlytools.com/InsideTW/ be annotated
       * perhaps as a PDF
+* review JrHw
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
 * * implement for the enhance relative Date processing
@@ -33,7 +34,6 @@
     * consider the new capabilities Jr introduced.
     * data integration based on SQLite * GeoSpatial
       * build out "Am I on the list?" via ExpressConsent
-  * review JrHw
   * Emphasize the WASM- SQLite goldenThread as a way of linking into GeoJson-GeoSpatial data stores
     * bridge to the Azure-SqlServer infrastructure
 * re-connect with SSM
