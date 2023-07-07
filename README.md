@@ -9,7 +9,7 @@
     * "...talk..." (as implemented at TW does)
     * Evernote does
     * review RSS or its new versions (perticularly on Mobile devices)
-* ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅
+* ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 # ㋇ 2023-08:
 * Minimal Test Case for a PR or just a simple Git pull of two files
