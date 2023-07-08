@@ -27,6 +27,7 @@
   * review the ChatGpt hints
   * continue melding Git & Chat
 * relativeDensityDisplay is increasingly apparent
+  * keep alternating to achieve a rigorous confirmation
 * 
 # ㋆ 2023-07:
 * demo for DplDf
