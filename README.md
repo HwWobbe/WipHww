@@ -26,7 +26,8 @@
 * consider the use of more GitHub files
   * review the ChatGpt hints
   * continue melding Git & Chat
-
+* relativeDensityDisplay is increasingly apparent
+* 
 # ㋆ 2023-07:
 * demo for DplDf
 * Consider breaking our GeoJson - Section? Folder? repo?
