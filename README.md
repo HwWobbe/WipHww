@@ -28,6 +28,7 @@
   * continue melding Git & Chat
 * relativeDensityDisplay is increasingly apparent
   * keep alternating to achieve a rigorous confirmation
+    * 25 / 7 seemed to be a trigger point
 * 
 # ㋆ 2023-07:
 * demo for DplDf
