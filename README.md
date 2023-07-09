@@ -36,6 +36,7 @@
     * "darkest" category can be dimmed.
         * it may be predominantly apparent in the Contributions display as opposed to the (repositories) Acctivity  display
 * http://www.xpdfreader.com/about.html
+* http://skotniczny.github.io/game-of-life/canvas.html
 
 # ㋆ 2023-07:
 * demo for DplDf
