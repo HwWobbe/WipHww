@@ -33,7 +33,8 @@
 * relativeDensityDisplay is increasingly apparent
   * keep alternating to achieve a rigorous confirmation
     * 25 / 7 seemed to be a trigger point
-    * "darkest" category can be dimmed. 
+    * "darkest" category can be dimmed.
+        * it may be predominantly apparent in the Map display as opposed to the Bar display
 * http://www.xpdfreader.com/about.html
 
 # ㋆ 2023-07:
