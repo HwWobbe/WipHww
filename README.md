@@ -4,6 +4,7 @@
    * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
      * increase the use of this prettyLink example & reduce the un-needed use of preceding * chars for indents
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo
   * does either of these accept email(ed) posts?
     * "...talk..." (as implemented at TW does)
