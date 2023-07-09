@@ -19,7 +19,7 @@
   * refine the folder structures that can best support this.
     * can https://tiddlytools.com/InsideTW/ be annotated
       * perhaps as a PDF
-* review JrHw
+* review JrHw - ideally starting with a build-up of the shared ... schema Comments
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
 * * implementation for the enhanceed relative Date processing
