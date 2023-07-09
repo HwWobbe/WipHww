@@ -31,7 +31,8 @@
   * keep alternating to achieve a rigorous confirmation
     * 25 / 7 seemed to be a trigger point
     * "darkest" category can be dimmed. 
-* 
+* http://www.xpdfreader.com/about.html
+
 # ㋆ 2023-07:
 * demo for DplDf
 * Consider breaking our GeoJson - Section? Folder? repo?
