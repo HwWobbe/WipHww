@@ -50,10 +50,10 @@
 * consider Tw & SqlLite - as MySql
   * extend CascadesH to position for WASM
     * start learning more about WASM
-      * try to craft a attractive EdD bailt for Dpl Jcl Kfw 
+      * try to craft a attractive EdD bailt for Dpl Jcl Kfw
+* QrSt review
 
 # ㋅ 2023-06: Activities
-* QrSt review
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
 * * XmmxH can import Excel, so parsing is also an option
 * TwHwArch refinement
