@@ -52,6 +52,7 @@
     * start learning more about WASM
       * try to craft a attractive EdD bailt for Dpl Jcl Kfw
 * QrSt review
+  * ...T(ime) may need to be augmented with Tp(ast) Tt(his) tn(ext)
 
 # ㋅ 2023-06: Activities
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
