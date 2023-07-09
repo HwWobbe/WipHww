@@ -34,7 +34,7 @@
   * keep alternating to achieve a rigorous confirmation
     * 25 / 7 seemed to be a trigger point
     * "darkest" category can be dimmed.
-        * it may be predominantly apparent in the Map display as opposed to the Bar display
+        * it may be predominantly apparent in the Contributions display as opposed to the Repositories display
 * http://www.xpdfreader.com/about.html
 
 # ㋆ 2023-07:
