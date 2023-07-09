@@ -13,7 +13,7 @@
     * review RSS or its new versions (perticularly on Mobile devices)
 * ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
-# ㋇ 2023-08:
+# ㋇ 2023-08 (consider TmoTn instead) :
 * Minimal Test Case for a PR or just a simple Git pull of two files
   * create another folder for the 2022 information
     * test the "Code" control more deeply
@@ -26,7 +26,7 @@
 * review JrHw - ideally starting with a build-up of the shared ... schema Comments
 * review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
-* * implementation for the enhanceed relative Date processing
+  * implementation for the enhanceed relative Date processing
 * consider the use of more GitHub files
   * review the ChatGpt hints
   * continue melding Git & Chat
