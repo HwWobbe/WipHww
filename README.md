@@ -30,6 +30,7 @@
 * relativeDensityDisplay is increasingly apparent
   * keep alternating to achieve a rigorous confirmation
     * 25 / 7 seemed to be a trigger point
+    * "darkest" category can be dimmed. 
 * 
 # ㋆ 2023-07:
 * demo for DplDf
