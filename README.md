@@ -1,7 +1,8 @@
 ## 2023 quickLinks
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
    * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
-     * increase the use of this prettyLink example & reduce the un-needed use of preceding * chars for indents
+     * increase the use of this prettyLink example & reduce the un-needed use of preceding
+       * chars for indents: ...
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
