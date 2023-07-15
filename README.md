@@ -13,7 +13,11 @@
     * review RSS or its new versions (perticularly on Mobile devices)
 * ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
-# ㋇ 2023-08 (consider TmoTn instead) :
+# 2023-07 ( TmoTt )
+* demo for DplDf
+* Consider breaking our GeoJson - Section? Folder? repo?
+
+# 2023-08 (consider TmoTn instead) :
 * Minimal Test Case for a PR or just a simple Git pull of two files
   * create another folder for the 2022 information
     * test the "Code" control more deeply
@@ -39,8 +43,6 @@
 * http://skotniczny.github.io/game-of-life/canvas.html
 
 # ㋆ 2023-07:
-* demo for DplDf
-* Consider breaking our GeoJson - Section? Folder? repo?
 * Agenda for JrTnH
   * Updates for GeoSpatial (refine data collection) CurbSide LzH ...
   * JrHw catch-up
