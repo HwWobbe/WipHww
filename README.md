@@ -17,6 +17,7 @@
 * demo for DplDf
 * Consider breaking out GeoJson - Section? Folder? repo?
 * try NodeJn with a BobExe fallBack
+  * expand this activity into a file specifically for Mukesh
 
 # 2023-08/TmoTn:
 * Minimal Test Case for a PR or just a simple Git pull of two files
