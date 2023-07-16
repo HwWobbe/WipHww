@@ -22,8 +22,6 @@
 * Minimal Test Case for a PR or just a simple Git pull of two files
   * create another folder for the 2022 information
     * test the "Code" control more deeply
-* FAIL: new Folder creation ; Pause & review before a re-try
-  * perhaps as simple as adding a deeper folder reference before a new Filename
 * collaborate on Plugin developments that support PRs
   * refine the folder structures that can best support this.
     * can https://tiddlytools.com/InsideTW/ be annotated
@@ -57,6 +55,8 @@
       * try to craft a attractive EdD bailt for Dpl Jcl Kfw
 * QrSt review
   * ...T(ime) may need to be augmented with Tp(ast) Tt(his) tn(ext)
+* FAIL: new Folder creation ; Pause & review before a re-try
+  * likely as simple as adding a deeper folder reference before a new Filename
 * relativeDensityDisplay is increasingly apparent
   * keep alternating to achieve a rigorous confirmation
     * 25 / 7 seemed to be a trigger point
