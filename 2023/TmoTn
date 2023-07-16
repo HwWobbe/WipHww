@@ -1,2 +1,3 @@
-It might be that there is a signnificant delay before a new File can be edited.
+* It might be that there is a signnificant delay before a new File can be edited.
+  * this may only be the case when a new file is created
 ...
