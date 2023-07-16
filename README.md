@@ -15,7 +15,8 @@
 
 # 2023-07 ( TmoTt )
 * demo for DplDf
-* Consider breaking our GeoJson - Section? Folder? repo?
+* Consider breaking out GeoJson - Section? Folder? repo?
+* try NodeJn with a BobExe fallBack
 
 # 2023-08 (consider TmoTn instead) :
 * Minimal Test Case for a PR or just a simple Git pull of two files
