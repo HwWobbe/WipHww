@@ -18,7 +18,7 @@
 * Consider breaking out GeoJson - Section? Folder? repo?
 * try NodeJn with a BobExe fallBack
 
-# 2023-08 (consider TmoTn instead) :
+# 2023-08/TmoTn:
 * Minimal Test Case for a PR or just a simple Git pull of two files
   * create another folder for the 2022 information
     * test the "Code" control more deeply
