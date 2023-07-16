@@ -35,11 +35,6 @@
 * consider the use of more GitHub files
   * review the ChatGpt hints
   * continue melding Git & Chat
-* relativeDensityDisplay is increasingly apparent
-  * keep alternating to achieve a rigorous confirmation
-    * 25 / 7 seemed to be a trigger point
-    * "darkest" category can be dimmed.
-        * it may be predominantly apparent in the Contributions display as opposed to the (repositories) Acctivity  display
 * http://www.xpdfreader.com/about.html
 * http://skotniczny.github.io/game-of-life/canvas.html
 
@@ -62,6 +57,11 @@
       * try to craft a attractive EdD bailt for Dpl Jcl Kfw
 * QrSt review
   * ...T(ime) may need to be augmented with Tp(ast) Tt(his) tn(ext)
+* relativeDensityDisplay is increasingly apparent
+  * keep alternating to achieve a rigorous confirmation
+    * 25 / 7 seemed to be a trigger point
+    * "darkest" category can be dimmed.
+        * it may be predominantly apparent in the Contributions display as opposed to the (repositories) Acctivity  display
 
 # ㋅ 2023-06: Activities
 * testing scrape > excel > (macro)processors > batchProcessors(AA , cleanList) > (hosted)Db > API > openSource
