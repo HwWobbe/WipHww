@@ -11,7 +11,11 @@
     * "...talk..." (as implemented at TW does)
     * Evernote does
     * review RSS or its new versions (perticularly on Mobile devices)
-* ㋆ ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
+* ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
+
+# 2047-09-12
+## 2029-12
+* remove higher levels to ...wip
 
 # 2023-07 ( TmoTt )
 * demo for DplDf
