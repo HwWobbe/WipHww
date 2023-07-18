@@ -19,6 +19,7 @@
 
 # 2023-07 ( TmoTt )
 * demo for DplDf
+  * seems to need an interactive build in order to progress
 * Consider breaking out GeoJson - Section? Folder? repo?
 * try NodeJn with a BobExe fallBack
   * expand this activity into a file specifically for Mukesh
