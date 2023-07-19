@@ -32,8 +32,6 @@
   * refine the folder structures that can best support this.
     * can https://tiddlytools.com/InsideTW/ be annotated
       * perhaps as a PDF
-* review JrHw - ideally starting with a build-up of the shared ... schema Comments
-* review Mario's wikiLabs
 * https://github.com/iamkun/dayjs
   * implementation for the enhanceed relative Date processing
 * consider the use of more GitHub files
@@ -41,6 +39,11 @@
   * continue melding Git & Chat
 * http://www.xpdfreader.com/about.html
 * http://skotniczny.github.io/game-of-life/canvas.html
+
+## Review:
+* JrHw - ideally starting with a build-up of the shared ... schema Comments
+* https://github.com/elastic/elasticsearch
+* Mario's wikiLabs
 
 # ㋆ 2023-07:
 * Agenda for JrTnH
