@@ -2,7 +2,7 @@
 * https://github.com/HwWobbe/WipHww/blob/main/2023/TmoTn
   * prefered, as more effective editing
     * design assuming that MANY repos can be created to meet the needs of Shared and Distinct membership
-     * PR's can then be used to manage the Shared Views and interests
+      * PR's can then be used to manage the Shared Views and interests
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
    * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
      * increase the use of this prettyLink example & reduce the un-needed use of preceding
