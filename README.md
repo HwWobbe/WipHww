@@ -27,7 +27,7 @@
    * seems to need an interactive build in order to progress
    * expand the SoW definitions towards a MicroContent state
      * decide on an effective mixture of THost versus Xemexex
-* Consider breaking out GeoJson - Section? Folder? repo?
+* Consider breaking out GeoJson - Section? Folder? Repo?
 * try NodeJn with a BobExe fallBack
   * expand this activity into a file specifically for Mukesh
 
