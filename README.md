@@ -13,6 +13,8 @@
     * review RSS or its new versions (perticularly on Mobile devices)
   * try creating a PR that JrHw can pull into XmmxH
 
+### quickActs
+* update the failing pre-authorizations
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 # 2047-09-12
