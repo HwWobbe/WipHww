@@ -11,7 +11,7 @@
     * "...talk..." (as implemented at TW does)
     * Evernote does
     * review RSS or its new versions (perticularly on Mobile devices)
-  * try creating a PR that JrHw can pull into XmmxH
+  * Creat a PR that JrHw can pull into XmmxH
 
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
