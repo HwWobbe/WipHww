@@ -23,8 +23,9 @@
 
 # 2023-07 ( TmoTt )
 * demo for DplDf
- * start builing notes at XmmxH for Jeremy
+ * start building notes at XmmxH for Jeremy
    * seems to need an interactive build in order to progress
+   * expand the SoW definitions towards a MicroContent state
 * Consider breaking out GeoJson - Section? Folder? repo?
 * try NodeJn with a BobExe fallBack
   * expand this activity into a file specifically for Mukesh
