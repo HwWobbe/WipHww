@@ -12,3 +12,6 @@ TtT - T(ime) t(his) T(ime) ... T(ime) N(ext) T(ime) ... TIime) p(ast) T(ime)
 * timePeriods - .da .we .fo .mo .qu .ye .de ...
   * ... .ce .mi
     * unix ; Julian Gregorian / WikiPedia
+
+"Spaces" control can be used to set Indentatios preferrences.
+  * Finally noticed.
