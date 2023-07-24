@@ -42,12 +42,15 @@
   * refine the folder structures that can best support this.
     * can https://tiddlytools.com/InsideTW/ be annotated
       * perhaps as a PDF
+* How is pagination controlled in these GitHub files?
+  * ...
 * https://github.com/iamkun/dayjs
   * implementation for the enhanceed relative Date processing
 * consider the use of more GitHub files
   * review the ChatGpt hints
   * continue melding Git & Chat
 * http://www.xpdfreader.com/about.html
+  * merge this with the other PDF reference
 * http://skotniczny.github.io/game-of-life/canvas.html
 
 ## Review:
