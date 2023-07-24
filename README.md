@@ -53,6 +53,8 @@
   * continue melding Git & Chat
 * http://www.xpdfreader.com/about.html
   * merge this with the other PDF reference
+* noticed that Jr pasted a PR reference  into the Community site at
+  * https://talk.tiddlywiki.org/t/clarification-on-the-use-of-hashmap-s/7609/6?
 * http://skotniczny.github.io/game-of-life/canvas.html
 
 ## Review:
