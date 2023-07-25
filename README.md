@@ -6,7 +6,7 @@
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
-* hypothesis & Diigo
+* hypothesis & Diigo - could be copied to XmmxH
   * does either of these accept email(ed) posts?
     * "...talk..." (as implemented at TW does)
     * Evernote does
