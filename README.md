@@ -15,6 +15,7 @@
 
 ### quickActs
 * update the failing pre-authorizations
+  * this may not be available to "Free"mium users
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 # 2047-09-12
