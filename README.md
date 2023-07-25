@@ -5,6 +5,10 @@
        * chars for indents: ...
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
+* OrgDevD
+  * decide on a repo for these activities
+  * strive to publish views specifically for each intended Audience
+    * there will be a Time dimension to this
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo
   * does either of these accept email(ed) posts?
