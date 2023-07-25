@@ -10,6 +10,7 @@
   * strive to publish views specifically for each intended Audience
     * there will be a Time dimension to this
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
+* refine AcH
 * hypothesis & Diigo
   * does either of these accept email(ed) posts?
     * "...talk..." (as implemented at TW does)
