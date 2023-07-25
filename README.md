@@ -16,6 +16,7 @@
     * Evernote does
     * review RSS or its new versions (perticularly on Mobile devices)
   * try creating a PR that JrHw can pull into XmmxH
+* trigger a Chat and ask for a summary of the top level git commands
 
 ### quickActs
 * update the failing pre-authorizations
