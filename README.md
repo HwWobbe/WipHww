@@ -1,10 +1,16 @@
 ## 2023 quickLinks
+* https://github.com/HwWobbe/WipHww#-2023-07
+  * ...
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
    * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
      * increase the use of this prettyLink example & reduce the un-needed use of preceding
        * chars for indents: ...
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
+* OrgDevD
+  * decide on a repo for these activities
+  * strive to publish views specifically for each intended Audience
+    * there will be a Time dimension to this
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo
   * does either of these accept email(ed) posts?
@@ -15,6 +21,7 @@
 
 ### quickActs
 * update the failing pre-authorizations
+  * specifically: ...
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 # 2047-09-12
@@ -35,6 +42,8 @@
     * review the eOn APP
 * try NodeJn with a BobExe fallBack
   * expand this activity into a file specifically for Mukesh
+* the Contributions Settings ( Pulse ) display should support EdD documentation
+  * ...
 * Minimal Test Case for a PR or just a simple Git pull of two files
   * create another folder for the 2022 information
     * test the "Code" control more deeply
@@ -42,12 +51,17 @@
   * refine the folder structures that can best support this.
     * can https://tiddlytools.com/InsideTW/ be annotated
       * perhaps as a PDF
+* How is pagination controlled in these GitHub files?
+  * ...
 * https://github.com/iamkun/dayjs
   * implementation for the enhanceed relative Date processing
 * consider the use of more GitHub files
   * review the ChatGpt hints
   * continue melding Git & Chat
 * http://www.xpdfreader.com/about.html
+  * merge this with the other PDF reference
+* noticed that Jr pasted a PR reference  into the Community site at
+  * https://talk.tiddlywiki.org/t/clarification-on-the-use-of-hashmap-s/7609/6?
 * http://skotniczny.github.io/game-of-life/canvas.html
 
 ## Review:
