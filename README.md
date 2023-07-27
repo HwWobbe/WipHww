@@ -42,8 +42,10 @@
 * add a public record for Richard's Address
   * build a Private data extension for Hwo's record of Am I on the List
     * review the eOn APP
+      * show the value of AA / JkW & KfW for AdManCa 
 * the Contributions Settings ( Pulse ) display should support EdD documentation
-  * ...
+  * explain the significance of the new localStore capability
+    * weave WASM into this
 * Minimal Test Case for a PR or just a simple Git pull of two files
   * create another folder for the 2022 information
     * test the "Code" control more deeply
