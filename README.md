@@ -35,13 +35,13 @@
    * expand the SoW definitions towards a MicroContent state
      * decide on an effective mixture of THost versus Xemexex
 * Consider breaking out GeoJson - Section? Folder? Repo?
-* try NodeJn with a BobExe fallBack
-  * expand this activity into a file specifically for Mukesh
 
 # 2023-08/TmoTn:
 * add a public record for Richard's Address
   * build a Private data extension for Hwo's record of Am I on the List
     * review the eOn APP
+* try NodeJn with a BobExe fallBack
+  * expand this activity into a file specifically for Mukesh
 * the Contributions Settings ( Pulse ) display should support EdD documentation
   * ...
 * Minimal Test Case for a PR or just a simple Git pull of two files
