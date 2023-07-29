@@ -12,7 +12,7 @@
   * strive to publish views specifically for each intended Audience
     * there will be a Time dimension to this
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
-* hypothesis & Diigo
+* hypothesis & Diigo - could be copied to XmmxH
   * does either of these accept email(ed) posts?
     * "...talk..." (as implemented at TW does)
     * Evernote does
