@@ -1,10 +1,16 @@
 ## 2023 quickLinks
+* https://github.com/HwWobbe/WipHww#-2023-07
+  * ...
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
    * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
      * increase the use of this prettyLink example & reduce the un-needed use of preceding
        * chars for indents: ...
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
+* OrgDevD
+  * decide on a repo for these activities
+  * strive to publish views specifically for each intended Audience
+    * there will be a Time dimension to this
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo - could be copied to XmmxH
   * does either of these accept email(ed) posts?
@@ -15,6 +21,7 @@
 
 ### quickActs
 * update the failing pre-authorizations
+  * specifically: ...
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 # 2047-09-12
@@ -28,13 +35,13 @@
    * expand the SoW definitions towards a MicroContent state
      * decide on an effective mixture of THost versus Xemexex
 * Consider breaking out GeoJson - Section? Folder? Repo?
-* try NodeJn with a BobExe fallBack
-  * expand this activity into a file specifically for Mukesh
 
 # 2023-08/TmoTn:
 * add a public record for Richard's Address
   * build a Private data extension for Hwo's record of Am I on the List
     * review the eOn APP
+* try NodeJn with a BobExe fallBack
+  * expand this activity into a file specifically for Mukesh
 * the Contributions Settings ( Pulse ) display should support EdD documentation
   * ...
 * Minimal Test Case for a PR or just a simple Git pull of two files
