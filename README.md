@@ -21,7 +21,8 @@
 
 ### quickActs
 * update the failing pre-authorizations
-  * specifically: ...
+  * specifically: Git ...
+    * review statements to ensure complete capture
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 # 2047-09-12
