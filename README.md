@@ -28,7 +28,8 @@
 ## 2029-12
 * remove higher levels to ...wip
 
-# 2023-07 ( TmoTt )
+# 2023-08 ( TmoTt )
+* mksh negotiation
 * demo for DplDf
  * start building notes at XmmxH for Jeremy
    * seems to need an interactive build in order to progress
@@ -36,7 +37,7 @@
      * decide on an effective mixture of THost versus Xemexex
 * Consider breaking out GeoJson - Section? Folder? Repo?
 
-# 2023-08/TmoTn:
+# 2023-0㋈/TmoTn:
 * add a public record for Richard's Address
   * build a Private data extension for Hwo's record of Am I on the List
     * review the eOn APP
@@ -68,6 +69,8 @@
 * JrHw - ideally starting with a build-up of the shared ... schema Comments
 * https://github.com/elastic/elasticsearch
 * Mario's wikiLabs
+
+# ㋇ 2023-08:
 
 # ㋆ 2023-07:
 * Agenda for JrTnH
