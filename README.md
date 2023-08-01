@@ -30,6 +30,7 @@
 
 # 2023-08 ( TmoTt )
 * mksh negotiation
+* remove material into the 2023 folder
 * demo for DplDf
  * start building notes at XmmxH for Jeremy
    * seems to need an interactive build in order to progress
