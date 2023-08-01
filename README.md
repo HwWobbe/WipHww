@@ -30,6 +30,7 @@
 
 # 2023-08 ( TmoTt )
 * mksh negotiation
+* try various scheduling methods in this environment
 * demo for DplDf
  * start building notes at XmmxH for Jeremy
    * seems to need an interactive build in order to progress
