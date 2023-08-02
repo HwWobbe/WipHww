@@ -30,6 +30,7 @@
 
 # 2023-08 ( TmoTt )
 * mksh negotiation
+  * enhance the proposed GitHub repo into an effective SoW
 * try various scheduling methods in this environment
 * demo for DplDf
  * start building notes at XmmxH for Jeremy
