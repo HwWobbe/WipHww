@@ -29,6 +29,8 @@
 * remove higher levels to ...wip
 
 # 2023-08 ( TmoTt )
+* RstT shared folder follow-up
+  * ...
 * mksh negotiation
   * enhance the proposed GitHub repo into an effective SoW
   * remove material into the 2023 folder
