@@ -32,6 +32,7 @@
 * mksh negotiation
   * enhance the proposed GitHub repo into an effective SoW
   * remove material into the 2023 folder
+* balance (CommitDirect) DCs & PRs
 * try various scheduling methods in this environment
 
 * demo for DplDf
