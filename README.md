@@ -26,15 +26,18 @@
 
 # 2047-09-12
 ## 2029-12
-* remove higher levels to ...wip
+* remove higher levels to ...wip (which could be a file within the 2013 folder)
 
 # 2023-08 ( TmoTt )
 * RstT shared folder follow-up
-  * ...
+  * revciew the created shared folder " Yery True "
+    * find the email ( or LinkedIn reference )
+      * Does this fit with the KFW interest, well enough for more sharing?
+* balance (CommitDirect) DCs & PRs
+  * PRs are not counted as Commits
 * mksh negotiation
   * enhance the proposed GitHub repo into an effective SoW
   * remove material into the 2023 folder
-* balance (CommitDirect) DCs & PRs
 * try various scheduling methods in this environment
 
 * demo for DplDf
