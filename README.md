@@ -26,7 +26,7 @@
 
 # 2047-09-12
 ## 2029-12
-* remove higher levels to ...wip
+* remove higher levels to ...wip (which could be a file within the 2013 folder)
 
 # 2023-08 ( TmoTt )
 * balance (CommitDirect) DCs & PRs
