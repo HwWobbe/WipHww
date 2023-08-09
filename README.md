@@ -21,6 +21,7 @@
 
 ### quickActs
 * update the failing pre-authorizations
+  * Confirm this is Done.
   * specifically: ...
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
