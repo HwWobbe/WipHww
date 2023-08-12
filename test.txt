@@ -1,4 +1,8 @@
-Testing a separate text file should be straight-forward,
+Testing a separate text file is now straight-forward,
+* due to improved familiarity and skills
+
+focus on move a File ionto a subFolder
+* ...
 
 * try making a copy that can be posted into a TwH file
 * * the needed control appears at ...
