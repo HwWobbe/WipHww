@@ -7,10 +7,6 @@
        * chars for indents: ...
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
-* OrgDevD
-  * decide on a repo for these activities
-  * strive to publish views specifically for each intended Audience
-    * there will be a Time dimension to this
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo - could be copied to XmmxH
   * does either of these accept email(ed) posts?
@@ -80,6 +76,11 @@
 * JrHw - ideally starting with a build-up of the shared ... schema Comments
 * https://github.com/elastic/elasticsearch
 * Mario's wikiLabs
+
+* OrgDevD
+  * decide on a repo for these activities
+  * strive to publish views specifically for each intended Audience
+    * there will be a Time dimension to this
 
 # ㋇ 2023-08:
 * RstT shared folder
