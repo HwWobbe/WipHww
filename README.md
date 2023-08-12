@@ -43,6 +43,7 @@
    * expand the SoW definitions towards a MicroContent state
      * decide on an effective mixture of THost versus Xemexex
 * Consider breaking out GeoJson - Section? Folder? Repo?
+* review https://docs.github.com/en
 
 # 2023-0㋈/TmoTn:
 * add a public record for Richard's Address
