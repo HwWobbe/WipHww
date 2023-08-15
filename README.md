@@ -6,7 +6,6 @@
      * increase the use of this prettyLink example & reduce the un-needed use of preceding
        * chars for indents: ...
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
-* https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo - could be copied to XmmxH
   * does either of these accept email(ed) posts?
@@ -22,6 +21,8 @@
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 # 2047-09-12
+* https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
+
 ## 2029-12
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
 
