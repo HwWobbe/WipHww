@@ -9,7 +9,7 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 * * newFolder/newFile became the fileName.
 * * * Consider changing this, carefully.
 
-# Findings
+# 5.0 Findings
 
 ## Background
 
@@ -19,7 +19,7 @@ The files in the containing folder do not appear to be in alphabetical order, pe
 * confirm Google access
 * The Hints show that this file exists in a StackEdit workspace AND in my GoogleDrive.
 
-# Conclusions
+# 6.0 Conclusions
 
 ...
 
