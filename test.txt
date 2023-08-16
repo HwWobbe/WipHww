@@ -1,4 +1,7 @@
-Testing a separate text file should be straight-forward,
+Testing a separate text file should be a straight-forward uue of standard text blocks that consist to Sentences, Paragraphs, Sections and Pages. Ideally, these will be the constituents of a Page.( File.md )
+
+This will, of course, leave to need to "build" or assemble Chapters.
+
 
 * try making a copy that can be posted into a TwH file
 * * the needed control appears at ...
