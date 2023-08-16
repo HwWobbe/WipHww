@@ -1,4 +1,4 @@
-Testing a separate text file should be a straight-forward uue of standard text blocks that consist to Sentences, Paragraphs, Sections and Pages. Ideally, these will be the constituents of a Page.( File.md )
+Testing a separate text file should be a straight-forward uue of standard text blocks that consist to Sentences, Paragraphs, Sections and Pages. Ideally, these will be the constituents of a Page.( File.md - as opposed to this text.txt)
 
 This will, of course, leave to need to "build" or assemble Chapters.
 
