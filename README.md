@@ -1,6 +1,7 @@
 ## 2023 quickLinks
 * https://github.com/HwWobbe/WipHww#-2023-07
   * ...
+* https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
    * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
      * increase the use of this prettyLink example & reduce the un-needed use of preceding ...
