@@ -123,29 +123,29 @@
     * WikiPedia
       * this may evolve from TilesH
 * expand the use of MiniTeams
-* * off-shore & cross-culture issues will emerge
+  * off-shore & cross-culture issues will emerge
   * review the JAZZ + 1 macro submissions
-* * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
+  * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
 
 Done:
 * 2023-06-09: XmmX meeting cancelled by Jr
 
 # ㋄ 2023-05:
 * Preparations
-* * check SSM wiki tech use
-* * * * describe a detailed tech demo of new functions in theCore 
+  * check SSM wiki tech use
+    * describe a detailed tech demo of new functions in theCore 
 * contract for Excel macro capabilities 
-* * if FAIL: then key a summary table to verify costs
+  * if FAIL: then key a summary table to verify costs
 * Activities summary:
-* * DfxIdHub development, from a YOTI seed
-* * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
-* * selected PsH methodologies to populate Editions from EsHw
-* * * tested by populating ...XmmxH/HwwPriX
-* * * ... other Editions like EsCs (to be tested)
+  * DfxIdHub development, from a YOTI seed
+  * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
+  * selected PsH methodologies to populate Editions from EsHw
+    * tested by populating ...XmmxH/HwwPriX
+    * ... other Editions like EsCs (to be tested)
 * 'pulse' skips show the need for better activity management
-* * at least set up another folder, for now
-* * * PDF archiving ?
-* * * * try saving this information as a PDF
+  * at least set up another folder, for now
+    * PDF archiving ?
+      * try saving this information as a PDF
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
