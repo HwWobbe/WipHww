@@ -20,6 +20,7 @@
   * Creat a PR that JrHw can pull into XmmxH
 
 ### quickActs
+* learn about: "this branch is" ... "commits ahead" & "commits behind"
 * update the failing pre-authorizations
   * Confirm this is Done.
   * specifically: ...
