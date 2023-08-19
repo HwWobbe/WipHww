@@ -21,9 +21,6 @@
     * specifically: ...
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
-# 2047-09-12
-* https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
-
 ## 2029-12
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
 * level-up Commits:
