@@ -16,6 +16,8 @@
   * Creat a PR that JrHw can pull into XmmxH
 
 ### quickActs
+* test the many X '*' markup for TwH compatibility
+  * ...
 * update the failing pre-authorizations
   * Confirm this is Done.
     * specifically: ...
