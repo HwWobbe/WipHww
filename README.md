@@ -18,7 +18,7 @@
 ### quickActs
 * update the failing pre-authorizations
   * Confirm this is Done.
-  * specifically: ...
+    * specifically: ...
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 # 2047-09-12
@@ -26,7 +26,8 @@
 
 ## 2029-12
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
-* level-up Commits for ...
+* level-up Commits:
+  * specifically: ...
 
 # 2023-08 ( TmoTt )
 * RstT shared folder follow-up
