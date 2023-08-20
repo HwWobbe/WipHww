@@ -17,7 +17,7 @@
 
 ### quickActs
 * test the many X '*' markup for TwH compatibility
-  * ...
+  * this may change the view of Pulse updates
 * update the failing pre-authorizations
   * Confirm this is Done.
     * specifically: ...
