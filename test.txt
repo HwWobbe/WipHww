@@ -1,10 +1,19 @@
-Testing a separate text file is now straight-forward,
-* due to improved familiarity and skills
 
-focus on move a File ionto a subFolder
+Testing a separate text file is now straight-forward, due to improved familiarity and skills.
+
+* Focus on move a File into a subFolder
 * ...
 
-* try making a copy that can be posted into a TwH file
-* * the needed control appears at ...
+Testing a separate text file should be a straight-forward due to standard text blocks that consist 
+of Sentences, Paragraphs, Sections and Pages. 
 
-evenings may be an opportunity to make Learned notes about GitHub.
+Ideally, these will be the constituents of a Page.( File.md - as opposed to this text.txt)
+
+This will, of course, lead to a need to "build" or assemble Chapters.
+
+Next:
+
+* try making a copy that can be posted into a TwH file
+  * the needed control appears at ...
+
+* evenings may be an opportunity to make Learned notes about GitHub.
