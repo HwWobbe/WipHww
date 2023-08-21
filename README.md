@@ -16,6 +16,7 @@
   * Creat a PR that JrHw can pull into XmmxH
 
 ### quickActs
+* learn about: "this branch is" ... "commits ahead" & "commits behind"
 * test the many X '*' markup for TwH compatibility
   * this may change the view of Pulse updates
 * update the failing pre-authorizations
@@ -87,8 +88,10 @@
     * there will be a Time dimension to this
 
 # ㋇ 2023-08:
-* RstT shared folder
-
+* RstT shared folder has been set up
+  * initial "very True material has been posted
+    * try linking to VeryTrue from GitHub files
+      * focus on ChatGpt uses
 # ㋆ 2023-07:
 * Agenda for JrTnH
   * Updates for GeoSpatial (refine data collection) CurbSide LzH ...
