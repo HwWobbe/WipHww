@@ -5,10 +5,11 @@
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
 
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
-   * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
+
 * deconstruct this file
   * increase the use of this prettyLink example & reduce the un-needed use of preceding ...
     * chars for indents: ...
+
 * review "convert" (Issues to Discussions)
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
