@@ -19,9 +19,6 @@
 * learn about: "this branch is" ... "commits ahead" & "commits behind"
 * test the many X '*' markup for TwH compatibility
   * this may change the view of Pulse updates
-* update the failing pre-authorizations
-  * Confirm this is Done.
-    * specifically: ...
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 ## 2029-12
