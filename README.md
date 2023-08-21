@@ -154,14 +154,14 @@ Done:
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
-* * Tax Allocation requests to Cities
-* * * 'ready market' considerations
-* * Mortgage Discharge amounts
+  * Tax Allocation requests to Cities
+    * 'ready market' considerations
+  * Mortgage Discharge amounts
 * prototype of Movers for Targeted Revisions in M1-M9 
-* * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
-* * JKW.Eca."Am I on the list".confirms 
-* * * myAccount @ MPAC & ... - based on coOwner Rights
-* * * * myAgent can ... ( if stalled )
+  * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
+  * JKW.Eca."Am I on the list".confirms 
+    * myAccount @ MPAC & ... - based on coOwner Rights
+      * myAgent can ... ( if stalled )
 
 # 2023-04:
 * review the missing M.. listings
@@ -280,12 +280,6 @@ Done:
 * * * * * airGap can be integrated into off-site placement 
 * * * * * with efficient transport via 4 tB chuncks
 * tweaking TwHwUi Tw/Hw/Ui TW/hw/ui
-
-## 2023 Challenges:
-* three types of TransitionManagement are needed before the end of 2026
-* GeoSpatial implementation(s)
-  * A Flikr Foundation group may be a useful introduction to the TwGeospatial capabilities
-* extend budgeting throughout the 2026 Events
 
 <hr>
 
