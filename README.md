@@ -14,7 +14,7 @@
     * "...talk..." (as implemented at TW does)
     * Evernote does
     * review RSS or its new versions (perticularly on Mobile devices)
-  * Creat a PR that JrHw can pull into XmmxH
+  * Create a PR that JrHw can pull into XmmxH
 
 ### quickActs
 * learn about: "this branch is" ... "commits ahead" & "commits behind"
