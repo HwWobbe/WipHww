@@ -1,6 +1,9 @@
 ## 2023 quickLinks
 * https://github.com/HwWobbe/WipHww#-2023-07
   * ...
+
+* [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
+
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
    * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
 * deconstruct this file
