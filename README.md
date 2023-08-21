@@ -3,14 +3,10 @@
   * ...
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
    * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
-     * increase the use of this prettyLink example & reduce the un-needed use of preceding
+     * increase the use of this prettyLink example & reduce the un-needed use of preceding ...
        * chars for indents: ...
+* review "convert" (Issues to Discussions)
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
-* https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
-* OrgDevD
-  * decide on a repo for these activities
-  * strive to publish views specifically for each intended Audience
-    * there will be a Time dimension to this
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo - could be copied to XmmxH
   * does either of these accept email(ed) posts?
@@ -21,14 +17,17 @@
 
 ### quickActs
 * learn about: "this branch is" ... "commits ahead" & "commits behind"
+* test the many X '*' markup for TwH compatibility
+  * this may change the view of Pulse updates
 * update the failing pre-authorizations
   * Confirm this is Done.
-  * specifically: ...
+    * specifically: ...
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
-# 2047-09-12
 ## 2029-12
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
+* level-up Commits:
+  * specifically: ...
 
 # 2023-08 ( TmoTt )
 * RstT shared folder follow-up
@@ -48,6 +47,7 @@
    * expand the SoW definitions towards a MicroContent state
      * decide on an effective mixture of THost versus Xemexex
 * Consider breaking out GeoJson - Section? Folder? Repo?
+* review https://docs.github.com/en
 
 # 2023-0㋈/TmoTn:
 * add a public record for Richard's Address
@@ -81,6 +81,11 @@
 * JrHw - ideally starting with a build-up of the shared ... schema Comments
 * https://github.com/elastic/elasticsearch
 * Mario's wikiLabs
+
+* OrgDevD
+  * decide on a repo for these activities
+  * strive to publish views specifically for each intended Audience
+    * there will be a Time dimension to this
 
 # ㋇ 2023-08:
 * RstT shared folder has been set up
@@ -122,29 +127,29 @@
     * WikiPedia
       * this may evolve from TilesH
 * expand the use of MiniTeams
-* * off-shore & cross-culture issues will emerge
+  * off-shore & cross-culture issues will emerge
   * review the JAZZ + 1 macro submissions
-* * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
+  * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
 
 Done:
 * 2023-06-09: XmmX meeting cancelled by Jr
 
 # ㋄ 2023-05:
 * Preparations
-* * check SSM wiki tech use
-* * * * describe a detailed tech demo of new functions in theCore 
+  * check SSM wiki tech use
+    * describe a detailed tech demo of new functions in theCore 
 * contract for Excel macro capabilities 
-* * if FAIL: then key a summary table to verify costs
+  * if FAIL: then key a summary table to verify costs
 * Activities summary:
-* * DfxIdHub development, from a YOTI seed
-* * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
-* * selected PsH methodologies to populate Editions from EsHw
-* * * tested by populating ...XmmxH/HwwPriX
-* * * ... other Editions like EsCs (to be tested)
+  * DfxIdHub development, from a YOTI seed
+  * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
+  * selected PsH methodologies to populate Editions from EsHw
+    * tested by populating ...XmmxH/HwwPriX
+    * ... other Editions like EsCs (to be tested)
 * 'pulse' skips show the need for better activity management
-* * at least set up another folder, for now
-* * * PDF archiving ?
-* * * * try saving this information as a PDF
+  * at least set up another folder, for now
+    * PDF archiving ?
+      * try saving this information as a PDF
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
