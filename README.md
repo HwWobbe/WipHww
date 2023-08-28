@@ -36,6 +36,7 @@
   * review the created shared folder " Yery True "
     * find the email ( or LinkedIn reference )
       * Does this fit with the KFW interest, well enough for more sharing?
+** 0826: minor Rst contact
 * balance (CommitDirect) DCs & PRs
   * PRs are not counted as Commits
 * mksh negotiation
