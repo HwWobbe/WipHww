@@ -6,10 +6,6 @@
 
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
 
-* deconstruct this file
-  * increase the use of this prettyLink example & reduce the un-needed use of preceding ...
-    * chars for indents: ...
-
 * review "convert" (Issues to Discussions)
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
@@ -30,6 +26,12 @@
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
 * level-up Commits:
   * specifically: ...
+* deconstruct this file
+  * increase the use of this prettyLink example & reduce the un-needed use of preceding ...
+    * chars for indents: ...
+
+# 2023-09 ( TmoTn )
+...
 
 # 2023-08 ( TmoTt )
 * RstT shared folder follow-up
