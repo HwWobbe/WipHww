@@ -2,10 +2,11 @@
 * https://github.com/HwWobbe/WipHww#-2023-07
   * ...
 * https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
+* [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
+
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
-   * [the Year's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges)
-     * increase the use of this prettyLink example & reduce the un-needed use of preceding ...
-       * chars for indents: ...
+
+* review "convert" (Issues to Discussions)
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo - could be copied to XmmxH
@@ -13,25 +14,31 @@
     * "...talk..." (as implemented at TW does)
     * Evernote does
     * review RSS or its new versions (perticularly on Mobile devices)
-  * Creat a PR that JrHw can pull into XmmxH
+  * Create a PR that JrHw can pull into XmmxH
 
 ### quickActs
-* update the failing pre-authorizations
-  * Confirm this is Done.
-  * specifically: ...
+* learn about: "this branch is" ... "commits ahead" & "commits behind"
+* test the many X '*' markup for TwH compatibility
+  * this may change the view of Pulse updates
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
-
-# 2047-09-12
-* https://github.com/HwWobbe/WipHww/blob/main/README.md#2023-challenges
 
 ## 2029-12
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
+* level-up Commits:
+  * specifically: ...
+* deconstruct this file
+  * increase the use of this prettyLink example & reduce the un-needed use of preceding ...
+    * chars for indents: ...
+
+# 2023-09 ( TmoTn )
+...
 
 # 2023-08 ( TmoTt )
 * RstT shared folder follow-up
-  * revciew the created shared folder " Yery True "
+  * review the created shared folder " Yery True "
     * find the email ( or LinkedIn reference )
       * Does this fit with the KFW interest, well enough for more sharing?
+** 0826: minor Rst contact
 * balance (CommitDirect) DCs & PRs
   * PRs are not counted as Commits
 * mksh negotiation
@@ -86,8 +93,10 @@
     * there will be a Time dimension to this
 
 # ㋇ 2023-08:
-* RstT shared folder
-
+* RstT shared folder has been set up
+  * initial "very True material has been posted
+    * try linking to VeryTrue from GitHub files
+      * focus on ChatGpt uses
 # ㋆ 2023-07:
 * Agenda for JrTnH
   * Updates for GeoSpatial (refine data collection) CurbSide LzH ...
@@ -123,40 +132,40 @@
     * WikiPedia
       * this may evolve from TilesH
 * expand the use of MiniTeams
-* * off-shore & cross-culture issues will emerge
+  * off-shore & cross-culture issues will emerge
   * review the JAZZ + 1 macro submissions
-* * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
+  * rst( GeoSpatial & JSON ; signedVirtualMachines ; Kubernetics ) ; ...
 
 Done:
 * 2023-06-09: XmmX meeting cancelled by Jr
 
 # ㋄ 2023-05:
 * Preparations
-* * check SSM wiki tech use
-* * * * describe a detailed tech demo of new functions in theCore 
+  * check SSM wiki tech use
+    * describe a detailed tech demo of new functions in theCore 
 * contract for Excel macro capabilities 
-* * if FAIL: then key a summary table to verify costs
+  * if FAIL: then key a summary table to verify costs
 * Activities summary:
-* * DfxIdHub development, from a YOTI seed
-* * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
-* * selected PsH methodologies to populate Editions from EsHw
-* * * tested by populating ...XmmxH/HwwPriX
-* * * ... other Editions like EsCs (to be tested)
+  * DfxIdHub development, from a YOTI seed
+  * https://talk.tiddlywiki.org/t/my-favorite-5-3-0-prerelease-feature-x-ray-vision/6811
+  * selected PsH methodologies to populate Editions from EsHw
+    * tested by populating ...XmmxH/HwwPriX
+    * ... other Editions like EsCs (to be tested)
 * 'pulse' skips show the need for better activity management
-* * at least set up another folder, for now
-* * * PDF archiving ?
-* * * * try saving this information as a PDF
+  * at least set up another folder, for now
+    * PDF archiving ?
+      * try saving this information as a PDF
 
 ## Goal(s)
 * demonstrations need to emphasize the cities as "ready markets"
-* * Tax Allocation requests to Cities
-* * * 'ready market' considerations
-* * Mortgage Discharge amounts
+  * Tax Allocation requests to Cities
+    * 'ready market' considerations
+  * Mortgage Discharge amounts
 * prototype of Movers for Targeted Revisions in M1-M9 
-* * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
-* * JKW.Eca."Am I on the list".confirms 
-* * * myAccount @ MPAC & ... - based on coOwner Rights
-* * * * myAgent can ... ( if stalled )
+  * roles: KFW.AA (as a tertiary interest, for balance - secondary is GsdDf )
+  * JKW.Eca."Am I on the list".confirms 
+    * myAccount @ MPAC & ... - based on coOwner Rights
+      * myAgent can ... ( if stalled )
 
 # 2023-04:
 * review the missing M.. listings
@@ -275,12 +284,6 @@ Done:
 * * * * * airGap can be integrated into off-site placement 
 * * * * * with efficient transport via 4 tB chuncks
 * tweaking TwHwUi Tw/Hw/Ui TW/hw/ui
-
-## 2023 Challenges:
-* three types of TransitionManagement are needed before the end of 2026
-* GeoSpatial implementation(s)
-  * A Flikr Foundation group may be a useful introduction to the TwGeospatial capabilities
-* extend budgeting throughout the 2026 Events
 
 <hr>
 
