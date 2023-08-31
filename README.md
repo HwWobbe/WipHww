@@ -23,6 +23,8 @@
 * ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
 
 ## 2029-12
+* review CoDemo
+  * ...
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
 * level-up Commits:
   * specifically: ...
