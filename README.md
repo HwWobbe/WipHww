@@ -35,6 +35,14 @@
 # 2023-09 ( TmoTn )
 ...
 
+* RichardC focus during -09-
+  * finalize offer
+    * perhaps just a registration Portal
+      * test the abilitity to do "targeted revisions based on "stale" data
+        * this should be baseec on GeoSpatial capabilities
+          * just a Yes/No response - Privacy - registered user Alerts  re change - like Business Registration
+            * MailFail notification feed 
+
 # 2023-08 ( TmoTt )
 * RstT shared folder follow-up
   * review the created shared folder " Yery True "
