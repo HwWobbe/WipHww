@@ -65,6 +65,8 @@
 * review https://docs.github.com/en
 
 # 2023-0㋈/TmoTn:
+* the -0 may be redunndant - unless it is needed to separate the first 9 from the last 3 months of the 12 that comprize a year.
+  * test this in Tw as a pragma before deciding on conventions in this GitHub environment.
 * add a public record for Richard's Address
   * build a Private data extension for Hwo's record of Am I on the List
     * review the eOn APP
