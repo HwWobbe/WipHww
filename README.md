@@ -32,7 +32,7 @@
   * increase the use of this prettyLink example & reduce the un-needed use of preceding ...
     * chars for indents: ...
 
-# 2023-09 ( TmoTn )
+# 2023-10 ( TmoTn )
 ...
 
 * RichardC focus during -09-
@@ -43,7 +43,7 @@
           * just a Yes/No response - Privacy - registered user Alerts  re change - like Business Registration
             * MailFail notification feed 
 
-# 2023-08 ( TmoTt )
+# 2023-08 ( TmoTp )
 * RstT shared folder follow-up
   * review the created shared folder " Yery True "
     * find the email ( or LinkedIn reference )
