@@ -5,7 +5,9 @@
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
 
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
-
+  * Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
+    * MailFail ; Tripartiti ( Citeies upwards > Provinces > federal Institutions )
+      * Open Source to start < "free-mium" to scale )
 * review "convert" (Issues to Discussions)
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
