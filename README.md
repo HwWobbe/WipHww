@@ -1,7 +1,4 @@
 ## 2023 quickLinks
-* https://github.com/HwWobbe/WipHww#-2023-07
-  * ...
-
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
 
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
@@ -22,7 +19,8 @@
 * learn about: "this branch is" ... "commits ahead" & "commits behind"
 * test the many X '*' markup for TwH compatibility
   * this may change the view of Pulse updates
-* ㋇㋈㋉㋊㋋ ㋀㋁㋂㋃㋄㋅ ; test #HwWvW as a target
+* ㋈ ㋉㋊㋋ ㋀㋁㋂㋃㋄㋅㋆㋇ ; test #HwWvW as a target
+* https://github.com/HwWobbe/WipHww#-2023-07
 
 ## 2029-12
 * review CoDemo
