@@ -1,6 +1,9 @@
 ## 2023 quickLinks
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
-
+  * EdD summary creation will be more demanding as sopporting material
+    * a second project may be helpful
+    * the amalgamation will trigger CRA notification
+    * should BOAST be considered - especially in a 5 year view?
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   * Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     * MailFail ; Tripartiti ( Citeies upwards > Provinces > federal Institutions )
