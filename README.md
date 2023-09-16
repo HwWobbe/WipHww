@@ -2,6 +2,7 @@
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   * Business Continuity requires Ownership Transition
     * see Wp:Entity ( WikiPedia )
+* partner with another Reviewer
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   * Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     * MailFail ; Tripartiti ( Citeies upwards > Provinces > federal Institutions )
