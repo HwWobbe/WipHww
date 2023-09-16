@@ -1,4 +1,5 @@
 ## 2023 quickLinks
+* use more Heeadings and their implicit ToC
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   * Business Continuity requires Ownership Transition
     * see Wp:Entity ( WikiPedia )
