@@ -40,7 +40,7 @@
   * finalize offer
     * perhaps just a registration Portal
       * test the abilitity to do "targeted revisions based on "stale" data
-        * this should be baseec on GeoSpatial capabilities
+        * this should be based on GeoSpatial capabilities
           * just a Yes/No response - Privacy - registered user Alerts  re change - like Business Registration
             * MailFail notification feed 
 
