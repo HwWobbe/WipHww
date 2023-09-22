@@ -23,7 +23,7 @@
 * ㋈ ㋉㋊㋋ ㋀㋁㋂㋃㋄㋅㋆㋇ ; test #HwWvW as a target
 * https://github.com/HwWobbe/WipHww#-2023-07
 
-## 2029-12
+## 2026-12
 * review CoDemo
   * ...
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
