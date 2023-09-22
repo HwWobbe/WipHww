@@ -43,6 +43,8 @@
         * this should be based on GeoSpatial capabilities
           * just a Yes/No response - Privacy - registered user Alerts  re change - like Business Registration
             * MailFail notification feed 
+* https://github.com/flickr/flickr-sdk
+  * review for integration with GeoSpatialTw
 
 # 2023-08 ( TmoTp )
 * RstT shared folder follow-up
