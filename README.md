@@ -42,6 +42,8 @@
   * Create a second GitHubId to further test Private repo performance
     * if acceptable, start moving text into the more Private repos at the cost of increased Permissions management
 
+<hr>
+
 # 2023-10 ( TmoTn )
 ...
 
