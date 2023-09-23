@@ -21,6 +21,8 @@
   * Create a PR that JrHw can pull into XmmxH
 
 ### quickActs
+* start integrating Topicss for Contexts that span time periods
+  * ...
 * learn about: "this branch is" ... "commits ahead" & "commits behind"
 * test the many X '*' markup for TwH compatibility
   * this may change the view of Pulse updates
