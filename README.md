@@ -30,6 +30,8 @@
 <hr>
 
 ## 2026-12
+
+* The insertion of the hr caused a loss of rendered formats.
 * review CoDemo
   * ...
 * remove higher levels to ...wip (which could be a file within the 2013 folder)
