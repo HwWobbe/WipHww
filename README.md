@@ -73,6 +73,7 @@
 * demo for DplDf
  * start building notes at XmmxH for Jeremy
    * seems to need an interactive build in order to progress
+     * howTo: initiate a PR for this task?
    * expand the SoW definitions towards a MicroContent state
      * decide on an effective mixture of THost versus Xemexex
 * Consider breaking out GeoJson - Section? Folder? Repo?
