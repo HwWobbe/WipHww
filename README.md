@@ -11,7 +11,7 @@
       * Open Source to start < "free-mium" to scale )
 * Business Continuity requires Ownership Transition
   * see Wp:Entity ( WikiPedia )
-* review "convert" (Issues to Discussions)
+
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 * hypothesis & Diigo - could be copied to XmmxH
@@ -50,6 +50,11 @@
 # 2023-10 ( TmoTn )
 ...
 
+* https://github.com/flickr/flickr-sdk
+  * review for integration with GeoSpatialTw
+
+* review "convert" (Issues to Discussions)
+
 * RichardC focus during -09-
   * finalize offer
     * perhaps just a registration Portal
@@ -57,8 +62,6 @@
         * this should be based on GeoSpatial capabilities
           * just a Yes/No response - Privacy - registered user Alerts  re change - like Business Registration
             * MailFail notification feed 
-* https://github.com/flickr/flickr-sdk
-  * review for integration with GeoSpatialTw
 
 # 2023-08 ( TmoTp )
 * RstT shared folder follow-up
