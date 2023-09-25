@@ -47,11 +47,15 @@
 
 <hr>
 
-# 2023-10 ( TmoTn )
+# 2023-11 ( TmoTn )
+...
+
+# 2023-10 
 ...
 
 * https://github.com/flickr/flickr-sdk
   * review for integration with GeoSpatialTw
+   * ensure more of these items are dealt with during 2023-20.
 
 * review "convert" (Issues to Discussions)
 
