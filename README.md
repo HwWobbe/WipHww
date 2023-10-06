@@ -1,5 +1,8 @@
 ## 2023 quickLinks
-* use more Headings and their implicit ToC
+
+* the displayed order to PRs remains mysterious
+  * use more Headings and their implicit ToC
+
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   * EdD summary creation will be more demanding as supporting material
     * a second project may be helpful
