@@ -8,15 +8,20 @@
     * a second project may be helpful
     * the amalgamation will trigger CRA notification
     * should BOAST be considered - especially in a 5 year view?
+
+* use more Heeadings and their implicit ToC
+
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   * Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     * MailFail ; Tripartite ( Citeies upwards > Provinces > federal Institutions )
       * Open Source to start < "free-mium" to scale )
+
 * Business Continuity requires Ownership Transition
   * see Wp:Entity ( WikiPedia )
 
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
+
 * hypothesis & Diigo - could be copied to XmmxH
   * does either of these accept email(ed) posts?
     * "...talk..." (as implemented at TW does)
