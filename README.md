@@ -1,20 +1,26 @@
 ## 2023 quickLinks
-* use more Heeadings and their implicit ToC
+* the displayed order to PRs remains mysterious
+* use more Headings and their implicit ToC
+
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   * EdD summary creation will be more demanding as supporting material
     * a second project may be helpful
     * the amalgamation will trigger CRA notification
     * should BOAST be considered - especially in a 5 year view?
       * "review engagement" should become the new minimum.
+* use more Headings and their implicit ToC
+  * ...
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   * Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     * MailFail ; Tripartite ( Citeies upwards > Provinces > federal Institutions )
       * Open Source to start < "free-mium" to scale )
+
 * Business Continuity requires Ownership Transition
   * see Wp:Entity ( WikiPedia )
 
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
+
 * hypothesis & Diigo - could be copied to XmmxH
   * does either of these accept email(ed) posts?
     * "...talk..." (as implemented at TW does)
@@ -35,6 +41,8 @@
 
 ## 2026-12
 
+* craft a methodology for Merging PRs
+  * ...
 * The insertion of the hr caused a loss of rendered formats.
   * this was easily recovered by simply inserting some newLines.
 * review CoDemo
