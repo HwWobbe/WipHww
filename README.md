@@ -41,6 +41,8 @@
 
 ## 2026-12
 
+* craft a methodology for Merging PRs
+  * ...
 * The insertion of the hr caused a loss of rendered formats.
   * this was easily recovered by simply inserting some newLines.
 * review CoDemo
