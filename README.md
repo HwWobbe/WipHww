@@ -7,9 +7,9 @@
     * a second project may be helpful
     * the amalgamation will trigger CRA notification
     * should BOAST be considered - especially in a 5 year view?
-
-* use more Heeadings and their implicit ToC
-
+      * "review engagement" should become the new minimum.
+* use more Headings and their implicit ToC
+  * ...
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   * Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     * MailFail ; Tripartite ( Citeies upwards > Provinces > federal Institutions )
