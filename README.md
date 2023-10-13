@@ -6,8 +6,10 @@
   * EdD summary creation will be more demanding as supporting material
     * a second project may be helpful
     * the amalgamation will trigger CRA notification
-    * should BOAST be considered - especially in a 5 year view?
-      * "review engagement" should become the new minimum.
+      * discuss the implications of this - in prite of theapparent lack of concern in LsH chats
+  * factor the Governance considerations promised to Gsd into my notes on these topics
+* should BOAST be considered - especially in a 5 year view?
+    * "review engagement" should become the new minimum.
 * use more Headings and their implicit ToC
   * ...
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
