@@ -16,7 +16,7 @@
   * ...
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   * Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
-    * MailFail ; Tripartite ( Citeies upwards > Provinces > federal Institutions )
+    * MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
       * Open Source to start < "free-mium" to scale )
 
 * Business Continuity requires Ownership Transition
