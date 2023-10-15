@@ -1,6 +1,7 @@
 ## 2023 quickLinks
 * the displayed order of PRs remains mysterious
 * use more Headings and their implicit ToC
+  * ...
 * https://vercel.com/docs/deployments/git/vercel-for-github
 
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
