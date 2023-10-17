@@ -8,8 +8,6 @@
     * the amalgamation will trigger CRA notification
       * discuss the implications of this - in prite of theapparent lack of concern in LsH chats
   * factor the Governance considerations promised to Gsd into my notes on these topics
-* should BOAST be considered - especially in a 5 year view?
-    * "review engagement" should become the new minimum.
 * use more Headings and their implicit ToC
   * ...
 * https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
@@ -60,6 +58,8 @@
 
 # 2023-11 ( TmoTn )
 ...
+- should BOAST be considered - especially in a 5 year view?
+  - "review engagement" should become the new minimum.
 - the displayed order of PRs remains mysterious
 - 
 # 2023-10 
