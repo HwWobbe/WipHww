@@ -1,18 +1,18 @@
 ## 2023 quickLinks
 - https://vercel.com/docs/deployments/git/vercel-for-github
 
-* [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
-  * EdD summary creation will be more demanding as supporting material
-    * a second project may be helpful
-    * the amalgamation will trigger CRA notification
-      * discuss the implications of this - in prite of theapparent lack of concern in LsH chats
-  * factor the Governance considerations promised to Gsd into my notes on these topics
-* use more Headings and their implicit ToC
-  * ...
-* https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
-  * Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
-    * MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
-      * Open Source to start < "free-mium" to scale )
+- [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
+  - EdD summary creation will be more demanding as supporting material
+    - a second project may be helpful
+    - the amalgamation will trigger CRA notification
+      - discuss the implications of this - in prite of theapparent lack of concern in LsH chats
+  - factor the Governance considerations promised to Gsd into my notes on these topics
+- use more Headings and their implicit ToC
+  - ...
+- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
+  - Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
+    - MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
+      - Open Source to start < "free-mium" to scale )
 
 * Business Continuity requires Ownership Transition
   * see Wp:Entity ( WikiPedia )
