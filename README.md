@@ -6,7 +6,7 @@
     - a second project may be helpful
     - the amalgamation will trigger CRA notification
       - discuss the implications of this - in prite of theapparent lack of concern in LsH chats
-  - factor the Governance considerations promised to Gsd into my notes on these topics
+
 - use more Headings and their implicit ToC
   - ...
 - https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
@@ -14,8 +14,8 @@
     - MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
       - Open Source to start < "free-mium" to scale )
 
-* Business Continuity requires Ownership Transition
-  * see Wp:Entity ( WikiPedia )
+- Business Continuity requires Ownership Transition
+  - see Wp:Entity ( WikiPedia )
 
 * use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
@@ -26,6 +26,8 @@
     * Evernote does
     * review RSS or its new versions (perticularly on Mobile devices)
   * Create a PR that JrHw can pull into XmmxH
+
+- factor the Governance considerations promised to Gsd into my notes on these topics
 
 ### quickActs
 - use more Headings and their implicit ToC
