@@ -1,5 +1,4 @@
 ## 2023 quickLinks
-- use more Headings and their implicit ToC
 - https://vercel.com/docs/deployments/git/vercel-for-github
 
 * [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
@@ -29,13 +28,14 @@
   * Create a PR that JrHw can pull into XmmxH
 
 ### quickActs
-* start integrating Topicss for Contexts that span time periods
-  * ...
-* learn about: "this branch is" ... "commits ahead" & "commits behind"
-* test the many X '*' markup for TwH compatibility
-  * this may change the view of Pulse updates
-* ㋈ ㋉㋊㋋ ㋀㋁㋂㋃㋄㋅㋆㋇ ; test #HwWvW as a target
-* https://github.com/HwWobbe/WipHww#-2023-07
+- use more Headings and their implicit ToC
+- start integrating Topics for Contexts that span time periods
+  - ...
+- learn about: "this branch is" ... "commits ahead" & "commits behind"
+- test the many X '*' markup for TwH compatibility
+  - this may change the view of Pulse updates
+- ㋈ ㋉㋊㋋ ㋀㋁㋂㋃㋄㋅㋆㋇ ; test #HwWvW as a target
+- https://github.com/HwWobbe/WipHww#-2023-07
 
 <hr>
 
