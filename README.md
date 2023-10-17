@@ -7,8 +7,6 @@
     - the amalgamation will trigger CRA notification
       - discuss the implications of this - in prite of theapparent lack of concern in LsH chats
 
-- use more Headings and their implicit ToC
-  - ...
 - https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   - Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     - MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
