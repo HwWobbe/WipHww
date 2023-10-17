@@ -17,15 +17,15 @@
 - Business Continuity requires Ownership Transition
   - see Wp:Entity ( WikiPedia )
 
-* use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
+- use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
+  - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
 
-* hypothesis & Diigo - could be copied to XmmxH
-  * does either of these accept email(ed) posts?
-    * "...talk..." (as implemented at TW does)
-    * Evernote does
-    * review RSS or its new versions (perticularly on Mobile devices)
-  * Create a PR that JrHw can pull into XmmxH
+- hypothesis & Diigo - could be copied to XmmxH
+  - does either of these accept email(ed) posts?
+    - "...talk..." (as implemented at TW does)
+    - Evernote does
+    - review RSS or its new versions (perticularly on Mobile devices)
+  - Create a PR that JrHw can pull into XmmxH
 
 - factor the Governance considerations promised to Gsd into my notes on these topics
 
