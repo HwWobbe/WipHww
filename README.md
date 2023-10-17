@@ -1,5 +1,5 @@
 ## 2023 quickLinks
-* ...
+* "-" seems less problematic than "*".
 - the displayed order of PRs remains mysterious
 - use more Headings and their implicit ToC
 - https://vercel.com/docs/deployments/git/vercel-for-github
