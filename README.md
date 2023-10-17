@@ -1,6 +1,4 @@
 ## 2023 quickLinks
-- "-" is less problematic than "*" (from a spacing perspective)
-- the displayed order of PRs remains mysterious
 - use more Headings and their implicit ToC
 - https://vercel.com/docs/deployments/git/vercel-for-github
 
@@ -62,9 +60,12 @@
 
 # 2023-11 ( TmoTn )
 ...
-
+- the displayed order of PRs remains mysterious
+- 
 # 2023-10 
 ...
+
+- "-" is less problematic than "*" (from a spacing perspective)
 
 * https://github.com/flickr/flickr-sdk
   * review for integration with GeoSpatialTw
