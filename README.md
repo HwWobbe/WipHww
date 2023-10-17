@@ -29,6 +29,8 @@
 
 - factor the Governance considerations promised to Gsd into my notes on these topics
 
+<hr>
+
 ### quickActs
 - use more Headings and their implicit ToC
 - start integrating Topics for Contexts that span time periods
