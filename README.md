@@ -14,6 +14,11 @@
 
 - Business Continuity requires Ownership Transition
   - see Wp:Entity ( WikiPedia )
+    - this is fundamentally important since:
+      - growth requires:
+        - improved Services and Products
+        - retention of expertise
+        - access to capital
 
 - use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
   - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
