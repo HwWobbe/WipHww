@@ -5,12 +5,17 @@
   - EdD summary creation will be more demanding as supporting material
     - a second project may be helpful
     - the amalgamation will trigger CRA notification
-      - discuss the implications of this - in prite of theapparent lack of concern in LsH chats
+      - discuss the implications of this - in spite of the apparent lack of concern in LsH chats
 
 - https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   - Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     - MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
       - Open Source to start < "free-mium" to scale )
+    - this should integrate the priliminary StringServer work
+      - link to the PostalCodesCa introduction - which shiould link to the wikiPedia page
+    - further integration to myId should also happen
+      - consider the E0n app as an entry point
+      
 
 - Business Continuity requires Ownership Transition
   - see Wp:Entity ( WikiPedia )
