@@ -33,6 +33,9 @@
     - review RSS or its new versions (perticularly on Mobile devices)
   - Create a PR that JrHw can pull into XmmxH
 
+- UnicodeSymbology
+  - initially within DiigoH
+
 - factor the Governance considerations promised to Gsd into my notes on these topics
 
 <hr>
