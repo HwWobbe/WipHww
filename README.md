@@ -43,7 +43,7 @@
 ### quickActs
 - use more Headings and their implicit ToC
 - start integrating Topics for Contexts that span time periods
-  - ...
+  - craft a central SplashScreen/ControlPoint for this GitHub UserId
 - learn about: "this branch is" ... "commits ahead" & "commits behind"
 - test the many X '*' markup for TwH compatibility
   - this may change the view of Pulse updates
