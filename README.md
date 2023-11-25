@@ -15,6 +15,7 @@
       - link to the PostalCodesCa introduction - which shiould link to the wikiPedia page
     - further integration to myId should also happen
       - consider the E0n app as an entry point
+- 2023-11-25: back from a visit to the University of Waterlooto, talking about DataDictionaries
       
 
 - Business Continuity requires Ownership Transition
