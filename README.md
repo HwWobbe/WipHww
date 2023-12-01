@@ -11,6 +11,7 @@
   - Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     - MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
       - Open Source to start < "free-mium" to scale )
+        - Teranet ...
     - this should integrate the priliminary StringServer work
       - link to the PostalCodesCa introduction - which shiould link to the wikiPedia page
     - further integration to myId should also happen
