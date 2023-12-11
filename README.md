@@ -1,6 +1,6 @@
 ## 2023 quickLinks
 - https://vercel.com/docs/deployments/git/vercel-for-github
-  - start to pan repos
+  - start to pan repos with quicklinks
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
 - [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - EdD summary creation will be more demanding as supporting material
