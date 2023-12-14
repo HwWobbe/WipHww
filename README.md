@@ -7,7 +7,8 @@
     - a second project may be helpful
     - the amalgamation triggered CRA notification(s)
       - discuss the implications of this - in spite of the apparent lack of concern in LsH chats
-
+  - https://talk.tiddlywiki.org/t/tiddlywiki-change-build-target-folder/8660
+ 
 - https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   - Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     - MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
