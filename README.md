@@ -44,7 +44,8 @@
 <hr>
 
 ### quickActs
-_ test DiigoH as a Page repo.
+- test DiigoH as a Page repo.
+  - ...
 - use more Headings and their implicit ToC
 - start integrating Topics for Contexts that span time periods
   - craft a central SplashScreen/ControlPoint for this GitHub UserId
