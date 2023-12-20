@@ -3,6 +3,7 @@
   - start to pan repos with quicklinks
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
    - https://talk.tiddlywiki.org/t/tiddlywiki-change-build-target-folder/8660
+   - start building the Roadmaps for the proposed infrastructure
 - [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - EdD summary creation will be more demanding as supporting material
     - a second project may be helpful, but doubles the documentation
