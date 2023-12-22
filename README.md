@@ -5,6 +5,7 @@
    - https://talk.tiddlywiki.org/t/tiddlywiki-change-build-target-folder/8660
    - start building the Collaborators' Roadmaps for the proposed infrastructure
 - [2024's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
+  - Marketing & Sales initiatives
 - [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - EdD summary creation will be more demanding as supporting material
     - a second project may be helpful, but doubles the documentation
