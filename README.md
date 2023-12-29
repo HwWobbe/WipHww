@@ -1,6 +1,7 @@
 ## 2024 quickLinks
 - https://github.com/Data-Integrity-Group/Wip?tab=readme-ov-file#civicatlasql
 - https://vercel.com/docs/deployments/git/vercel-for-github
+  - start to pan repos with quicklinks
 - link to DebaeGraph as part of the EdD2024 collaboration work
 
 - Roadmaps
@@ -10,8 +11,6 @@
   - selling demonstrations 
 
 ## 2023 quickLinks
-- https://vercel.com/docs/deployments/git/vercel-for-github
-  - start to pan repos with quicklinks
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
    - https://talk.tiddlywiki.org/t/tiddlywiki-change-build-target-folder/8660
    - start building the Collaborators' Roadmaps for the proposed infrastructure
