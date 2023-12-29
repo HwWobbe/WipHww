@@ -3,12 +3,13 @@
 - https://vercel.com/docs/deployments/git/vercel-for-github
 - link to DebaeGraph as part of the EdD2024 collaboration work
 
-## 2023 quickLinks
 - Roadmaps
   - training demonstrations for:
     - Dev
     - Sales
   - selling demonstrations 
+
+## 2023 quickLinks
 - https://vercel.com/docs/deployments/git/vercel-for-github
   - start to pan repos with quicklinks
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
