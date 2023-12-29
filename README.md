@@ -1,3 +1,6 @@
+## 2024 quickLinks
+- https://vercel.com/docs/deployments/git/vercel-for-github
+
 ## 2023 quickLinks
 - Roadmaps
   - training demonstrations for:
