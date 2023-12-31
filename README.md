@@ -1,9 +1,14 @@
 ## 2024 quickLinks
+- update for 2024-01.
 - https://github.com/Data-Integrity-Group/Wip?tab=readme-ov-file#civicatlasql
 - https://vercel.com/docs/deployments/git/vercel-for-github
   - start to pan repos with quicklinks
     - ...
 - link to DebaeGraph as part of the EdD2024 collaboration work
+
+<hr>
+
+## 2023 quickLinks
 
 - Roadmaps
   - training demonstrations for:
