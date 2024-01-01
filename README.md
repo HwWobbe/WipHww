@@ -1,5 +1,5 @@
 ## 2024 quickLinks
-- update for 2024-01.
+- update for 2024-01 on 2024-01-01
 - https://github.com/Data-Integrity-Group/Wip?tab=readme-ov-file#civicatlasql
 - https://vercel.com/docs/deployments/git/vercel-for-github
   - start to pan repos with quicklinks
