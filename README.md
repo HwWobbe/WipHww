@@ -14,7 +14,8 @@
   - training demonstrations for:
     - Dev
     - Sales
-  - selling demonstrations 
+  - selling demonstrations
+    - mailFail first ?
 
 ## 2023 quickLinks
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
