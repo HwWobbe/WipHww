@@ -4,7 +4,7 @@
 - https://vercel.com/docs/deployments/git/vercel-for-github
   - start to pan repos with quicklinks
     - ...
-- link to DebaeGraph as part of the EdD2024 collaboration work
+- link to DebateGraph as part of the EdD2024 collaboration work
 
 <hr>
 
