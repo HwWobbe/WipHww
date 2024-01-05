@@ -5,6 +5,7 @@
   - start to pan repos with quicklinks
     - ...
 - link to DebateGraph as part of the EdD2024 collaboration work
+- -01-05: multiWikiPlugin now deemed to be technically fesible
 
 <hr>
 
