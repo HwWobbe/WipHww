@@ -1,6 +1,7 @@
 ## 2024 quickLinks
 - 2024-01-09:
   - consider: refactor these notes to have a separate file for Roadmaps
+  - contact Es re copy of email
 - 2024-01-08: ...
   - update for 2024-01 on 2024-01-01
 - https://github.com/Data-Integrity-Group/Wip?tab=readme-ov-file#civicatlasql
