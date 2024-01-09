@@ -5,7 +5,8 @@
 - https://vercel.com/docs/deployments/git/vercel-for-github
   - start to pan repos with quicklinks
     - ...
-- link to DebateGraph as part of the EdD2024 collaboration work
+  - link to DebateGraph as part of the EdD2024 collaboration work
+    - re-test the Print options at Df
   - extend the existing bi-lateral links
 - -01-05: multiWikiPlugin now deemed to be technically fesible
 
