@@ -21,6 +21,8 @@
   - training demonstrations for:
     - Dev
     - Sales
+  - evaluate the DebateGraph View
+    - there are many that may be useful to paticulare Audiences
   - selling demonstrations
     - mailFail first ?
 - https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
