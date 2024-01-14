@@ -1,16 +1,56 @@
-## 2023 quickLinks
+## 2024 quickLinks
+- 2024-01-09:
+  - consider: refactor these notes to have a separate file for Roadmaps
+  - does DPL use GitHub?
+- 2024-01-08: ...
+  - update for 2024-01 on 2024-01-01
+- https://github.com/Data-Integrity-Group/Wip?tab=readme-ov-file#civicatlasql
 - https://vercel.com/docs/deployments/git/vercel-for-github
-- [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts)
+  - start to pan repos with quicklinks
+    - ...
+  - link to DebateGraph as part of the EdD2024 collaboration work
+    - re-test the Print options at Df
+  - extend the existing bi-lateral links
+- -01-05: multiWikiPlugin now deemed to be technically fesible
+
+<hr>
+
+## 2024 quickLinks
+
+- Roadmaps
+  - training demonstrations for:
+    - Dev
+    - Sales
+  - evaluate the DebateGraph View
+    - there are many that may be useful to paticular Audiences
+      - e.g.: https://debategraph.org/Stream.aspx?nid=601135&vt=ngraph&dc=focus
+  - selling demonstrations
+    - mailFail first ?
+- https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
+
+
+## 2023 quickLinks
+- [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
+   - https://talk.tiddlywiki.org/t/tiddlywiki-change-build-target-folder/8660
+   - start building the Collaborators' Roadmaps for the proposed infrastructure
+- [2024's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
+  - Marketing & Sales initiatives
 - [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - EdD summary creation will be more demanding as supporting material
-    - a second project may be helpful
-    - the amalgamation will trigger CRA notification
-      - discuss the implications of this - in prite of theapparent lack of concern in LsH chats
-
+    - a second project may be helpful, but doubles the documentation
+    - the amalgamation triggered CRA notification(s)
+      - discuss the implications of this - in spite of the apparent lack of concern in LsH chats
+ 
 - https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-07
   - Preparing documentation supporting La(titude) Lo(ngitude) Al(titude) for each of many specific Audiences
     - MailFail ; Tripartite ( Cities upwards > Provinces > federal Institutions )
       - Open Source to start < "free-mium" to scale )
+        - Teranet ...
+    - this should integrate the priliminary StringServer work
+      - link to the PostalCodesCa introduction - which shiould link to the wikiPedia page
+    - further integration to myId should also happen
+      - consider the E0n app as an entry point
+      
 
 - Business Continuity requires Ownership Transition
   - see Wp:Entity ( WikiPedia )
@@ -19,6 +59,8 @@
         - improved Services and Products
         - retention of expertise
         - access to capital
+  - do not inundate Antendees with the legal aspects of Goverance
+    - strive to avoid even using the Governance term, since it is not of general interest byond shareholders and their representatives
 
 - use when Files are displayed -- https://github.com/HwWobbe/WipHww/blob/main/README.md#-2023-08
   - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts
@@ -30,14 +72,19 @@
     - review RSS or its new versions (perticularly on Mobile devices)
   - Create a PR that JrHw can pull into XmmxH
 
+- UnicodeSymbology
+  - initially within DiigoH
+
 - factor the Governance considerations promised to Gsd into my notes on these topics
 
 <hr>
 
 ### quickActs
+- test DiigoH as a Page repo.
+  - ...
 - use more Headings and their implicit ToC
 - start integrating Topics for Contexts that span time periods
-  - ...
+  - craft a central SplashScreen/ControlPoint for this GitHub UserId
 - learn about: "this branch is" ... "commits ahead" & "commits behind"
 - test the many X '*' markup for TwH compatibility
   - this may change the view of Pulse updates
