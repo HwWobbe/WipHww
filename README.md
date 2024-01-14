@@ -22,7 +22,8 @@
     - Dev
     - Sales
   - evaluate the DebateGraph View
-    - there are many that may be useful to paticulare Audiences
+    - there are many that may be useful to paticular Audiences
+      - e.g.: https://debategraph.org/Stream.aspx?nid=601135&vt=ngraph&dc=focus
   - selling demonstrations
     - mailFail first ?
 - https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
