@@ -54,7 +54,11 @@
 
 - Business Continuity requires Ownership Transition
   - see Wp:Entity ( WikiPedia )
-  - ...
+    - this is fundamentally important since:
+      - growth requires:
+        - improved Services and Products
+        - retention of expertise
+        - access to capital
   - do not inundate Antendees with the legal aspects of Goverance
     - strive to avoid even using the Governance term, since it is not of general interest byond shareholders and their representatives
 
