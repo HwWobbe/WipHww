@@ -1,5 +1,7 @@
 ## 2024 quickLinks
-- 2024-01-09:
+- 2024-01-29.fo2
+  - ...
+- 2024-01-09: 2024-01.fo1
   - consider: refactor these notes to have a separate file for Roadmaps
   - does DPL use GitHub?
 - 2024-01-08: ...
