@@ -1,5 +1,7 @@
 ## 2024 quickLinks
 - 2024-01-29.fo2
+  - try a Project(s) link.
+    - ...
   - which of the 2 formats is preferred? 
 - 2024-01-09: 2024-01.fo1
   - consider: refactor these notes to have a separate file for Roadmaps
