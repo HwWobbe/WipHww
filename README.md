@@ -10,7 +10,7 @@
   - update for 2024-01 on 2024-01-01
 - https://github.com/Data-Integrity-Group/Wip?tab=readme-ov-file#civicatlasql
 - https://vercel.com/docs/deployments/git/vercel-for-github
-  - start to pan repos with quicklinks
+  - pan repos with quicklinks
     - [symbols.Time](https://github.com/HwWobbe/WipHww/blob/main/2024/symbols)
   - link to DebateGraph as part of the EdD2024 collaboration work
     - re-test the Print options at Df
