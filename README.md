@@ -1,8 +1,7 @@
 ## 2024 quickLinks
 - 2024-01-29.fo2
-  - try a Project(s) link.
-    - assess the use of Issues
-  - which of the 2 formats is preferred? 
+  - use a Project(s) link to assess the use of Issues
+    - which of the 2 formats is preferred? 
 - 2024-01-09: 2024-01.fo1
   - consider: refactor these notes to have a separate file for Roadmaps
   - does DPL use GitHub?
