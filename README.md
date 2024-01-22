@@ -2,6 +2,7 @@
 - 2024-01-21: Sketches supporting the HyperRecords concepts are needed
   - generate these from a CS Workbook starting point
     - then link to geospatial sources quickly on the assumption that this is an Alibaba entrance.
+      - review the JrHw email to Dpl
 - 2024-01-29.tfo.2
   - use a Project(s) link to assess the use of Issues
     - which of the 2 formats is preferred? 
