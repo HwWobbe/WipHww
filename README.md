@@ -1,6 +1,7 @@
 ## 2024 quickLinks
 - 2024-01-21: Sketches supporting the HyperRecords concepts are needed
   - review the JrHw email to Dpl prior to the callTn
+    - update the Roadmap
   - generate these from a CS Workbook starting point
     - then link to geospatial sources quickly on the assumption that this is an Alibaba entrance.
 - 2024-01-29.tfo.2
