@@ -4,6 +4,8 @@
     - update the Roadmap
   - generate these from a CS Workbook starting point
     - then link to geospatial sources quickly on the assumption that this is an Alibaba entrance.
+  - investigate PDF23 and DrawIO as tools that we may need.
+ 
 - 2024-01-29.tfo.2
   - use a Project(s) link to assess the use of Issues
     - which of the 2 formats is preferred? 
