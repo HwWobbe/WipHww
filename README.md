@@ -1,4 +1,6 @@
 ## 2024 quickLinks
+- 2024-01-25: expanded use of NoWords Connepts to intersect DdDevelopment(s).
+  - ...
 - 2024-01-21: Sketches supporting the HyperRecords concepts are needed
   - review the JrHw email to Dpl prior to the callTn
     - update the Roadmap
