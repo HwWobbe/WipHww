@@ -1,7 +1,7 @@
 ## 2024 quickLinks
 - 2024-01-25: expanded use of NoWords Concepts to intersect DdDevelopment(s).
   - ...
-_ focused on a SqLite build for a DdApps that could easily scale up to Global scope via UniCode concepts
+  - focused on a SqLite build for a DdApps that could easily scale up to Global scope via UniCode concepts
 - 2024-01-21: Sketches supporting the HyperRecords concepts are needed
   - review the JrHw email to Dpl prior to the callTn
     - update the Roadmap
