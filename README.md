@@ -41,6 +41,10 @@
     - mailFail first ?
 - https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
 
+## 2024 .tp = t(ime) p(ast)
+...
+
+
 
 ## 2023 quickLinks
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
