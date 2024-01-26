@@ -1,7 +1,7 @@
 ## 2024 quickLinks
 - 2024-01-25: expanded use of NoWords Concepts to intersect DdDevelopment(s).
   - confirm DiigoH hiLites are useful
-    - <b>IF</b>( so ) THEN( revert to one /day Pulse edits ) ELSE( editAsNeeded )
+    - IF( so ) THEN( revert to one /day Pulse edits ) ELSE( editAsNeeded )
   - focused on a SqLite build for a DdApps that could easily scale up to Global scope via UniCode concepts
 - 2024-01-21: Sketches supporting the HyperRecords concepts are needed
   - review the JrHw email to Dpl prior to the callTn
