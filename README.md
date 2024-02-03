@@ -1,6 +1,8 @@
 ## 2024 quickLinks
 - 2024-02-01: started integrating Gpt & Hw techs
-  - revciew existing offerings
+  - review existing offerings
+    - upload some to DebateGraph
+      - start with ( Mars )RstT
     - consider Stack links * bookMarks
 - 2024-01-25: expanded use of NoWords Concepts to intersect DdDevelopment(s).
   - confirm DiigoH hiLites are useful
