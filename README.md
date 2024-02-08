@@ -1,6 +1,9 @@
 ## 2024 quickLinks
-- 2024-02-08: "quick" CurbSidde explanations are opaque to nonTwFolk
-  - especially to those who are looking for quickStarts.
+- 2024-02-08:
+  - "quick" CurbSidde explanations are opaque to nonTwFolk
+    - especially to those who are looking for quickStarts.
+- halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT.
+
 - 2024-02-01: started integrating Gpt & Hw techs
   - review existing offerings
     - upload some to DebateGraph
