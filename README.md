@@ -8,7 +8,9 @@
 - 2024-02-01: started integrating Gpt & Hw techs
   - review existing offerings
     - upload some to DebateGraph
-      - start with ( Mars )RstT - and try to build on common interests
+      - start with
+        - AugmentedIntelligence (not Artificial ...)
+        - ( Mars )RstT - and try to build on common interests
     - consider Stack links * bookMarks
 - 2024-01-25: expanded use of NoWords Concepts to intersect DdDevelopment(s).
   - confirm DiigoH hiLites are useful
