@@ -2,6 +2,7 @@
 - 2024-02-08:
   - "quick" CurbSide explanations are opaque to nonTwFolk
     - especially to those who are looking for quickStarts.
+      - who need a more immediate focus to avoid learningCurve frustration(s)
 - halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT.
 
 - 2024-02-01: started integrating Gpt & Hw techs
