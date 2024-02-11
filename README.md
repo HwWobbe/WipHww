@@ -32,7 +32,7 @@
    - https://talk.tiddlywiki.org/t/tiddlywiki-change-build-target-folder/8660
    - start building the Collaborators' Roadmaps for the proposed infrastructure
 - [2024's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
-  - Marketing & Sales initiatives
+  - Marketing & Sales initiatives - Sales first - inconjunction with Associates that have expressed Agreement(s)
 
 
 ## 2024 .tp = t(ime) p(ast)
