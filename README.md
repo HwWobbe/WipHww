@@ -28,18 +28,18 @@
   - selling demonstrations
     - mailFail first ?
 - https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
-
-## 2024 .tp = t(ime) p(ast)
-...
-
-
-
-## 2023 quickLinks
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
    - https://talk.tiddlywiki.org/t/tiddlywiki-change-build-target-folder/8660
    - start building the Collaborators' Roadmaps for the proposed infrastructure
 - [2024's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - Marketing & Sales initiatives
+
+
+## 2024 .tp = t(ime) p(ast)
+...
+
+
+## 2023 quickLinks
 - [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - EdD summary creation will be more demanding as supporting material
     - a second project may be helpful, but doubles the documentation
