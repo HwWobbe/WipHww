@@ -13,33 +13,6 @@
         - AugmentedIntelligence (not Artificial ...)
         - ( Mars )RstT - and try to build on common interests
     - consider Stack links * bookMarks
-- 2024-01-25: expanded use of NoWords Concepts to intersect DdDevelopment(s).
-  - confirm DiigoH hiLites are useful
-    - IF( so ) THEN( revert to one /day Pulse edits ) ELSE( editAsNeeded )
-  - focused on a SqLite build for a DdApps that could easily scale up to Global scope via UniCode concepts
-- 2024-01-21: Sketches supporting the HyperRecords concepts are needed
-  - review the JrHw email to Dpl prior to the callTn
-    - update the Roadmap
-  - generate these from a CS Workbook starting point
-    - then link to geospatial sources quickly on the assumption that this is an Alibaba entrance.
-  - investigate PDF23 and DrawIO as tools that we may need.
- 
-- 2024-01-29.tfo.2
-  - use a Project(s) link to assess the use of Issues
-    - which of the 2 formats is preferred? 
-- 2024-01-09: 2024-01.fo1
-  - consider: refactor these notes to have a separate file for Roadmaps
-  - does DPL use GitHub?
-- 2024-01-08: ...
-  - update for 2024-01 on 2024-01-01
-- https://github.com/Data-Integrity-Group/Wip?tab=readme-ov-file#civicatlasql
-- https://vercel.com/docs/deployments/git/vercel-for-github
-  - pan repos with quicklinks
-    - [symbols.Time](https://github.com/HwWobbe/WipHww/blob/main/2024/symbols)
-  - link to DebateGraph as part of the EdD2024 collaboration work
-    - re-test the Print options at Df
-  - extend the existing bi-lateral links
-- -01-05: multiWikiPlugin now deemed to be technically fesible
 
 <hr>
 
