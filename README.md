@@ -4,8 +4,7 @@
     - especially to those who are looking for quickStarts.
       - who need a more immediate focus to avoid learningCurve frustration(s)
   - arrange a demo for Friday - but this may have to slip a week
-- halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT.
-  - support this opinion with the FCR methodology
+- halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT. Support this opinion with the FCR methodology
 - review https://github.com/tiddly-gittly/TidGi-Mobile
 - 2024-02-01: started integrating Gpt & Hw techs
   - review existing offerings
