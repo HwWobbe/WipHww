@@ -36,9 +36,7 @@
         - ( Mars )RstT - and try to build on common interests
     - consider Stack links * bookMarks
 
-### FiCoRe
-Fi(ndings) Co(nclusions) Re(commendations)
-
+### FiCoRe = Fi(ndings) Co(nclusions) Re(commendations)
 #### - Fi.Ob(servations)
 - 2024-02-08:
   - "quick" CurbSide explanations are opaque to nonTwFolk
