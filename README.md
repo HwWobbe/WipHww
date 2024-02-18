@@ -4,8 +4,6 @@
     - especially to those who are looking for quickStarts.
       - who need a more immediate focus to avoid learningCurve frustration(s)
   - arrange a demo for ??day - but this may have to slip a week
-- halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT. Support this opinion with the FCR methodology
-- review https://github.com/tiddly-gittly/TidGi-Mobile
 
 <hr>
 
@@ -26,6 +24,9 @@
    - start building the Collaborators' Roadmaps for the proposed infrastructure
 - [2024's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - Marketing & Sales initiatives - Sales first - inconjunction with Associates that have expressed Agreement(s)
+
+- halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT. Support this opinion with the FCR methodology
+- review https://github.com/tiddly-gittly/TidGi-Mobile
 
 
 ## 2024 .tp = t(ime) p(ast)
