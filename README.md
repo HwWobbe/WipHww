@@ -1,8 +1,4 @@
 ## 2024 quickLinks
-- 2024-02-08:
-  - "quick" CurbSide explanations are opaque to nonTwFolk
-    - especially to those who are looking for quickStarts.
-      - who need a more immediate focus to avoid learningCurve frustration(s)
   - arrange a demo for ??day - but this may have to slip a week
 
 <hr>
@@ -39,6 +35,15 @@
         - AugmentedIntelligence (not Artificial ...)
         - ( Mars )RstT - and try to build on common interests
     - consider Stack links * bookMarks
+
+### FiCoRe
+Fi(ndings) Co(nclusions) Re(commendations)
+
+#### - Fi.Ob(servations)
+- 2024-02-08:
+  - "quick" CurbSide explanations are opaque to nonTwFolk
+    - especially to those who are looking for quickStarts.
+      - who need a more immediate focus to avoid learningCurve frustration(s)
 
 
 ## 2023 quickLinks
