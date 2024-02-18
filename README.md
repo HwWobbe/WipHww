@@ -1,5 +1,6 @@
 ## 2024 QlN = quickLinks & N(otes)
-  - arrange a demo for ??day - but this may have to slip a week
+- arrange a demo for ??day
+  - this may have to slip a week
 - Roadmaps
   - training demonstrations for:
     - Dev
