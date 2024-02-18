@@ -6,13 +6,6 @@
   - arrange a demo for ??day - but this may have to slip a week
 - halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT. Support this opinion with the FCR methodology
 - review https://github.com/tiddly-gittly/TidGi-Mobile
-- 2024-02-01: started integrating Gpt & Hw techs
-  - review existing offerings
-    - upload some to DebateGraph
-      - start with
-        - AugmentedIntelligence (not Artificial ...)
-        - ( Mars )RstT - and try to build on common interests
-    - consider Stack links * bookMarks
 
 <hr>
 
@@ -37,6 +30,14 @@
 
 ## 2024 .tp = t(ime) p(ast)
 ...
+
+- 2024-02-01: started integrating Gpt & Hw techs
+  - review existing offerings
+    - upload some to DebateGraph
+      - start with
+        - AugmentedIntelligence (not Artificial ...)
+        - ( Mars )RstT - and try to build on common interests
+    - consider Stack links * bookMarks
 
 
 ## 2023 quickLinks
