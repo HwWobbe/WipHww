@@ -1,6 +1,4 @@
 ## 2024 QlN = quickLinks & N(otes)
-- arrange a demo for ??day
-  - this may have to slip a week
 - Roadmaps
   - training demonstrations for:
     - Dev
@@ -27,6 +25,7 @@
 ## 2024 .tp = t(ime) p(ast)
 ...
 
+- 2024-02-23: arranged a ShowAndTell for Thursday
 - 2024-02-01: started integrating Gpt & Hw techs
   - review existing offerings
     - upload some to DebateGraph
