@@ -13,6 +13,8 @@
     - ...
 - Vercel seems to be a significant improvement
   - https://vercel.com/dashboard
+  - it also opened other doors
+    - https://github.com/HwWobbe/nextjs-notes/actions/new
 - https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
    - https://talk.tiddlywiki.org/t/tiddlywiki-change-build-target-folder/8660
