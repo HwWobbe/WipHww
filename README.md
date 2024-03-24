@@ -4,12 +4,13 @@
     - Dev
     - Sales
       - preview Demonstration
+        - selling demonstrations
+    - CaD > YYZ > MPAC
+
     - Support
   - evaluate the DebateGraph View
     - there are many that may be useful to paticular Audiences
       - e.g.: https://debategraph.org/Stream.aspx?nid=601135&vt=ngraph&dc=focus
-  - selling demonstrations
-    - CaD > YYZ > MPAC
   - Products:
     - mailFail first ?
     - ...
