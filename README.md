@@ -3,6 +3,7 @@
   - training demonstrations for roles in::
     - Dev
     - Sales
+      - preview
     - Support
   - evaluate the DebateGraph View
     - there are many that may be useful to paticular Audiences
