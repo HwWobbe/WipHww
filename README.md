@@ -22,7 +22,7 @@
   - it also opened other doors
     - https://github.com/HwWobbe/nextjs-notes/actions/new
 - review the ReView methods since too many Days are being missed.
-  - ...
+  - consiuder: ㋃㋄㋅㋆㋇ as subHeadings
   - restructure this page to accommodate the larer list of folders that precedes the README.
 - Toma may be able to provide Value
 - https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
@@ -48,13 +48,15 @@
         - ( Mars )RstT - and try to build on common interests
     - consider Stack links * bookMarks
 
+### ㋃
+add the Dragon if this works.
+
 ### FiCoRe = Fi(ndings) Co(nclusions) Re(commendations)
 #### - Fi.Ob(servations)
 - 2024-02-08:
   - "quick" CurbSide explanations are opaque to nonTwFolk
     - especially to those who are looking for quickStarts.
       - who need a more immediate focus to avoid learningCurve frustration(s)
-
 
 ## 2024 quickLinks
 - https://github.com/HwWobbe/WipHww/tree/main?tab=readme-ov-file#2023-quicklinks
