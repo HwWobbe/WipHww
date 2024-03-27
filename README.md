@@ -56,6 +56,9 @@
       - who need a more immediate focus to avoid learningCurve frustration(s)
 
 
+## 2024 quickLinks
+- https://github.com/HwWobbe/WipHww/tree/main?tab=readme-ov-file#2023-quicklinks
+- 
 ## 2023 quickLinks
 - [2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - EdD summary creation will be more demanding as supporting material
