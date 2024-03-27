@@ -23,6 +23,7 @@
     - https://github.com/HwWobbe/nextjs-notes/actions/new
 - review the ReView methods since too many Days are being missed.
   - ...
+  - restructure this page to accommodate the larer list of folders that precedes the README.
 - Toma may be able to provide Value
 - https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
