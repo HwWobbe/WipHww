@@ -1,5 +1,6 @@
 ## 2024 QlN = quickLinks & N(otes)
 - https://github.com/HwWobbe/WipHww/blob/main/README.md#㋃
+  - FAIL: ...
 - Roadmaps
   - training demonstrations for roles in::
     - Dev
