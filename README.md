@@ -4,6 +4,7 @@
     - reconstruct or abandon
       - test for compare: https://github.com/HwWobbe/WipHww/blob/main/README.md#2024-tp--time-past
         - monitor pushDown per other Goals
+          - shorten the link
 - Roadmaps
   - training demonstrations for roles in::
     - Dev
