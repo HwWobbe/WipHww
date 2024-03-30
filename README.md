@@ -1,7 +1,8 @@
 ## 2024 QlN = quickLinks & N(otes)
 - https://github.com/HwWobbe/WipHww/blob/main/README.md#㋃
   - FAIL: ...
-    - test for compare: https://github.com/HwWobbe/WipHww/blob/main/README.md#2024-tp--time-past
+    - reconstruct or abandon
+      - test for compare: https://github.com/HwWobbe/WipHww/blob/main/README.md#2024-tp--time-past
 - Roadmaps
   - training demonstrations for roles in::
     - Dev
