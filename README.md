@@ -12,6 +12,10 @@
       - preview Demonstration
         - selling demonstrations
     - CaD > YYZ > MPAC
+      - BiPartite with eOn
+        - AdMan offer for Translate
+          - eQu
+            - rainDown strategy
 
     - Support
   - evaluate the DebateGraph View
