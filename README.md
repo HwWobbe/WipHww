@@ -19,8 +19,12 @@
       - e.g.: https://debategraph.org/Stream.aspx?nid=601135&vt=ngraph&dc=focus
   - Products:
     - recent PLE outReach stats - also works for EdD
+    - onTheList?
+    - schoolBoardPreferred
     - mailFail first ?
     - ...
+    - identify other opportunities that are a strategic fit.
+      - Dpl: "link to existing production" 
 - Vercel seems to be a significant improvement
   - https://vercel.com/dashboard
   - it also opened other doors
