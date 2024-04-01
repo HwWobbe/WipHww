@@ -1,10 +1,4 @@
 ## 2024 QlN = quickLinks & N(otes)
-- https://github.com/HwWobbe/WipHww/blob/main/README.md#㋃
-  - FAIL: ...
-    - reconstruct or abandon
-      - test for compare: https://github.com/HwWobbe/WipHww/blob/main/README.md#2024-tp--time-past
-        - monitor pushDown per other Goals
-          - shorten the link
 - Roadmaps
   - training demonstrations for roles in::
     - Dev
@@ -65,6 +59,13 @@
 
 ### ㋃
 add the Dragon if this works.
+
+- https://github.com/HwWobbe/WipHww/blob/main/README.md#㋃
+  - FAIL: ...
+    - reconstruct or abandon
+      - test for compare: https://github.com/HwWobbe/WipHww/blob/main/README.md#2024-tp--time-past
+        - monitor pushDown per other Goals
+          - shorten the link
 
 ### FiCoRe = Fi(ndings) Co(nclusions) Re(commendations)
 #### - Fi.Ob(servations)
