@@ -5,8 +5,8 @@
       - Jeremy wants MwsTw but it seems too distant for Business use
         - consider this within the Budget Contexts
           - after Eon & ( BdcCa RbcFg )
-    - Toma introduced
-      - ...
+      - Toma introduced
+        - ...
     - Sales
       - preview Demonstration
         - selling demonstrations
