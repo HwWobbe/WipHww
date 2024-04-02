@@ -1,6 +1,7 @@
+- ...
+
 ## 2024 QlN = quickLinks & N(otes)
-- ReFactor this page
-  - its over-due
+- ReFactor this page / - its over-due / ...
 - Roadmaps
   - training demonstrations for roles in::
     - Dev
