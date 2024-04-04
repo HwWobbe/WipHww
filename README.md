@@ -9,7 +9,7 @@
         - consider this within the Budget Contexts
           - after Eon & ( BdcCa RbcFg )
       - Toma introduced
-        - ...
+        - review the plans Eric now has to find separate work that contributes
     - Sales
       - preview Demonstration
         - selling demonstrations
