@@ -3,7 +3,7 @@
 ## 2024 QlN = quickLinks & N(otes)
 - ReFactor this page / - its over-due / ...
   - RmSc= R(oad)m(aps)... Sc(ope)
-    - RoSc may be more consistent.
+    - RoSc is more consistent.
 - Roadmaps
   - training demonstrations for roles in::
     - Dev
