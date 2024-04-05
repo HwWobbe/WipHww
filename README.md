@@ -6,9 +6,10 @@
     - RoSc is more consistent.
 - Roadmaps
   - Products:
+    - schoolBoardPreferred
+      - next By-Election is a (relatively rare) opportunity
     - recent PLE outReach stats - also works for EdD
     - onTheList?
-    - schoolBoardPreferred
     - mailFail first ?
   - training demonstrations for roles in::
     - Dev
