@@ -5,6 +5,11 @@
   - RmSc= R(oad)m(aps)... Sc(ope)
     - RoSc is more consistent.
 - Roadmaps
+  - Products:
+    - recent PLE outReach stats - also works for EdD
+    - onTheList?
+    - schoolBoardPreferred
+    - mailFail first ?
   - training demonstrations for roles in::
     - Dev
       - Jeremy wants MwsTw but it seems too distant for Business use
@@ -25,11 +30,6 @@
   - evaluate the DebateGraph View
     - there are many that may be useful to paticular Audiences
       - e.g.: https://debategraph.org/Stream.aspx?nid=601135&vt=ngraph&dc=focus
-  - Products:
-    - recent PLE outReach stats - also works for EdD
-    - onTheList?
-    - schoolBoardPreferred
-    - mailFail first ?
     - ...
     - identify other opportunities that are a strategic fit.
       - Dpl: "link to existing production" 
