@@ -3,6 +3,9 @@
 ## 2024 QlN = quickLinks & N(otes)
 - ReFactor this page / - its over-due / ...
   - RmSc= R(oad)m(aps)... Sc(ope)
+    - Ro(ad)Map TrMap may be warranted
+      - familiaritly might allow shortenint
+        - that would be a ContextConsideration for the Audience 
     - RoSc is more consistent.
     - TrMa= Tr(easure) Ma(p )
 - Roadmaps
