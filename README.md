@@ -12,6 +12,7 @@
   - Products:
     - schoolBoardPreferred
       - next By-Election is a (relatively rare) opportunity
+        - cite Gsd's weekly stats in AdD
     - recent PLE outReach stats - also works for EdD
     - onTheList?
     - mailFail first ?
