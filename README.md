@@ -44,9 +44,6 @@
   - https://vercel.com/dashboard
   - it also opened other doors
     - https://github.com/HwWobbe/nextjs-notes/actions/new
-- review the ReView methods since too many Days are being missed.
-  - consiuder: ㋃㋄㋅㋆㋇ as subHeadings
-  - restructure this page to accommodate the larer list of folders that precedes the README.
 - Toma may be able to provide Value
 - https://debategraph.org/Stream.aspx?nid=463450&vt=ngraph&dc=focus   
 - [quickacts](https://github.com/HwWobbe/WipHww/blob/main/README.md#quickacts) - (triggers leftSideBar)
@@ -55,12 +52,15 @@
 - [2024's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
   - Marketing & Sales initiatives - Sales first - inconjunction with Associates that have expressed Agreement(s)
 
-- halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT. Support this opinion with the FCR methodology
-- review https://github.com/tiddly-gittly/TidGi-Mobile
-
+- review the ReView methods since too many Days are being missed.
+  - consiuder: ㋃㋄㋅㋆㋇ as subHeadings
+  - restructure this page to accommodate the larer list of folders that precedes the README.
 
 ## 2024 .tp = t(ime) p(ast)
 ...
+
+- halfWaySwitch & closestToNextLevel are two factors that may be combined into an effective relational SORT. Support this opinion with the FCR methodology
+- review https://github.com/tiddly-gittly/TidGi-Mobile
 
 - 2024-02-23: arranged a ShowAndTell for Thursday
 - 2024-02-01: started integrating Gpt & Hw techs
