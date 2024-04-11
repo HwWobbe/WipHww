@@ -1,6 +1,7 @@
 - ...
 
 ## 2024 QlN = quickLinks & N(otes)
+- re-Test DiigoH compatibility / outliner
 - ReFactor this page / - its over-due / ...
   - RmSc= R(oad)m(aps)... Sc(ope)
     - Ro(ad)Map TrMap may be warranted
