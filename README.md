@@ -2,6 +2,7 @@
 
 ## 2024 QlN = quickLinks & N(otes)
 - intrigued to discover UniCode: [Standard Annex #34](https://unicode.org/reports/tr34/)
+  - quite promising when melded NamedCharacterSequences and  with dataDictionaries 
 - re-Test DiigoH compatibility / outliner - perhaps as a Wp: (explanation / rebuttal)
 - ReFactor this page / - its over-due / ...
   - RmSc= R(oad)m(aps)... Sc(ope)
