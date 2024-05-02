@@ -1,6 +1,8 @@
 - ...
 
 ## 2024 QlN = quickLinks & N(otes)
+...
+
 - EdD2024:
   - intrigued to discover UniCode: [Standard Annex #34](https://unicode.org/reports/tr34/)
     - quite promising when melded with NamedCharacterSequences and with dataDictionaries 
