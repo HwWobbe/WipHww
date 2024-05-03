@@ -8,6 +8,10 @@
     - obviously such context alsi have relative probabilities.
       - the Uncertainty about the Effectiveness and Efficiency of this is worth resolving.
         - try to demonstrate this via DrK's issue
+          - try 411-ca and erite a supporting report
+            - consider extending the (Am I) OnThe(white)List
+              - (explicit) ExpressConsent for SchBoVotes
+                - two channel via Sequent relationship
   - intrigued to discover UniCode: [Standard Annex #34](https://unicode.org/reports/tr34/)
     - quite promising when melded with NamedCharacterSequences and with dataDictionaries 
 - re-Test DiigoH compatibility / outliner - perhaps as a Wp: (explanation / rebuttal)
