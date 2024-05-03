@@ -12,6 +12,7 @@
             - consider extending the (Am I) OnThe(white)List
               - (explicit) ExpressConsent for SchBoVotes
                 - two channel via Sequent relationship
+                - Harry ??
   - intrigued to discover UniCode: [Standard Annex #34](https://unicode.org/reports/tr34/)
     - quite promising when melded with NamedCharacterSequences and with dataDictionaries 
 - re-Test DiigoH compatibility / outliner - perhaps as a Wp: (explanation / rebuttal)
