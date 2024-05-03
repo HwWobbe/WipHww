@@ -4,6 +4,9 @@
 ...
 
 - EdD2024:
+  - 0504: current research shows that there are efficiencies in using four terms that are associated via a ConText
+    - obviously such context alsi have relative probabilities.
+      - the Uncertainty about the Effectiveness and Efficiency of this is worth resolving.
   - intrigued to discover UniCode: [Standard Annex #34](https://unicode.org/reports/tr34/)
     - quite promising when melded with NamedCharacterSequences and with dataDictionaries 
 - re-Test DiigoH compatibility / outliner - perhaps as a Wp: (explanation / rebuttal)
