@@ -6,7 +6,7 @@
 - 241231 251231 261231 281231 301231 351231 451231 481231
   - 0509 ... 0519 ... 0529 ... 0531 ... 0831 ... 1130 ...
     - integrate additional external resources
-      - gCalendar * MwsH too
+      - gCalendar & MwsH too
 - EdD2024:
   - 0504: current research shows that there are efficiencies in using four terms that are associated via a ConText
     - obviously such context alsi have relative probabilities.
