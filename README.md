@@ -10,7 +10,8 @@
         - gCalendar & MwsH too
           - this is promising enough to warrant more focus
 - EdD2024:
-  - WASM is more important tha expected. ReView the literature.
+  - WASM is more important tha expected.
+    - ReView the literature.
   - 0504: current research shows that there are efficiencies in using four terms that are associated via a ConText
     - obviously such context alsi have relative probabilities.
       - the Uncertainty about the Effectiveness and Efficiency of this is worth resolving.
