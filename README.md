@@ -4,12 +4,14 @@
 ...
 
 - 241231 251231 261231 281231 301231 351231 451231 481231
-  - 0509 ... 0519 ... 0529 ... 0531 ... 0831 ... 1130 ...
+  - 0509 ... 0519 ... 0529 ... 0531 ... 
     - 0601 (= PR )
       - integrate additional external resources
         - gCalendar & MwsH too
           - this is promising enough to warrant more focus
     - created a LisaBag - now refine it
+       0831 ... 1130 ...
+
 - EdD2024:
   - WASM is more important tha expected.
     - ReView the literature.
