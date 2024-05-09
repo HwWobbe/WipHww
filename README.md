@@ -9,6 +9,7 @@
       - integrate additional external resources
         - gCalendar & MwsH too
           - this is promising enough to warrant more focus
+    - create the LisaBag
 - EdD2024:
   - WASM is more important tha expected.
     - ReView the literature.
