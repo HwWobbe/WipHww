@@ -13,7 +13,7 @@
   - 0831 ... 1130 ...
 
 - EdD2024:
-  - WASM is more important tha expected.
+  - WASM is more important than expected.
     - ReView the literature.
   - 0504: current research shows that there are efficiencies in using four terms that are associated via a ConText
     - obviously such context alsi have relative probabilities.
