@@ -16,7 +16,7 @@
   - WASM is more important than expected.
     - ReView the literature.
   - 0504: current research shows that there are efficiencies in using four terms that are associated via a ConText
-    - obviously such context alsi have relative probabilities.
+    - obviously such contexts also have relative probabilities
       - the Uncertainty about the Effectiveness and Efficiency of this is worth resolving.
         - try to demonstrate this via DrK's issue
           - try 411-ca and erite a supporting report
