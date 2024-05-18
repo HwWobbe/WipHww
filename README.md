@@ -9,7 +9,10 @@
     - integrate additional external resources
       - gCalendar & MwsH too
         - this is promising enough to warrant more focus
-    - created a LisaBag - now refine it
+    - created a LisaBag
+      - trivial demonstration
+      - follow-up with a demo of my Uses to explore features that may appeal to Lz
+        - incremental build of Learning desire
   - 0831 ... 1130 ...
 
 - EdD2024:
