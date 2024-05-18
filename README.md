@@ -14,6 +14,8 @@
 
 - EdD2024:
   - WASM is more important than expected.
+    - Jr sees this as a possible sort solution that can work 'in Browser - to the limits of memory.  I am skeptical
+      - a large memory allocation is also at odds with support for older and smaller computers
     - ReView the literature.
   - 0504: current research shows that there are efficiencies in using four terms that are associated via a ConText
     - obviously such contexts also have relative probabilities
