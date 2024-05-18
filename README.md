@@ -13,7 +13,8 @@
             - sollicit Dpl advice
               - demo to Dpl forst since he will gain knowledge I will find helpful.
     
-    - created a LisaBag
+    - draw.io
+     - created a LisaBag
       - trivial demonstration
       - follow-up with a demo of my Uses to explore features that may appeal to Lz
         - incremental build of Learning desire
