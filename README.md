@@ -17,6 +17,7 @@
       - follow-up with a demo of my Uses to explore features that may appeal to Lz
         - incremental build of Learning desire
   - 0831 ... 1130 ...
+    - gradually integrate the budgets
 
 - EdD2024:
   - WASM is more important than expected.
