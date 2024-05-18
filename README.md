@@ -11,9 +11,9 @@
         - this is promising enough to warrant more focus
           - WASM must be planned better
             - sollicit Dpl advice
-              - demo to Dpl forst since he will gain knowledge I will find helpful.
-    
+              - demo to Dpl forst since he will gain knowledge I will find helpful.   
       - draw.io
+  
      - created a LisaBag
       - trivial demonstration
       - follow-up with a demo of my Uses to explore features that may appeal to Lz
