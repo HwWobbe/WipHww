@@ -19,7 +19,7 @@
             - sollicit Dpl advice
               - demo to Dpl forst since he will gain knowledge I will find helpful.   
       - 0519: draw.io updated since it shows promise
-        - there appears to be a Sahre capability that I could use for orgCharts with LsT
+        - there appears to be a Share capability that I could use for orgCharts with LsT
   
      - created a LisaBag
       - trivial demonstration
