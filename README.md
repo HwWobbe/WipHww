@@ -11,7 +11,9 @@
         - ChineseZodiax symbols are a viable way to span 12 years.
           - successiveApproximations can extend to 80.ye+1.da for I.P.
             - LsT does not recognize this rule.
-    - test thgis in a Gist
+    - test this in a Gist
+      - create a separate HTML filr to upload
+        - review the GptH version
 
   - 0601 (= PR )
     - integrate additional external resources
