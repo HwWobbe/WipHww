@@ -8,7 +8,8 @@
       - preponderanceOfEvidence agenda topic
         - based on GasBuddy model
           - leads to AVM sales - at a dsicount split with MPAC
-            - talk about this with TerryP ato test his interest(s) / Ternet concerns
+            - talk about this with TerryP to test his interest(s) / Ternet concerns
+              - it should be possible to find common ground with both MP & TN
     - DateForms need documentation
       - YY(_)ddd _jDate Tfo= .fo -n? Mcdy-mm-d ...
       - .Mi.ce.de.ye.qu.mo.d?
