@@ -7,6 +7,7 @@
   - 0522 / 0529 ... 0531 ...
       - preponderanceOfEvidence agenda topic
         - based on GasBuddy model
+          - leads to AVM sales - at a dsicount split with MPAC
     - DateForms need documentation
       - YY(_)ddd _jDate Tfo= .fo -n? Mcdy-mm-d ...
       - .Mi.ce.de.ye.qu.mo.d?
