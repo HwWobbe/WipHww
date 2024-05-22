@@ -11,6 +11,8 @@
             - talk about this with TerryP to test his interest(s) / Ternet concerns
               - it should be possible to find common ground with both MP & TN
                 - ONERS should help raher than risk declines in their valuations
+                  - discounts for their members?
+                    - deeper for Auto & Health
     - DateForms need documentation
       - YY(_)ddd _jDate Tfo= .fo -n? Mcdy-mm-d ...
       - .Mi.ce.de.ye.qu.mo.d?
