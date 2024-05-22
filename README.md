@@ -12,8 +12,8 @@
           - successiveApproximations can extend to 80.ye+1.da for I.P.
             - LsT does not recognize this rule.
     - test this in a Gist
-      - create a separate HTML filr to upload
-        - review the GptH version
+      - create a separate HTML file to upload
+        - review the GptH version notes
 
   - 0601 (= PR )
     - integrate additional external resources
