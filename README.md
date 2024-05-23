@@ -14,6 +14,7 @@
                   - discounts for their members?
                     - deeper for Auto & Health
       - 0523: may integrate like: 0522\... 0523:... /0524
+        - test this further
     - DateForms need documentation
       - YY(_)ddd _jDate Tfo= .fo -n? Mcdy-mm-d ...
       - .Mi.ce.de.ye.qu.mo.d?
