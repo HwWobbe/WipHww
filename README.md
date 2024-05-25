@@ -4,6 +4,10 @@
 ...
 
 - 241231 251231 261231 281231 301231 351231 451231 481231
+  - 0524: CsMeN(otes)
+    - marketing: :30
+    - ... 🕥 - autoComplete clockface (apparently a 'now' best-fit.
+    - ...
   - 0522 / 0529 ... 0531 ...
       - preponderanceOfEvidence agenda topic
         - based on GasBuddy model
