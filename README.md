@@ -11,7 +11,7 @@
           - MyData access via 100 comps
             - ...
           - iLookAbout collaboration         
-      - question theBeerStore deal
+        - question theBeerStore deal
     - ... 🕥 - autoComplete clockface (apparently a 'now' best-fit.
       - is this a Browser effect?
         - what others can be accessed?
