@@ -6,6 +6,10 @@
 - 241231 251231 261231 281231 301231 351231 451231 481231
   - 0524: CsMeN(otes)
     - marketing: :30
+      - OMERS & MPAC are good friends - likely since OMERS acquired TeraNet
+        - push this with:
+          - MyData access via 100 comps
+            - ...
     - ... 🕥 - autoComplete clockface (apparently a 'now' best-fit.
       - is this a Browser effect?
         - what others can be accessed?
