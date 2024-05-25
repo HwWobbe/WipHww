@@ -43,6 +43,7 @@
         - there appears to be a Share capability that I could use for orgCharts with LsT
   
      - created a LisaBag
+       - continue populating this with DnDrop
       - trivial demonstration
       - follow-up with a demo of my Uses to explore features that may appeal to Lz
         - incremental build of Learning desire
