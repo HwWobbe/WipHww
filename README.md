@@ -10,6 +10,8 @@
         - push this with:
           - MyData access via 100 comps
             - ...
+          - iLookAbout collaboration         
+
     - ... 🕥 - autoComplete clockface (apparently a 'now' best-fit.
       - is this a Browser effect?
         - what others can be accessed?
