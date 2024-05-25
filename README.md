@@ -7,6 +7,8 @@
   - 0524: CsMeN(otes)
     - marketing: :30
     - ... 🕥 - autoComplete clockface (apparently a 'now' best-fit.
+      - is this a Browser effect?
+        - what others can be accessed?
     - ...
   - 0522 / 0529 ... 0531 ...
       - preponderanceOfEvidence agenda topic
