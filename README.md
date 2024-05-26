@@ -33,7 +33,7 @@
                 - OMERS should help raher than risk declines in their valuations
                   - discounts for their members?
                     - deeper for Auto & Health
-          - DataFix will be best if it is working on a specific part of a Common, Shared Infrastucture that contributes to its primary focus.
+          - DataFix will give best value if working on a specific part of a Shared Infrastucture that contributes to its primary focus.
       - 0523: may integrate like: 0522\... 0523:... /0524
         - test this further experimentally
     - DateForms need documentation
