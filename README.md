@@ -12,6 +12,14 @@
             - ...
           - iLookAbout collaboration         
         - question theBeerStore deal
+          - early E;ection - just the 4 year clock since a majority exists
+            - Center Of Excewllence - funding ?
+              - UoW cryptography focus
+                - response to terrible Fraud levels
+                  - CAA os another Trusted Brand
+                - is Sales help needed?
+                  - nChooseR ollaborations may work, but
+                    - toGoQuickly - alone ; toGoFar - together
     - ... 🕥 - autoComplete clockface (apparently a 'now' best-fit.
       - is this a Browser effect?
         - what others can be accessed?
