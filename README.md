@@ -27,7 +27,7 @@
   - 0522 / 0529 ... 0531 ...
       - preponderanceOfEvidence agenda topic
         - based on GasBuddy model
-          - leads to AVM sales - at a dsicount split with MPAC
+          - leads to AVM sales - at a discount split with MPAC
             - talk about this with TerryP to test his interest(s) / Ternet concerns
               - it should be possible to find common ground with both MP & TN
                 - OMERS should help raher than risk declines in their valuations
