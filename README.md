@@ -4,8 +4,10 @@
 ...
 
 - 241231 251231 261231 281231 301231 351231 451231 481231
+  - ExperimentalPrompt training
+    - trying to use Gists to start
   - 0524: CsMeN(otes)
-    - marketing: :30
+      - marketing: :30
       - OMERS & MPAC are good friends - likely since OMERS acquired TeraNet
         - push this with:
           - MyData access via 100 comps
