@@ -68,6 +68,13 @@
   - 0831 ... 1130 ...
     - gradually integrate the budgets
 
+
+<hr>
+
+- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts?tab=readme-ov-file#2024-quicklinks
+
+<hr>
+
 - EdD2024:
   - WASM is more important than expected.
     - Jr sees this as a possible sort solution that can work 'in Browser - to the limits of memory.  I am skeptical
