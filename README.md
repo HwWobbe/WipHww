@@ -4,6 +4,12 @@
 ...
 
 - 241231 251231 261231 281231 301231 351231 451231 481231
+...
+  
+  - 2024-05-27:
+    - Starting a re0design of these Folders/Files to optimize access to specifc areas for particular Audiences.
+      - Ideally this will allow more effective access to the larger quatities of information that are accumulating as a result of more AI/Chat... use.
+  
   - ExperimentalPrompt training
     - trying to use Gists to start
   - 0524: CsMeN(otes)
