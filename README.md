@@ -7,6 +7,8 @@
 ...
   
   - -28: started a chat-produced GIST
+    - saved as a 'secret' now (during Construction)
+   
   - 2024-05-27:
     - Starting a re0design of these Folders/Files to optimize access to specifc areas for particular Audiences.
       - Ideally this will allow more effective access to the larger quatities of information that are accumulating as a result of more AI/Chat... use.
