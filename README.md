@@ -9,6 +9,7 @@
   - -28: started a chat-produced GIST
     - saved as a 'secret' now (during Construction)
       - inter-link this content
+        - perhaps with KeepH
     - ...
    
   - 2024-05-27:
