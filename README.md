@@ -5,7 +5,8 @@
 
 - 241231 251231 261231 281231 301231 351231 451231 481231
 ...
-  
+
+  - -31: back frombTrip for :csMeet ; floorPlans, virtualAssitance
   - -28: started a chat-produced GIST
     - saved as a 'secret' now (during Construction)
       - inter-link this content
