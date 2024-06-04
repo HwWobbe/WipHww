@@ -3,7 +3,7 @@
 ## 2024 QlN = quickLinks & N(otes)
 ...
 
-- 241231 251231 261231 281231 301231 351231 451231 481231
+- 240604 241231 251231 261231 281231 301231 351231 451231 481231
 ...
 
   - -31: back frombTrip for :csMeet ; floorPlans, virtualAssitance
