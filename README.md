@@ -11,8 +11,8 @@
     -create a maners meet summary area
     
 - 24-05:
-  - -31: back from bTrip for :csMeet ; floorPlans, virtualAssitance
-  - -28: started a chat-produced GIST
+  - 05-31: back from bTrip for :csMeet ; floorPlans, virtualAssitance
+  - 05-28: started a chat-produced GIST
     - saved as a 'secret' now (during Construction)
       - inter-link this content
         - perhaps with KeepH
