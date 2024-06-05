@@ -6,6 +6,10 @@
 - 240604 241231 251231 261231 281231 301231 351231 451231 481231
 ...
 
+- 2024-06:
+  - 06-05: new floor soace lease ; EdD perhaps with Ana Cloud & Assembly ; BarbP more Admin aid
+ 
+- 24-05:
   - -31: back from bTrip for :csMeet ; floorPlans, virtualAssitance
   - -28: started a chat-produced GIST
     - saved as a 'secret' now (during Construction)
