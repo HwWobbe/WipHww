@@ -7,8 +7,9 @@
 ...
 
 - 2024-06:
-  - 06-05: new floor soace lease ; EdD perhaps with Ana Cloud & Assembly ; BarbP more Admin aid
- 
+  - 06-05: new floor space lease ; EdD perhaps with Ana Cloud & Assembly ; BarbP more Admin aid
+    -create a maners meet summary area
+    
 - 24-05:
   - -31: back from bTrip for :csMeet ; floorPlans, virtualAssitance
   - -28: started a chat-produced GIST
