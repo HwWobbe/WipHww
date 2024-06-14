@@ -11,7 +11,9 @@
 
 
 - 2024-06:
-  - 06-14: re-plan for DIG + AdMan + UoW
+  - 06-14:
+    - re-plan for DIG + AdMan + UoW
+    - new personal system installation
   - 06-05: new floor space lease ; EdD perhaps with Ana Cloud & Assembly ; BarbP more Admin aid
     - create a maners meet summary area
    
