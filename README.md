@@ -6,7 +6,7 @@
 - 240619 241231 251231 261231 281231 301231 351231 451231 481231
 ...
 
-### 2024-06 expended Groups PR
+### 2024-06 expanded Groups PR
 ... Df AdMan DIG uoW+
 
 
