@@ -12,6 +12,7 @@
 
 - 2024-06:
   - 06-22: DiigoH interactions are apparently productive
+    - re-linked Twitter citing mapping of images
   - 06-21: the need for working agreements with UoW seems to be increasing
   - 06-14:
     - re-plan for DIG + AdMan + UoW
