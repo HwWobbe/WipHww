@@ -11,7 +11,8 @@
 
 
 - 2024-06:
-  - 06-21: the need for working agreements with UoW seems to be increasing as the 
+  - 06-22: DiigoH interactions are apparently productive
+  - 06-21: the need for working agreements with UoW seems to be increasing
   - 06-14:
     - re-plan for DIG + AdMan + UoW
       - try applying MiniTeam concepts
