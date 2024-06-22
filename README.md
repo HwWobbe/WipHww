@@ -15,6 +15,7 @@
     - re-linked Twitter citing mapping of images
       - mentioned P.I.L. to prepare for ThoughtLeaders.
     - reviewed the Sourcery changes.
+      - consider the upgraded service
   - 06-21: the need for working agreements with UoW seems to be increasing
   - 06-14:
     - re-plan for DIG + AdMan + UoW
