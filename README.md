@@ -13,6 +13,7 @@
 - 2024-06:
   - 06-22: DiigoH interactions are apparently productive
     - re-linked Twitter citing mapping of images
+      - -23: do dashBoard monitors still function?
       - mentioned P.I.L. to prepare for ThoughtLeaders.
     - reviewed the Sourcery changes.
       - consider the upgraded service
