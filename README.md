@@ -10,6 +10,7 @@
         - AdMan Infrastruct needs to be more sophisticated than CurbSide architecture
           - Edge v. Core (potential) design(s)
             - iterfaces v. Integrations
+              - test the Decisions tool
            
 
 - https://keep.google.com/u/0/#reminders
