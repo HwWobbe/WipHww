@@ -9,6 +9,8 @@
       - Infrastructure < Architecture
         - AdMan Infrastruct needs to be more sophisticated than CurbSide architecture
           - Edge v. Core (potential) design(s)
+            - iterfaces v. Integrations
+           
 
 - https://keep.google.com/u/0/#reminders
 
