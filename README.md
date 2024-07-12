@@ -8,7 +8,7 @@
     - Architecture v. Community funding
       - Infrastructure < Architecture
         - AdMan Infrastruct needs to be more sophisticated than CurbSide architecture
-          - Edge v. Core 
+          - Edge v. Core (potential) design(s)
 
 - https://keep.google.com/u/0/#reminders
 
