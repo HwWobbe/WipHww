@@ -16,8 +16,8 @@
 - https://keep.google.com/u/0/#reminders
 
 ### 2024-07:
+- 2407-14: started a PyTorch ReView 
 - 240701:
-  - ...
 
 ### 2024-06 expanded Groups PR
 ... Df AdMan DIG uoW+
