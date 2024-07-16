@@ -14,7 +14,7 @@
            
 
 - https://keep.google.com/u/0/#reminders
-
+  - extand access via #tags
 ### 2024-07:
 - 2407-14: started a PyTorch ReView 
 - 240701:
