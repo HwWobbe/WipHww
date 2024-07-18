@@ -5,6 +5,7 @@
 
 - 240719 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
   - prepare for JrH talks re:
+    - email response
     - Architecture v. Community funding
       - Infrastructure < Architecture
         - AdMan Infrastruct needs to be more sophisticated than CurbSide architecture
