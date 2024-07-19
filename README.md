@@ -15,6 +15,8 @@
        
 - https://keep.google.com/u/0/#reminders
   - extand access via #tags
+  - https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints
+ 
 ### 2024-07:
 - 2407-14: started a PyTorch ReView 
 - 240701:
