@@ -3,7 +3,7 @@
 ## 2024 Q2N = quickLinks & N(otes)
 ...
 
-- 240719 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
+- 240729 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
   - prepare for JrH talks re:
     - email response
     - Architecture v. Community funding
@@ -12,8 +12,7 @@
           - Edge v. Core (potential) design(s)
             - iterfaces v. Integrations
               - test the Decisions tool
-           
-
+       
 - https://keep.google.com/u/0/#reminders
   - extand access via #tags
 ### 2024-07:
