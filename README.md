@@ -6,7 +6,14 @@
 - 240729 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
   - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD 
     - see Management notes
-  - prepare for JrH talks re:
+         
+- https://keep.google.com/u/0/#reminders
+  - extand access via #tags
+  - https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints
+    - via HuggingFace
+ 
+### 2024-07:
+- prepare for JrH talks re:
     - email response ( maintain caution )
       - explore: DirectionTn
     - Architecture v. Community funding
@@ -15,13 +22,6 @@
           - Edge v. Core (potential) design(s)
             - iterfaces v. Integrations
               - test the Decisions tool
-       
-- https://keep.google.com/u/0/#reminders
-  - extand access via #tags
-  - https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints
-    - via HuggingFace
- 
-### 2024-07:
 - 2407-14: started a PyTorch ReView 
 - 240701:
 
