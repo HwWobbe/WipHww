@@ -8,7 +8,7 @@
     - see Management notes
          
 - https://keep.google.com/u/0/#reminders
-  - extand access via #tags
+  - expand access via #tags
   - https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints
     - via HuggingFace
  
