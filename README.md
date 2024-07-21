@@ -7,7 +7,8 @@
   - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD 
     - see Management notes
   - prepare for JrH talks re:
-    - email response
+    - email response ( maintain caution )
+      - explore: DirectionTn
     - Architecture v. Community funding
       - Infrastructure < Architecture
         - AdMan Infrastruct needs to be more sophisticated than CurbSide architecture
