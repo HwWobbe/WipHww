@@ -4,7 +4,7 @@
 ...
 
 - 240729 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
-  - couch this as a budgets discussio
+  - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD 
     - see Management notes
   - prepare for JrH talks re:
     - email response
