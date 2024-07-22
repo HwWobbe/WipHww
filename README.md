@@ -11,6 +11,7 @@
   - expand access via #tags
   - https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints
     - via HuggingFace
+  - find the Medium repoi that was referenced  
  
 ### 2024-07:
 - prepare for JrH talks re:
