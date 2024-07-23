@@ -7,7 +7,7 @@
   - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD 
     - see Management notes
          
-- start scavenging https://keep.google.com/u/0/#reminders
+- start scavenging https://keep.google.com/u/0/#reminders (ensure net depletion, if main use contiunues)
   - expand access via #tags
   - https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints
     - via HuggingFace
