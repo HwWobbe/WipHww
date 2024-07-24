@@ -4,9 +4,10 @@
 ...
 
 - 240729 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
-  - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD 
-    - see Management notes
-         
+  - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
+    - present this as part of the BdcReveiw(s)
+      - see Management notes
+   
 - start scavenging https://keep.google.com/u/0/#reminders (ensure net depletion, if main use contiunues)
   - expand access via #tags
   - https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints
