@@ -3,7 +3,7 @@
 ## 2024 Q2N = quickLinks & N(otes)
 ...
 
-- 240729 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
+- 240729 -31 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
   - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
     - present this as part of the BdcReveiw(s)
       - see Management notes
