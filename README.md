@@ -7,7 +7,8 @@
   - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
     - present this as part of the BdcReveiw(s)
       - see Management notes
-  - -07-25: acquired STREEEAKS 
+  - -07-25: acquired STREEEAKS
+    - encountering reset problems
    
 - start scavenging https://keep.google.com/u/0/#reminders (ensure net depletion, if main use contiunues)
   - expand access via #tags
