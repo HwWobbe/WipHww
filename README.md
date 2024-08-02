@@ -20,7 +20,11 @@
     - via HuggingFace
   - find the Medium repo that was referenced
     - is the a recentPosts I can review for favorite Authors?
- 
+
+ - -08-01: startup
+
+  <hr>
+  
 ### 2024-07:
 - prepare for JrH talks re:
     - email response ( maintain caution )
