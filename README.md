@@ -8,6 +8,7 @@
     - vmmemWSL seems to be the the new cilprit.
   - BathRdLan needs work to restore proper WiFi service
     - speakers are serviceable, but headset is preferable.
+      - ...
     - ...
   - EdD2024
    - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
