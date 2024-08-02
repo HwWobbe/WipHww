@@ -14,6 +14,7 @@
       - see Management notes
   - -07-25: acquired STREEEAKS
     - encountering reset problems
+      - keep testing, but with less diverse intra-day use
    
 - start scavenging https://keep.google.com/u/0/#reminders (ensure net depletion, if main use contiunues)
   - expand access via #tags
