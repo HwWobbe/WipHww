@@ -5,6 +5,7 @@
 
 - 240829 -31 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
   - ReView Gpt Memory use
+    - vmmemWSL seems to be the the new cilprit.
   - BathRdLan needs work to restore proper WiFi service
     - ...
   - EdD2024
