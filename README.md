@@ -4,20 +4,20 @@
 ...
 
 - 240829 -31 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
-  - ReView Gpt Memory use
-    - vmmemWSL seems to be the the new culprit.
-      - it dd not automatically re-open after I restarted the system to kill it.
   - BathRdLan needs work to restore proper WiFi service
     - speakers are serviceable, but headset is preferable.
       - ...
     - ...
-  - EdD2024
-   - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
-    - present this as part of the BdcReveiw(s)
-      - see Management notes
-  - -07-25: acquired STREEEAKS
-    - encountering reset problems
-      - keep testing, but with less diverse intra-day use
+- ReView Gpt Memory use
+  - vmmemWSL seems to be the the new culprit.
+    - it dd not automatically re-open after I restarted the system to kill it.
+- EdD2024
+ - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
+  - present this as part of the BdcReveiw(s)
+    - see Management notes
+ - -07-25: acquired STREEEAKS
+ - encountering reset problems
+  - keep testing, but with less diverse intra-day use
    
 - start scavenging https://keep.google.com/u/0/#reminders (ensure net depletion, if main use contiunues)
   - expand access via #tags
