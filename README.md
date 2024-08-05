@@ -8,6 +8,9 @@
     - speakers are serviceable, but headset is preferable.
       - this may be delayed until -09-2? by tech Visitor availablility
     - cellPhone acts as a PalnB but this sggrevates re-charging demands
+
+- test the BotProc for expanded GIST use
+  - ...
 - ReView Gpt Memory use
   - vmmemWSL seems to be the the new culprit.
     - it dd not automatically re-open after I restarted the system to kill it.
