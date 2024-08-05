@@ -11,7 +11,9 @@
 
 - test the BotProc for expanded GIST use
   - follow the instructions rigorously - particularly in order to evaluate Bot reliability
-  - review: https://github.com/ComposioHQ/composio/tree/master/python/examples/pr_agent/pr_agent_llama_index
+  - review:
+    - https://www.linkedin.com/posts/llamaindex_agentic-terraform-assistant-with-llamaindex-activity-7225522551408508930-pcMf?utm_source=share&utm_medium=member_desktop
+    - https://github.com/ComposioHQ/composio/tree/master/python/examples/pr_agent/pr_agent_llama_index
 - ReView Gpt Memory use
   - vmmemWSL seems to be the the new culprit.
     - it dd not automatically re-open after I restarted the system to kill it.
