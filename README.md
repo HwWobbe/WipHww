@@ -9,6 +9,8 @@
       - this may be delayed until -09-2? by tech Visitor availablility
     - cellPhone acts as a PalnB but this sggrevates re-charging demands
 
+- consider Ideas from: BotHww.UniCode
+
 - test the BotProc for expanded GIST use
   - follow the instructions rigorously - particularly in order to evaluate Bot reliability
   - review:
