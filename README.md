@@ -8,6 +8,10 @@
     - speakers are serviceable, but headset is preferable.
       - this may be delayed until -09-2? by tech Visitor availablility
     - cellPhone acts as a PlanB but this aggrevates re-charging demands
+  - query the way to build the Prompts needed for effcient writing tools
+    - first investigate the Open-Source, noCost options
+    
+  
 
 - consider Ideas from: BotHww.UniCode
 
