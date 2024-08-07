@@ -7,7 +7,7 @@
   - BathRdLan needs work to restore proper WiFi service
     - speakers are serviceable, but headset is preferable.
       - this may be delayed until -09-2? by tech Visitor availablility
-    - cellPhone acts as a PalnB but this sggrevates re-charging demands
+    - cellPhone acts as a PlanB but this aggrevates re-charging demands
 
 - consider Ideas from: BotHww.UniCode
 
