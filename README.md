@@ -27,15 +27,6 @@
  - encountering reset problems
   - keep testing, but with less diverse intra-day use
    
-- start scavenging https://keep.google.com/u/0/#reminders (ensure net depletion, if main use contiunues)
-  - expand access via #tags
-  - https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints
-    - via HuggingFace
-  - find the Medium repo that was referenced
-    - is the a recentPosts I can review for favorite Authors?
-
- - -08-01: startup
-
   <hr>
   
 ### 2024-07:
