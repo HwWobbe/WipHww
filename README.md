@@ -5,6 +5,7 @@
 
 - 240829 -31 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
   - Roof Top Conditioners need work
+    -  access ladder is a concern > Safety quidelines
   - Leak prevention brickwork is needed
   - BathRdLan needs work to restore proper WiFi service
     - speakers are serviceable, but headset is preferable.
