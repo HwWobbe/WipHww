@@ -7,6 +7,8 @@
   - Roof Top Conditioners need work
     -  access ladder is a concern > Safety quidelines
   - Leak prevention brickwork is needed
+    - 08-09: new direction-sensitve leaks became evident
+      - Suggested getting the scaffolding pre-installed
   - BathRdLan needs work to restore proper WiFi service
     - speakers are serviceable, but headset is preferable.
       - this may be delayed until -09-2? by tech Visitor availablility
