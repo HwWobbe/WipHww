@@ -62,6 +62,7 @@
       - consider the upgraded service
         - review Benefit/Cost ratios
   - 06-21: the need for working agreements with UoW seems to be increasing
+    - update the gDocs.ToC for QSS
   - 06-14:
     - re-plan for DIG + AdMan + UoW
       - try applying MiniTeam concepts
