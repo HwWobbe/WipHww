@@ -16,6 +16,7 @@
   - query the way to build the Prompts needed for effcient writing tools
     - first investigate the Open-Source, noCost options
   - consider Ideas from: BotHww.UniCode
+- reVisit BotNames and ChatNames for efficient access and enhancements to Productivity
 - test the BotProc for expanded GIST use
   - follow the instructions rigorously - particularly in order to evaluate Bot reliability
   - review:
