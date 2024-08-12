@@ -16,6 +16,7 @@
   - query the way to build the Prompts needed for efficient writing tools
     - first investigate the Open-Source, noCost options
   - consider Ideas from: BotHww.UniCode
+
 - link to gDocs as a better documentation tool
 -  reVisit BotNames and ChatNames for efficient access and enhancements to Productivity
 - test the BotProc for expanded GIST use
@@ -23,9 +24,12 @@
   - review:
     - https://www.linkedin.com/posts/llamaindex_agentic-terraform-assistant-with-llamaindex-activity-7225522551408508930-pcMf?
     - https://github.com/ComposioHQ/composio/tree/master/python/examples/pr_agent/pr_agent_llama_index
+
 - ReView Gpt Memory use
   - vmmemWSL seems to be the the new culprit.
     - it dd not automatically re-open after I restarted the system to kill it.
+      - it is likely more reliable to submit more material as part of ther prompt, reducing the need for BotMemory
+
 - EdD2024
  - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
   - present this as part of the BdcReveiw(s)
