@@ -29,6 +29,7 @@
   - vmmemWSL seems to be the the new culprit.
     - it dd not automatically re-open after I restarted the system to kill it.
       - it is likely more reliable to submit more material as part of ther prompt, reducing the need for BotMemory
+        - verify this update
 
 - EdD2024
  - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
