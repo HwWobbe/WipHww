@@ -17,7 +17,7 @@
     - first investigate the Open-Source, noCost options
   - consider Ideas from: BotHww.UniCode
 
-- link to gDocs as a better documentation tool
+- link to gDocs as a better documentation tool ( is MSC DOXC better for monolithic support? )
 -  reVisit BotNames and ChatNames for efficient access and enhancements to Productivity
 - test the BotProc for expanded GIST use
   - follow the instructions rigorously - particularly in order to evaluate Bot reliability
