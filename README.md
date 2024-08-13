@@ -24,6 +24,7 @@
   - review:
     - https://www.linkedin.com/posts/llamaindex_agentic-terraform-assistant-with-llamaindex-activity-7225522551408508930-pcMf?
     - https://github.com/ComposioHQ/composio/tree/master/python/examples/pr_agent/pr_agent_llama_index
+    - https://github.com/tiddly-gittly/tw-command-palette
 
 - ReView Gpt Memory use
   - vmmemWSL seems to be the the new culprit.
