@@ -11,6 +11,7 @@
     -  access ladder is a concern > Safety quidelines
   - BathRdLan needs work to restore proper WiFi service
     - speakers are serviceable, but headset is preferable.
+      - notNoMore - Sigh...
       - this may be delayed until -09-2? by tech Visitor availablility
     - cellPhone acts as a PlanB but this aggrevates re-charging demands
   - query the way to build the Prompts needed for efficient writing tools
