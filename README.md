@@ -19,6 +19,7 @@
   - consider Ideas from: BotHww.UniCode
 
 - link to gDocs as a better documentation tool ( is MSC DOXC better for monolithic support? )
+  - most frequently modified information needs to be on the most frequently travell path
 -  reVisit BotNames and ChatNames for efficient access and enhancements to Productivity
 - test the BotProc for expanded GIST use
   - follow the instructions rigorously - particularly in order to evaluate Bot reliability
