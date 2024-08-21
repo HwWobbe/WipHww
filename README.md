@@ -20,6 +20,9 @@
 
 - link to gDocs as a better documentation tool ( is MSC DOXC better for monolithic support? )
   - most frequently modified information needs to be on the most frequently travell path
+    - this likely needs bot intercention to craft an update that can then be read from a reliable source.
+      - try this via DgH
+        - perhaps via a tweetH
 -  reVisit BotNames and ChatNames for efficient access and enhancements to Productivity
 - test the BotProc for expanded GIST use
   - follow the instructions rigorously - particularly in order to evaluate Bot reliability
