@@ -9,8 +9,8 @@
     - 08-09: new direction-sensitve leaks became evident
       - Suggested getting the scaffolding pre-installed
   - Roof Top Conditioners need work
-    -  access ladder is a concern > Safety quidelines
-      -  an AccessTry became a safetyIncident
+    - access ladder is a concern > Safety quidelines
+      - an AccessTry became a safetyIncident
   - BathRdLan needs work to restore proper WiFi service
     - speakers are serviceable, but headset is preferable.
       - notNoMore - Sigh...
