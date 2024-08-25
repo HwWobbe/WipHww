@@ -1,4 +1,5 @@
-- ...
+- Rank the relative importance of ...Tnt... components within each TopGoal
+  - this TopGoals should cap a TimePeriod series
 
 ## 2024 Q2N = quickLinks & N(otes)
 ...
