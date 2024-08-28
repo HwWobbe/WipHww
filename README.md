@@ -4,6 +4,8 @@
 ## 2024 Q2N = quickLinks & N(otes)
 - MikeS( RocD RocT CaDfQss )
   - access via a Bot on CellH would be ideal.  KeepH is a secondary choice.
+- setup a new localGit environment
+  - ...
 
 - 240829 -31 ... PlansHwTn 0712 ... 241231 251231 261231 281231 301231 351231 451231 481231
   - Leak prevention brickwork is needed
