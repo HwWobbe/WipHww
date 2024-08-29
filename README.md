@@ -2,8 +2,7 @@
   - this TopGoals should cap a TimePeriod series
 
 ## 2024 Q2N = quickLinks & N(otes)
-- MikeS( RocD RocT CaDfQss )
-  - access via a Bot on CellH would be ideal.  KeepH is a secondary choice.
+- access via a Bot on CellH would be ideal.  KeepH is a secondary choice.
 - setup a new localGit environment
   - ...
 
@@ -22,6 +21,8 @@
   - query the way to build the Prompts needed for efficient writing tools
     - first investigate the Open-Source, noCost options
   - consider Ideas from: BotHww.UniCode
+
+- MikeS( RocD RocT CaDfQss )
 
 - link to gDocs as a better documentation tool ( is MSC DOXC better for monolithic support? )
   - most frequently modified information needs to be on the most frequently travell path
