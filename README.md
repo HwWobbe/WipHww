@@ -1,6 +1,8 @@
 - Rank the relative importance of ...Tnt... components within each TopGoal
   - this TopGoals should cap a TimePeriod series
-    - (c/sh)old this be tried as a SqLite tech application that may become a fullStack app?
+    - (c/sh)ould this be tried as a SqLite tech application that may become a fullStack app?
+      - alternativel;y: LzB( Es Hw Lz ) may Clone, Fork, Morph and Spawn CurbSide
+        - Aj could be a supplier if that influenc helps Es
 
 ## 2024 Q2N = quickLinks & N(otes)
 - access via a Bot on CellH would be ideal.  KeepH is a secondary choice.
