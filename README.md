@@ -1,3 +1,4 @@
+## 2024-09:
 - Rank the relative importance of ...Tnt... components within each TopGoal
   - this TopGoals should cap a TimePeriod series
     - (c/sh)ould this be tried as a SqLite tech application that may become a fullStack app?
