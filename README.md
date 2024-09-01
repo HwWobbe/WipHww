@@ -1,5 +1,5 @@
 ## 2024-09:
-- Rank the relative importance of ...Tnt... components within each TopGoal
+- Rank the relative importance of ...TnT... components within each TopGoal
   - this TopGoals should cap a TimePeriod series
     - (c/sh)ould this be tried as a SqLite tech application that may become a fullStack app?
       - alternativel;y: LzB( Es Hw Lz ) may Clone, Fork, Morph and Spawn CurbSide
