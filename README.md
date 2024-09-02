@@ -4,7 +4,7 @@
     - try just using Streams
     - (c/sh)ould this be tried as a SqLite tech application that may become a fullStack app?
       - alternativel;y: LzB( Es Hw Lz ) may Clone, Fork, Morph and Spawn CurbSide
-        - Aj could be a supplier if that influenc helps Es.
+        - Aj could be a supplier if that influence helps Es.
 - https://www.cyber.gc.ca/en/guidance/cyber-threats-canadas-democratic-process-2023-update
   - ReView & Annotate
     - Hypothesis ??
