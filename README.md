@@ -1,7 +1,7 @@
 ## 2024-09:
 - Rank the relative importance of ...TnT... components within each TopGoal
   - this TopGoals should cap a TimePeriod series
-    - try just using Streams
+    - try just using Streams ( Streaks? )
     - (c/sh)ould this be tried as a SqLite tech application that may become a fullStack app?
       - alternativel;y: LzB( Es Hw Lz ) may Clone, Fork, Morph and Spawn CurbSide
         - Aj could be a supplier if that influence helps Es.
