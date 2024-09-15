@@ -1,4 +1,6 @@
 ## 2024-09:
+- budget(s) X Resource X tumeperiod(s)
+  - 50% primary 25% Secondary 20% AssetMaintenance 5% Tertiary
 - Rank the relative importance of ...TnT... components within each TopGoal
   - this TopGoals should cap a TimePeriod series
     - try just using Streeeaks
