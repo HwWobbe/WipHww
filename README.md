@@ -12,6 +12,7 @@
     - Lz does not seem to be able to make it happen
   - this is based on the fact that the resources at her displaose are not beinbg used well enough
     - ... other things to do ... is not, of itself, an adequate excuse when used repeatedly
+  - this documentation persistence is indicative that the problem and its resulting frustrations persist.
  
 - consider:
   - the thresholds for larger Qss investments
