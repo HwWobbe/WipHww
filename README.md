@@ -13,6 +13,8 @@
   - this is based on the fact that the resources at her displaose are not beinbg used well enough
     - ... other things to do ... is not, of itself, an adequate excuse when used repeatedly
   - this documentation persistence is indicative that the problem and its resulting frustrations persist.
+    - could this become more effective if it is moved into DgH
+      - using a scheduled Event to aggregate Notes might be more considerate
  
 - consider:
   - the thresholds for larger Qss investments
