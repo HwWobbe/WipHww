@@ -11,6 +11,7 @@
         - Aj could be a supplier if that influence helps Es.
     - Lz does not seem to be able to make it happen
   - this is based on the fact that the resources at her displaose are not beinbg used well enough
+    - ... other things to do ... is not, of itself, an adequate excuse when used repeatedly
  
 - consider:
   - the thresholds for larger Qss investments
