@@ -9,6 +9,8 @@
     - (c/sh)ould this be tried as a SqLite tech application that may become a fullStack app?
       - alternativel;y: LzB( Es Hw Lz ) may Clone, Fork, Morph and Spawn CurbSide
         - Aj could be a supplier if that influence helps Es.
+    - Lz does not seem to be able to make it happen
+     - this is based on the fact that the resources at her displaose are not beinbg used well enough 
 - consider:
   - the thresholds for larger Qss investments
   - how shared blocks can be integrated into multiple destination, especially those needing different indentation
