@@ -32,6 +32,7 @@
   - Leak prevention brickwork is needed
     - 08-09: new direction-sensitve leaks became evident
       - Suggested getting the scaffolding pre-installed
+        - follow-up as needed
   - Roof Top Conditioners need work
     - access ladder is a concern > Safety quidelines
       - an AccessTry became a safetyIncident
