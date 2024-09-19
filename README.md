@@ -15,6 +15,7 @@
   - this documentation persistence is indicative that the problem and its resulting frustrations persist.
     - could this become more effective if it is moved into DgH
       - using a scheduled Event to aggregate Notes might be more considerate
+        - pursue the Notarized verification 
  
 - consider:
   - the thresholds for larger Qss investments
