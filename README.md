@@ -1,7 +1,8 @@
 ## 2024-09:
 - budget(s) X Resource X tumeperiod(s)
   - 50% primary 25% Secondary 20% AssetMaintenance 5% Tertiary
-   - represent this using the 50 enclosedNumbers 
+   - represent this using the 50 enclosedNumbers
+- consider hiw best to integrate remote bookmarks- (DiigoH PBworks (if mid-term+ dates, TiddlyHost, ...
 - use internal DgH links to jump directly to highly focused ideas.
 - Rank the relative importance of ...TnT... components within each TopGoal
   - this TopGoals should cap a TimePeriod series
