@@ -1,3 +1,5 @@
+## 2024-10:
+
 ## 2024-09:
 - budget(s) X Resource X tumeperiod(s)
   - 50% primary 25% Secondary 20% AssetMaintenance 5% Tertiary
@@ -79,6 +81,8 @@
       - it is likely more reliable to submit more material as part of ther prompt, reducing the need for BotMemory
         - verify this update
 
+
+## 2024-09:
 - EdD2024
  - couch this as a budgets discussion for: ( DevN OpsD )MandE.+30% BusinessDevelopmentN EdD
   - present this as part of the BdcReveiw(s)
