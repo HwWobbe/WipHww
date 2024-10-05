@@ -1,7 +1,7 @@
 ## 2024-10:
 
 ## 2024-09:
-- budget(s) X Resource X tumeperiod(s)
+- budget(s) X Resource X t1meperiod(s)
   - 50% primary 25% Secondary 20% AssetMaintenance 5% Tertiary
    - represent this using the 50 enclosedNumbers
      - ...
