@@ -1,4 +1,6 @@
 ## 2024-10:
+- ...
+
 
 ## 2024-09:
 - budget(s) X Resource X t1meperiod(s)
