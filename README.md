@@ -1,6 +1,6 @@
 ## 2024-10:
 - very little progress this month ( in comparision ) to the more demanding activities )
-  - Ta & Sunny are the exception () all be it perhaps only a small one )
+  - Ta & Sunny are the exception ( all be it perhaps only a small one )
 
 
 ## 2024-09:
