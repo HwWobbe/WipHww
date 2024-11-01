@@ -1,5 +1,5 @@
 ## 2024-11:
-
+- try using the GIST(s) in an automated manner.
 
 <hr>
 
