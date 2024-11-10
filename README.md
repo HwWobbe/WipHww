@@ -1,5 +1,6 @@
 ## 2024-11:
 - try using the GIST(s) in an automated manner
+  - apply these insights
 - the preceding gap in postings of more than a week is relatively unprecedented.
 
 <hr>
