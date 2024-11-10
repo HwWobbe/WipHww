@@ -1,5 +1,6 @@
 ## 2024-11:
-- try using the GIST(s) in an automated manner.
+- try using the GIST(s) in an automated manner
+- the preceding gap in postings of more than a week is relatively unprecedented.
 
 <hr>
 
