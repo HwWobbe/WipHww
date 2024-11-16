@@ -1,5 +1,5 @@
 ## 2024-11:
-- try following Claude to MWS
+- try following Claude to MWS via https://github.com/TiddlyWiki/TiddlyWiki5/pull/7915
 - try using the GIST(s) in an automated manner
   - apply these insights. if only as a test
 - the preceding gap in postings of more than a week is relatively unprecedented - try to avoid long gaps like this.
