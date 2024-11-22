@@ -7,7 +7,7 @@
           - it seems a bit more quidance is needed.
          
   - re-test PythonH
-    - stay focused on PrImprovements
+    - stay focused on Pr.Improvements
    
 - try using the GIST(s) in an automated manner
   - apply these insights. if only as a test
