@@ -4,6 +4,8 @@
     - develop a fixIt plan
       - pick an editor
         - ask PoeT
+          - it seems a bit more quidance is needed.
+         
   - re-test PythonH
     - stay focused on PrImprovements
    
