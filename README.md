@@ -5,6 +5,7 @@
       - pick an editor
         - ask PoeT
           - it seems a bit more quidance is needed.
+            - perhaps Claude ??
          
   - re-test PythonH
     - stay focused on Pr.Improvements
