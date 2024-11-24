@@ -10,6 +10,7 @@
       - and the tutorial - which seems quite effective
     - if my methodolgy is now adequate, I should start chunkingOut the larger historical comments
       - reView the Counts since sudPages may be treated differently
+      - carefully test for a successful inclusion of one file within another 
 
          
   - re-test PythonH
