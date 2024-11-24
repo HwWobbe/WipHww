@@ -10,6 +10,7 @@
          
   - re-test PythonH
     - stay focused on Pr.Improvements
+      - strive for preliminary, working Local version
    
 - try using the GIST(s) in an automated manner
   - apply these insights. if only as a test
