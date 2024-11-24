@@ -9,6 +9,7 @@
     - learn from these PRs
       - and the tutorial - which seems quite effective
     - if my methodolgy is now adequate, I should start chunkingOut the larger historical comments
+      - reView the Counts since sudPages may be treated differently
 
          
   - re-test PythonH
