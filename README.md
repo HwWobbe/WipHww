@@ -6,6 +6,7 @@
         - ask PoeT
           - it seems a bit more quidance is needed.
             - perhaps Claude ??
+    - learn from these PRs
          
   - re-test PythonH
     - stay focused on Pr.Improvements
