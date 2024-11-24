@@ -7,6 +7,7 @@
           - it seems a bit more quidance is needed.
             - perhaps Claude ??
     - learn from these PRs
+      - and the tutorial
          
   - re-test PythonH
     - stay focused on Pr.Improvements
