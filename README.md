@@ -12,7 +12,7 @@
       - reView the Counts since sudPages may be treated differently
       - carefully test for a successful inclusion of one file within another
         - logic suggests this should be straight-forward
-          - at leat in a simple nested heirarchy
+          - at least in a simple nested heirarchy
          
   - re-test PythonH
     - stay focused on Pr.Improvements
