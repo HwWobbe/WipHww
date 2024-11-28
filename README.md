@@ -18,6 +18,8 @@
     - stay focused on Pr.Improvements
       - strive for preliminary, working Local version
    
+- schedule the JrH talk
+  - declare Hiatus, but for support
 - try using the GIST(s) in an automated manner
   - apply these insights. if only as a test
 - the preceding gap in postings of more than a week is relatively unprecedented - try to avoid long gaps like this.
