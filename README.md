@@ -13,6 +13,7 @@
       - carefully test for a successful inclusion of one file within another
         - logic suggests this should be straight-forward
           - at least in a simple nested heirarchy
+            - reinforce this methodology
   - The synchronization 404 errors are annoyingly persistent.
     - Save and work offLine
          
