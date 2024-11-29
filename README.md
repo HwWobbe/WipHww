@@ -13,6 +13,8 @@
       - carefully test for a successful inclusion of one file within another
         - logic suggests this should be straight-forward
           - at least in a simple nested heirarchy
+  - The synchronization 404 errors are annoyingly persistent.
+    - Save and work offLine
          
   - re-test PythonH
     - stay focused on Pr.Improvements
