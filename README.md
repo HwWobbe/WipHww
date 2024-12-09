@@ -1,4 +1,5 @@
 ## 2024-12:
+- capture the CBC article regarding 3rd party mail delivery
 
 ## 2024-11:
 - try following Claude to MWS via https://github.com/TiddlyWiki/TiddlyWiki5/pull/7915
