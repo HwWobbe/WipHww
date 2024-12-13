@@ -12,6 +12,7 @@
   - https://oncely.com/collections/frontpage
 
 - consider if this WIP RePo should gain positional prominance over the current 2nd place one
+  - probably since 1st place is clearly the primary focus/month
 
 <hr>
 
