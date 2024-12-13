@@ -10,6 +10,7 @@
         - rather than a DghKludge.
   - https://www.producthunt.com/@hans_wobbe
   - https://oncely.com/collections/frontpage
+  - PerplexityAsk - add a URL
 
 - consider if this WIP RePo should gain positional prominance over the current 2nd place one
   - probably since 1st place is clearly the primary focus/month
