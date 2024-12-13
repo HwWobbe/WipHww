@@ -9,7 +9,7 @@
 - capture the CBC article regarding 3rd party mail delivery
   - can this be interfaced to Socials ?
 -  further proofs of the X3 theory are completely out of reach.
-  -  consider this a working proof for my current use cases
+  - consider this a working proof for my current use cases
 
 ## 2024-11:
 - try following Claude to MWS via https://github.com/TiddlyWiki/TiddlyWiki5/pull/7915
