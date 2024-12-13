@@ -7,7 +7,7 @@
     - https://rivesa.pbworks.com/n/dashboard?view=tasks#filter/creator_id=ce8d479aaf35f0afb0d19486467954f035c2ba58
     - as a possible controlPoint
       - that includes good scheduling
-        - rather than a DghKludge
+        - rather than a DghKludge.
   - https://www.producthunt.com/@hans_wobbe
   - https://oncely.com/collections/frontpage
 
