@@ -11,6 +11,8 @@
   - https://www.producthunt.com/@hans_wobbe
   - https://oncely.com/collections/frontpage
 
+- consider if this WIP RePo should gain positional prominance over the current 2nd place one
+
 <hr>
 
 ## 2024-12:
