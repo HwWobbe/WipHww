@@ -1,3 +1,8 @@
+## 2025-12:
+...
+
+<hr>
+
 ## 2024-12:
 - capture the CBC article regarding 3rd party mail delivery
   - can this be interfaced to Socials ?
