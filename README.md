@@ -8,7 +8,9 @@
   - start on the Host ; then cautiously try local
     - confirm the current state via yetAnotherPR
       - at the host level
-    - only then, start thuroughly testing the use of the local versions 
+    - only then, start thuroughly testing the use of the local versions
+      - the purpose of these tests to to confirm my understanding is adequate.  It's a virtual certainty that the software functions adequately
+        - that being said, I should test with favorite exotic UniCode chars
 - capture the CBC article regarding 3rd party mail delivery
   - can this be interfaced to Socials ?
 - further proofs of the X3 theory are completely out of reach.
