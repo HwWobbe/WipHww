@@ -9,7 +9,7 @@
 
 ## 2024-12:
 - generate another PR
-  - start on the Host ; then try local
+  - start on the Host ; then cautiously try local
 - capture the CBC article regarding 3rd party mail delivery
   - can this be interfaced to Socials ?
 
