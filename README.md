@@ -3,7 +3,9 @@
 
 - Other sites ( may be Semi... or Private ):
   - DgH as a RagRepo
-  - https://rivesa.pbworks.com/n/dashboard?view=tasks#filter/creator_id=ce8d479aaf35f0afb0d19486467954f035c2ba58
+  - started adding links to 
+    - https://rivesa.pbworks.com/n/dashboard?view=tasks#filter/creator_id=ce8d479aaf35f0afb0d19486467954f035c2ba58
+    - as a possible controlPoint
   - https://www.producthunt.com/@hans_wobbe
   - https://oncely.com/collections/frontpage
 
