@@ -2,6 +2,7 @@
 ...
 
 - Other sites ( may be Semi... or Private ):
+  - DgH as a RagRepo
 
 <hr>
 
