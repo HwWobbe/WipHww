@@ -7,6 +7,7 @@
 - generate another PR
   - start on the Host ; then cautiously try local
     - confirm the current state via yetAnotherPR
+      - at the host level
 - capture the CBC article regarding 3rd party mail delivery
   - can this be interfaced to Socials ?
 - further proofs of the X3 theory are completely out of reach.
