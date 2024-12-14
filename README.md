@@ -6,6 +6,7 @@
         - LongerPages need scrolling
         - ShortPages increase NavigationNeeds
     - increase use of Projects
+      - confirm that items can nest under more than one Prtoject
 
 <hr>
 
