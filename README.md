@@ -2,6 +2,9 @@
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
   - deeper pages are possible via direct links and better PageDesigns
     - TransClusion(s) via PRs will help
+      - develop quidelines to CompareAndContrast
+        - LongerPages need scrolling
+        - ShortPages increase NavigationNeeds 
 
 <hr>
 
