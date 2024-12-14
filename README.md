@@ -8,6 +8,7 @@
     - increase use of Projects
       - confirm that items can nest under more than one Project
         - this can be viewed as a simple type of TransClusion
+- start planning the integration of AI
 
 <hr>
 
