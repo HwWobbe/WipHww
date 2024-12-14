@@ -10,6 +10,7 @@
         - this can be viewed as a simple type of TransClusion
 - start planning the integration of AI
   - nested entries would be a significant benefit
+    - snakeCaseAsk
 
  
 <hr>
