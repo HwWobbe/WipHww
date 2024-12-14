@@ -6,7 +6,8 @@
         - LongerPages need scrolling
         - ShortPages increase NavigationNeeds
     - increase use of Projects
-      - confirm that items can nest under more than one Prtoject
+      - confirm that items can nest under more than one Project
+        - this can be viewed as a simple type of TransClusion
 
 <hr>
 
