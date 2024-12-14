@@ -4,7 +4,8 @@
     - TransClusion(s) via PRs will help
       - develop quidelines to CompareAndContrast
         - LongerPages need scrolling
-        - ShortPages increase NavigationNeeds 
+        - ShortPages increase NavigationNeeds
+    - increase use og Projects
 
 <hr>
 
