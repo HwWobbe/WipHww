@@ -5,7 +5,7 @@
       - develop quidelines to CompareAndContrast
         - LongerPages need scrolling
         - ShortPages increase NavigationNeeds
-    - increase use og Projects
+    - increase use of Projects
 
 <hr>
 
