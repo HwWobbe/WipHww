@@ -11,6 +11,7 @@
 - start planning the integration of AI
   - nested entries would be a significant benefit
     - snakeCaseAsk
+      - try some quick tests since this could be a significant alteration
 - ( Remove many of the pages at this level into folders )
  
 <hr>
