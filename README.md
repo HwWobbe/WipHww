@@ -1,3 +1,6 @@
+## 2025-11:
+...
+
 ## 2025-12:
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
   - deeper pages are possible via direct links and better PageDesigns
