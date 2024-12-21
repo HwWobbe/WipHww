@@ -13,10 +13,7 @@
       - develop quidelines to CompareAndContrast
         - LongerPages need scrolling
         - ShortPages increase NavigationNeeds
-    - increase use of Projects
-      - confirm that items can nest under more than one Project
-        - this can be viewed as a simple type of TransClusion
-- start planning the integration of AI
+ - start planning the integration of AI
   - nested entries would be a significant benefit
     - snakeCaseAsk
       - try some quick tests since this could be a significant alteration
