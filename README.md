@@ -2,6 +2,9 @@
 ...
 
 ## 2025-12:
+- further proofs beyond 2024-12 of the X3 theory are completely out of reach.
+  - consider this a working proof for my current use cases
+
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
   - deeper pages are possible via direct links and better PageDesigns
     - TransClusion(s) via PRs will help
@@ -29,8 +32,6 @@
         - that being said, I should test with favorite exotic UniCode chars
 - capture the CBC article regarding 3rd party mail delivery
   - can this be interfaced to Socials ?
-- further proofs of the X3 theory are completely out of reach.
-  - consider this a working proof for my current use cases
 
 ## 2024-11:
 - try following Claude to MWS via https://github.com/TiddlyWiki/TiddlyWiki5/pull/7915
