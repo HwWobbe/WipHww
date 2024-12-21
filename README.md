@@ -1,11 +1,13 @@
 ## 2025-01:
 ...
 
+- [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
+
+
 ## 2025-12:
 - further proofs beyond 2024-12 of the X3 theory are completely out of reach.
   - consider this a working proof for my current use cases
 
-- [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
   - deeper pages are possible via direct links and better PageDesigns
     - TransClusion(s) via PRs will help
       - develop quidelines to CompareAndContrast
