@@ -4,7 +4,7 @@
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
 - OnTheList notes are needed before -01-02
   - address the wither Mws( Jr Ta )
-  - SqLite seems a promizing direction
+  - SqLite seems a promising direction
     - TA should be able to build a DB that links PostCodes, GeoCodes, and AliasHwString values
 
 
