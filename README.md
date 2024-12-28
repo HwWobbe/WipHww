@@ -2,10 +2,11 @@
 ...
 
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
+
+## 2025-01:
 - OnTheList notes are needed before -01-02
   - address the wither Mws( Jr Ta )
    - SqLite should be an integral part
-
 
 ## 2025-12:
 - further proofs beyond 2024-12 of the X3 theory are completely out of reach.
