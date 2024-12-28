@@ -4,6 +4,7 @@
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
 - OnTheList notes are needed before -01-02
   - address the wither Mws( Jr Ta )
+   - SqLite should be an integral part
 
 
 ## 2025-12:
