@@ -14,7 +14,7 @@
 
 ## 2025-...:
 - test 'Filter headings"
-- ...
+  - ... at least until the next shadingLimitBreak
 
 ## 2025-12:
 - further proofs beyond 2024-12 of the X3 theory are completely out of reach.
