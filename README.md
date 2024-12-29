@@ -1,7 +1,7 @@
 ## 2025-01:
 ...
 
-- AsksH (again) re: moving files into folders
+- AsksH (again) re: moving files into folders - reduce frustration
 
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
 
