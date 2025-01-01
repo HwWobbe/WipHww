@@ -5,7 +5,8 @@
   - these seem to have worked.
     - the original problem was due to missing system updates
       - final results are still indeterminant since the download/install runs are so long in duration, they have not yet completed in some 5 hours
-  - will test with live datra once the updates are installed
+  - will test with live data once the updates are installed
+-  file access achieved - now try for printouts
   
 - AsksH (again) re: moving files into folders - reduce frustration
 
