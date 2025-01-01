@@ -7,6 +7,7 @@
       - final results are still indeterminant since the download/install runs are so long in duration, they have not yet completed in some 5 hours
   - will test with live data once the updates are installed
 -  file access achieved - now try for printouts
+  -  if PASS: relocate this text
   
 - AsksH (again) re: moving files into folders - reduce frustration
 
