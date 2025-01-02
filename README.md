@@ -21,7 +21,7 @@
   - address the wither Mws( Jr Ta )
    - SqLite should be an integral part
 - -02: CraTsfa filed.
-  - -01-20: Followup by Hw
+  - -01-20: Followup by Hw - reinforce with a PR
 
 ## 2025-...:
 - test 'Filter headings"
