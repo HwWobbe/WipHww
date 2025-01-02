@@ -20,6 +20,7 @@
 - OnTheList notes are needed before -01-02
   - address the wither Mws( Jr Ta )
    - SqLite should be an integral part
+- -02: CraTsfa filed.  Followus on -01-20
 
 ## 2025-...:
 - test 'Filter headings"
