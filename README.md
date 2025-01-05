@@ -4,6 +4,7 @@
 - Felt mapping is seriously appeaaling in spite of its FreemIum satate
   - first $tage is tolerable
     - it may be a good idea to Fork this topic to another RePo
+  - https://twhwv2401.tiddlyhost.com#HansIsland
 - vmUpdates pre Qbook access
   - these seem to have worked.
     - the original problem was due to missing system updates
