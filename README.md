@@ -1,6 +1,8 @@
 ## 2025-01:
 ...
 
+- Felt mapping is seriously appeaaling in spite of its FreemIum satate
+  - first $tage is tolerable
 - vmUpdates pre Qbook access
   - these seem to have worked.
     - the original problem was due to missing system updates
@@ -11,8 +13,11 @@
     -  review the manual - for color option too.
       - resolved (as least for the moment) - review postManualReview
   -  if PASS: relocate this text as part of simplifying these files
-    -  AskH : can SQLite run in reserved highOrder memory 
-  
+
+<hr>
+
+- AsksH : can SQLite run in reserved highOrder memory
+  - likely problematic
 - AsksH (again) re: moving files into folders - reduce frustration
 
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
