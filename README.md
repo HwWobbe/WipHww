@@ -4,6 +4,7 @@
 - Felt mapping is seriously appealing in spite of its FreemIum satate
   - first $tage is tolerable
     - it may be a good idea to Fork this topic to another RePo
+  - test the ability to add small images
   - https://twhwv2401.tiddlyhost.com#HansIsland
 - vmUpdates pre Qbook access
   - these seem to have worked.
