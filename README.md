@@ -1,7 +1,7 @@
 ## 2025-01:
 ...
 
-- Felt mapping is seriously appeaaling in spite of its FreemIum satate
+- Felt mapping is seriously appealing in spite of its FreemIum satate
   - first $tage is tolerable
     - it may be a good idea to Fork this topic to another RePo
   - https://twhwv2401.tiddlyhost.com#HansIsland
