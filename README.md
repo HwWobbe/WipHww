@@ -15,7 +15,8 @@
   -  printer hardware problems seem to be interfering.
     -  review the manual - for color option too.
       - resolved (as least for the moment) - review postManualReview
-  -  if PASS: relocate this text as part of simplifying these files
+  -  if PASS: relocate this text as part of simplifying these file
+- review and update Tn items 
 
 <hr>
 
