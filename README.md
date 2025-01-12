@@ -5,8 +5,11 @@
 
 - [Felt](https://github.com/HwWobbe/WipHww/blob/main/2025/Felt)
 
-- AsksH : can SQLite run in reserved highOrder memory
-  - likely problematic
+- AsksH :
+  - can SQLite run in reserved highOrder memory
+    - likely problematic
+  - get quidance regarding Codespaces
+    - how to best start
 
 - find the $freemium schematic as a documentation-cacapability reference
   - explore CodeSpaces further
