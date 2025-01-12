@@ -17,6 +17,8 @@
 - can AnJ teach LzT to use Loom ?
   - discuss, then test, this
 
+- review the use of local synched files
+  - hwoTo: omit some from the sync
 - reView my shadingLogic assumptions
   - bear in mind that these become much less pertinent is local repois are used for edits
 
