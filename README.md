@@ -15,7 +15,7 @@
   - discuss, then test, this
 
 - reView my shadingLogic assumptions
-  - ...
+  - bear in mind that these become much less pertinent is local repois are used for edits
 
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
 
