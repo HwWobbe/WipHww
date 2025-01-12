@@ -1,14 +1,12 @@
 ## 2025-01:
 ...
 
-- [Felt](https://github.com/HwWobbe/WipHww/blob/main/2025/Felt)
-
 <hr>
+
+- [Felt](https://github.com/HwWobbe/WipHww/blob/main/2025/Felt)
 
 - AsksH : can SQLite run in reserved highOrder memory
   - likely problematic
-- AsksH (again) re: moving files into folders
-  - reduce frustrations
 
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
 
