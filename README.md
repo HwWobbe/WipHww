@@ -11,6 +11,9 @@
 - find the $freemium schematic as a documentation-cacapability reference
   - explore CodeSpaces further
 
+- can AnJ teach LzT to use Loom ?
+  - discuss, then test, this
+
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
 
 - 
