@@ -9,16 +9,6 @@
     - it may be a good idea to Fork this topic to another RePo
   - test the ability to add small images
   - https://twhwv2401.tiddlyhost.com#HansIsland
-- vmUpdates pre Qbook access
-  - these seem to have worked.
-    - the original problem was due to missing system updates
-      - final results are still indeterminant since the download/install runs are so long in duration, they have not yet completed in some 5 hours
-  - will test with live data once the updates are installed
--  file access achieved - now try for printouts
-  -  printer hardware problems seem to be interfering.
-    -  review the manual - for color option too.
-      - resolved (as least for the moment) - review postManualReview
-  -  if PASS: relocate this text as part of simplifying these file
 - review and update Tn items 
 
 <hr>
@@ -37,6 +27,18 @@
    - SqLite should be an integral part
 - -02: CraTsfa filed.
   - -01-20: Followup by Hw - reinforce with a PR
+
+- vmUpdates pre Qbook access
+  - these seem to have worked.
+    - the original problem was due to missing system updates
+      - final results are still indeterminant since the download/install runs are so long in duration, they have not yet completed in some 5 hours
+  - will test with live data once the updates are installed
+-  file access achieved - now try for printouts
+  -  printer hardware problems seem to be interfering.
+    -  review the manual - for color option too.
+      - resolved (as least for the moment) - review postManualReview
+  -  if PASS: relocate this text as part of simplifying these file
+
 
 ## 2025-...:
 - test 'Filter headings"
