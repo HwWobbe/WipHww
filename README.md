@@ -7,6 +7,10 @@
       - or there is a billable use
         - perhaps as an adjunct to CurbSide
     - it may be a good idea to Fork this topic to another RePo
+      - especially if the Volcanos data can be integrated
+        - architectures must recognize StrengthOfMaterials limitations
+          - this needs to be a quideRail for TwDev
+   
   - test the ability to add small images
   - https://twhwv2401.tiddlyhost.com#HansIsland
 - review and update Tn items 
