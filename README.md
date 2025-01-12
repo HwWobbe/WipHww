@@ -8,6 +8,8 @@
 - AsksH : can SQLite run in reserved highOrder memory
   - likely problematic
 
+- find the $freemium schematic as a documentation caliber reference
+
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
 
 - 
