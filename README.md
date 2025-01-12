@@ -14,6 +14,9 @@
 - find the $freemium schematic as a documentation-cacapability reference
   - explore CodeSpaces further
 
+- UniCode link(s) 
+  - sensible
+ 
 - can AnJ teach LzT to use Loom ?
   - discuss, then test, this
 
