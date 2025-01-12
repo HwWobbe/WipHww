@@ -1,8 +1,11 @@
 ## 2025-01:
 ...
 
-- Felt mapping is seriously appealing in spite of its FreemIum satate
-  - first $tage is tolerable
+- Felt mapping is seriously appealing in spite of its FreemIum state
+  - first $tage is tolerable @ $200/month - but only if it is used.
+    - stay with the Free version until someone else agrees to collaborate
+      - or there is a billable use
+        - perhaps as an adjunct to CurbSide
     - it may be a good idea to Fork this topic to another RePo
   - test the ability to add small images
   - https://twhwv2401.tiddlyhost.com#HansIsland
