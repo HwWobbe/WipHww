@@ -14,6 +14,9 @@
 - can AnJ teach LzT to use Loom ?
   - discuss, then test, this
 
+- reView my shadingLogic assumptions
+  - ...
+
 - [2025-12](https://github.com/HwWobbe/WipHww/blob/main/2025/2025-12)
 
 - 
