@@ -4,6 +4,7 @@
 <hr>
 
 - [Felt](https://github.com/HwWobbe/WipHww/blob/main/2025/Felt)
+  - freeTrial is lagging 
 
 - AsksH :
 - get quidance regarding Codespaces
