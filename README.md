@@ -7,6 +7,8 @@
   - freeTrial is lagging 
 
 - AsksH :
+  - need better organization
+
 - get quidance regarding Codespaces
     - how to best start
   - can SQLite run in reserved highOrder memory
