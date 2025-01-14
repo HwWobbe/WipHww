@@ -3,6 +3,8 @@
 
 <hr>
 
+- note: right Sidebar hides tools: Copilot , ...
+
 - [Felt](https://github.com/HwWobbe/WipHww/blob/main/2025/Felt)
   - freeTrial is lagging 
 
