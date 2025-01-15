@@ -20,6 +20,7 @@
     - how to best start
   - can SQLite run in reserved highOrder memory
     - likely problematic
+      - remove to a techFile
   
 - find the $freemium schematic as a documentation-cacapability reference
   - explore CodeSpaces further
