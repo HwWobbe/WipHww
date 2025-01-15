@@ -5,7 +5,8 @@
   - consider the significance of LsT surprizes
 
  - Boast appeal has increased as a result of a first vMeeting
-
+   -list best appeals
+   
 <hr>
 
 - note: right Sidebar hides tools: Copilot , ...
