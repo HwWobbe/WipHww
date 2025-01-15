@@ -2,7 +2,9 @@
 ... 
 
 - ensure preparations for the ethics discussion are beyond adequate.
- - consider the significance of LsT surprizes
+  - consider the significance of LsT surprizes
+
+ - Boast appeal has increased as a result of a first vMeeting
 
 <hr>
 
