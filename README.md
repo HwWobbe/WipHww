@@ -6,7 +6,7 @@
 - note: right Sidebar hides tools: Copilot , ...
 
 - [Felt](https://github.com/HwWobbe/WipHww/blob/main/2025/Felt)
-  - freeTrial is lagging 
+  - freeTrial is evaporating as it only has an duration of two weeks.
 
 - AsksH :
   - need better organization
