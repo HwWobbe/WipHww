@@ -7,10 +7,11 @@
 
 - [Felt](https://github.com/HwWobbe/WipHww/blob/main/2025/Felt)
   - freeTrial is evaporating as it only has an duration of two weeks.
-    - it will be necessary to Evaluat it on the basis of limited "free" features.
+    - it will be necessary to Evaluate it on the basis of limited "free" features.
 
 - AsksH :
   - need better organization for focused learning and extension
+    - initiate this for the current positional considerations of QrST
 
 - get quidance regarding Codespaces
     - how to best start
