@@ -5,7 +5,7 @@
   - consider the significance of LsT surprizes
 
  - Boast appeal has increased as a result of a first vMeeting
-   -list best appeals
+   - list best appeals
    
 <hr>
 
