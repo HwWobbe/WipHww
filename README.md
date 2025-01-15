@@ -1,5 +1,7 @@
 ## 2025-01:
-...
+... 
+
+- ensure preparations for the ethics discussion are beyond adequate.
 
 <hr>
 
