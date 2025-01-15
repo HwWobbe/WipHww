@@ -2,7 +2,7 @@
 ... 
 
 - ensure preparations for the ethics discussion are beyond adequate.
-  - consider about LsT sueprizes and solisiter/client matters
+ - consider the significance of LsT surprizes
 
 <hr>
 
