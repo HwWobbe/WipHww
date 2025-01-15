@@ -10,7 +10,7 @@
     - it will be necessary to Evaluat it on the basis of limited "free" features.
 
 - AsksH :
-  - need better organization
+  - need better organization for focused learning and extension
 
 - get quidance regarding Codespaces
     - how to best start
