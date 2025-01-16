@@ -1,6 +1,8 @@
 ## 2025-01:
 ... 
 
+- https://claude.ai/chat/2c1e6b4e-bab2-476d-abca-16817e3e9aaa
+  - SevenPennies
 - ensure preparations for the ethics discussion are beyond adequate.
   - consider the significance of LsT surprizes
 
