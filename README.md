@@ -4,6 +4,8 @@
 - https://claude.ai/chat/2c1e6b4e-bab2-476d-abca-16817e3e9aaa - SevenPennies - outer ring colors
 - ensure preparations for the ethics discussion are beyond adequate.
   - consider the significance of LsT surprizes
+- when will AiAndMe be ready to assume the lead in craft this material with subtelty
+  - what will the Readiness indications be?
 
  - Boast appeal has increased as a result of a first vMeeting
    - list best appeals
