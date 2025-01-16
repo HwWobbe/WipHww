@@ -8,7 +8,11 @@
  - Boast appeal has increased as a result of a first vMeeting
    - list best appeals
      - defence of Challenges
+       - claims threshold could increase 10 10% of revenues ( with a bit of extra effort )
+         - ask about theur view of a reasonabl limit
        - integrated tracking ( perhaps even for nonClaimant items )
+       - knowledgable current Challenge trigger points advice
+       - quarterly reviews
    
 <hr>
 
