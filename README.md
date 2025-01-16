@@ -7,6 +7,8 @@
 
  - Boast appeal has increased as a result of a first vMeeting
    - list best appeals
+     - defence of Challenges
+       - integrated tracking ( perhaps even for nonClaimant items )
    
 <hr>
 
