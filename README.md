@@ -9,7 +9,7 @@
    - list best appeals
      - defence of Challenges
        - claims threshold could increase 10 10% of revenues ( with a bit of extra effort )
-         - ask about theur view of a reasonabl limit
+         - ask about theur view of reasonable limits
        - integrated tracking ( perhaps even for nonClaimant items )
        - knowledgable current Challenge trigger points advice
        - quarterly reviews
