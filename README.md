@@ -6,6 +6,7 @@
   - consider the significance of LsT surprizes
 - when will AiAndMe be ready to assume the lead in craft this material with subtelty
   - what will the Readiness indications be?
+    - AsksH for guidance
 
  - Boast appeal has increased as a result of a first vMeeting
    - list best appeals
