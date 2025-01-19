@@ -1,7 +1,10 @@
 ## 2025-01:
 ... 
 
-- https://claude.ai/chat/2c1e6b4e-bab2-476d-abca-16817e3e9aaa - SevenPennies - outer ring colors
+- https://claude.ai/chat/2c1e6b4e-bab2-476d-abca-16817e3e9aaa - SevenPennies
+  - add outer ring colors showing 3+3
+  - overlay the hex effect
+
 - ensure preparations for the ethics discussion are beyond adequate.
   - consider the significance of LsT surprizes
 - when will AiAndMe be ready to assume the lead in craft this material with subtelty
