@@ -7,6 +7,7 @@
       - TechDebt is now a common Topic.  Indulge this to the extent that newKnowledge is important and Pleasurable
         - enhance BotUse including IfTtt
     - successive SodLinks are being crafted
+      - TwH > GitH > DgH ... (each of which has BoTools(BestOfTools) benefts or BestOfEnv(Environment)
   
 - https://claude.ai/chat/2c1e6b4e-bab2-476d-abca-16817e3e9aaa - SevenPennies
   - add outer ring colors showing 3+3
