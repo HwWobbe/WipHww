@@ -2,7 +2,11 @@
 ... 
 
 - ...
-  - successive SodLinks are being crafted
+  - Goals/Maintenance balance ??
+    - AuInt(Augmented) vs. ArInt(Artificial)
+      - TechDebt is now a common Topic.  Indulge this to the extent that newKnowledge is important and Pleasurable
+        - enhance BotUse including IfTtt
+    - successive SodLinks are being crafted
   
 - https://claude.ai/chat/2c1e6b4e-bab2-476d-abca-16817e3e9aaa - SevenPennies
   - add outer ring colors showing 3+3
