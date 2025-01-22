@@ -1,6 +1,9 @@
 ## 2025-01:
 ... 
 
+- ...
+  - successive SodLinks are being crafted
+  
 - https://claude.ai/chat/2c1e6b4e-bab2-476d-abca-16817e3e9aaa - SevenPennies
   - add outer ring colors showing 3+3
   - overlay the hex effect
