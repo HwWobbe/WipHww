@@ -8,8 +8,6 @@
 <hr>
 
 ## 2025-01:
-... 
-
 - ...
   - Goals/Maintenance balance ??
     - AuInt(Augmented) vs. ArInt(Artificial)
