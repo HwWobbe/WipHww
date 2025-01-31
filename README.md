@@ -16,7 +16,7 @@
       - TechDebt is now a common Topic.  Indulge this to the extent that newKnowledge is important and Pleasurable
         - enhance BotUse including IfTtt
           - enhance basic skills in a way that builds EdD tutorials
-           - https://www.youtube.com/watch?v=tx5OapbK-8A
+            - https://www.youtube.com/watch?v=tx5OapbK-8A
     - successive SodLinks are being crafted
       - TwH > GitH > DgH ... (each of which has BoTools(BestOfTools) benefts or BestOfEnv(Environment)
         - DgH ; TweetH ; ...
