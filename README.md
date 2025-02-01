@@ -6,6 +6,7 @@
   - extend the use of smaller files
 - reView repoFolder structures to optimnize displaySpace
   - this should not be a priority since the display can be toggled
+- check DropBox
   
 <hr>
 
