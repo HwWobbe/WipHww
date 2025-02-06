@@ -4,6 +4,8 @@
 - reView PRs
   - deepen folder nesting to increase the area available for source
   - extend the use of smaller files
+    - this should not be a problem given common usage practices
+    - review the qStartNotes
 - reView repoFolder structures to optimnize displaySpace
   - this should not be a priority since the display can be toggled
 - check DropBox
