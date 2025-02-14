@@ -3,7 +3,7 @@
 
 - reView PRs
   - deepen folder nesting to increase the area available for source
-    - progress is needed
+    - progress is stalled but needed
   - extend the use of smaller files
     - this should not be a problem given common usage practices
     - review the qStartNotes
