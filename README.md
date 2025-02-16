@@ -3,7 +3,8 @@
 
 - reView PRs
   - deepen folder nesting to increase the area available for source
-    - progress is stalled but needed
+    - progress is stalled but needed, so what to do ??
+      - list competing activities that affect the priority of this
   - extend the use of smaller files
     - this should not be a problem given common usage practices
     - review the qStartNotes
