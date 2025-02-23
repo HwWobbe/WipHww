@@ -7,6 +7,7 @@
       - list competing activities that affect the priority of this
         - one issue may be that I predominantly plan for T and neglect R, Q, S.
           - perhaps the new enconding of week08 will help?
+        - invest more time in AiTechs
   - extend the use of smaller files
     - this should not be a problem given common usage practices
     - review the qStartNotes
