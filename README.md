@@ -12,6 +12,8 @@
     - this should not be a problem given common usage practices
     - review the qStartNotes
       - ensure steady progress
+* start converting '-' to '*' markup
+  * delay a bit as a minor testing exercise
 - reView repoFolder structures to optimnize displaySpace
   - this should not be a priority since the display can be toggled
 - check DropBox
