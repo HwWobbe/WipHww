@@ -4,6 +4,7 @@
 ...
 
 - this should be a negative proof of the shading assumption
+  - which may has failed due to latency
 - externalLinks may be part of WorkFlows
   - ...
 
