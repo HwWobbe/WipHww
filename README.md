@@ -3,6 +3,9 @@
 ## 2025-03:
 ...
 
+- resuming intense deadline work resulting from GfH assessments
+  - 0324: Value$
+  - mmdd: 3 QUs
 - this should be a negative proof of the shading assumption
   - which initially may has failed due to latency
 - externalLinks may be part of WorkFlows
