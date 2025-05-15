@@ -8,6 +8,8 @@
     - Cred@GI:H... SU:...
         - login issue(s)
 - GrimH
+  - GitGuide
+  - CharTalk for EdD2025
 - note: Overview reset
 - GIST as an alternative
 - Budget reviews:
