@@ -3,7 +3,7 @@
 ## 2025-05:
 ...
 
-- testing Netlify
+- testing Netlify ; usedBy TwJr
   - SuperMemo
     - Cred@GI:H... SU:...
 - GIST as an alternative
