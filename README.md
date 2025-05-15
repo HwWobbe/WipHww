@@ -5,7 +5,7 @@
 
 - testing Netlify
   - SuperMemo
-    - Cred@GI:H...
+    - Cred@GI:H... SU:...
 - GIST as an alternative
 
 ## 2025-03:
