@@ -7,6 +7,10 @@
   - SuperMemo
     - Cred@GI:H... SU:...
 - GIST as an alternative
+- Budget reviews:
+  - ...
+- reconsider the cost of FELT
+
 
 ## 2025-03:
 ...
