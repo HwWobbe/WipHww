@@ -7,13 +7,14 @@
   - SuperMemo ( MediaWiki ) ; Contrribute to its purpose on Common Topics
     - Cred@GI:H... SU:...
         - login issue(s)
+- GrimH
 - note: Overview reset
 - GIST as an alternative
 - Budget reviews:
   - ...
+  - reconsider the cost of FELT
 - https://symbl.cc/en/search/?q=tail
   - ...
-- reconsider the cost of FELT
 
 
 ## 2025-03:
