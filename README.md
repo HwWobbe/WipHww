@@ -4,8 +4,9 @@
 ...
 
 - testing Netlify ; usedBy TwJr
-  - SuperMemo
+  - SuperMemo ( MediaWiki ) ; Contrribute to its purpose on Common Topics
     - Cred@GI:H... SU:...
+- 
 - GIST as an alternative
 - Budget reviews:
   - ...
