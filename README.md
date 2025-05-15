@@ -6,7 +6,7 @@
 - testing Netlify
   - SuperMemo
     - Cred@GI:H...
-
+- GIST as an alternative
 
 ## 2025-03:
 ...
@@ -17,7 +17,7 @@
 - this should be a negative proof of the shading assumption
   - which initially may has failed due to latency
 - externalLinks may be part of WorkFlows
-  - try the new markjup
+  - try the new markup
   - ...
 
 
