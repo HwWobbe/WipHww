@@ -6,6 +6,7 @@
 - testing Netlify ; usedBy TwJr
   - SuperMemo ( MediaWiki ) ; Contrribute to its purpose on Common Topics
     - Cred@GI:H... SU:...
+        - login issue(s)
 - note: Overview reset
 - GIST as an alternative
 - Budget reviews:
