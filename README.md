@@ -4,7 +4,8 @@
 ...
 
 - testing Netlify
-- ...
+  - SuperMemo
+    - Cred@GI:H...
 
 
 ## 2025-03:
