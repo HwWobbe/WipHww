@@ -9,7 +9,7 @@
 ...
 
 - testing Netlify ; usedBy TwJr
-  - SuperMemo ( MediaWiki ) ; Contrribute to its purpose on Common Topics
+  - SuperMemo ( MediaWiki ) ; Contribute to its purpose on Common Topics
     - Cred@GI:H... SU:...
         - login issue(s)
 - GrimH
