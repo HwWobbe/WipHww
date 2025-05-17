@@ -13,7 +13,8 @@
 ...
 
 - use AiBots to improve learning
-  - following the suggested Tools owrkFlows
+  - follow the suggested Tools workFlows
+    - ...
 - testing Netlify ; usedBy TwJr
   - SuperMemo ( MediaWiki ) ; Contribute to its purpose on Common Topics
     - Cred@GI:H... SU:...
