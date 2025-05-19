@@ -16,6 +16,11 @@
   - follow the suggested Tools workFlows
     - ...
 - testing Netlify ; usedBy TwJr
+  - these integrations may require careful testing
+    - Response was to check GitHuub for the  spuuorting files
+      - ...
+  - consider stareting from scratch with a Grid request.
+    - this mnight be an effective desunAbility test 
   - SuperMemo ( MediaWiki ) ; Contribute to its purpose on Common Topics
     - Cred@GI:H... SU:...
         - login issue(s)
