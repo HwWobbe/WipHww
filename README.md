@@ -19,6 +19,7 @@
   - SuperMemo ( MediaWiki ) ; Contribute to its purpose on Common Topics
     - Cred@GI:H... SU:...
         - login issue(s)
+          - being invetsigated as CREDs concerns
 - GrimH
   - GitGuide
   - CharTalk for EdD2025
