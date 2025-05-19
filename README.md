@@ -20,6 +20,9 @@
     - Cred@GI:H... SU:...
         - login issue(s)
           - being invetsigated as CREDs concerns
+- automate microContent migration
+  - coding will take l,onger - less so with BotAid
+    - the process will be more reliable and recognized at a higher level - assuming effective design  
 - GrimH
   - GitGuide
   - CharTalk for EdD2025
