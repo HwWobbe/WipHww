@@ -17,7 +17,7 @@
 ...
 
 - build a localStore DataDictionary
-  - another newGuy task?
+  - another newGuy task? - see the current list
     -  ...
 - followUp with Lz re
       - Ternet access
