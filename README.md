@@ -12,6 +12,8 @@
 ## 2025-05:
 ...
 
+- changes within this WipHwo repo should autoTrigger a reDeploy to NetliFy
+  - test this
 - use AiBots to improve learning
   - follow the suggested Tools workFlows
   - strive fir an integrated workflow that is menu driven
