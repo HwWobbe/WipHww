@@ -16,6 +16,9 @@
 ## 2025-05:
 ...
 
+- build a localStore DataDictionary
+  - another newGuy task?
+    -  ...
 - followUp with Lz re
       - Ternet access
       - hlh session prparations ( jkw mikeS ) - written planning via techTechStackN
