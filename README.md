@@ -1,5 +1,9 @@
    - deeper indentation finally made it work.
-    - this now allows Cascades
+     - but the apparent fix does not seem to have persisted
+       - investigate
+         - Ask
+         - Ponder
+     - this now allows Cascades
       - will links work in these blocks
         - can HTML anchors be used?
      - current FAIL (again)
