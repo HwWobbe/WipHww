@@ -12,6 +12,9 @@
 ## 2025-05:
 ...
 
+- followUp with Lz re
+      - Ternet access
+      - hlh session prparations ( jkw mikeS ) - written planning via techTechStackN
 - changes within this WipHwo repo should autoTrigger a reDeploy to NetliFy
   - test this
 - use AiBots to improve learning
