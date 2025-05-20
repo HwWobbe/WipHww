@@ -14,7 +14,7 @@
 
 - use AiBots to improve learning
   - follow the suggested Tools workFlows
-    - ...
+  - strive fir an integrated workflow that is menu driven
 - testing Netlify ; usedBy TwJr
   - these integrations may require careful testing
     - Response was to check GitHuub for the  spuuorting files
