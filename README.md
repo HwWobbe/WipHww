@@ -11,6 +11,9 @@
 
 ...
 
+- Ask about a .move command in .git
+
+
 <hr>
 
 ## 2025-05:
