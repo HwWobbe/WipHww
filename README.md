@@ -3,11 +3,11 @@
        - investigate
          - Ask
          - Ponder
-     - this now allows Cascades
+     - this allowed Cascades
       - will links work in these blocks
         - can HTML anchors be used?
      - current FAIL (again)
-      - ...
+      - but 2 files still have examples that WORK
 
 ...
 
