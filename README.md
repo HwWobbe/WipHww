@@ -8,6 +8,7 @@
         - can HTML anchors be used?
      - further testing ...
        - in small increments
+         - shows continuing progress
      - current FAIL (again)
       - but 2 files still have examples that WORK
 
