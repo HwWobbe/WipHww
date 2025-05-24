@@ -9,6 +9,7 @@
      - further testing ...
        - in small increments
          - shows continuing progress
+           - the depth of these indents may be an indication of my comfort level with this particular methodology
      - current FAIL (again)
       - but 2 files still have examples that WORK
 
