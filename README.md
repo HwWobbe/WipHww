@@ -6,7 +6,8 @@
      - this allowed Cascades
       - will links work in these blocks
         - can HTML anchors be used?
-     - firther testing ... 
+     - further testing ...
+       - in small increments
      - current FAIL (again)
       - but 2 files still have examples that WORK
 
