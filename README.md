@@ -1,3 +1,5 @@
+
+ - but 2 files still have examples that WORK
    - deeper indentation finally made it work.
     - this now allows Cascades
       - will links work in these blocks
@@ -7,23 +9,6 @@
        - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
          - likely due to active CSS
            - try "inspect"
-
-   
-   - deeper indentation finally made it work.
-     - but the apparent fix does not seem to have persisted
-       - investigate
-         - Ask
-         - Ponder
-     - this allowed Cascades
-      - will links work in these blocks
-        - can HTML anchors be used?
-     - further testing ...
-       - in small increments
-         - shows continuing progress
-           - the depth of these indents may be an indication of my comfort level with this particular methodology
-     - current FAIL (again)
-      - but 2 files still have examples that WORK
-
 ...
 
 - Ask about a .move command in .git
