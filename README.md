@@ -5,16 +5,16 @@
 </pre>
 
 - the preceding works, but not quite as suggested
-  - but 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, nut may have been damaged
-    - deeper indentation finally made it work.
-    - this now allows Cascades
-      - will links work in these blocks
-        - can HTML anchors be used?
-   - these Comments should be a part of my quickLinks area(s)
-     - confirm headings cannot be added, like this:
-       - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
-         - likely due to active CSS
-           - try "inspect"
+- 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, nut may have been damaged
+  - deeper indentation finally made it work.
+  - this now allows Cascades
+    - will links work in these blocks
+      - can HTML anchors be used?
+  - these Comments should be a part of my quickLinks area(s)
+    - confirm headings cannot be added, like this:
+      - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
+        - likely due to active CSS
+          - try "inspect"
 ...
 
 - Ask about a .move command in .git
