@@ -5,6 +5,7 @@
 </pre>
 
 - the preceding works, but not quite as suggested
+- this is quite unlikely to support imbedded links, since it is intended to me a documentation tool
 - 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, nut may have been damaged
   - deeper indentation finally made it work.
   - this now allows Cascades
