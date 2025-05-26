@@ -4,8 +4,9 @@
 <button onclick="copyToClipboard('cloneCmd')">Copy</button>
 </pre>
 
- - but 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, nut may have been damaged
-   - deeper indentation finally made it work.
+- the preceding works, but not quite as suggested
+  - but 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, nut may have been damaged
+    - deeper indentation finally made it work.
     - this now allows Cascades
       - will links work in these blocks
         - can HTML anchors be used?
