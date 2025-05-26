@@ -1,6 +1,15 @@
 
+<pre>
+<code id="cloneCmd">git clone https://github.com/your-repo.git</code>
+<button onclick="copyToClipboard('cloneCmd')">Copy</button>
+</pre>
 
-<pre> ```bash git clone https://github.com/your-repo.git ``` </pre>
+<script>
+function copyToClipboard(id) {
+  const el = document.getElementById(id);
+  navigator.clipboard.writeText(el.textContent);
+}
+</script>
 
 
  - but 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, nut may have been damaged
