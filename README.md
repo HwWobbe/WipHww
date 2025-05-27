@@ -31,6 +31,7 @@
     - will none-the-less impact Name conventions since it does have Unicode support > InformaritionDensity
 - deploy from GitHub to NetlifyH is incredibliy 
   - craft a working prototype under GrimH ; then refine it
+    - Push should auto deploy
 - crafting a localGitRepo
   - ...
 - GhF(ire)b(ase)H...
