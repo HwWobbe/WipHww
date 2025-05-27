@@ -4,10 +4,6 @@
 <button onclick="copyToClipboard('cloneCmd')">Copy</button>
 </pre>
 
-- TextBlaze works @( diigo/outliners ; here too )
-  - powerful !  - sadly limited functionality via Samsung with Chrome.
-    - will none-the-less impact Name conventions since it does have Unicode support > InformaritionDensity
-- deploy from GitHub to NetlifyH is incredibliy 
 - the preceding works, but not quite as suggested
 - this is quite unlikely to support imbedded links, since it is intended to me a documentation tool
 - 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, nut may have been damaged
@@ -30,6 +26,11 @@
 ## 2025-05:
 ...
 
+- TextBlaze works @( diigo/outliners ; here too )
+  - powerful !  - sadly limited functionality via Samsung with Chrome.
+    - will none-the-less impact Name conventions since it does have Unicode support > InformaritionDensity
+- deploy from GitHub to NetlifyH is incredibliy 
+  - craft a working prototype under GrimH ; then refine it
 - crafting a localGitRepo
   - ...
 - GhF(ire)b(ase)H...
