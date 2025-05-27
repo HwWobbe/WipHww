@@ -29,7 +29,7 @@
 - TextBlaze works @( diigo/outliners ; here too )
   - powerful !  - sadly limited functionality via Samsung with Chrome.
     - will none-the-less impact Name conventions since it does have Unicode support > InformaritionDensity
-- deploy from GitHub to NetlifyH is incredibliy 
+- deploy from GitHub to NetlifyH is incredibliy productive
   - craft a working prototype under GrimH ; then refine it
     - Push should auto deploy
 - crafting a localGitRepo
