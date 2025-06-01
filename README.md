@@ -41,6 +41,10 @@
   - ...
 - GhF(ire)b(ase)H...
    - ...
+- followUp with Lz re
+      - Ternet access
+        - Gjw: payment:
+      - hlh session prparations ( jkw mikeS ) - written planning via techTechStackN
 
 <hr>
 
@@ -50,9 +54,6 @@
 - build a localStore DataDictionary
   - another newGuy task? - see the current list
     -  ...
-- followUp with Lz re
-      - Ternet access
-      - hlh session prparations ( jkw mikeS ) - written planning via techTechStackN
 - changes within this WipHwo repo should autoTrigger a reDeploy to NetliFy
   - test this
 - use AiBots to improve learning
