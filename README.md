@@ -34,11 +34,6 @@
 - -05-2?: Ask about a .move command in .git
   - ...
 
-<hr>
-
-## 2025-05:
-...
-
 - deploy from GitHub to NetlifyH is incredibliy productive
   - craft a working prototype under GrimH ; then refine it
     - Push should auto deploy
@@ -46,6 +41,12 @@
   - ...
 - GhF(ire)b(ase)H...
    - ...
+
+<hr>
+
+## 2025-05:
+...
+
 - build a localStore DataDictionary
   - another newGuy task? - see the current list
     -  ...
