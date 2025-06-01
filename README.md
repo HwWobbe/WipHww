@@ -26,6 +26,8 @@
 ## 2025-06:
 ...
 
+- 01: month transitions are effective Priority reviews
+- 
 
 <hr>
 
