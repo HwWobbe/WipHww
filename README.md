@@ -26,6 +26,7 @@
 
 - 01: month transitions are effective Priority reviews
   - use these to quide the TtTmo updates
+    - strive for update frequency milestones
 
 - TextBlaze works @( diigo/outliners ; here too )
   - powerful !  - sadly limited functionality via Samsung with Chrome.
