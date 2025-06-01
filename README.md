@@ -27,6 +27,10 @@
 - 01: month transitions are effective Priority reviews
   - use these to quide the TtTmo updates
 
+- TextBlaze works @( diigo/outliners ; here too )
+  - powerful !  - sadly limited functionality via Samsung with Chrome.
+    - will none-the-less impact Name conventions since it does have Unicode support > InformaritionDensity
+
 - -05-2?: Ask about a .move command in .git
   - ...
 
@@ -35,9 +39,6 @@
 ## 2025-05:
 ...
 
-- TextBlaze works @( diigo/outliners ; here too )
-  - powerful !  - sadly limited functionality via Samsung with Chrome.
-    - will none-the-less impact Name conventions since it does have Unicode support > InformaritionDensity
 - deploy from GitHub to NetlifyH is incredibliy productive
   - craft a working prototype under GrimH ; then refine it
     - Push should auto deploy
