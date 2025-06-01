@@ -42,8 +42,8 @@
 - GhF(ire)b(ase)H...
    - ...
 - followUp with Lz re
-      - Ternet access
-        - Gjw: payment:
+  - Ternet access
+    - Gjw: payment:
       - hlh session prparations ( jkw mikeS ) - written planning via techTechStackN
 
 <hr>
