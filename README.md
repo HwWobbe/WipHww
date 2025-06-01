@@ -27,7 +27,7 @@
 ...
 
 - 01: month transitions are effective Priority reviews
-- 
+  - use these to quide the TtTmo updates
 
 <hr>
 
