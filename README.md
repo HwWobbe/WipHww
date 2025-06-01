@@ -18,8 +18,6 @@
           - try "inspect"
 ...
 
-- Ask about a .move command in .git
-  - ...
 
 <hr>
 
@@ -28,6 +26,9 @@
 
 - 01: month transitions are effective Priority reviews
   - use these to quide the TtTmo updates
+
+- -05-2?: Ask about a .move command in .git
+  - ...
 
 <hr>
 
