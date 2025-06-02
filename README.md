@@ -25,7 +25,8 @@
 ## 2025-06:
 ...
 
-- 01: month transitions are effective Priority reviews
+-02: ...
+-01: month transitions are effective Priority reviews
   - use these to quide the TtTmo updates
     - strive for update frequency milestones
       - and progress bar effects
