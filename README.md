@@ -5,6 +5,7 @@
 </pre>
 
 - the preceding copyBlock works, but not quite as suggested
+  - try making a copy of it lower in this file
   - this is quite unlikely to support imbedded links, since it is intended to be a documentation tool
 - 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, but may have been damaged
   - deeper indentation finally made it work.
