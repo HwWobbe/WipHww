@@ -54,6 +54,13 @@
 
 <hr>
 
+
+<pre>
+<code id="cloneCmd">git clone https://github.com/your-repo.git</code>
+<button onclick="copyToClipboard('cloneCmd')">Copy</button>
+</pre>
+
+
 ## 2025-05:
 ...
 
