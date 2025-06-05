@@ -1,13 +1,7 @@
 
-<pre>
-<code id="cloneCmd">git clone https://github.com/your-repo.git</code>
-<button onclick="copyToClipboard('cloneCmd')">Copy</button>
-</pre>
-
-- the preceding copyBlock works, but not quite as suggested
-  - try making a copy of it lower in this file
+- the preceding copyBlock works, but ...
   - this is quite unlikely to support imbedded links, since it is intended to be a documentation tool
-- 2 files still have examples that WORK and a mid (not top ) placement was also found to be working, but may have been damaged
+- some files still have examples that WORK and at a mid (not top ) placement was also found to be working, but may have been damaged
   - deeper indentation finally made it work.
   - this now allows Cascades
     - will links work in these blocks
