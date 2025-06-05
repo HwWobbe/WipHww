@@ -58,7 +58,7 @@
 <pre>
 <code id="cloneCmd">git clone https://github.com/your-repo.git</code>
 <button onclick="copyToClipboard('cloneCmd')">Copy</button>
-- confirm this can be edited
+- confirmed: this can be edited
 </pre>
 
 
