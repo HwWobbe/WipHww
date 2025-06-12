@@ -65,7 +65,7 @@
 
 - build a localStore DataDictionary
   - another newGuy task? - see the current list
-    -  ...
+    -  Eric has engaged at least as of 0612
 - changes within this WipHwo repo should autoTrigger a reDeploy to NetliFy
   - test this
 - use AiBots to improve learning
