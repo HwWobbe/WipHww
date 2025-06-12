@@ -13,6 +13,10 @@
           - try "inspect"
 ...
 
+<hr>
+
+FAIL:
+
 git clone https://github.com/your-repo.git
 Copy
 - confirmed: this can be edited
