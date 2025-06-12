@@ -22,6 +22,8 @@ Copy
 - confirmed: this can be edited
   - review HTML comments / GrimH 
 
+- this copy&paste showed that FAILs persist
+
 <hr>
 
 ## 2025-06:
