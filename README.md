@@ -13,6 +13,10 @@
           - try "inspect"
 ...
 
+git clone https://github.com/your-repo.git
+Copy
+- confirmed: this can be edited
+  - review HTML comments / GrimH 
 
 <hr>
 
