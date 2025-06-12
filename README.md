@@ -37,6 +37,8 @@
 - deploy from GitHub to NetlifyH is incredibliy productive
   - craft a working prototype under GrimH ; then refine it
     - Push should auto deploy
+      - an initial focus on the the us:
+        - HTML forr DgH may help, then *.MD(s) or GISTs
 - crafting a localGitRepo
   - ...
 - GhF(ire)b(ase)H...
