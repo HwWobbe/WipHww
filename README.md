@@ -6,7 +6,6 @@
   - this now allows Cascades
     - will links work in these blocks
       - can HTML anchors be used
-  - review HTML comments / GrimH 
   - these Comments should be a part of my quickLinks area(s)
     - confirm headings cannot be added, like this:
       - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
@@ -56,6 +55,8 @@
 <code id="cloneCmd">git clone https://github.com/your-repo.git</code>
 <button onclick="copyToClipboard('cloneCmd')">Copy</button>
 - confirmed: this can be edited
+  - review HTML comments / GrimH 
+
 </pre>
 
 
