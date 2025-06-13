@@ -1,4 +1,6 @@
 
+- .we ?? textBlaze /?
+- ... 
   - these Comments should be a part of my quickLinks area(s)
     - confirm headings cannot be added, like this:
       - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
