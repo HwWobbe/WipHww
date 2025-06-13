@@ -1,6 +1,4 @@
 
-- previous copyBlock worked, but ...
-  - these are quite unlikely to support imbedded links, since it is intended to be a documentation tool
 - some instances still have examples that WORK and at a mid (not top ) placement was also found to be working, but may have been damaged
   - deeper indentation finally made it work.
   - this now allows Cascades
@@ -12,6 +10,10 @@
         - likely due to active CSS
           - try "inspect"
 ...
+
+- previous copyBlock worked, but ...
+  - these are quite unlikely to support imbedded links, since it is intended to be a documentation tool
+
 
 <hr>
 
