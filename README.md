@@ -1,9 +1,4 @@
 
-- some instances still have examples that WORK and at a mid (not top ) placement was also found to be working, but may have been damaged
-  - deeper indentation finally made it work.
-  - this now allows Cascades
-    - will links work in these blocks
-      - can HTML anchors be used
   - these Comments should be a part of my quickLinks area(s)
     - confirm headings cannot be added, like this:
       - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
@@ -13,6 +8,11 @@
 
 - previous copyBlock worked, but ...
   - these are quite unlikely to support imbedded links, since it is intended to be a documentation tool
+- some instances still have examples that WORK and at a mid (not top) placement was also found to be working, but may have been damaged
+  - deeper indentation finally made it work.
+  - this now allows Cascades
+    - will links work in these blocks
+      - can HTML anchors be used
 
 
 <hr>
