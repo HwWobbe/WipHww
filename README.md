@@ -1,6 +1,5 @@
 
-- .we ?? textBlaze /?
-  - or TextBlaze ( or another alias may emerge ) - 
+- .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) - 
 - ... 
   - these Comments should be a part of my quickLinks area(s)
     - confirm headings cannot be added, like this:
