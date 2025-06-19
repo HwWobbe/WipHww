@@ -74,44 +74,6 @@ Copy
 </pre>
 
 
-## 2025-05:
-...
-
-- build a localStore DataDictionary
-  - another newGuy task? - see the current list
-    -  Eric has engaged at least as of 0612
-- changes within this WipHwo repo should autoTrigger a reDeploy to NetliFy
-  - test this
-- use AiBots to improve learning
-  - follow the suggested Tools workFlows
-  - strive fir an integrated workflow that is menu driven
-- testing Netlify ; usedBy TwJr
-  - these integrations may require careful testing
-    - Response was to check GitHuub for the  spuuorting files
-      - ...
-  - ...
-    - ...
-  - consider stareting from scratch with a Grid request.
-    - this mnight be an effective desunAbility test 
-  - SuperMemo ( MediaWiki ) ; Contribute to its purpose on Common Topics
-    - Cred@GI:H... SU:...
-        - login issue(s)
-          - being invetsigated as CREDs concerns
-- automate microContent migration
-  - coding will take l,onger - less so with BotAid
-    - the process will be more reliable and recognized at a higher level - assuming effective design  
-- GrimH
-  - GitGuide
-  - CharTalk for EdD2025
-- note: Overview reset
-- GIST as an alternative
-- Budget reviews:
-  - ...
-  - reconsider the cost of FELT
-- https://symbl.cc/en/search/?q=tail
-  - ...
-
-
 ## 2025-03:
 ...
 
