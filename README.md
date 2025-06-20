@@ -6,13 +6,10 @@
   -   *.tb Teacher YourAg YourAggressiveTeacher 
 - .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
 
-
-  - 	* Text Blaze Dashboard
-	* Text Blaze | Working with Forms
-	* .do ?? inconsistently triggered /?
+  - * Text Blaze Dashboard
+  - * .do ?? inconsistently triggered /?
 
 https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
-
 
 - ... 
   - these Comments should be a part of my quickLinks area(s)
