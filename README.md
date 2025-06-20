@@ -1,4 +1,6 @@
 
+- GrimH may provide better IndexH maintenance
+  - ...
 - .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) - 
 - ... 
   - these Comments should be a part of my quickLinks area(s)
