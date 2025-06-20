@@ -3,7 +3,17 @@
   - evaluate its interfaces to GitHub too
   - other AIs:
     - Claude - ...
-- .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) - 
+- .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
+
+
+  - 	* Text Blaze Dashboard
+	* Text Blaze | Working with Forms
+	* .tb Teacher YourAg YourAggressiveTeacher 
+	* .do ?? inconsistently triggered /?
+
+https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
+
+
 - ... 
   - these Comments should be a part of my quickLinks area(s)
     - confirm headings cannot be added, like this:
