@@ -1,7 +1,8 @@
 
 - GrimH may provide better IndexH maintenance
   - evaluate its interfaces to GitHub too
-  - other AIs: Claude ...
+  - other AIs:
+    - Claude - ...
 - .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) - 
 - ... 
   - these Comments should be a part of my quickLinks area(s)
