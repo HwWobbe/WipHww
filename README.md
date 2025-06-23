@@ -1,4 +1,6 @@
 
+- extending Authenticator to better GitHub
+  - ...
 - GrimH may provide better IndexH maintenance
   - evaluate its interfaces to GitHub too
   - other AIs:
