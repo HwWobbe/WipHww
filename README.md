@@ -5,8 +5,10 @@
     - Claude - ...
   - *.tb Teacher YourAg YourAggressiveTeacher
     - improve the placment of these keyWord KeyStrings
-- .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
 
+<hr>
+
+- .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
   - * Text Blaze Dashboard
   - * .do ?? inconsistently triggered /?
 
