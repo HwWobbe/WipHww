@@ -24,15 +24,6 @@ https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
           - try "inspect"
 ...
 
-- previous copyBlock worked, but ...
-  - these are quite unlikely to support imbedded links, since it is intended to be a documentation tool
-- some instances still have examples that WORK and at a mid (not top) placement was also found to be working, but may have been damaged
-  - deeper indentation finally made it work.
-  - this now allows Cascades
-    - will links work in these blocks
-      - can HTML anchors be used
-
-
 <hr>
 
 FAIL:
@@ -50,6 +41,13 @@ Copy
 ## 2025-07:
 ... ...
 
+- previous copyBlock worked, but ...
+  - these are quite unlikely to support imbedded links, since it is intended to be a documentation tool
+- some instances still have examples that WORK and at a mid (not top) placement was also found to be working, but may have been damaged
+  - deeper indentation finally made it work.
+  - this now allows Cascades
+    - will links work in these blocks
+      - can HTML anchors be used
 
 <hr>
 
