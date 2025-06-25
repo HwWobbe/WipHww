@@ -1,15 +1,4 @@
 
-- GrimH may provide better IndexH maintenance
-  - evaluate its interfaces to GitHub too
-  - other AIs:
-    - Claude - ...
-      - textBlaze integrations tests
-  - mgf Framework
-     - *.tb Teacher YourAg YourAggressiveTeacher
-  - improve the placment of these keyWord KeyStrings
-
-<hr>
-
 - .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
   - * Text Blaze Dashboard
   - * .do ?? inconsistently triggered /?
@@ -40,6 +29,17 @@ Copy
 
 ## 2025-07:
 ... ...
+
+- GrimH may provide better IndexH maintenance
+  - evaluate its interfaces to GitHub too
+  - other AIs:
+    - Claude - ...
+      - textBlaze integrations tests
+  - mgf Framework
+     - *.tb Teacher YourAg YourAggressiveTeacher
+  - improve the placment of these keyWord KeyStrings
+
+<hr>
 
 - previous copyBlock worked, but ...
   - these are quite unlikely to support imbedded links, since it is intended to be a documentation tool
