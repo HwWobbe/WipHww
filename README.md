@@ -3,7 +3,9 @@
   - evaluate its interfaces to GitHub too
   - other AIs:
     - Claude - ...
-  - *.tb Teacher YourAg YourAggressiveTeacher
+      - textBlaze integrations tests
+  - mgf Framework
+     - *.tb Teacher YourAg YourAggressiveTeacher
     - improve the placment of these keyWord KeyStrings
 
 <hr>
