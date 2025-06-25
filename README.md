@@ -6,7 +6,7 @@
       - textBlaze integrations tests
   - mgf Framework
      - *.tb Teacher YourAg YourAggressiveTeacher
-    - improve the placment of these keyWord KeyStrings
+  - improve the placment of these keyWord KeyStrings
 
 <hr>
 
