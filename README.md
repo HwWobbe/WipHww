@@ -29,7 +29,7 @@ Copy
 <hr>
 
 ## 2025-07:
-... ...
+... ... ...
 
 - GrimH may provide better IndexH maintenance
   - evaluate its interfaces to GitHub too
