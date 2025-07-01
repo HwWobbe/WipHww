@@ -27,7 +27,10 @@ _ ReView -06-
     - Claude - ...
       - textBlaze integrations tests
   - mgf Framework
-     - *.tb Teacher YourAg YourAggressiveTeacher
+    - ...
+	* make as much use of this default textEntry area as possible
+		* Ask: is it possible to reset the Default size?
+	* ... - 
   - improve the placment of these keyWord KeyStrings
 
 -06-: FAIL:
