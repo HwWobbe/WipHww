@@ -16,18 +16,6 @@ https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
 
 <hr>
 
-FAIL:
-
-git clone https://github.com/your-repo.git
-Copy
-- confirmed: this can be edited
-  - review HTML comments / GrimH 
-
-- this copy&paste showed that FAILs persist
-
-
-<hr>
-
 ## 2025-07:
 ... ... ...
 
@@ -40,6 +28,15 @@ _ ReView -06-
   - mgf Framework
      - *.tb Teacher YourAg YourAggressiveTeacher
   - improve the placment of these keyWord KeyStrings
+
+FAIL:
+
+git clone https://github.com/your-repo.git
+Copy
+- confirmed: this can be edited
+  - review HTML comments / GrimH 
+
+- this copy&paste showed that FAILs persist
 
 <hr>
 
