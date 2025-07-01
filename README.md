@@ -32,7 +32,7 @@ _ ReView -06-
 		* Ask: is it possible to reset the Default size?
 	* ... - 
   - improve the placment of these keyWord KeyStrings
-    - these incantatiopns should ne start with common characters
+    - these incantations should not start with common characters
 
 -06-: FAIL:
 
