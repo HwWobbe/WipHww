@@ -11,7 +11,6 @@ https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
       - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
         - likely due to active CSS
           - try "inspect"
-- [GitHub](https://github.com/) syntax test - seems successful - heatMap updates seem to be pending/backlogged
 - ...
 
 
@@ -22,7 +21,8 @@ https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
 
 _ ReView -06- ... [2025-06](https://github.com/HwWobbe/WipHww/blob/main/README.md#2025-06)
   -...
-  
+- [GitHub](https://github.com/) syntax test - seems successful - heatMap updates seem to be pending/backlogged
+  - ...  
 - GrimH may provide better IndexH maintenance
   - evaluate its interfaces to GitHub too
   - other AIs:
