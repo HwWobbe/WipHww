@@ -20,7 +20,9 @@ https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
 ## 2025-07:
 ... ... ...
 
-_ ReView -06-
+_ ReView -06- ...
+  -...
+  
 - GrimH may provide better IndexH maintenance
   - evaluate its interfaces to GitHub too
   - other AIs:
