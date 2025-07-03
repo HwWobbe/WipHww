@@ -13,6 +13,7 @@ https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
           - try "inspect"
     - review
       - VectorInstitute
+    - determine if the Grimoire's changes to gitHub were effective.
 
 
 <hr>
