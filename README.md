@@ -2,6 +2,7 @@
 - .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
   - * Text Blaze Dashboard
   - * .do ?? inconsistently triggered /?
+  - make more use of this in LinkedIn - try Remarkable - in confunction with Stack ? 
 
 https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
 
