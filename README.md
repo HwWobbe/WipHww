@@ -1,7 +1,9 @@
 
 - .da
   - DanS re Review
-  - JrHw .dissappointed .. now to salvage - ...
+  - JrHw .dissappointed
+    - now to salvage - ...
+  - ... 
 - .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
   - * Text Blaze Dashboard
     - .do:
