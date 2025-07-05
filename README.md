@@ -1,7 +1,14 @@
 
 - .da
   - DanS re Review
-  - JrHw .dissappointed
+  - JrHw .disappointed
+    - asked for:
+      - specific expenses
+      - community participation
+        - Eric - assumed upgrade
+          - to avoid version issues
+          -  ...
+        - comments are not at all ready
     - now to salvage CurbSide - ...
   - ... 
 - .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
