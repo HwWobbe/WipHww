@@ -2,6 +2,7 @@
 - .da
   - DanS re Review
     - liquidity focus for GjwT
+    - CmHc is most promising netNew funds
   - JrHw .disappointed
     - asked for:
       - specific expenses
