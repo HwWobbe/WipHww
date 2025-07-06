@@ -3,6 +3,7 @@
   - DanS re Review
     - liquidity focus for GjwT
     - CmHc is most promising netNew funds
+      - Paulo is key due to uoW ovrer-sight - ConC supervision
   - JrHw .disappointed
     - asked for:
       - specific expenses
