@@ -1,6 +1,7 @@
 
 - .da
   - DanS re Review
+    - liquidity focus for GjwT
   - JrHw .disappointed
     - asked for:
       - specific expenses
