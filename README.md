@@ -1,5 +1,7 @@
 
 - .da
+  - start by trying remote.io/plugins
+    - 
   - JrHw .disappointed
     - asked for:
       - specific expenses
