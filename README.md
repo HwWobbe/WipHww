@@ -10,7 +10,8 @@
         - comments are not at all ready
     - now to salvage CurbSide - ...
   - Srihari in ...
-- Sean Dean - thanks - Luis email - Catahan 
+- Sean Dean - thanks - Luis email
+  - Richard Catahan 
 - .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
   - * Text Blaze Dashboard
     - .do:
