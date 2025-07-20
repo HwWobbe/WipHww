@@ -4,6 +4,7 @@
     - 
   - TextBlaze intergration
     - review the ...Chat recommendations
+    - practise
   - JrHw .disappointed
     - asked for:
       - specific expenses
