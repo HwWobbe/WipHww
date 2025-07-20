@@ -2,6 +2,7 @@
 - .da
   - start by trying remote.io/plugins
     - 
+  - TextBlaze intergration - review the ...Chat recommendations
   - JrHw .disappointed
     - asked for:
       - specific expenses
