@@ -4,7 +4,7 @@
     - 
   - TextBlaze intergration
     - review the ...Chat recommendations
-    - practise
+    - practise - start crafting snippets specifically for GitHub - ...
   - JrHw .disappointed
     - asked for:
       - specific expenses
