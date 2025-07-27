@@ -2,7 +2,7 @@
 - .da
   - start by trying remote.io/plugins
     - 
-  - TextBlaze intergration
+  - TextBlaze integration
     - review the ...Chat recommendations
     - practise - craft snippets specifically for GitHub - ...
   - JrHw .disappointed
