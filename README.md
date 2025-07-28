@@ -1,5 +1,6 @@
 
 - .da
+  - test Keep tagging
   - start by trying remote.io/plugins
     - 
   - TextBlaze integration
