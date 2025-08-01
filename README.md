@@ -1,6 +1,7 @@
 
 - .da
   - test Keep tagging
+  - test ChatGptAgents
   - start by trying remote.io/plugins
     - 
   - TextBlaze integration
