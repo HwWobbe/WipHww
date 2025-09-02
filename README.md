@@ -11,7 +11,8 @@
     - 
   - TextBlaze integration
     - review the ...Chat recommendations
-    - practise - craft snippets specifically for GitHub - ...
+    - practice - craft snippets specifically for GitHub - ...
+    - use TwH more as an intelligent Scaffold
   - JrHw .disappointed
     - asked for:
       - specific expenses
