@@ -25,15 +25,6 @@
         - comments are not at all ready
     - now to salvage CurbSide - ...
   - Srihari in ...
-- Sean Dean - thanks - Luis email
-  - Richard Catahan 
-- .we ?? textBlaze /? - or TextBlaze ( or another alias may emerge ) -
-  - * Text Blaze Dashboard
-    - .do:
-      - ?? inconsistently triggered /?
-      - confirm tbh test is active since it may not be - of the desktop  version may respond differently
-        - verify via: https://chatgpt.com/g/g-1UkbNbnZm-git-hivemind/c/686571f2-f89c-8000-9db2-1dc47473ea4c
-  - make more use of this in LinkedIn - try Remarkable - in conjunction with Slack ? 
 
 ....
   - DanS re Review
