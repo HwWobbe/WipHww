@@ -4,9 +4,10 @@
 
 ### -09-.Tp
 
-- .da
-  - 0902: https://github.com/HwWobbe/WipHww/blob/main/2025/-09-
-  - 0901: Keep tagging test passed
+- .da:
+    - 0902: https://github.com/HwWobbe/WipHww/blob/main/2025/-09-
+      - rename needed
+    - 0901: Keep tagging test passed
   - test ChatGptAgents
   - start by trying remote.io/plugins
     - ...
