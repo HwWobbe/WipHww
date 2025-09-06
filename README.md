@@ -7,7 +7,7 @@
 - .da:
     - 0902: https://github.com/HwWobbe/WipHww/blob/main/2025/-09-
       - rename needed ...md
-      - reLocate KeepH access
+      - reLocate KeepH access and secure it very carefully
     - 0901: KeepTagging test passed
   - test ChatGptAgents
   - start by trying remote.io/plugins
