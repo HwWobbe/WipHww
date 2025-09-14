@@ -16,6 +16,8 @@
   
   - TextBlaze integration
     - review the ...Chat recommendations
+    - suspected edgeCase overwrite due to triggering a Sniped
+      - DoubleStruck impacted
     - practice - craft snippets specifically for GitHub - ...
     - use TwH more as an intelligent Scaffold
   - JrHw .disappointed
