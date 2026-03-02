@@ -6,6 +6,7 @@
 - reliability of ClawH is in question
   - resolve and re-test more deeply
   
+<hr>
 
 ## 2025-09:
 
