@@ -4,7 +4,7 @@
 
 ### -03-02:
 - reliability of ClawH is in question
-  - resolve and re-test more deeply to re0build Trust
+  - resolve and re-test more deeply to re-build Trust
 - Ask ClawH for the best way to build a new file from two existing files.
   
 <hr>
