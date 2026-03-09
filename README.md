@@ -2,6 +2,9 @@
 ## 2026-03:
 ...
 
+### -03-09:
+* *V.0.0.2 dev. started - accomodates recent AiTech changes.
+
 ### -03-02:
 - reliability of ClawH is in question
   - resolve and re-test more deeply to re-build Trust
