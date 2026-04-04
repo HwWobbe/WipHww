@@ -1,3 +1,7 @@
+## 2026-04:
+...
+- 0404: https://talk.tiddlywiki.org/t/automated-list-of-custom-user-created-fields/15008/6?u=hans_wobbe
+
 
 ## 2026-03:
 ...
