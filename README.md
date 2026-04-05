@@ -2,7 +2,7 @@
 ...
 
 - 0405:
-  - Reuumed:
+  - Reuumed:( persist Active )
 
 - 0404: 
   - https://talk.tiddlywiki.org/t/automated-list-of-custom-user-created-fields/15008/6?u=hans_wobbe
