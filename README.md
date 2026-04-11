@@ -3,6 +3,7 @@
 
 - 0411:
   - SrEd
+    - Anthropic imports User Memory > including all %env% + Creds
 
 - 0405:
   - Resumed:( persist Active )
