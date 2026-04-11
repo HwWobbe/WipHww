@@ -10,6 +10,9 @@
 	    - UoW + CorsaLabs
           - Funding impacts
 		    - negoriations > Gated compromize
+    - Git based TransClusion(s) for many Braches per Leaf ( opposed to folder Heirarchy )
+      - MemoryMaps
+        - with Links?
 
 - 0405:
   - Resumed:( persist Active )
