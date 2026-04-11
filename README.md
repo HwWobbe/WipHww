@@ -4,6 +4,8 @@
 - 0411:
   - SrEd
     - Anthropic imports User Memory > including all %env% + Creds
+      - test & confirm to reduce Trust Uncertainty
+    - Terms od Service adjusted by ... to: "Entertainment only" + Indemnification
 
 - 0405:
   - Resumed:( persist Active )
