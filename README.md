@@ -13,8 +13,8 @@
     - Git based TransClusion(s) for many Braches per Leaf ( opposed to folder Heirarchy )
       - MemoryMaps
         - with Links?
-- .tn: timePeriod restructuring
-  - GitHub files vs. WikiPages
+  - .tn: timePeriod restructuring
+    - GitHub files vs. WikiPages
 
 - 0405:
   - Resumed:( persist Active )
