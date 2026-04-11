@@ -5,7 +5,7 @@
   - SrEd
 
 - 0405:
-  - Reuumed:( persist Active )
+  - Resumed:( persist Active )
 
 - 0404: 
   - https://talk.tiddlywiki.org/t/automated-list-of-custom-user-created-fields/15008/6?u=hans_wobbe
