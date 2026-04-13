@@ -1,8 +1,8 @@
 ## 2026-04:
 ...
 
-- 0412:
-  - SrEd
+- 0413: SrEd ; Do not use: Brave - it is blocking parts of the access sequence.
+- 0412: SrEd
 - 0411:
   - SrEd
     - Anthropic imports User Memory > including all %env% + Creds
