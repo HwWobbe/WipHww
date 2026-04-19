@@ -1,6 +1,8 @@
 ## 2026-04:
 ...
 
+-0119: 
+  - Gap: hardware & AMT
 -0417: 
   - 0418: http://localhost:8080/#4e01 http://localhost:8080/#HexPlex
   - 0417: ㏰: GrokH
