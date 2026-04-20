@@ -1,6 +1,8 @@
 ## 2026-04:
 ...
 
+-0429: 
+  - DebateGraph Creds issue re-surfaces
 -0119: 
     - Gap: hardware & AMT
 -0417: 
