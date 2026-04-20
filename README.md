@@ -3,7 +3,7 @@
 
 -0420: 
   - DebateGraph Creds issue re-surfaces
--0419: 
+- 0419: 
   - Gap: hardware accruals & AMT rebates
 -0417: 
   - 0418: http://localhost:8080/#4e01 http://localhost:8080/#HexPlex
