@@ -1,10 +1,10 @@
 ## 2026-04:
 ...
 
--0429: 
+-0420: 
   - DebateGraph Creds issue re-surfaces
--0119: 
-    - Gap: hardware & AMT
+-0419: 
+  - Gap: hardware accruals & AMT rebates
 -0417: 
   - 0418: http://localhost:8080/#4e01 http://localhost:8080/#HexPlex
   - 0417: ㏰: GrokH https://grok.com/
