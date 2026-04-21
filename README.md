@@ -1,7 +1,10 @@
 ## 2026-04:
 ...
 
--0420: 
+- 0421: 
+  - discovered the over-looked bloackSave to KeepG
+  - ChatGpt Codex needs attention for streamlined GitHub access
+- 0420: 
   - DebateGraph Creds issue re-surfaces
 - 0419: 
   - Gap: hardware accruals & AMT rebates
