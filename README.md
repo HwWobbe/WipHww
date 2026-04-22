@@ -1,6 +1,7 @@
 ## 2026-04:
 ...
 
+- 0422: WednesDay meetings
 - 0421: 
   - discovered the over-looked bloackSave to KeepG
     - which seems to be very effective, but may neet a different Form that the emerging Ask standard
