@@ -3,6 +3,7 @@
 
 - 0422: ( DfTm DfMm )WednesDay.we.17/50 meetings
   - 0422@14:30-16:30 NewVote
+  - @17:30 LzH
   - designs for NoteK(eep)
 - 0421: 
   - discovered the over-looked blockSave to KeepG
