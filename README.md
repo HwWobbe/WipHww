@@ -4,7 +4,8 @@
 - 0422: ( DfTm DfMm )WednesDay.we.17/50 meetings
   - 0422@14:30-16:30 NewVote
   - @17:30 LzH
-  - designs for NoteK(eep)
+  - designs for NoteK(eep) 
+  - remember that each PulseLevel is based on 3 time the sum of the subordinate Levels
 - 0421: 
   - discovered the over-looked blockSave to KeepG
     - which seems to be very effective, but may neet a different Form that the emerging Ask standard
