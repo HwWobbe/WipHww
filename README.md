@@ -3,7 +3,7 @@
 
 - 0422: WednesDay meetings
 - 0421: 
-  - discovered the over-looked bloackSave to KeepG
+  - discovered the over-looked blockSave to KeepG
     - which seems to be very effective, but may neet a different Form that the emerging Ask standard
 	  - can json text be stored effectively in Keep Notes?
   - ChatGpt Codex needs attention for streamlined GitHub access
