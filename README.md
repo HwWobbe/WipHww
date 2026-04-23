@@ -2,7 +2,7 @@
 ...
 
 - 0530: continue re-orgainizations
-  - ...
+  - make more use of nestedFolders
 - 0531: China
 
 ## 2026-04:
