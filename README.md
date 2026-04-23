@@ -5,7 +5,7 @@
 - confirm the bestWay to move/nest folders
   - avoid concurrent Tabs
     - rely on TbH ...
-  - AiSoppoer / adjacent browserTab
+  - AiSupport / adjacent browserTab
 
 - FAIL(  
   - [2026-04:](https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-04) 
