@@ -1,6 +1,8 @@
 ## 2026-05:
 ...
 
+. 0528: ...
+- 0529: endOf052x
 - 0530: continue re-orgainizations
   - make more use of nestedFolders
 - 0531: China
