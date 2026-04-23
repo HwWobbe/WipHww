@@ -2,7 +2,7 @@
 ## 2026-05: #
 ...
 
-- confirm the bestWay to moce/nest folders 
+- confirm the bestWay to move/nest folders 
 - FAIL(  
   - [2026-04:](https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-04) 
   - [2026-03:](https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-03)
