@@ -1,7 +1,8 @@
 ## 2026-05:
 ...
 
-- 0530: ...
+- 0530: continue re-orgainizations
+  - ...
 - 0531: China
 
 ## 2026-04:
