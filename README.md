@@ -1,4 +1,4 @@
-## 2026-05:
+## 2026-05: # [2026-04:](https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-04)
 ...
 
 . 0528: ...
@@ -6,7 +6,7 @@
 - 0530: continue re-orgainizations
   - make more use of nestedFolders
 - 0531: China
-- 05indeX: ... # [2026-04:](https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-04)
+- 05indeX: ... 
 
 
 ## 2026-04:
