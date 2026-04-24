@@ -6,7 +6,7 @@
   - avoid concurrent Tabs
     - rely on TbH ...
   - AiSupport / adjacent browserTab
-    _ see CopilotH ( PkmH PQR42 ) 
+    _ see CopilotH ( PkmH PqR42 ) 
 
 - https://dashboard.blaze.today/snippet/Ns2KNKvqFlU5AV6kvXRP
 
