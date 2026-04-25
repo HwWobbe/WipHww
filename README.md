@@ -4,7 +4,7 @@
 
 - https://github.com/Jermolene/twillm/
   - modifications:
-    - KeepH biDirectional interactions
+    - KeepH biDirectional interactions > conform to the emerging storage Architecture.
 - confirm the bestWay to move/nest folders
   - avoid concurrent Tabs
     - rely on TbH ...
