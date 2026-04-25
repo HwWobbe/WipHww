@@ -2,6 +2,9 @@
 ## 2026-05: #
 ...
 
+- data Integrity Group
+  - Srihari
+    - latLon ( LaLo )
 - https://github.com/Jermolene/twillm/
   - modifications:
     - KeepH biDirectional interactions > conform to the emerging storage Architecture.
