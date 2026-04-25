@@ -3,6 +3,8 @@
 ...
 
 - https://github.com/Jermolene/twillm/
+  - modifications:
+    - KeepH biDirectional interactions
 - confirm the bestWay to move/nest folders
   - avoid concurrent Tabs
     - rely on TbH ...
