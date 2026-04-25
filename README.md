@@ -5,6 +5,7 @@
 - data Integrity Group
   - Srihari
     - latLon ( LaLo )
+  - Jdate TW macro
 - https://github.com/Jermolene/twillm/
   - modifications:
     - KeepH biDirectional interactions > conform to the emerging storage Architecture.
