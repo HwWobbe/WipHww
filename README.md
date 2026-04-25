@@ -5,7 +5,8 @@
 - https://github.com/Jermolene/twillm/
   - modifications:
     - KeepH biDirectional interactions > conform to the emerging storage Architecture.
-      - assume openClaw ( or other agentic participation ) 
+      - assume openClaw ( or other agentic participation )
+        - automated ingection for DBs( Tw/ReLite SqlServer & Neo4J )
 - confirm the bestWay to move/nest folders
   - avoid concurrent Tabs
     - rely on TbH ...
