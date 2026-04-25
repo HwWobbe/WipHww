@@ -5,6 +5,7 @@
 - https://github.com/Jermolene/twillm/
   - modifications:
     - KeepH biDirectional interactions > conform to the emerging storage Architecture.
+      - assume openClaw ( or other agentic participation ) 
 - confirm the bestWay to move/nest folders
   - avoid concurrent Tabs
     - rely on TbH ...
