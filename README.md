@@ -4,7 +4,7 @@
 
 - data Integrity Group
   - KfwT0426:
-    - follow-up: ...
+    - follow-up: 12M1C3L3 & 4146K7M4Y7
   - Srihari
     - latLon ( LaLo )
   - Jdate TW macro
