@@ -8,6 +8,7 @@
   - Srihari
     - latLon ( LaLo )
   - Jdate TW macro
+    - device a Usage example
 - https://github.com/Jermolene/twillm/
   - modifications:
     - KeepH biDirectional interactions > conform to the emerging storage Architecture.
