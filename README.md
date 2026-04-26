@@ -3,13 +3,7 @@
 ...
 
 - data Integrity Group
-- KeepG260426
-  - KfwT0426:
-    - follow-up: 12M1C3L3 & 4146K7M4Y7
-  - Srihari
-    - latLon ( LaLo )
-  - Jdate TW macro
-    - devic\se a Usage example
+- KeepG260426 - confirmed
 - https://github.com/Jermolene/twillm/
   - modifications:
     - KeepH biDirectional interactions > conform to the emerging storage Architecture.
