@@ -22,7 +22,7 @@
   - [2026-03:](https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-03)
   - )FAIL
 
-- 0447: 
+- 0427: 
   - ...
 - 0528: ...
 - 0529: endOf052x
