@@ -2,6 +2,7 @@
 ## 2026-05: #
 ...
 
+- at this time, HeepH needs an ifExists check
 - data Integrity Group
 - KeepG260426 - confirmed
 - https://github.com/Jermolene/twillm/
