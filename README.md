@@ -3,6 +3,7 @@
 ...
 
 - at this time, HeepH needs an ifExists check
+  - focus on "now" tids on a bootstrap path
 - data Integrity Group
 - KeepG260426 - confirmed
 - https://github.com/Jermolene/twillm/
