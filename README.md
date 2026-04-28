@@ -5,6 +5,7 @@
 - at this time, HeepH needs an ifExists check
   - focus on "now" tids on a bootstrap path
     - by TopicH
+- GIT work whould be more local
 - data Integrity Group
 - KeepG260426 - confirmed
 - https://github.com/Jermolene/twillm/
