@@ -2,7 +2,7 @@
 ## 2026-05: #
 ...
 
-- at this time, HeepH needs an ifExists check
+- at this time, KeepH needs an ifExists check
   - focus on "now" tids on a bootstrap path
     - by TopicH
 - GIT work whould be more local
@@ -20,6 +20,9 @@
     _ see CopilotH ( PkmH PqR42 ) 
 
 - https://dashboard.blaze.today/snippet/Ns2KNKvqFlU5AV6kvXRP
+
+- https://github.com/TiddlyWiki/MultiWikiServer
+  - ...
 
 - FAIL(  
   - [2026-04:](https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-04) 
