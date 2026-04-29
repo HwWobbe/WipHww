@@ -4,6 +4,7 @@
 
 - at this time, KeepH needs an ifExists check
   - focus on "now" tids on a bootstrap path
+    - add the now, now, nxt symbols
     - by TopicH
 - GIT work whould be more local
 - data Integrity Group
