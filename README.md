@@ -9,7 +9,7 @@
 - GIT work whould be more local
 - data Integrity Group
 - KeepG260426 - confirmed
-  - show an example KeepH accrss pattern
+  - show an example KeepH access pattern
 - https://github.com/Jermolene/twillm/
   - modifications:
     - KeepH biDirectional interactions > conform to the emerging storage Architecture.
