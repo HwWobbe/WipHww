@@ -7,6 +7,7 @@
     - add the now, now, nxt symbols
     - by TopicH
 - GIT work whould be more local
+  - reduced Pulse(s) will result
 - data Integrity Group
 - KeepG260426 - confirmed
   - show an example KeepH access pattern
