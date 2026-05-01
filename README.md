@@ -9,6 +9,10 @@
 - GIT work would be more local
   - reduced Pulse(s) will result
 - data Integrity Group
+  - overlapping keys Uncertainty must be resolved - but gradually
+    - SymbolicGrammar remains problematic
+	  - BigEdian insightes are helpfil.
+	    - typing may be needed to support littleEndian
 - KeepG260426 - confirmed
   - show an example KeepH access pattern
 - https://github.com/Jermolene/twillm/
