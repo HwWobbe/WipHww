@@ -2,6 +2,8 @@
 ## 2026-05: #
 ...
 
+- reView GrokX as a Render Tool that can be enhanced.
+  - consider KeepReminders
 - at this time, KeepH needs an ifExists check
   - focus on "now" tids on a bootstrap path
     - add the now, now, nxt symbols
