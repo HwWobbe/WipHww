@@ -6,7 +6,7 @@
   - consider KeepReminders
 - https://x.com/great_martis/status/2050505916827742542?s=51&t=C4FI8kkNGScRWshds9UBIA
   - doomAndGloom view?
-    - Xlinks: Can this be provided as Sourcs to the pribcvte Llm?
+    - Xlinks: can this be provided as Sourcs to the pribcvte Llm?
 - direct login via KeepH seems problematic in comparision of the generic LinksG page
 - interruption caused by AI error - fixed.
 - at this time, KeepH needs an ifExists check
