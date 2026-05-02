@@ -4,6 +4,7 @@
 
 - reView GrokX as a Render Tool that can be enhanced.
   - consider KeepReminders
+- direct login via KeepH seems problematic in comparision of the generic LinksG page
 - at this time, KeepH needs an ifExists check
   - focus on "now" tids on a bootstrap path
     - add the now, now, nxt symbols
