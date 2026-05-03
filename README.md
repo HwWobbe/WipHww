@@ -11,6 +11,7 @@
         - ideally this will work with the InvestPorts too.
 	      - remember easy Transfers into KeepH
 - direct login via KeepH seems problematic in comparision of the generic LinksG page
+  - likely a Brave.block(ing) issue.
 - interruption caused by AI error - fixed.
 - at this time, KeepH needs an ifExists check
   - focus on "now" tids on a bootstrap path
