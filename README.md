@@ -12,9 +12,11 @@
       - Xlinks: can this be provided as Sourcs to the pribcvte Llm?
         - ideally this will work with the InvestPorts too.
 	      - remember easy Transfers into KeepH
+
 -pricing / seat
   - https://github.com/copilot/c/af46cd50-9921-42a7-a72b-b8b036909c7d
 - direct login via KeepH seems problematic in comparision of the generic LinksG page
+
   - likely a Brave.block(ing) issue.
 - interruption caused by AI error - fixed.
 - at this time, KeepH needs an ifExists check
