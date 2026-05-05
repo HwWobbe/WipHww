@@ -13,7 +13,7 @@
         - ideally this will work with the InvestPorts too.
 	      - remember easy Transfers into KeepH
 
--pricing / seat
+- pricing / seat
   - https://github.com/copilot/c/af46cd50-9921-42a7-a72b-b8b036909c7d
 - direct login via KeepH seems problematic in comparision of the generic LinksG page
 
