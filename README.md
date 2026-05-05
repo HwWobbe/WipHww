@@ -3,7 +3,7 @@
 ...
 
 - 0z.⌱.午㋄㏤㍧
-  - ...
+  - GIST updated
 - reView GrokX as a Render Tool that can be enhanced.
   - consider KeepReminders
 - InvestsH:
