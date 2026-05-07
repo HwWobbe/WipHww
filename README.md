@@ -3,7 +3,7 @@
 ...
 
 - 0.z.⌖.午㋄㏥㍭
-  - DebateGraph
+  - DebateGraph ; [[�ℌ🐟午㋄⑲㍠♀㏂㍩]]
 - 0z.⌱.午㋄㏤㍧
   - GIST updated
 - reView GrokX as a Render Tool that can be enhanced.
