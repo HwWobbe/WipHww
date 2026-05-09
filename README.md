@@ -2,8 +2,8 @@
 ## 2026-05: #
 ...
 
-- 0.z.⌖.午㋄㏧
-  - add a .hour value
+- 0.z.⌖.午㋄㏧㍘
+  - default ( pre | mid | suf)fix Ask.strings
 - 0.z.⌖.午㋄㏥㍭
   - DebateGraph ; [[�ℌ🐟午㋄⑲㍠♀㏂㍩]]
 - 0z.⌱.午㋄㏤㍧
