@@ -4,6 +4,7 @@
 
 - 0.z.⌖.午㋄㏧㍘
   - default ( pre | mid | suf)fix Ask.strings
+  - refine/extend WipN(otes) in https://github.com/HwWobbe/WipHww
 - 0.z.⌖.午㋄㏥㍭
   - DebateGraph ; [[�ℌ🐟午㋄⑲㍠♀㏂㍩]]
 - 0z.⌱.午㋄㏤㍧
