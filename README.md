@@ -2,6 +2,13 @@
 ## 2026-05: #
 ...
 
+0b    TbH dashboard
+0g    G-root
+0gm   TopLZ gm template
+0m    GitHub (temp)
+0s    SrEdDf2025
+0t    TwH
+
 - 0.z.⌖.午㋄㏧㍘
   - default ( pre | mid | suf)fix Ask.strings
   - refine/extend WipN(otes) in https://github.com/HwWobbe/WipHww
