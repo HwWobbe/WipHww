@@ -10,7 +10,7 @@
 0t    TwH
 
 - 26-05-11: prior edits/updates apparently lost.
-  - ...
+  - generated GIST reference indicates potential TwH rendering.
 - 0.z.⌖.午㋄㏧㍘
   - default ( pre | mid | suf)fix Ask.strings
   - refine/extend WipN(otes) in https://github.com/HwWobbe/WipHww
