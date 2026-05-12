@@ -9,8 +9,9 @@
 0s    SrEdDf2025
 0t    TwH
 
--26-05-12:
+- 26-05-12:
   - one of my GitHub repos is Asking for attention.
+
 - 26-05-11: prior edits/updates apparently lost.
   - generated GIST reference indicates potential TwH rendering.
 - 0.z.⌖.午㋄㏧㍘
