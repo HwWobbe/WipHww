@@ -11,6 +11,9 @@
 
 - 26-05-12:
   - one of my GitHub repos is Asking for attention.
+    - missing folder FAIL resolved.
+  - used " .mo.tn " as a scheduled reminder
+    - its "relative (to the wrapping date)" nature likely has future value - with AI collaboration.
 
 - 26-05-11: prior edits/updates apparently lost.
   - generated GIST reference indicates potential TwH rendering.
