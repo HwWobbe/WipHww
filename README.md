@@ -19,7 +19,7 @@
   - also FAIL:
     - javaScript uncaught
 	  - ... local\TexlBlaze\Resources\apps asar...
-  - re-boot repair. ( FIAL is triggered by MeetG
+    - re-boot repair. ( FIAL is triggered by MeetG )
 
 - 26-05-12:
   - one of my GitHub repos is Asking for attention.
