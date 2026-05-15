@@ -1,5 +1,5 @@
 * Unicode symbols may be of sufficient interest to at least warrant linking to them.  
-* * they shoild probably be integrated
+* * they should probably be integrated
 
 <hr>
 
