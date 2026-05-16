@@ -17,7 +17,7 @@
  
 -26-05-17: 
   - 06:00 power loss
-  - shadingTarget = 69
+  - shadingTarget = 48
   - ...
 
 -26-05-15: Glitched
