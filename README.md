@@ -26,7 +26,7 @@
   - also FAIL:
     - javaScript uncaught
 	  - ... local\TexlBlaze\Resources\apps asar...
-    - re-boot repair. ( FIAL is triggered by MeetG )
+    - re-boot repair. ( FAIL is triggered by MeetG )
   - also still noJoy with openClawKeys
     - appealing to Claude again
 
