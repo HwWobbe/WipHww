@@ -18,7 +18,7 @@
 -26-05-17: 
   - 06:00 power loss
   - shadingTarget = 45/48 
-  - ...
+    - transient - since lower .e(s) will bump X 3
 
 -26-05-15: Glitched
   - also FAIL:
