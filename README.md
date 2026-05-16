@@ -17,7 +17,7 @@
  
 - 26-05-16: 
   - 06:00 power loss
-  - shadingTarget = 45/48 
+  - shadingTarget = current max exceeded
     - transient - since lower .e(s) will bump X 3 ;  proven.
       - lead to maintain deepestLevel
   - gfH other:link needed > KeepH
