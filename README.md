@@ -20,7 +20,7 @@
   - shadingTarget = 45/48 
     - transient - since lower .e(s) will bump X 3 ;  proven.
       - lead to maintain deepestLevel
-  - gfH other:link needed
+  - gfH other:link needed > KeepH 
 
 -26-05-15: Glitched
   - also FAIL:
