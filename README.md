@@ -27,7 +27,7 @@
 
 - 26-05-22:
   - 10:15 ( bank.to )finsH
-  - 11:00 ( CsLite )CsT
+  - 11:00 ( CsLite SriHw )CsT 
   - 16:45 ( )GsdT
 
 - 26-05-21:
