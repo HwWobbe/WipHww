@@ -44,7 +44,7 @@ add-weather-dashboard
     - why is the preceding line rendered aggressively?
   - strip> markFor KeepH > TwH > *.Docx | limits?
 - 26-05-18: 
-  - 23:30 : opdates
+  - 23:30 : updates
   - 26-05-16: 
   - 06:00 power loss
   - shadingTarget = current max exceeded
