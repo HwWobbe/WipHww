@@ -1,7 +1,7 @@
 add-weather-dashboard
 
 ## 2026-05: #
-... ; N(ote) culling with be seen as heartBeats - interimAcceptable = will diminish
+... ; N(ote) culling with be seen as heartBeats - interimAcceptable = will diminish per Ai/...
 
 0b    TbH dashboard
 0g    G-root
