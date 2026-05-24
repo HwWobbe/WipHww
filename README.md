@@ -15,7 +15,8 @@ add-weather-dashboard
   - 23:59 
   - 10:30 ( DtTm0520 )DfTm 
   - 13:30 ( DfMm0520 )DfMt
-  - 00:09 consider .qu folders nested under 2026- 
+  - 00:09 consider .qu folders nested under 2026-
+    - also q3 q4 * q2 q1 
 
 - 26-05-29:
   - ...
