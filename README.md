@@ -26,7 +26,9 @@ add-weather-dashboard
 - 26-05-24: 
   - measure mesh ; lunch ; homeDeport 
   - PassCode.PITA < assess/recover < reBoot
-    - gitPub.pass ; ...
+    - gitHub.pass ; ...
+  - MicroNotes > TwH + Pkm
+    - ( AiHowTo )GoalH
   - ...
 
 - 26-05-23: 
