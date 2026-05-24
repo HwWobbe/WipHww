@@ -32,7 +32,7 @@ add-weather-dashboard
       - common with 2026-06-01: DfCoStory
 	    - Mark tool?
     - ( AiHowTo )GoalH
-  - ...
+  - review 2FA for continuity, to balance rish/reward
 
 - 26-05-23: 
     - 09:00 LzAsus setup
