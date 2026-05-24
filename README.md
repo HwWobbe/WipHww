@@ -28,6 +28,9 @@ add-weather-dashboard
   - PassCode.PITA < assess/recover < reBoot
     - gitHub.pass ; ...
   - MicroNotes > TwH + Pkm
+    - reverseCascade > *docsG
+      - common with 2026-06-01: DfCoStory
+	    - Mark tool?
     - ( AiHowTo )GoalH
   - ...
 
