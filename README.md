@@ -28,6 +28,7 @@ add-weather-dashboard
   - measure mesh ; lunch ; homeDeport 
 
 - 26-05-25:
+  - GjwTn plans
 
 - 26-05-24: 
   - PassCode.PITA < assess/recover < reBoot
