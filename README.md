@@ -17,6 +17,7 @@ add-weather-dashboard
   - 13:30 ( DfMm0520 )DfMt
   - 00:09 consider .qu folders nested under 2026-
     - also q3 q4 * q2 q1 
+  - review 2FA for continuity, to balance rish/reward
 
 - 26-05-29:
   - ...
@@ -24,8 +25,10 @@ add-weather-dashboard
   - consider: autoGitAid influences  
     - https://github.com/HwWobbe/AiContext
 
-- 26-05-24: 
+- 26-05-25:
   - measure mesh ; lunch ; homeDeport 
+
+- 26-05-24: 
   - PassCode.PITA < assess/recover < reBoot
     - gitHub.pass ; ...
   - MicroNotes > TwH + Pkm
@@ -33,7 +36,6 @@ add-weather-dashboard
       - common with 2026-06-01: DfCoStory
 	    - Mark tool?
     - ( AiHowTo )GoalH
-  - review 2FA for continuity, to balance rish/reward
 
 - 26-05-23: 
     - 09:00 LzAsus setup
