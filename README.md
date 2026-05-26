@@ -10,14 +10,21 @@ add-weather-dashboard
 0s    SrEdDf2025
 0t    TwH
 
+- 26-07-29:
+ - 00:09 consider .qu folders nested under 2026-
+    - also q3 q4 * q2 q1 
+  - review 2FA for continuity, to balance rish/reward
+
 - 26-06-29:
   - ...
   - 23:59 
   - 10:30 ( DtTm0520 )DfTm 
   - 13:30 ( DfMm0520 )DfMt
-  - 00:09 consider .qu folders nested under 2026-
-    - also q3 q4 * q2 q1 
-  - review 2FA for continuity, to balance rish/reward
+
+- 26-06-03: ( ... ) ; 26-06-01 -02 @18:00: 
+
+- 26-05-31:
+  - DfConf
 
 - 26-05-29:
   - ...
