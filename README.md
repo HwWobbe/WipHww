@@ -35,6 +35,9 @@ add-weather-dashboard
   - measure mesh ; lunch ; homeDeport 
 
 - 26-05-25:
+  - freeze: (assess/recover < reBoot)
+
+- 26-05-25:
   - GjwTn plans
   - ( linkTeawks )AiTp
 
