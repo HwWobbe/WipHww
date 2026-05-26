@@ -34,8 +34,9 @@ add-weather-dashboard
   - ??:00 LzAsus setup
   - measure mesh ; lunch ; homeDeport 
 
-- 26-05-25:
+- 26-05-26:
   - freeze: (assess/recover < reBoot)
+  - LsHw( AasT )
 
 - 26-05-25:
   - GjwTn plans
