@@ -67,34 +67,8 @@ add-weather-dashboard
   - 10:30 ( DtTm0520 )DfTm 
   - 13:30 ( DfMm0520 )DfMt
 
-- 26-05-19:
-  - consider: 1. [[nN]] needs a colorChange 2. CaludeH has Agendts & Tools & other capabilitles 3. Delegate to the  colorChangege to ClaudeH
-    - why is the preceding line rendered aggressively?
-  - strip> markFor KeepH > TwH > *.Docx | limits?
-- 26-05-18: 
-  - 23:30 : updates
-  - 26-05-16: 
-  - 06:00 power loss
-  - shadingTarget = current max exceeded
-    - transient - since lower .e(s) will bump X 3 ;  proven.
-      - lead to maintain deepestLevel
-  - gfH other:link needed > KeepH
-- 26-05-15: Glitched
-  - also FAIL:
-    - javaScript uncaught
-	  - ... local\TexlBlaze\Resources\apps asar...
-    - re-boot repair. ( FAIL is triggered by MeetG )
-  - also still noJoy with openClawKeys
-    - appealing to Claude again
+- > KeepHw
 
-- 26-05-12:
-  - one of my GitHub repos is Asking for attention.
-    - missing folder FAIL resolved.
-  - used " .mo.tn " as a scheduled reminder
-    - its "relative (to the wrapping date)" nature likely has future value - with AI collaboration.
-
-- 26-05-11: prior edits/updates apparently lost.
-  - generated GIST reference indicates potential TwH rendering.
 - 0.z.⌖.午㋄㏧㍘
   - default ( pre | mid | suf)fix Ask.strings
   - refine/extend WipN(otes) in https://github.com/HwWobbe/WipHww
