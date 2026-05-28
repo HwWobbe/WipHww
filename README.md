@@ -26,6 +26,9 @@ add-weather-dashboard
 - 26-05-31:
   - DfConf
 
+- 26-05-28:
+  - ...
+
 - 26-05-29:
   - ...
   - AiBlaze resumption
