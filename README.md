@@ -24,10 +24,10 @@ add-weather-dashboard
 - 26-06-03: ( ... ) ; 26-06-01 -02 @18:00: 
 
 - 26-05-31:
-  - DfConf
+  - DfConf 
 
 - 26-05-28:
-  - ...
+  - SriH *.blaze demo(s)
 
 - 26-05-29:
   - ...
