@@ -21,12 +21,13 @@ add-weather-dashboard
   - 10:30 ( DtTm0520 )DfTm 
   - 13:30 ( DfMm0520 )DfMt
 
-- 26-06-03: ( ... )
--  
+- 26-06-03: ( UoW / Qorsa )
+  -  ...
+
 - 26-06-01 @Yyz DConf2026 -02 @18:00: 
 
 - 26-05-31:
-  - DfConf 
+  - > DfConf 
 
 - 26-05-29:
   - DiigoExport appeared successful
