@@ -26,10 +26,6 @@ add-weather-dashboard
 - 26-05-31:
   - DfConf 
 
-- 26-05-28:
-  - SriH *.blaze demo(s)
-  - SonetVsHaiku
-
 - 26-05-29:
   - DiigoExport appeared successful
     - re-test in a new folder/file
@@ -41,6 +37,10 @@ add-weather-dashboard
     - https://github.com/HwWobbe/AiContext
   - ??:00 LzAsus setup
   - measure mesh ; lunch ; homeDeport 
+
+- 26-05-28:
+  - SriH *.blaze demo(s)
+  - SonetVsHaiku
 
 - 26-05-26:
   - freeze: (assess/recover < reBoot)
