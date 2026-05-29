@@ -31,7 +31,9 @@ add-weather-dashboard
   - SonetVsHaiku
 
 - 26-05-29:
-  - ...
+  - DiigoExport appeared successful
+    - re-test in a new folder/file
+	  - is an effective import also possible?
   - AiBlaze resumption
     - ??
 
