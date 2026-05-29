@@ -28,6 +28,7 @@ add-weather-dashboard
 
 - 26-05-28:
   - SriH *.blaze demo(s)
+  - SonetVsHaiku
 
 - 26-05-29:
   - ...
