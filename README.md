@@ -30,6 +30,770 @@ add-weather-dashboard
   - SriH *.blaze demo(s)
   - SonetVsHaiku
 
+<hr>
+
+㋄n
+
+-  年月日 
+  - 
+- TtT
+  - GaPoT
+    - DonCowan
+  - WiP
+    - R(anked) priorities
+      - EdD2024
+      - Python
+        - RaspPi wiFi
+          - tiddlyServer
+            - wikiStartup cmds
+              - tiddlywiki wikiName --server
+                - wikiName = myFirstWiki (there is a Second)
+              - browser URL = 127.0.0.1:8080
+                - useful hints to check Google Groups 
+                  - try 0.0.0.0
+              - terminate ^c
+              - continue trying to go headless
+            - accessing ...
+              - the Apache page http://192.168.10.120
+              - NOT the wiki, yet
+            - Google Groups 
+            - folder structure(s) = Google Groups 
+            - gdr: www.protopage.com/QiaoZhi does not connect.  Password?
+          -  It might help to export your template tiddler as a tid or JSON and then add it as a file to your post
+            - PiH seems useful for this
+          - access new "2nd Pi"
+            - first create a tiddlyWiki instance.
+            - as a headless server
+    - ( 本 = start ):Dg
+      - 次.为
+      -  Hw*? 
+      -  ㍘ 
+        - ㍘ 
+          - ㍘ = a very nice Tag display when in Outliner contexts.
+            - The existence of Annotations seems to trigger the display of some additional controls.
+            - there is a split screen display that I am not sure I can invoke yet
+            - I want to have a public Outliner.
+              - perhaps even shared, but async may be better.
+              - I should be looking at this further
+              - It seems quite responsive
+    - ( news )SoD 
+      - HWO.ProtoPage 
+        - Twitter ( current Topics ) Sign in 
+          - review & re-tweet tags that are important to me
+      - RssFeeds review
+    - The HwWobbe Weekly 
+    - TasksH @ J. P. Rives & Associates / Log in 
+    - 進 = advance, make progress > Goal
+      - Diigo N(ote)
+      -  Hw*? 
+      - Outliner sidebar in Diigo Chrome extension — Organize knowledge while you collect them | Diigo 
+      - Ðetails view: ⒈⓿ 次 = next 
+        - Taxation
+        - Debt
+        - Petitions
+      - CredsH
+        - ( zchc )$# ; ddda > # ; ( K??-yy?? ; P " ; G * ; D * ):D...
+          - z base 26's origin
+        - WW 2323 ~ 1596 ; Hw0 > 8.23.0 ( 0 = again )
+        - ... 3213 ; 
+        - ...48... > 09
+        - ( H D K P G )~??-yy/.
+        - IfTtt ??
+        - KeePass
+      - Income Tax (history) 
+        - ⒉ Taxation 
+        - 为 > shorten this title
+      - build Pages via ...
+        - KeepH > DocsH 
+        - debateGraph
+      - Need 需 ; Do = 为 ; There is a hexagram for Waiting & one for Progress
+      - ⌥ = Choice
+      - there should be Outliner(s) specifically set for DebateGraph pages.
+      - morosanuae — public space – based on TW v5.1.14 
+      - 为 = Do ; 会
+    - ⚒
+      - inBox Sign in
+        - https://inbox.google.com/cluster/%23clusters%3A%5Ex_2906757241557312947
+      - KeepH reminders = Sign in - Google Accounts 
+        - Keep Inbox 
+          - transfer more content into Docs (noting that APPs like Keep are being deprecated)
+            - consider the limits of doing so ...
+              - mail may have to be removed to *.PST & OneDrive
+        - keepH = KeepH.# 
+        - TdaTn KeepH 
+      - Ğ = google
+        - Google Docs ( Wp:Essay )
+          - KeepH Sign in - Google Accounts 
+          - link retained
+          - DocsH 
+        - GgH Sign in - Google Accounts 
+        - TW @ Google Groups 
+        - ( GgH )tools
+      - Bitly. The power of the link. 
+      - other Graphs
+        - Constitutional Law 
+      - twitter archive = Google Groups 
+  - ErH E(ver) r(eady) H(...)
+    - 
+  - ChoresTda Do日 Chores日
+    - GitHub
+      - https://github.com/HwWobbe 
+    - Ð
+      - Ð ( for 2017- = 酉 ) 
+      - DgTn
+        - zH . Tfo 
+          - the existing explicit name should be changed to a static time Period reference
+        - TtH = T (ime) t (his) H 
+        - Details view: 2017- = 酉 
+          - ...
+      - 0 ( quickNotes ) 
+        - Wikipedia, the free encyclopedia 
+          - Wikipedia
+            - ( Knowledge acquisition )    
+          - https://commons.wikimedia.org/wiki/File:MoraineLake.jpg 
+          - WikiMedia https://commons.wikimedia.org/wiki/File:MoraineLake.jpg 
+          - check Getty since I have made this available as Public Domain
+      - other DG Maps
+        - Lz = Login  
+        - research proposal Completed Successful Proposals 
+        - Leadership & Systemic Innovation 
+      - Paste of DebateGraph point content (showing that it can move into this environment)
+        - perhaps Lisa outlines can be published in this manner
+        -  Ð = (my) DebateGraph symbol(s) 
+        - interfacing to rich media resources in other environments
+        - presenting extracted information and linking to its source
+        - not a point initially ...
+          - Ideally, this DebateGraph software can be used in broader contexts than just those of a Debate; hopefully even extending into the areas of Ontology.
+    - DgH
+    - TwH
+    - 日overDue (day)???? Q(ueue) 
+      - an example of a Name with an embedded timePeriod symbol
+    - _270: ...
+  - ~
+    - Scytl
+      - ShawnP
+        - ElectCa
+          - RFP
+            - ...
+            - Extension is likely inevitable
+              - + 2 months might affect GsD
+            - one Throat = written to fail
+              - internal struggle (pointless if Greg is out)
+            - 2nd re ?...?
+          - ~
+            - Stephan ? past IT
+            - Dave Sour OPS
+            - Jeremy Ehrlich
+          - ElectOn assisance
+            - Canadian standardization is essential
+              - rental is JonH ambition
+              - Vote Books are inevitable and will obsolete Poll Books
+                - Immutable logs ...
+                  - should appeal to ElectCa as an alternative to evergreen Poll Books
+                  - a Scytl technology that may be robust
+              - software can be bundled since it is a relatively small piece.
+        - Scytl consensus ?
+          - Scytl
+            - Teaming agreement 
+            - Pere banking response
+          - RichardC ?
+      - RichardC
+        - 2017-10-13: Trip Agenda & Teaming notes are needed
+        - -09-22:  Scytl( trip ; finances meeting )
+          - Jonathon ... provision ElectCa with ElectOn gear.
+            - phased development spread over several events.
+              - quided by an executive steering committee
+            - meeting with Shawn too.
+              - Juergen & Ahmed could be part of this, but would change it.
+          - ISI has 60 Wins ; tricky conversion that "has to go right"
+          - ( JanetKennedy < (high visibility program)PeterMelanson < DanialC )Microsoft
+        - JonH
+    - Ahmed
+      - -10-23: Ahmed
+        - App notes are in Tw:ElectOn
+        - -09-27 Notes ( likely in KeepH )
+        - DocsH & its permissions
+        - dropbox, if HTML is possible
+        - consider OneNote since it has storage.
+      - -10-25: Ahmed:
+        - Confirm the agreement to invoice 2018-03-0? > paid 2018-04-0? ... in writing (perhaps via SoW?_
+        - suggest that $100 > $73 will have to be prorated to actual volumes, especially is # = 22,000, muich less $18,000
+          - consistent with RFP & could be a SoW
+        - syndicated study of Alerts
+          - ElectCa as the cournestone
+          - ElectOn
+          - Toronto
+          - Bank
+    - GsD
+      - Diigo "FundsD"
+      - KenK call re AA & Juergen
+      - Azure account with Comparex(?)
+        - Introduce the other Compu*?
+        - DanielC views
+      - VC meeting?
+      - -09--04: ElectOn meeting
+    - Kristy @ Flagship
+    - RoganV
+      - Address skunkWorks
+      - Mike Henry to Chief Data Officer
+      - RBC mortgages via NicholeWells
+      - Andrew Storey - LinkedIn
+    - PrW
+      - 250420: GoodFriday - Easter visit
+      - PWobbe@DataFix.com
+    - KfW > Scotiabank > Boris 
+      - KfW re Return of Data & Certificate ?
+        - "do in 1 week" 
+          - needs to be confirmed
+          - does not include all other 
+            - non-ops time (reporting, accounting, fixed costs) 
+            - recovery of dev. time
+            - enhancements
+              - bureau Alerts (gdr & hwo time)
+        - Analysis of Movers & Opportunities
+      - Another Boris email review offer
+      - Mike B ... cleanup
+        - certificate delivered ( copied for ?? )
+          - Reply to email asking John ?
+        - Invoice addressed to ?
+        - report & next plans
+          - preparations should support enhanced Quarterly processing
+      - SbTn
+        - MikeB email is confirmed
+        - 2019- budget(s)
+      - Pat T follow-up = pilot report & proposal
+      - John meeting prinout
+      - Terry Chan Names response
+    - KenK
+    - JohnD
+    - Manfred via Facebook
+    - ㋇ Tom Saar via Facebook
+    - grandBoys
+    - Cmp
+      - X-tabs > histInCell
+      - explainable variations
+      - CmP
+    - ElS
+      - Demoi use case
+        - "Curbside inquiry" on new Listings (in Ontario)
+      - prepare for call re Curbside
+        - try making a copy of the tiddlySpot file
+        - showed that changing a Tiddler name spawns updates to ... ? tags ...
+    - Keith Archer CEO B.C.
+    - LinkedIn
+      - https://www.linkedin.com/in/stevewass/ 
+    - Microsoft
+      - Julie, Microsoft = coffee
+        - Smart Cities X Microsoft mid November
+      - Kevin Peesker LinkedIn 
+    - collaboration
+      - debateGraph
+        - KM strategies in Higher Education Institutions 
+  - 午㋄㏤ = 2026-05-05
+    - ...
+  - Fortnight = use a 1/2 moon symbol 
+    - -w1?
+      - SbLoan preparations
+        - Andrew Wright 613-242-2465
+          - Bank concerns
+            - collateral for Risk mitigation
+            - ...
+          - suggested All banking as a condition.
+            - multi-branch Transaction processing will have to be compared.
+              - BMO Amherstview is convenient and service oriented.
+          - Bank conditions met 
+            - repayment ability
+          - DataFix concerns
+            - Terms & Contracts
+              - termination ?
+            - Rates
+        - FundsD (v2017-07-.1)
+          - update the following ...
+            - use of Funds
+              - Margin improvement
+              - growth stress relief
+            - DFX financial indicators ( the "Money" )
+              - DataFix, as the dominant Canadian provider of Elector List management services, has financials that are are inevitably linked to the four year elections cycles.  Specific numers that result from this include ...
+                - DataFix operated during the 2011-2014 cycle as a $2,000,000 / year revenue company.
+                  - Half of this revenue is related to the Event, but is recognized and reported as WIP (since the majority of our Municipal customer pay 25% annually, in advance).  This minimizes our Taxation to be under 20% as a Canadian Controlled Private Corporation that has Income of under $500,000.
+                - Expected revenues throughout the 2015-2018 cycle are expected to be comparable while we are investing our time and money in developing the next generation of "poll book" services based on the Canada's strict requirement of "sovereign soil" processing of Elector data and Microsoft's recent launch of their Azure Cloud offerings that provides the needed and scale-able infrastructure.
+                - There is an opportunity for dramatic growth in the 2019-2022 cycle given our dominant position in Canada and the Azure infrastructure developments we are now implementing.
+                  - We believe our Financial results could "double" from the current cycle to the next, while we should still be able to retain our "Small Business" tax rates and advantages.
+            - Management ( the "Men" )
+              - Geoff Day and Hans Wobbe have founded, managed and built DataFix since its inception in 1993-1994, after starting to work together in 1987 to build one of the earliest national databases for a major Financial Institution.
+              - Several other staff of the most experienced staff have been employed in our firm throughout the past two decades.
+              - Dedicated full-time employees currently number about 15 people, augmented by another dozen Contractors with specific development skills, focused on Election Event support activities just before and during the event.
+            - Current metrics ( the "Markets )
+              - Elections Ontario has contracted with DataFix to implement a system supporting some 25,000 (election worker) Poll Books.  To the best of our knowledge, this will be the largest operartional system in the  worlf by a factor of 5.  This project is predicated on key beliefs:
+                - Elections Ontario believes it cannot no longer afford the costs of the historical Election worker staffing given that they need as many as 70,000 temporary election workers. (a most significant component of the cost of the Ontario provincial election)
+                - Ontario's political Parties believe that near realt-time monitoring of Voter turn-out will enable them to improve participation and the apparent validity of their resulting Mandate to govern.
+              - Elections Canada, at three times the size of Ontario, has indicated that it needs as many as 270,000 temporary Election workers and is actively working on an imminent RFP.  This project is likely to have a total cost of about $150,000,000 since it will be more that three times the size of Elections Ontario 's active %50,000,000 project.
+              - DataFx currently provides almost 300 municipalities with List related processing services.  We work with more than half of Canada's Provnces and Territories.  And we have a worked with Elections Canada many times throughout the past 20 years.
+            - Cities are earliest assured Change of Address insight
+              - Taxes pro-rated
+              - copy of mortgage discharge too via lender (data error removal)
+              - ElectCa will buy ...
+                - if only to get the last minute updates.
+                - should buy All Canadian Address Database too.
+          - use of Funds (the "Plan" = Business Development acceleration)
+            - ElectCa preparations
+            - Additional Provinces support
+            - Election Worker Management components expansions and refinement.
+            - Staff additions intended to reduce our contracting costs, given the growth of our longer-term prospects
+            - other Municipal Data services development
+        - future value increases as margins grow
+          - compare to recent thoughts
+            - 3.0 x 15% ; 3.3 x 25% ; 3.6 x 35% ; 4.0 x 45%
+        - Invoicing details
+        - supporting notes
+        - personal info = CRA Assessment 
+        - ( Scytl ) valuation
+      - Invest
+        - Futures - Bloomberg (from RssFeeds.CalculatedRisk.BillMcBride
+          - links to SPX
+      - MarkDown is different
+        - #tag support is different
+      - -03-17: realized Tiddlers are a pain to edit v. Outliners
+      - Technology-led innovation and emerging services in the Canadian financial services sector - Competition Bureau 
+      - ( -w06 = F = -02-12 )
+      - -1?: Tuesday
+    - perhaps 2xMoons ?
+    - Ð.v: Europa 
+    - Federal Flevator
+      - ( elevator )House & Garden
+        - bathRd.elevator
+          - a DocsH file is needed, likely with supporting KeepN(s)
+          - Elevator 
+          - @ Details view: ⁵ = Findings 
+            - responsiveness
+            - Liability (for safety)
+              - rescue scenarios
+            - Queue information
+              - alternative action
+              - premium service
+            - parts supplies
+            - profitability
+              - class-action law suite(s) unless government action
+        - elevator @ keep =  Sign in - Google Accounts 
+      - https://docs.google.com/document/d/1cD_-tevCF2E3N8_ceMFJkeZ-pMNPYk0WWr56oXSHHWs/edit#
+    - ( -w07 = G )
+      - -19: Monday
+    -  酉 
+      -  tiddlyServer 
+      - document how to create it & try to replicate this function on the prior page.
+        - This seems easier in the ( Login - Dynalist )environment.
+      -  Gitter — Where developers come to talk. 
+    -  2017-04- - Dynalist 
+"<a target="_blank" rel="nofollow" class="link " href="https://dynalist.io/d/80UzhC1Y8W5lvQKe4mcyoodE">Login - Dynalist</a> 
+This is a Note example.  Diigo has worth-while Note formatting.  Check Dynalist
+"
+  - -w3?
+    - -06: Monday
+    - SbAa
+    - GaryP: 
+      - 2018-01-17: Gary: "just a T4 issue.  Ignore.
+      - 2017-10-26: CRA = 
+        - annotation try = https://diigo.com/0alye8
+    - -07: Tuesday
+      - DfX
+      - Lz
+        - TrainingLz
+          - Timesheet
+          - Notes on OneButton architecture
+          - realEstate engagement
+          - visit
+            - Gee, you house is clean
+            - "I'll take my boots off" was an attempt to solicit a "not necesary" objection
+          - Lh file
+          - Outliner demo for Lisa failed ...
+            - She wants to use Word (but will settle for Docs)
+            - The benefits of an Outliner
+              - trivial to reposition text via dragAndDrop
+              - effective URL support ("folded" bookmarks)
+            - Limitations ...
+              - just a single line per point
+          - 
+        - PointsLz ...
+          - mailto:Lzeller29@gmail.com
+          - When I am waiting for feedback, your objectives are slipping.
+          - Lisa needs more real estate Search attributes that are reliable
+            - Make this point to NickS
+            - talk to PaulM anout the personas and Lisa's Boutique ideas
+            - MPAC attributes are more reliable than MLS attributes are.
+            - rank by Assessed value versus rank by Listing price and track the difference in the rankings (value)
+          - DocsLz can be a quick place to park KeepH notes that she can att a proper title to.
+            - ...
+          - 2017-06-14 talk
+            - Real Estate Buyer & Seller app
+            - Agent App
+              - ( prospect's "hand-out" sponsored by Anet ? @ yourData? )
+              - what would clearly demonstrate that MLS is not needed?
+                - Competition Bureau might help
+        - Kat camera (Samsung) NX300 
+          - KZeller29@gMail.com
+            - Color photographer
+            - How can Kat best benefit from WikiPedia and DebateGraph
+              - explain about Interestingness.
+              - She has stated an interest in learning to Edit Photos.
+                - This may be just a starting point.
+                  - show how it might evolve into a full Photography capability.
+            - Does she want to own a house?
+              - Would she benefit from a trust fund?  would Lisa benefit from a locked-in RSP?
+          - Try to find the Basics on the web for her.
+          - what subjects does she really like
+            - use Interestingness
+    - -08: Wednesday
+    - -09: Thursday
+    - -10: Friday
+    - -11: Saturday
+    - -12: Sunday
+    - Juergen needs ...
+      - We start building the AllAddresses Database for Richard, giving him metrics of "good".
+        - We can geoCode the data & add enduring Keys to simplify matching.
+          - This can be done as a Tripartite project involving MPAC ElectCa & selected Cities.
+          - We can write the SoW and then have them agree it it.
+            - Karl & Hortense can help.
+        - get his data, run it though AA & NCOA, match to SbCards for CiT & Bureau access
+        - extend chaining with Bureau history.
+      - I think AllCanAddresses is important.
+        - provide a minimal app that provides a response to a locations oneButton press.
+          - at Home, your Address ( & a registration prompt for your free comparables )
+          - at a listing, the address you are at + 
+            - comparables (1 / 100 ) +
+              - an MLS "houses like this" query
+          - ...
+        - this can be a "tripartite" solution
+      - ElectCa @ ...  Google Docs - create and edit documents online, for free. 
+        - Study @ keep = Sign in - Google Accounts 
+        - eREg option for ShawnP (whom Juergen dislikes)
+      - Juergen https://groups.diigo.com/group/data_fix-users
+        - "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+          - --app=https://keep.google.com
+      - platform participation (Ahmed APP in our OneButton architecture)
+        - this came out of the Curation > Engagement thinking
+      - pay - -09-09: agreed to invoice 6k/month & review
+      - review the doc
+    - backup(s)
+      - offline
+      - offsite
+      - cloud
+      - register Dobro
+      - cloud
+        - dropBox
+        - Neocities for hosting? Super easy, drag and drop uploading, https, no sign-up 
+    - Health
+      - Gelfand Cleaning
+      - Eckhart
+      - ( MikeW Kat?? )Elder Care
+- TnT: priorities:
+  - KeepH link(s)
+    - outline EdD2026
+      - 
+    - Sign in - Google Accounts 
+    - https://www.protopage.com/hanswobbe#Hwo_(Public)/%22!%22_%3D_News 
+  - LsH re 
+    - 0505: TuesDay:
+      - HwT: SR&ED
+    - Gary talk?
+    - Aas progress
+    - Dividend Account
+  - https://docs.google.com/document/d/1003fPUq187ugvx7UONrNtbj8zz_DeHCTjFdXnmEzau0/edit?tab=t.0 
+  - EdDf
+    - EdDf2026
+    - EdDf2025
+    - EdD2024
+      - price EdD2024 / Geoff's values
+      - review EdD2023
+  - Google Maps  / GfH
+  - FriDay Talk with MikeS about Hardware considerations 
+  - NotionLink(s)
+    - https://www.notion.so/admanca/Writing-066f88753fc14a92bad17501f6862d91 
+    - getting started https://www.notion.so/admanca/208deffa083a40268c88cdd49b89d719 
+  - rename this Outliner.
+    - to the current month
+      -  ㋉ 
+        -  localServer 
+"http://127.0.0.1:8080/#TtT
+
+a benign personal convenience"
+        - a Note example, using a dayOfMonth symbol
+        - Capabilities
+          - Expand/collapse
+          - Rename
+          - DnDrop re-order
+          - Share
+        - https://scratch.mit.edu/projects/753196655/editor 
+    - ...
+- TpN: T(ime) p(ast) N(otes)
+- Priorities
+  -  ⓵ 
+    - build this as part of the Introduction for CraSred
+    - craft the QrSt structure
+  -  Despite charges against HVAC company, homeowners say they continue to lose millions in new contracts | CBC News 
+  -  FeatherTwH — ... 
+"While still in the neo-natal development stage, this is a Public staging area for which Diigo acts as a switchYard RoundHouse.
+...
+
+"
+  -  Pp:HansWobbe 
+"Tagged ... since this is a high-level, top-down, toDo list.
+Adding a Comment "Pops" the bookmark in the Diigo stack."
+  -  ㏠ 
+  -  ㏠ 
+"
+This outliner can be accessed via a link scheduled in PbWorks
+
+I am not sure I have an adequate understanding of how these Outliners work.
+There is a different block of text associated with this name in the Library view.
+
+Investigate text blocks like this, in Outliners, further
+
+This merits further investigation
+
+* trying to make this an effective Note
+** this Outliner is a valid starting point, but ...
+*** <a target="_blank" rel="nofollow" class="link " href="https://www.diigo.com/user/hanswobbe/b/477479858">Diigo|Permission Denied</a> 
+** consider...
+*** <a target="_blank" rel="nofollow" class="link " href="https://www.diigo.com/o/d8j6kd/TfoTt">https://www.diigo.com</a> 
+* creating a Note explicitly for each Topic or Date may be better"
+  -  HeadingsH 
+  -  2018-03 - Google Docs 
+"This file ..."
+  - ( 戌 = Dog ) ...
+    - TW5 Hacks — Quick Extensions for TiddlyWiki 5 
+      - extract macro = TW5 Hacks — Quick Extensions for TiddlyWiki 5 
+  - initial View Ð ( for 2017- = 酉 ) 
+  - Conclusions:
+    - bubble(s)
+      - IPOs this week have DoorDash and Airbnb worth billions of dollars despite not turning a profit | CBC News 
+      - 
+    - this display of Notes can be used to good effect
+  - ( ㋀ = TmoTt )
+    - Harry Zarek, Compugen 2018-01-15
+    - -01-31: DanS
+      - Investments > 2017-w52
+    -  ㋇㏾ 
+      - It is unlikely that more than one control can exist on a line
+        - this makes "Top" lines more valuable.
+  - / = TopicsH
+    - Diigo outliner is a useful sidebar.
+      - ...
+    - it does not seem possible to Copy more than 1 line of a diigo Outliner
+    - there is an Export control in the headerBar
+    - _wip: ...
+      - Contexts include webPages, for which each entry point should have a LedeN.
+    - U(RLs) links
+      - ⚒
+        - UniCode
+          - Wp: Basic Latin (Unicode block) 
+        - AHK (?)
+          - file:///C:/Users/hwo/Dropbox/TW5/5.1.13.html#LedeH 
+        - wayBackMachine = https://web-beta.archive.org/
+      - maps
+        - rouge hill 
+          -  43.779900,-79.130800 - Google Maps 
+      - LikeInMind
+        - the underlying wiki has merit evident in the Doogp Groups posting I did for Juergen
+        - 2017-07-16: Totals:  Nodes: 6559  Citations: 6430  Comments: 0  Cross-links: 1224
+      - bitLink to my Diigo Bitly. The power of the link. 
+      - #KnowledgeMaps hashtag on Twitter 
+      - mySites
+        - flickr
+        - wikiPedia
+        - WardsWiki
+        - Yahoo 
+    - Tw5
+      - tiddlyServer = Google Groups 
+      - simplified TiddlyServer = Google Groups 
+      - npm 
+      - TiddlyWiki toolmap - Dynalist 
+      - Diigo might help me summarize Tw5 better than gMail
+        - EdD: Diigo suggests tags that include *value strings
+          - This provides methodical consistency in Names that can propagate through all repos.
+        - main folder link Google Groups 
+        - TiddlyServer may be a solution. Google Groups 
+        - a recipe, but ... Google Groups 
+        - 5.1.15 is out Google Groups 
+      - wayTo = Google Groups 
+      - Kaban ( Trello ) = Google Groups 
+      - bundles = Google Groups 
+      - beakerBrowser = Google Groups 
+      - beakerBrowser @ tw = Google Groups 
+      - other Wikis
+        - http://meatballwiki.org/wiki/HansWobbe 
+        - communityWiki
+        - ...
+    - 含 = Content or Context 
+    - ???? = Search ; 《 target(s) 》
+    - Æ ... need a Symbols character
+    - ???? = alphanumeric symbols input = U+1F523
+    - NamesH
+      - SrEd tiddler Names rules = TiddlyWiki — a non-linear personal web notebook 
+      - SigilsH
+      - * namesFilters
+        - ** https://groups.google.com/d/msg/tiddlywiki/SlPlBpm8NqY/3kudPBwnDwAJ
+    - images ...
+      - tobi macro preferred over cannonical Google Groups 
+    - blockChain @ tw = Google Groups 
+    - Fraud
+      - 198 million Americans hit by "largest ever" voter records leak | ZDNet 
+    - Knowledge
+      - Science
+        - Teleportation: Photon particles today, humans tomorrow?
+        - Elementary particle - Wikipedia 
+          - quarks + ...
+      - Education
+        - Teachers union says "if we are scoring too low, we should not test".  Absurd!
+      - Quran - Wikipedia 
+      -  China economy ; access method(s) 
+"hiLite(s) make links from source to Diigo.
+Tags can then link to pertinent items.
+
+<a href="https://www.bbc.com/news/world-asia-china-55454146">...</a>
+"
+      - Lakshmi - Wikipedia 
+    - Ð(ebateGraph)
+      - 2017- = 酉
+        - Tasks @ J. P. Rives & Associates 
+          - RnA FrontPage J. P. Rives & Associates
+            - ?? J. P. Rives & Associates / Log in 
+            - pick an R symbol, perhaps from the same range as the DataFix symbol and the Hwo symbol
+          - personal (admin?) page = J. P. Rives & Associates / Log in 
+        - J. P. Rives & Associates / Log in 
+        - ⌘ = Places = http://debategraph.org/Stream.aspx?nid=496035&vt=bubble&dc=focus 
+        - Four Pillars of Destiny - Wikipedia 
+        - ⼯ = work ( this could be combined with my TimePeriod symbols )
+        - Q(ueue) ; R S T 
+        - 2017-09-10 18:39 UTC H Wobbe 
+        - ㋇
+        - ( -09- = Tn )月
+          - ㏠
+          - Shirts Unlimited
+          - mimas has APACHE PERLE ODDMUSE and many wiki files
+            - paul want to shut down win2003
+              - the upgrade cost is likely low
+              - ...
+          - SrEd
+            - Ð Semiosis 
+            - Methodical is a key test.  My continuousImprovement ( WiP ) clearly can demonstrate this
+          - TiddlyWiki Manual - Wikibooks 
+          - 833-387-4374 "Computer security" scammers
+        - JohnD.KeepH 
+          - Sign in - Google Accounts 
+        - stackOverflow
+          - Photography Stack Exchange 
+          - User HwWobbe - Stack Overflow 
+        - 期
+          - BpH > GgH
+            - This is a private Outliner, so it should be ordered for my own use.
+            - myOutliners
+              - I may need to create a bookmark  for each Day of the month.
+                - That would provide a large amount of note space
+              - Define myWorkFlow to allow me to look at it's component tasks and refine them.
+              - Description use
+                - Note the different display of the Description and the Sticky
+                - Establish just how big the Description can get.
+                - Perhaps this is an effective notepad?
+                - A big part of its appeal is based on the excellent tagValue filtering Diigo does.
+                - I must remember to Save
+                - These short lines may import into an outliner reasonably well..
+                - The selectAll at least seems to work well as a Copy
+                - But the paste does not seem to work well in the Outliner 
+                - That may just mean using SysH as opposed to TabH
+                - One practical limit to the use of a Description like this,  is the emerging need to scroll
+              - links
+                - use ㍰ rather than ㍘
+                - try using the Link symbols
+                - Make more use of the Alternate forms of letters for Distinct targets
+                  - this should be Noted as a Rule
+              - Chinese Zodiac should be arranged in the correct sequence.
+                - The Days make an effective Calendar; update the year(s)
+                - make more use of Notes now that I can filter for these Types of Content
+            - dictate, rather than typing
+            - WardC's how to wiki 
+            - HwWobbe (Hans Wobbe) · GitHub 
+              - Confirm that GitHub offers best Control & ...
+            - OneNote re-visit
+              - separate the Hardware access from the software access
+                - ...
+              - I may need to be a new account
+            - 文
+            - reporting Chapters
+              - 0.0 Covers
+                - Project Names(s)
+                  - Reports, Snapshots & Version(s)
+              - 1.0 Foreword
+                - report structure
+                - Audience(s)
+                  - Users
+                  - Participants
+                  - Sponsors (funding)
+              - 2.0 Contents
+                - major Material & Points
+              - 3.0 Summary
+                - O. & T.
+                - Goals
+              - 4.0 Introduction
+                - S. & W. 
+                - Scope
+              - 5.0 Findings
+                - Background (Past)
+                - Status (at This time)
+                - Steps (Next period)
+              - 6.0 Conclusions
+                - Benefits
+                - Costs
+                - Schedule
+                - Risks
+              - 7.0 Recommendations
+                - 7.1 Tasks (assignments)
+                - 7.1 Roles  (respoinsibilities)
+              - 8.0 Appendicies
+                - WayH
+                - WhyH
+              - 9.0 EndNotes
+          - WayH ( 㣔 )
+            - This Outliner seems a more efficient way of structuring material than DebateGraph
+              - short-term 
+            - DebateGraph is a much superior way of producing and consuming Pages.
+              - long-term
+            - Diigo provides best Capture & Bookmarking
+            - Use OneNote more
+          - ㋋
+            - STEMM (blockchain) & Stemmit
+          - ㋆
+      - Protestant Reformation 
+      - DebateG:Details view: ???? ( quickNotes ) 
+  - Time periods
+    - ( 酉 = Rooster )
+      - ( -12- = TmoTt )月
+      - Hans Wobbe - Google+ 
+    - bolding = ^b
+    - T(ime) p(ast)
+      -  ㋆㏾ 
+      - -09-09- confirmed Azure access is starting to meet DPL's needs.
+      - -10-04: SbAa invoice
+      - "_zDone"
+        - -07-14: Gary McLeod
+        - -07-27: Teaming Agreement for -28
+        - -07-18: RichardC
+      - Achievements
+        - collect done tasks & show how they contribute to myGoals
+          - Business
+          - Health
+            - ( 2017-08-09: Root canal )Dental 
+            - 2017-09-06: dental
+              - Kotansky 2nd Crown
+          - pleAsure(s)
+            - -08-05: penitentiary tour with Paul & Julie
+            - -08-11: Bon Echo KfW+
+              - -2? grandGirls
+            - GjW cottage
+          - 
+        - ...
+
+<hr>
+
 - 26-05-29:
   - ...
   - AiBlaze resumption
