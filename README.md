@@ -33,6 +33,7 @@ add-weather-dashboard
 - 26-05-29:
   - ...
   - AiBlaze resumption
+    - 
   - consider: autoGitAid influences  
     - https://github.com/HwWobbe/AiContext
   - ??:00 LzAsus setup
