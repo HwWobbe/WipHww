@@ -1,4 +1,4 @@
-Historical timPeriods are being restructcured.
+Historical timPeriods are being restructured.
   ?? Diggo <> GitHub /?
 add-weather-dashboard
 
