@@ -1,6 +1,8 @@
 Historical timPeriods are being restructured.
   ?? Diggo <> GitHub /?
   
+https://gist.github.com/HwWobbe/401dcf593e8a30318695199a6a4bf954
+
 add-weather-dashboard
 
 ## 2026-MM: 
