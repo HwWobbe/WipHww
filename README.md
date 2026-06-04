@@ -8,8 +8,10 @@ add-weather-dashboard
 ## 2026-MM: 
 ## 2026-06- 
 
-### -06-01 -02
-ConferenceDf2026
+-06-03 -04 Waterloo
+  - Q0rsa
+-06-01 -02
+  - ConferenceDf2026
 
 <hr>
 
@@ -17,7 +19,6 @@ ConferenceDf2026
 ...
 
 ## 2025-09:
-
 
 ### -09-.Tp
 
