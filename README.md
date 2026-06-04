@@ -9,7 +9,7 @@ add-weather-dashboard
 ## 2026-06- 
 
 -06-03 -04 Waterloo
-  - Q0rsa
+  - Qorsa
 -06-01 -02
   - ConferenceDf2026
 
