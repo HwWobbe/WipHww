@@ -6,7 +6,10 @@ https://gist.github.com/HwWobbe/401dcf593e8a30318695199a6a4bf954
 add-weather-dashboard
 
 ## 2026-MM: 
-## ...
+## 2026-06- 
+
+### -06-01 -02
+ConferenceDf2026
 
 <hr>
 
