@@ -10,7 +10,7 @@ add-weather-dashboard
 
 -06-05:
   - sync issues - due to persistent, poor ENV focus
-  - contraint imposed - stay high to limit syncError propagation
+    - contraint imposed - stay high to limit syncError propagation
 -06-03: -04 Waterloo
   - Qorsa
 -06-01 -02:
