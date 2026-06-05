@@ -8,9 +8,11 @@ add-weather-dashboard
 ## 2026-MM: 
 ## 2026-06- 
 
--06-03 -04 Waterloo
+-06-05:
+  - sync issues - due to persistent, poor ENV focus
+-06-03: -04 Waterloo
   - Qorsa
--06-01 -02
+-06-01 -02:
   - ConferenceDf2026
 
 <hr>
