@@ -8,6 +8,8 @@ add-weather-dashboard
 ## 2026-MM: 
 ## 2026-06- 
 
+-06-08:
+  -KfwT
 -06-05:
   - sync issues - due to persistent, poor ENV focus
     - contraint imposed - stay high to limit syncError propagation
