@@ -9,7 +9,7 @@ add-weather-dashboard
 
 - NewVote Matthew
 - S.A.
-. newTryer
+- newTryer
 
 
 ## 2026-06- 
