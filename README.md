@@ -8,7 +8,9 @@ add-weather-dashboard
 ## 2026-MM: 
 ## 2026-06- 
 
--06-08:
+006-08
+  -basel
+-06-06 -07:
   -KfwT
 -06-05:
   - sync issues - due to persistent, poor ENV focus
