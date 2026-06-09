@@ -6,6 +6,12 @@ https://gist.github.com/HwWobbe/401dcf593e8a30318695199a6a4bf954
 add-weather-dashboard
 
 ## 2026-MM: 
+
+- NewVote Matthew
+- S.A.
+. newTryer
+
+
 ## 2026-06- 
 
 006-08
