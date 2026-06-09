@@ -9,10 +9,10 @@ add-weather-dashboard
 ## 2026-06- 
 
 006-08
-  -basel
+  - basel
 
 -06-06 -07:
-  -KfwT
+  - KfwT
 
 -06-05:
   - sync issues - due to persistent, poor ENV focus
