@@ -8,7 +8,8 @@ add-weather-dashboard
 ## 2026-MM: 
 
 - NewVote Matthew
-- S.A.
+- S.American
+- edelweiss e.k.a.: ...
 - newTryer
 
 
