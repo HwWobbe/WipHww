@@ -15,7 +15,10 @@ add-weather-dashboard
 
 ## 2026-06- 
 
-006-08
+-06-12:
+  - GoldmannCo chat( Maybe .da+90 ; diff. baseLine & goldmann ) 
+  
+-06-08:
   - basel
 
 -06-06 -07:
