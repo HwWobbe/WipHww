@@ -17,6 +17,7 @@ add-weather-dashboard
 
 -06-13:
   - set https ... google.tinyPage into GitHub ?? via TBH /?
+    - AiH composes\fetches( Keep,  
 
 -06-12:
   - GoldmannCo chat( Maybe .da+90 ; diff. baseLine & goldmann ) 
