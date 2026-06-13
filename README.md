@@ -13,7 +13,7 @@ add-weather-dashboard
 - newTryer
 
 ### craft a summaey for Gsd
-- consider PbWorks
+- consider PbWorks per PbWorks link
 
 ## 2026-06- 
 
