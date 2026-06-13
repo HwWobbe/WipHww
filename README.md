@@ -15,6 +15,9 @@ add-weather-dashboard
 
 ## 2026-06- 
 
+-06-13:
+  - set https ... google.tinyPage into GitHub ?? via TBH /?
+
 -06-12:
   - GoldmannCo chat( Maybe .da+90 ; diff. baseLine & goldmann ) 
   - drw @ LoTm
