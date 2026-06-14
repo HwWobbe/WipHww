@@ -17,6 +17,11 @@ add-weather-dashboard
 
 ## 2026-06- 
 
+-06-14: (
+* still struggling with StartOfDay SETs
+* ...
+)
+
 -06-13:
   - set https ... google.tinyPage into GitHub ?? via TBH /?
     - AiH composes\fetches( Keep,  
