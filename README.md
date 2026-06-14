@@ -12,7 +12,7 @@ add-weather-dashboard
 - edelweiss e.k.a.: ...
 - newTryer
 
-### craft a summaey for Gsd
+### craft a summary for Gsd
 - consider PbWorks per PbWorks link
 
 ## 2026-06- 
