@@ -1,9 +1,9 @@
 Historical timPeriods are being restructured.
   ?? Diigo <> GitHub /?
   
-https://gist.github.com/HwWobbe/401dcf593e8a30318695199a6a4bf954
-
-add-weather-dashboard
+- https://gist.github.com/HwWobbe/401dcf593e8a30318695199a6a4bf954
+- Dan Barak, founder, TextBlaze - re Business
+- add-weather-dashboard
 
 ## 2026-MM: 
 
