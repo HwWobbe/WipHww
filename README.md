@@ -6,7 +6,8 @@ Historical timPeriods are being restructured.
   - gMail link: ...
 - ( M&A chat )Fri.
 - Claude re: ??
-- more Scutiny > more privateRepos
+- more Scutiny > more privateRepos - at least till Fall+
+  - localAi will alleviate this
 - add-weather-dashboard
 
 ## 2026-MM: 
