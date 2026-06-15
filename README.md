@@ -1,14 +1,6 @@
 Historical timPeriods are being restructured.
   ?? Diigo <> GitHub /?
   
-- https://gist.github.com/HwWobbe/401dcf593e8a30318695199a6a4bf954
-- Dan Barak, founder, TextBlaze - re Business
-  - gMail link: ...
-- fri.(
-  - CsLite project meeting
-  - M&A chat
-- )Fri.
-
 - Claude re: ??
 - more Scutiny > more privateRepos - at least till Fall+
   - localAi will alleviate this
