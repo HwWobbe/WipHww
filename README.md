@@ -3,6 +3,7 @@ Historical timPeriods are being restructured.
   
 - https://gist.github.com/HwWobbe/401dcf593e8a30318695199a6a4bf954
 - Dan Barak, founder, TextBlaze - re Business
+  - gMail link: ...
 - add-weather-dashboard
 
 ## 2026-MM: 
