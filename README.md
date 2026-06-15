@@ -6,6 +6,7 @@ Historical timPeriods are being restructured.
   - gMail link: ...
 - ( M&A chat )Fri.
 - Claude re: ??
+- more Scutiny > more privateRepos
 - add-weather-dashboard
 
 ## 2026-MM: 
