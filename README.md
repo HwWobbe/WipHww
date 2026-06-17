@@ -8,6 +8,7 @@ Historical timPeriods are being restructured.
 
 ## 2026-MM: 
 
+- see offLines:
 - NewVote Matthew
 - S.American
 - edelweiss e.k.a.: ...
@@ -17,6 +18,8 @@ Historical timPeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-06- 
+
+-06-17: ( https://gist.github.com/HwWobbe/b34befc2920f55032f949c7e04a1c5bc )
 
 -06-14: (
 * still struggling with StartOfDay SETs
