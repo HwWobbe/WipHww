@@ -2,7 +2,7 @@ Historical timPeriods are being restructured.
   ?? Diigo <> GitHub /?
   
 - Claude re: ??
-- more Scutiny > more privateRepos - at least till Fall+
+- more Scrutiny > more privateRepos - at least till Fall+
   - localAi will alleviate this
 - add-weather-dashboard
 
