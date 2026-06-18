@@ -24,6 +24,7 @@ Historical timPeriods are being restructured.
 
 ## 2026-06- 
 
+-06-18: ( keyboard possem > re-plugged USB )SysH glitch
 -06-17: ( https://gist.github.com/HwWobbe/b34befc2920f55032f949c7e04a1c5bc )
 
 -06-14: (
