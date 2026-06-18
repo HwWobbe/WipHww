@@ -13,7 +13,7 @@ Historical timPeriods are being restructured.
 
 ## 2026-MM: 
 
-- see offLines:
+- see off-Lines:
 - NewVote Matthew
 - S.American
 - edelweiss e.k.a.: ...
