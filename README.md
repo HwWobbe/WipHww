@@ -3,6 +3,7 @@ Historical timPeriods are being restructured.
   
 - Claude re: ??
   - re-organization
+    - refer to Gists
     - ...
   - ...
 - more Scrutiny > more privateRepos - at least till Fall+
