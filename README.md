@@ -5,6 +5,7 @@ Historical timPeriods are being restructured.
 - more Scrutiny > more privateRepos - at least till Fall+
   - localAi will alleviate this
 - add-weather-dashboard
+  - rains > leaks
 
 ## 2026-MM: 
 
