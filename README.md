@@ -5,7 +5,7 @@ Historical timPeriods are being restructured.
   - re-organization
     - refer to Gists
     - ...
-  - add a DiigoH link 
+  - add a DiigoH link. 
 - more Scrutiny > more privateRepos - at least till Fall+
   - localAi will alleviate this
 - add-weather-dashboard
