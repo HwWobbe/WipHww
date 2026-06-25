@@ -1,4 +1,4 @@
-Historical timPeriods are being restructured.
+Historical timePeriods are being restructured.
   ?? Diigo <> GitHub /?
   
 - Claude re: ??
