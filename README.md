@@ -8,6 +8,7 @@ Historical timePeriods are being restructured.
   - add a DiigoH link. 
 - more Scrutiny > more privateRepos - at least till Fall+
   - localAi will alleviate this
+- https://bit.ly/4g4SUbl
 - add-weather-dashboard
   - rains > leaks
 
