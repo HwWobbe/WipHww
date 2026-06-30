@@ -24,15 +24,10 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-06-: 
-
 -06-30: location of TwH via *.exe 
-
 -06-22: ( .f )TbT dramatic improvements
-
 -06-18: ( keyboard possem > re-plugged USB )SysH glitch
-
 -06-17: ( https://gist.github.com/HwWobbe/b34befc2920f55032f949c7e04a1c5bc )
-
 -06-14: (
 * still struggling with StartOfDay SETs
 * ...
