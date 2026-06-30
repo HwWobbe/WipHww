@@ -12,7 +12,7 @@ Historical timePeriods are being restructured.
 - add-weather-dashboard
   - rains > leaks
 
-## 2026-MM: 
+## 2026-MM:
 
 - see off-Lines:
 - NewVote Matthew
@@ -23,7 +23,7 @@ Historical timePeriods are being restructured.
 ### craft a summary for Gsd
 - consider PbWorks per PbWorks link
 
-## 2026-06- 
+## 2026-06-: 
 
 -06-30: location of TwH via *.exe ??
 
