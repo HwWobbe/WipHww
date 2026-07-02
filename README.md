@@ -24,7 +24,10 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
-- -07-02: HowTo: restart ClawH
+- -07-02: (
+  - HowTo: restart ClawH
+  - .tn0.da @ chatGpt...
+  )
 - -07-01: extensive re-vamp of TwH!!_(contentByTarget.dates) 
 
 ## 2026-06-: 
