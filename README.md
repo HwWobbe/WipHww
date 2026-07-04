@@ -24,6 +24,7 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-04: ClawH recovery
 - -07-02: (
   - HowTo: restart ClawH
   - .tn0.da @ chatGpt...
