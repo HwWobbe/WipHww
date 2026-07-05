@@ -24,6 +24,7 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-05: mimimal .jump refinements
 - -07-04: ClawH recovery
 - -07-02: (
   - HowTo: restart ClawH
