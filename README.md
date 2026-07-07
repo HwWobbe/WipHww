@@ -24,6 +24,7 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-07: heartBeat
 - -07-05: mimimal .jump refinements ; DiigoH.GitHub ; 
 - -07-04: ClawH recovery
 - -07-02: (
