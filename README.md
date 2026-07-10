@@ -24,7 +24,7 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
-- -07-10: start of recovery of TwH from 'inet crash during a critical update
+- -07-10: start of recovery of TwH from 'inet crash during a critical update ; Ai + Word template Meld try
 - -07-08: ( PsH )FAIL
 - -07-07: heartBeat
 - -07-05: mimimal .jump refinements ; DiigoH.GitHub ; 
