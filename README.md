@@ -24,6 +24,7 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-12: TwH recovery ( from leftSideBar = vertical tabs errors )
 - -07-11: TwH & AiH integration(s)
 - -07-10: start of recovery of TwH from 'inet crash during a critical update ; Ai + Word template Meld try
 - -07-08: ( PsH )FAIL
