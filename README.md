@@ -4,7 +4,7 @@ Historical timePeriods are being restructured.
 - Claude re: ??
   - re-organization
     - refer to Gists
-    - ...
+    - refine the AiBlaze methodology
 - more Scrutiny > more privateRepos - at least till Fall+
   - localAi will alleviate this
 - https://bit.ly/4g4SUbl
