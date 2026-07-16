@@ -5,7 +5,6 @@ Historical timePeriods are being restructured.
   - re-organization
     - refer to Gists
     - ...
-  - add a DiigoH link. 
 - more Scrutiny > more privateRepos - at least till Fall+
   - localAi will alleviate this
 - https://bit.ly/4g4SUbl
