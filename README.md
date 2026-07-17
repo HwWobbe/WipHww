@@ -27,6 +27,7 @@ Historical timePeriods are being restructured.
   - TopArt/V01 implemented 
     - appeals: N-Dimensional Arrays in Talk Spine(s)
   - retained services for: InvestCo, FamOfCo
+  - gradient Pulsed
 - -07-13: Pulse.DiigoH
 - -07-12: TwH recovery ( from leftSideBar = vertical tabs errors )
 - -07-11: TwH & AiH integration(s)
