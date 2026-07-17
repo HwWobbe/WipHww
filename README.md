@@ -23,6 +23,8 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-17: TopArt/V01 implemented 
+  - appeals: N-Dimensional Arrays in Talk Spine(s)
 - -07-13: Pulse.DiigoH
 - -07-12: TwH recovery ( from leftSideBar = vertical tabs errors )
 - -07-11: TwH & AiH integration(s)
