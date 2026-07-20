@@ -23,6 +23,8 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-19: AiBlaze refinements
+- -07-18: Kfw re Goldfarb
 - -07-17:
   - TopArt/V01 implemented 
     - appeals: N-Dimensional Arrays in Talk Spine(s)
