@@ -26,6 +26,7 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-23: see PR107
 - -07-20: Accounting + 
 - -07-19: AiBlaze refinements
 - -07-18: Kfw re Goldfarb
