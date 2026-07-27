@@ -51,6 +51,7 @@ Historical timePeriods are being restructured.
     - 4.2 resolvability
     - 4.3 reliable inTalk navigation
 + target🪡s(  ^f .0.z.x 0.⌖午午㋆㏦ .tp .tt .tn GaP  "𝔸 𝔹" )🪡s
+  - 🪡 General wrapper grammar registered
 
 ### n午㋆㏺㍚ [[午㋆㏺㍚]] ⌖ 0.z.⌖午㋆㏲ 
 - 午㋆㏲㍞
