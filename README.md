@@ -1,8 +1,7 @@
 
-^f( GitPrefix: Confirm effective communication )^f
-
-quickLinks
+## 0 quickLinks
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-07-
+   - ^f( GitPrefix: Confirm effective communication )^f
 
 Historical timePeriods are being restructured.
   ?? Diigo <> GitHub /?
