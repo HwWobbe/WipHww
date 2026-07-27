@@ -2,6 +2,7 @@
 ## 0 quickLinks
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-07-
    - ^f( GitPrefix: Confirm effective communication )^f
+     - PD(ed)
 
 Historical timePeriods are being restructured.
   ?? Diigo <> GitHub /?
