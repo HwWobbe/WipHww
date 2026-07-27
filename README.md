@@ -28,6 +28,7 @@ Historical timePeriods are being restructured.
 ## 2026-07-: 
 - -07-27:
   - DrwH
+  - make n午㋆㏺㍚ a separate page in the right folder
   - ``: `x2-3 = `((...)x2)-3 for .tn 
   - 0 StartRitual.ContextBase
     - 0.1 A startRitual should always set a ContextBase
