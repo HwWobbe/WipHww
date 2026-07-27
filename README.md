@@ -26,6 +26,43 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-27:
+  - DrwH
+  - ``: `x2-3 = `((...)x2)-3 for .tn 
+  - 0 StartRitual.ContextBase
+    - 0.1 A startRitual should always set a ContextBase
+    - 0.2 ContextBase must be quickly validated by User
+    - 0.3 Left-truncated time strings depend on this base
+  - 1 Rule
+    - 1.1 Establish ContextBase before using truncated stamps
+    - 1.2 Use the smallest sufficient ContextBase
+    - 1.3 Persist full stamps when content leaves the active session
+  - 2 Examples
+    - 2.1 ContextBase = 午㋃
+    - 2.2 🧩⏱㏨㍩ resolves to 午㋃㏨㍩
+    - 2.3 ContextBase = 午㋃㏨
+    - 2.4 🧩⏱㍩ resolves to 午㋃㏨㍩
+  - 3 Validation
+    - 3.1 Show ContextBase near top of session
+    - 3.2 User confirms with quick visual check
+  - 4 Goal
+    - 4.1 brevity
+    - 4.2 resolvability
+    - 4.3 reliable inTalk navigation
++ target🪡s(  ^f .0.z.x 0.⌖午午㋆㏦ .tp .tt .tn GaP  "𝔸 𝔹" )🪡s
+
+### n午㋆㏺㍚ [[午㋆㏺㍚]] ⌖ 0.z.⌖午㋆㏲ 
+- 午㋆㏲㍞
+  - ㍘ ㍙ ㍚ ㍛ ㍜ ㍝ ㍞ ㍟ ㍟. ㍟, ㍠ ㍡ ㍢ ㍣ ㍤ ㍥ ㍦ ㍧ ㍨ ㍪ ㍫ ㍬ ㍭ ㍮ ㍯ ㍰
+  - ㏠ ㏡ ㏢ ㏣ ㏤ ㏥ ㏦ ㏧ ㏨ ㏩ ㏪ ㏫ ㏬ ㏭ ㏮ ㏯ ㏰ ㏱ ㏲ ㏳ ㏴ ㏵ ㏶ ㏷ ㏸ ㏹ ㏺ ㏻ ㏼ ㏽ ㏾
+  - [[㏠]] [[㏡]] [[㏢]] [[㏣]] [[㏤]] [[㏥]] [[㏦]] [[㏧]] [[㏨]]
+  - [[㏩]] [[㏪]] [[㏫]] [[㏬]] [[㏭]] [[㏮]] [[㏯]] [[㏰]] [[㏱]] [[㏲]]
+  - [[㏳]] [[㏴]] [[㏵]] [[㏶]] [[㏷]] [[㏸]] [[㏹]] [[㏺]] [[㏻]] [[㏼]] [[㏽]] [[㏾]]
+
+- 🧩 ✍▦   🤖
+  - <<strex " [[㏱]] " "㏱" >> PsH [[㏲]] [[.ho]] [[0718]] [[㏹]] PsH 
+- .!!.due: {{||$:/core/ui/Buttons/edit}}
+- `` leftTrunc echoMenu righTruc
 - -07-23: see PR107
 - -07-20: Accounting + 
 - -07-19: AiBlaze refinements
