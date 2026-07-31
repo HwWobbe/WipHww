@@ -36,6 +36,8 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-07-: 
+- -07-31: AasT done @ Df
+  - likely final legals will drag into 2030-
 - -07-27:
   - DrwH
   - make n午㋆㏺㍚ a separate page in the right folder
