@@ -35,6 +35,9 @@ Historical timePeriods are being restructured.
 ### craft a summary for Gsd
 - consider PbWorks per PbWorks link
 
+## 2026-08-:
+- 08-01: ...
+
 ## 2026-07-: 
 - -07-31: AasT done @ Df
   - likely final legals will drag into 2030-
