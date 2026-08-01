@@ -38,7 +38,7 @@ Historical timePeriods are being restructured.
 - consider PbWorks per PbWorks link
 
 ## 2026-08-:
-- 08-01: 2026-08 setup
+- 08-01: 2026-08 setup & PR
 
 ## 2026-07-: 
 - -07-31: AasT done @ Df
