@@ -26,6 +26,7 @@ Historical timePeriods are being restructured.
 ## 2026-MM:
 
 - see off-Lines:
+- 202607-31 AasT done
 - NewVote Matthew
   - imaging contention -07-31
 - S.American
