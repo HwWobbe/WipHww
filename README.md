@@ -1,8 +1,8 @@
 
 ## 0 quickLinks
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-07-
-   - ^f( GitPrefix: Confirm effective communication )^f
-   - https://github.com/openclaw/notcrawl
+     - ^f( GitPrefix: Confirm effective communication )^f
+     - https://github.com/openclaw/notcrawl
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#n%E5%8D%88-%E5%8D%88--0z%E5%8D%88
 
 <hr>
