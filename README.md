@@ -26,7 +26,8 @@ Historical timePeriods are being restructured.
 ## 2026-MM:
 
 - see off-Lines:
-- 202607-31 AasT done cleanuo.tn > 2030
+- 2026-08-05: vps+
+- 202607-31 AasT done cleanup.tn > 2030
 - NewVote Matthew
   - imaging contention -07-31
 - S.American
