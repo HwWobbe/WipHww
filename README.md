@@ -1,11 +1,17 @@
 
 ## 0 quickLinks
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-07-
-   - ^f( GitPrefix: Confirm effective communication )^f
+     - ^f( GitPrefix: Confirm effective communication )^f
      - PD(ed)
+     - https://github.com/openclaw/notcrawl
+     - ?? 🔝本 standard TopArt /?
+   - https://github.com/HwWobbe/WipHww/blob/main/README.md#n%E5%8D%88-%E5%8D%88--0z%E5%8D%88
+
+<hr>
 
 Historical timePeriods are being restructured.
   ?? Diigo <> GitHub /?
+  - https://github.com/HwWobbe/WipHww/blob/main/README.md#n%E5%8D%88-%E5%8D%88--0z%E5%8D%88
   
 - Claude re: ??
   - re-organization
@@ -17,10 +23,15 @@ Historical timePeriods are being restructured.
 - add-weather-dashboard
   - rains > leaks
 
+<hr> 
+
 ## 2026-MM:
 
 - see off-Lines:
+- 2026-08-05: vps+
+- 202607-31 AasT done cleanup.tn > 2030
 - NewVote Matthew
+  - imaging contention -07-31
 - S.American
 - edelweiss e.k.a.: ...
 - newTryer
@@ -28,7 +39,12 @@ Historical timePeriods are being restructured.
 ### craft a summary for Gsd
 - consider PbWorks per PbWorks link
 
+## 2026-08-:
+- 08-01: 2026-08 setup
+
 ## 2026-07-: 
+- -07-31: AasT done @ Df
+  - likely final legals will drag into 2030-
 - -07-27:
   - DrwH
   - make n午㋆㏺㍚ a separate page in the right folder
