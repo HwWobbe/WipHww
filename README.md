@@ -39,6 +39,9 @@ Historical timePeriods are being restructured.
 ### craft a summary for Gsd
 - consider PbWorks per PbWorks link
 
+## 2026-09-:
+-09-22: re-patterning starts
+
 ## 2026-08-:
 - 08-01: 2026-08 setup
 
