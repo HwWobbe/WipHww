@@ -1,5 +1,6 @@
 
 ## 0 quickLinks
+   - https://github.com/typesafe-ai/skills/blob/main/skills/typesafe-ai/SKILL.md
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-07-
      - ^f( GitPrefix: Confirm effective communication )^f
      - https://github.com/openclaw/notcrawl
