@@ -44,6 +44,7 @@ Historical timePeriods are being restructured.
 
 ## 2026-09-:
 -09-22: re-patterning starts
+-09-24: re-patterning evolving as a fillerTask in powerOutage recovery
 
 ## 2026-08-:
 - 08-01: 2026-08 setup
