@@ -29,7 +29,8 @@ Historical timePeriods are being restructured.
 ## 2026-MM:
 
 - see off-Lines:
-- 2026-09-23: ...
+- 2026-09-23: ascertain the extent of possible Git & Ai & Hw integration(s)
+  - start with ^f( BiDi )^f
 - 2026-08-05: vps+
 - 202607-31 AasT done cleanup.tn > 2030
 - NewVote Matthew
