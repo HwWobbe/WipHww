@@ -1,11 +1,13 @@
 
 ## 0 quickLinks
+   - https://github.com/typesafe-ai/skills/blob/main/skills/typesafe-ai/SKILL.md
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-07-
      - ^f( GitPrefix: Confirm effective communication )^f
      - PD(ed)
      - https://github.com/openclaw/notcrawl
      - ?? 🔝本 standard TopArt /?
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#n%E5%8D%88-%E5%8D%88--0z%E5%8D%88
+   - ResumeOn:2026-09-21
 
 <hr>
 
@@ -28,6 +30,8 @@ Historical timePeriods are being restructured.
 ## 2026-MM:
 
 - see off-Lines:
+- 2026-09-23: ascertain the extent of possible Git & Ai & Hw integration(s)
+  - start with ^f( BiDi )^f = PassH
 - 2026-08-05: vps+
 - 202607-31 AasT done cleanup.tn > 2030
 - NewVote Matthew
@@ -38,6 +42,12 @@ Historical timePeriods are being restructured.
 
 ### craft a summary for Gsd
 - consider PbWorks per PbWorks link
+
+## 2026-09-:
+-09-25: matenance pattern evolvin > ClawH
+-09-24: GitHuh reSync seems to have worked
+-09-22: re-patterning starts
+-09-24: re-patterning evolving as a fillerTask in powerOutage recovery
 
 ## 2026-08-:
 - 08-01: 2026-08 setup
