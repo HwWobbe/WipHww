@@ -43,13 +43,12 @@ Historical timePeriods are being restructured.
 ### craft a summary for Gsd
 - consider PbWorks per PbWorks link
 
-## 2026-09-:
-
--09-26: passH review needed
+## 2026-09-: 
+-09-26: passH review needed 
 -09-25: maintenance pattern evolving > ClawH, DgH, 
--09-24: GitHuh reSync seems to have worked
--09-22: re-patterning starts
--09-24: re-patterning evolving as a fillerTask in powerOutage recovery
+-09-24: GitHuh reSync seems to have worked 
+-09-22: re-patterning starts 
+-09-24: re-patterning evolving as a fillerTask in powerOutage recovery 
 
 ## 2026-08-:
 - 08-01: 2026-08 setup
