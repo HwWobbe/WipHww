@@ -43,7 +43,7 @@ Historical timePeriods are being restructured.
 ### craft a summary for Gsd
 - consider PbWorks per PbWorks link
 
-## 2026-10- ( ㋈ ): 
+## 2026-10- ( ㋉ ): 
 ...
 
 ## 2026-09- ( ㋈ ): 
