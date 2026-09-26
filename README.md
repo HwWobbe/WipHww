@@ -3,6 +3,7 @@
    - https://github.com/typesafe-ai/skills/blob/main/skills/typesafe-ai/SKILL.md
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#2026-07-
      - ^f( GitPrefix: Confirm effective communication )^f
+     - PD(ed)
      - https://github.com/openclaw/notcrawl
      - ?? 🔝本 standard TopArt /?
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#n%E5%8D%88-%E5%8D%88--0z%E5%8D%88
