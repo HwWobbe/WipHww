@@ -30,6 +30,8 @@ Historical timePeriods are being restructured.
 ## 2026-MM:
 
 - see off-Lines:
+- 2026-11-19:
+  - pulseUpdate
 - 2026-09-23: ascertain the extent of possible Git & Ai & Hw integration(s)
   - start with ^f( BiDi )^f = PassH
 - 2026-08-05: vps+
