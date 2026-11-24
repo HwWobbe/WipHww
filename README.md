@@ -7,7 +7,7 @@
      - https://github.com/openclaw/notcrawl
      - ?? 🔝本 standard TopArt /?
    - https://github.com/HwWobbe/WipHww/blob/main/README.md#n%E5%8D%88-%E5%8D%88--0z%E5%8D%88
-   - ResumeOn:2026-09-21
+   - ResumeOn:2026-09-21 & 2026-11-23 
 
 <hr>
 
